@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<settings>
+  <filename>guide.xml</filename>
+  <mode>m</mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <timespan>6</timespan>
+  <license wg-username="zantac75" registered-email="waellotfy77@gmail.com" password="b8da6f00"></license>
+  <update>f</update>
+  
+    <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
+    <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First HD2">OSN Movies First HD2</channel>
+    <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
+    <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
+    <channel update="i" site="osn.com" site_id="POP" xmltv_id="OSN POP">OSN POP</channel>
+    <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Enigma">OSN Enigma</channel>
+    <channel update="i" site="osn.com" site_id="OMK" xmltv_id="OSN Movies Kids HD">OSN Movies Kids HD</channel>
+    <channel update="i" site="osn.com" site_id="OFM" xmltv_id="OSN Movies Disney HD">OSN Movies Disney HD</channel>
+    <channel update="i" site="osn.com" site_id="PAR" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="osn.com" site_id="STM" xmltv_id="Star Movies HD">Star Movies HD</channel>
+    
+</settings>
