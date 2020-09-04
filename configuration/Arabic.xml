@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+  <license wg-username="zantac75" registered-email="waellotfy77@gmail.com" password="b8da6f00"></license>
+  <filename>C:\Users\waell\AppData\Local\WebGrab+Plus\2arabic\guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+    
+    
+    <channel update="i" site="osn.com" site_id="OYH" xmltv_id="OSN Ya Hala Al Oula">OSN Ya Hala Al Oula</channel>
+    <channel update="i" site="osn.com" site_id="OYA" xmltv_id="OSN Ya Hala HD">OSN Ya Hala HD</channel>
+    <channel update="i" site="osn.com" site_id="OYC" xmltv_id="OSN Yahala Cinema HD">OSN Yahala Cinema HD</channel>
+    <channel update="i" site="osn.com" site_id="SER" xmltv_id="Series Channel">Series Channel</channel>
+    <channel update="i" site="osn.com" site_id="CM1" xmltv_id="Cinema 1">Cinema 1</channel>
+    <channel update="i" site="osn.com" site_id="CM2" xmltv_id="Cinema 2">Cinema 2</channel>
+    <channel update="i" site="osn.com" site_id="YAW" xmltv_id="Al Yawm">Al Yawm</channel>
+    <channel update="i" site="osn.com" site_id="SAF" xmltv_id="Al Safwa">Al Safwa</channel>
+    <channel update="i" site="osn.com" site_id="FAN" xmltv_id="Fann">Fann</channel>
+    <channel update="i" site="osn.com" site_id="NOW" xmltv_id="Music Now">Music Now</channel>
+   
+    
+</settings>

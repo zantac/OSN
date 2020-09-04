@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+  <license wg-username="zantac75" registered-email="waellotfy77@gmail.com" password="b8da6f00"></license>
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+    
+    
+    <channel update="i" site="osn.com" site_id="OFH" xmltv_id="OSN Series First HD">OSN Series First HD</channel>
+    <channel update="i" site="osn.com" site_id="obg" xmltv_id="OSN Series HD">OSN Series HD</channel>
+    <channel update="i" site="osn.com" site_id="OCO" xmltv_id="OSN Comedy HD">OSN Comedy HD</channel>
+    <channel update="i" site="osn.com" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="osn.com" site_id="STW" xmltv_id="Star World HD">Star World HD</channel>
+    <channel update="i" site="osn.com" site_id="OMZ" xmltv_id="OSN Mezze">OSN Mezze</channel>
+    <channel update="i" site="osn.com" site_id="TLC" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="osn.com" site_id="ETV" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel update="i" site="osn.com" site_id="OLH" xmltv_id="OSN Living HD">OSN Living HD</channel>
+    
+</settings>

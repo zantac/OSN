@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+  <license wg-username="zantac75" registered-email="waellotfy77@gmail.com" password="b8da6f00"></license>
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">2</retry>
+  <timespan>4</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+    
+   
+    <channel update="i" site="osn.com" site_id="DSC" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="osn.com" site_id="SCI" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="osn.com" site_id="DCX" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="osn.com" site_id="HIS" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="osn.com" site_id="HI2" xmltv_id="H2 HD">H2 HD</channel> 
+    <channel update="i" site="osn.com" site_id="CAI" xmltv_id="Crime Investigation Network">Crime Investigation Network</channel>
+    <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+</settings>

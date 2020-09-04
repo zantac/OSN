@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+  <license wg-username="zantac75" registered-email="waellotfy77@gmail.com" password="b8da6f00"></license>
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <timespan>2</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+    
+    <channel update="i" site="osn.com" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="osn.com" site_id="DIS" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="osn.com" site_id="DJR" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="osn.com" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="osn.com" site_id="NJR" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="osn.com" site_id="NKT" xmltv_id="NickToons HD">NickToons HD</channel>
+    <channel update="i" site="osn.com" site_id="KDZ" xmltv_id="OSN Kid Zone TV">OSN Kid Zone TV</channel>
+    <channel update="i" site="osn.com" site_id="BAB" xmltv_id="Baby TV Europe">Baby TV Europe</channel>
+</settings>
