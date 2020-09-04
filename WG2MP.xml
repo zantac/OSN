@@ -50,7 +50,7 @@
     <icon src="http://content.osn.com/logo/channel/cropped/STM.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <programme start="20200823024500" stop="20200823051000" channel="OSN Movies First HD">
+  <programme start="20200823024500" stop="20200823024500" channel="OSN Movies First HD">
     <title lang="en">Spielberg</title>
     <title lang="ar">سبيلبيرغ</title>
     <desc lang="en">Through exclusive interviews with actors, family, and the filmmaker himself, this unprecedented documentary pulls back the curtain on the remarkable career of Steven Spielberg. من خلال المقابلات الحصرية مع الممثلين، والأسرة، والمخرج نفسه، يتحدث هذا الفيلم الوثائقي غير المسبوق عن المهنة الرائعة للمخرج ستيفن سبيلبرغ.(n)</desc>
