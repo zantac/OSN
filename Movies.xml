@@ -50,81 +50,6 @@
     <icon src="http://content.osn.com/logo/channel/cropped/STM.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <programme start="20200923010000 +0000" stop="20200923024000 +0000" channel="OSN Movies First HD">
-    <title lang="en">Love, Of Course</title>
-    <title lang="ar">لاف، أوف كورس</title>
-    <desc lang="en">Romantic Comedy. A helicopter mom follows her daughter to college and lands a job on campus. When she meets a charismatic professor, she learns more about herself and discovers a life of her own. رومانسية كوميدية. تساعد الأم ابنتها على الإلتحاق بالجامعة وتحصل على وظيفة هناك. وتتعرف أكثر على نفسها وتستكشف حياتها الخاصة عندما تتقابل مع أستاذ جامعي جذاب.</desc>
-  </programme>
-  <programme start="20200923024000 +0000" stop="20200923043500 +0000" channel="OSN Movies First HD">
-    <title lang="en">Indian Horse</title>
-    <title lang="ar">إنديان هورس</title>
-    <desc lang="en">Drama. Saul is a great native hockey player who overcomes racism in the 1970s then ultimately becomes tempted by alcoholism. دراما. تدور الأحداث في السبعينات حول لاعب الهوكي العظيم "شاول" الذي تغلب على العنصرية ولكنه ينقاد في النهاية إلى إدمان الكحول.</desc>
-  </programme>
-  <programme start="20200923043500 +0000" stop="20200923062500 +0000" channel="OSN Movies First HD">
-    <title lang="en">The Flood</title>
-    <title lang="ar">ذا فلاد</title>
-    <desc lang="en">Wendy, a hardened immigration officer, is judged on her ability to quickly reject applicants. Through her interrogation, she must uncover whether Haile is lying and has a more sinister reason for seeking asylum. يتم الحكم على ويندي، ضابطة الهجرة القاسية، بسبب رفضها الملحوظ لملفات المتقدمين لطلب اللجوء. خلال استجوابها، يجب أن تكشف ما إذا كانت المتقدمة هايلي تكذب ولديها خططا شريرة وراء رغبتها في اللجوء.</desc>
-  </programme>
-  <programme start="20200923062500 +0000" stop="20200923075500 +0000" channel="OSN Movies First HD">
-    <title lang="en">A Dash Of Love</title>
-    <title lang="ar">ايه داش أوف لاف</title>
-    <desc lang="en">Drama. A young woman who dreams of opening her own restaurant lands a job at a prominent restaurant whose head chef becomes her unlikely ally when the owner plots to return the place to its former glory by presenting her new assistant's recipes as her own. دراما. تحلم فتاة شابة في تنفيذ مشروعها وإفتتاح مطعم خاص بها إلى أن تحصل على وظيفة في مطعم شهير وعندما يقوم صاحب المطاعم بسرقة وصفاتها، تتحالف مع رئيس الطهاة ويبدأن رحلتهما معاً إلى أن يتغير كل شىء.</desc>
-  </programme>
-  <programme start="20200923075500 +0000" stop="20200923094000 +0000" channel="OSN Movies First HD">
-    <title lang="en">21 Bridges</title>
-    <title lang="ar">21 بريدجز</title>
-    <desc lang="en">Action with Chadwick and Sienna Miller.  A NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him. أكشن من بطولة تشادويك وسيينا ميلر. يقوم محقق في شرطة نيويورك بعملية مطاردة في جميع أنحاء المدينة بحثا عن شرطيان مجرمان بعد اكتشاف مؤامرة كبيرة وغير متوقعة. في ظلام الليل الحالك يُصبح الأمر غير مفهوم حول من يقوم هو بمطاردته ومن يُطارده شخصيا.</desc>
-  </programme>
-  <programme start="20200923094000 +0000" stop="20200923111500 +0000" channel="OSN Movies First HD">
-    <title lang="en">Mail Order Monster</title>
-    <title lang="ar">ميل أوردر مونستر</title>
-    <desc lang="en">A girl seeks help and guidance from a robot monster to cope with the bullies at school and her father's new girlfriend. تطلب الفتاة المساعدة والتوجيه من من وحش الروبوت للتعامل مع زملائها الذين يتنمروا عليها في مدرستها وصديقة أبيها الجديدة.</desc>
-  </programme>
-  <programme start="20200923111500 +0000" stop="20200923124500 +0000" channel="OSN Movies First HD">
-    <title lang="en">Robin: Watch For Wishes</title>
-    <title lang="ar">روبن: واتش فور ويشيز</title>
-    <desc lang="en">A man of words is forced to become a man of action as John discovers the secret bucket list of his ill son Robin. The two abscond from the hospital to fulfill the boy's greatest wishes - as the police pursue John for kidnapping. يقرر جون أن يفعل المستحيل لابنه روبن حينما يكتشف حقيقة مرض روبن، فيهرب الأثنان من المستشفى لتحقيق رغبات الصبي ، بينما كانت الشرطة تلاحق جون.</desc>
-  </programme>
-  <programme start="20200923124500 +0000" stop="20200923143000 +0000" channel="OSN Movies First HD">
-    <title lang="en">Arctic</title>
-    <title lang="ar">أركتك</title>
-    <desc lang="en">Adventure. A man stranded in the Arctic after a plane crash must decide whether to remain in the relative safety of his makeshift camp or to embark on a deadly trek through the unknown. مغامرة. بعد حادث الطائرة الذي تعرض له، يجب على الرجل التائه الآن أن يقرر إما ان يظل في حيز اﻷمان في المخيم الذي يتواجد فيه، أو أن يقدم على مخاطرة للنجاة.</desc>
-  </programme>
-  <programme start="20200923143000 +0000" stop="20200923161000 +0000" channel="OSN Movies First HD">
-    <title lang="en">Blindspotting</title>
-    <title lang="ar">بلايندسبوتينغ</title>
-    <desc lang="en">Comedy Drama. While on probation, a man begins to re-evaluate his relationship with his volatile best friend as they grapple with identity and their changed realities in the rapidly-gentrifying neighborhood they grew up in. دراما وكوميديا. أثناء فترة المراقبة ، يبدأ الرجل في إعادة تقييم علاقته مع أفضل صديق له عندما كان كل منهما يتصارع مع هويته وواقعه المتغير في الحي سريع التطور الذي كبرا فيه.</desc>
-  </programme>
-  <programme start="20200923161000 +0000" stop="20200923180000 +0000" channel="OSN Movies First HD">
-    <title lang="en">Bad Education</title>
-    <title lang="ar">باد إديوكيشن</title>
-    <desc lang="en">A superintendent of a school district works for the betterment of the student’s education while embezzling public funds to live the life he wants. يعمل مدير المنطقة التعليمية على تحسين التعليم بينما كان يختلس الأموال العامة ليعيش الحياة التي يتمناها.</desc>
-  </programme>
-  <programme start="20200923180000 +0000" stop="20200923194500 +0000" channel="OSN Movies First HD">
-    <title lang="en">Dora And The Lost City Of Gold</title>
-    <title lang="ar">دورا اند ذا لوست سيتي اوف غولد</title>
-    <desc lang="en">Action. Now in high school, Dora embarks on a quest to save her parents. She is accompanied by a ragtag group of teens and Boots the monkey, while also trying to solve the seemingly impossible mystery behind a lost Incan civilization. تنطلق دورا الطالبة في المرحلة الثانوية في رحلة لإنقاذ والديها مصطحبة مجموعة من الأصدقاء بالإضافة إلى القرد بوتس. كما تحاول حل اللغز الذي يبدو مستحيلاً حول حضارة الإنكان المفقودة.</desc>
-  </programme>
-  <programme start="20200923194500 +0000" stop="20200923194500 +0000" channel="OSN Movies First HD">
-    <title lang="en">The Assent</title>
-    <title lang="ar">ذا أسنت</title>
-    <desc lang="en">Horror with Robert Kazinsky and Peter Jason . After a series of disturbing supernatural events in his home, Joel a young single father, comes to suspect that his young son may be possessed. Soon Joel receives a visit from Father Lambert who seems to have the answer. رعب من بطولة روبرت كازينسكي وبيتر جيسن. بعد سلسلة من الأحداث الغريبة والمثيرة للقلق في منزله، يشك الوالد الأعزب جويل في أن ابنه الصغير قد يكون مملوكًا. إثرها، يتلقى جويل زيارة من الأب لامبرت الذي وكأنه يمتلك الإجابة.</desc>
-  </programme>
-  <programme start="20200923194500 +0000" stop="20200923212000 +0000" channel="OSN Movies First HD">
-    <title lang="en">The Assent</title>
-    <title lang="ar">ذا أسنت</title>
-    <desc lang="en">Horror with Robert Kazinsky and Peter Jason . After a series of disturbing supernatural events in his home, Joel a young single father, comes to suspect that his young son may be possessed. Soon Joel receives a visit from Father Lambert who seems to have the answer. رعب من بطولة روبرت كازينسكي وبيتر جيسن. بعد سلسلة من الأحداث الغريبة والمثيرة للقلق في منزله، يشك الوالد الأعزب جويل في أن ابنه الصغير قد يكون مملوكًا. إثرها، يتلقى جويل زيارة من الأب لامبرت الذي وكأنه يمتلك الإجابة.</desc>
-  </programme>
-  <programme start="20200923212000 +0000" stop="20200923230500 +0000" channel="OSN Movies First HD">
-    <title lang="en">Our House</title>
-    <title lang="ar">أور هاوس</title>
-    <desc lang="en">Horror drama. When his parents are killed in a car accident, science wiz Ethan tinkers in the garage on an invention he hopes will change the world: a machine that can bring back the dead...until he unleashes the wrong spirits. فيلم رعب درامي. عقب وفاة والديه في حادث سيارة أليم، يقوم النابغة إيثان بتصميم اختراع جديد في مرآب منزله كفيل بتغيير العالم: جهاز يعيد الأموات إلى الحياة... إلى أن يتسبب بإيقاظ الأرواح الخاطئة.</desc>
-  </programme>
-  <programme start="20200923230500 +0000" stop="20200924010000 +0000" channel="OSN Movies First HD">
-    <title lang="en">Paterno</title>
-    <title lang="ar">باتيرنو</title>
-    <desc lang="en">Drama directed by Barry Levinson and starring Al Pacino as former Penn State football coach Joe Paterno and his career leading up to his dismissal following the university's child sex abuse scandal in 2011. Kathy Baker and Greg Grunberg also star. دراما من بطولة آل باتشينو، كاثي بيكر،غريغ غرونبرغ وإخراج باري ليفنسون عن حياة مدرب كرة القدم السابق المهنية جو باتيرنو والذي تم إقالته بعد توريطة في فضيحة الإعتداء الجنسي في الجامعة بولاية بنسلفانيا في عام 2011.</desc>
-  </programme>
   <programme start="20200924010000 +0000" stop="20200924023500 +0000" channel="OSN Movies First HD">
     <title lang="en">A Dash Of Love</title>
     <title lang="ar">ايه داش أوف لاف</title>
@@ -260,80 +185,75 @@
     <title lang="ar">هسلرز</title>
     <desc lang="en">PREMIERE. Comedy drama with Constance Wu and Jennifer Lopez. A group of ex-strip club workers form a tight bond utilize their individual talents to outwit their wealthy clients, notably Wall Street brokers. أولى حلقات الموسم دراما كوميدية من بطولة كونستانس وو وجنيفر لوبيز. تساند مجموعة من النساء العاملات في نادي للتعر سابقا بعضهن البعض وتستفدن من خبرتهن للإطاحة بالعملاء الأثرياء، وخاصة وسطاء وول ستريت.</desc>
   </programme>
-  <programme start="20200923011000 +0000" stop="20200923030000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Momentum Generation</title>
-    <title lang="ar">مومنتم جنيريشن</title>
-    <desc lang="en">Documentary. In the 1990s, a motley band of teen surfers from the north shore of Oahu brought professional surfing to new heights. But as their stars rose, the competition threatened to tear their group apart. وثائقي. في التسعينيات، تجلب فرقة متنقلة من راكبي الأمواج المراهقين من الشاطئ الشمالي لأوهايو رياضة ركوب الأمواج الاحترافية وتسمو بها إلى آفاق جديدة. ولكن مع تزايد شهرتهم، تهدد المنافسة في بينهم باندثار مجموعتهم.</desc>
+  <programme start="20200925205000 +0000" stop="20200925205000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Romans</title>
+    <title lang="ar">رومانز</title>
+    <desc lang="en">An adult victim of childhood sexual abuse confronts the horrors of his past. يتناول الفيلم قصة شاب كان ضحية للإعتداء الجنسي في صغره، ويتحتم عليه الآن مواجهة أهوال الماضي.</desc>
   </programme>
-  <programme start="20200923030000 +0000" stop="20200923044000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Love, Of Course</title>
-    <title lang="ar">لاف، أوف كورس</title>
-    <desc lang="en">Romantic Comedy. A helicopter mom follows her daughter to college and lands a job on campus. When she meets a charismatic professor, she learns more about herself and discovers a life of her own. رومانسية كوميدية. تساعد الأم ابنتها على الإلتحاق بالجامعة وتحصل على وظيفة هناك. وتتعرف أكثر على نفسها وتستكشف حياتها الخاصة عندما تتقابل مع أستاذ جامعي جذاب.</desc>
+  <programme start="20200925205000 +0000" stop="20200925222500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Romans</title>
+    <title lang="ar">رومانز</title>
+    <desc lang="en">An adult victim of childhood sexual abuse confronts the horrors of his past. يتناول الفيلم قصة شاب كان ضحية للإعتداء الجنسي في صغره، ويتحتم عليه الآن مواجهة أهوال الماضي.</desc>
   </programme>
-  <programme start="20200923044000 +0000" stop="20200923063500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Indian Horse</title>
-    <title lang="ar">إنديان هورس</title>
-    <desc lang="en">Drama. Saul is a great native hockey player who overcomes racism in the 1970s then ultimately becomes tempted by alcoholism. دراما. تدور الأحداث في السبعينات حول لاعب الهوكي العظيم "شاول" الذي تغلب على العنصرية ولكنه ينقاد في النهاية إلى إدمان الكحول.</desc>
+  <programme start="20200925222500 +0000" stop="20200926001000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Inside Man: Most Wanted</title>
+    <title lang="ar">إنسايد مان: موست وانتد</title>
+    <desc lang="en">Action. An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve. يتعاون مفاوض رهينة مع وكيل إتحادي لإنقاذ عشرات السائحين المحتجزين كرهائن خلال عشر ساعات من الحصار في الإحتياطي الفيدرالي الأمريكي.</desc>
   </programme>
-  <programme start="20200923063500 +0000" stop="20200923082500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">The Flood</title>
-    <title lang="ar">ذا فلاد</title>
-    <desc lang="en">Wendy, a hardened immigration officer, is judged on her ability to quickly reject applicants. Through her interrogation, she must uncover whether Haile is lying and has a more sinister reason for seeking asylum. يتم الحكم على ويندي، ضابطة الهجرة القاسية، بسبب رفضها الملحوظ لملفات المتقدمين لطلب اللجوء. خلال استجوابها، يجب أن تكشف ما إذا كانت المتقدمة هايلي تكذب ولديها خططا شريرة وراء رغبتها في اللجوء.</desc>
+  <programme start="20200926001000 +0000" stop="20200926013500 +0000" channel="OSN Movies First HD">
+    <title lang="en">The Secret Life Of Pets 2</title>
+    <title lang="ar">ذا سيكرت لايف أوف باتس 2</title>
+    <desc lang="en">It follows the hilarious antics of Max and his pet friends as they explore their new environment – an idyllic farm - once their owner is absent. يتابع الفيلم المغامرات الغريبة والمضحكة لماكس وأصدقائه من الحيوانات الأليفة وهم يستكشفون بيئتهم الجديدة- المزرعة المثالية - أثناء غياب مالكيهم.</desc>
   </programme>
-  <programme start="20200923082500 +0000" stop="20200923095500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">A Dash Of Love</title>
-    <title lang="ar">ايه داش أوف لاف</title>
-    <desc lang="en">Drama. A young woman who dreams of opening her own restaurant lands a job at a prominent restaurant whose head chef becomes her unlikely ally when the owner plots to return the place to its former glory by presenting her new assistant's recipes as her own. دراما. تحلم فتاة شابة في تنفيذ مشروعها وإفتتاح مطعم خاص بها إلى أن تحصل على وظيفة في مطعم شهير وعندما يقوم صاحب المطاعم بسرقة وصفاتها، تتحالف مع رئيس الطهاة ويبدأن رحلتهما معاً إلى أن يتغير كل شىء.</desc>
+  <programme start="20200926013500 +0000" stop="20200926031500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Toy Story 4</title>
+    <title lang="ar">توي ستوري 4</title>
+    <desc lang="en">Animation. When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy. رسوم متحركة. عندما تنضم دمية جديدة اسمها "فوركي" إلى وودي ورفاقه، تكشف رحلة على الطرقات برفقة الأصدقاء القدامى والجدد مدى ضخامة هذا العالم بالنسبة إلى الدمى.</desc>
   </programme>
-  <programme start="20200923095500 +0000" stop="20200923114000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">21 Bridges</title>
-    <title lang="ar">21 بريدجز</title>
-    <desc lang="en">Action with Chadwick and Sienna Miller.  A NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him. أكشن من بطولة تشادويك وسيينا ميلر. يقوم محقق في شرطة نيويورك بعملية مطاردة في جميع أنحاء المدينة بحثا عن شرطيان مجرمان بعد اكتشاف مؤامرة كبيرة وغير متوقعة. في ظلام الليل الحالك يُصبح الأمر غير مفهوم حول من يقوم هو بمطاردته ومن يُطارده شخصيا.</desc>
+  <programme start="20200926031500 +0000" stop="20200926043500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Auggie</title>
+    <title lang="ar">أوغي</title>
+    <desc lang="en">Sci-Fi Drama. Forced into early retirement, Felix Greystone falls in love with an augmented reality companion, to the detriment of his relationship with his wife and daughter. دراما وخيال علمي. يقع فيليكس غرايستون بعد أن أُجبر على التقاعد المبكر في حب رفيق الواقع المدمج مما يؤثر على علاقته بزوجته وابنته.</desc>
   </programme>
-  <programme start="20200923114000 +0000" stop="20200923131500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Mail Order Monster</title>
-    <title lang="ar">ميل أوردر مونستر</title>
-    <desc lang="en">A girl seeks help and guidance from a robot monster to cope with the bullies at school and her father's new girlfriend. تطلب الفتاة المساعدة والتوجيه من من وحش الروبوت للتعامل مع زملائها الذين يتنمروا عليها في مدرستها وصديقة أبيها الجديدة.</desc>
+  <programme start="20200926043500 +0000" stop="20200926064500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Aladdin</title>
+    <title lang="ar">علاء الدين</title>
+    <desc lang="en">A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true. تنافس شديد بين فتى بسيط وطيب القلب ومستشار السلطان الجشع والمتعطش للسلطة وذلك في سبيل الظفر بمصباح سحري يقطنه جني قادر على تحقيق جميع الأمنيات.</desc>
   </programme>
-  <programme start="20200923131500 +0000" stop="20200923144500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Robin: Watch For Wishes</title>
-    <title lang="ar">روبن: واتش فور ويشيز</title>
-    <desc lang="en">A man of words is forced to become a man of action as John discovers the secret bucket list of his ill son Robin. The two abscond from the hospital to fulfill the boy's greatest wishes - as the police pursue John for kidnapping. يقرر جون أن يفعل المستحيل لابنه روبن حينما يكتشف حقيقة مرض روبن، فيهرب الأثنان من المستشفى لتحقيق رغبات الصبي ، بينما كانت الشرطة تلاحق جون.</desc>
+  <programme start="20200926064500 +0000" stop="20200926081500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Curious George: Royal Monkey</title>
+    <title lang="ar">كيوريوس جورج: رويال مانكي</title>
+    <desc lang="en">After disrupting a meeting with a royal family, George accidentally trades places with the king's snooty monkey, Philippe. While Philippe puzzles Ted with his flawless manners, George travels to the castle where his fun-loving antics bring shy Isabel out of her shell. بعد تعطيله لإجتماع ملكي، يتبادل جورج عن طريق الخطأ المناصب مع قرد الملك المتعجرف فيليب، بينما يحير فيليب تيد بأخلاقه الخالية من العيوب، تبدأ رحلة جديدة لجورج المحب للمرح مع أميرة تدعى إيزابيلا بعد وصوله إلى القصر.</desc>
   </programme>
-  <programme start="20200923144500 +0000" stop="20200923163000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Arctic</title>
-    <title lang="ar">أركتك</title>
-    <desc lang="en">Adventure. A man stranded in the Arctic after a plane crash must decide whether to remain in the relative safety of his makeshift camp or to embark on a deadly trek through the unknown. مغامرة. بعد حادث الطائرة الذي تعرض له، يجب على الرجل التائه الآن أن يقرر إما ان يظل في حيز اﻷمان في المخيم الذي يتواجد فيه، أو أن يقدم على مخاطرة للنجاة.</desc>
+  <programme start="20200926081500 +0000" stop="20200926094500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Winter's Dream</title>
+    <title lang="ar">وينترز دريم</title>
+    <desc lang="en">Romantic Drama. Former pro skier, Kat, is asked to coach a younger skier, named Anna, and finds love with the girl's widowed father, Ty. دراما رومانسية. تبدأ قصة حب غير متوقعة بين "كات"  متزلجة محترفة سابقة و "تاي" والد الطفلة "آنا" الأعزب عندما تم تكليف كات بتدريب ابنته.</desc>
   </programme>
-  <programme start="20200923163000 +0000" stop="20200923181000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Blindspotting</title>
-    <title lang="ar">بلايندسبوتينغ</title>
-    <desc lang="en">Comedy Drama. While on probation, a man begins to re-evaluate his relationship with his volatile best friend as they grapple with identity and their changed realities in the rapidly-gentrifying neighborhood they grew up in. دراما وكوميديا. أثناء فترة المراقبة ، يبدأ الرجل في إعادة تقييم علاقته مع أفضل صديق له عندما كان كل منهما يتصارع مع هويته وواقعه المتغير في الحي سريع التطور الذي كبرا فيه.</desc>
+  <programme start="20200926094500 +0000" stop="20200926113500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Where'd You Go, Bernadette</title>
+    <title lang="ar">وار وولد يو غو برناديت</title>
+    <desc lang="en">Comedy with Billy Crudup and Cate Blanchett. When Bernadette Fox mysteriously vanishes before a family trip to Antarctica, her resourceful teenage daughter goes through all the textual traces of her mother’s past to find her. كوميدي من بطولة بيلي كرودوب وكيت بلانشيت. تختفي برناديت فوكس في ظروف غامضة قبل رحلة عائلية إلى أنتاركتيكا، فتحاول ابنتها المراهقة تقفي آثارها الكتابية من الماضي للعثور عليها.</desc>
   </programme>
-  <programme start="20200923181000 +0000" stop="20200923200000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Bad Education</title>
-    <title lang="ar">باد إديوكيشن</title>
-    <desc lang="en">A superintendent of a school district works for the betterment of the student’s education while embezzling public funds to live the life he wants. يعمل مدير المنطقة التعليمية على تحسين التعليم بينما كان يختلس الأموال العامة ليعيش الحياة التي يتمناها.</desc>
+  <programme start="20200926113500 +0000" stop="20200926132000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Shifting Gears</title>
+    <title lang="ar">شيفتينغ غيرز</title>
+    <desc lang="en">Action Comedy. Tom, an over-worked husband and father, abandons his dead-end job to follow his dream of owning his own business. أكشن وكوميديا. يترك توم، الأب والزوج المتعب وظيفته الغير مجدية من أجل تحقيق حلمه.</desc>
   </programme>
-  <programme start="20200923200000 +0000" stop="20200923200000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Dora And The Lost City Of Gold</title>
-    <title lang="ar">دورا اند ذا لوست سيتي اوف غولد</title>
-    <desc lang="en">Action. Now in high school, Dora embarks on a quest to save her parents. She is accompanied by a ragtag group of teens and Boots the monkey, while also trying to solve the seemingly impossible mystery behind a lost Incan civilization. تنطلق دورا الطالبة في المرحلة الثانوية في رحلة لإنقاذ والديها مصطحبة مجموعة من الأصدقاء بالإضافة إلى القرد بوتس. كما تحاول حل اللغز الذي يبدو مستحيلاً حول حضارة الإنكان المفقودة.</desc>
+  <programme start="20200926132000 +0000" stop="20200926162000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Avengers: Endgame</title>
+    <title lang="ar">أفنجرز أندغيم</title>
+    <desc lang="en">After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe. أكشن ومغامرات. عقب النهاية المأساوية للجزء السابق أفنجرز: انفنيتي وور (2018)، يعم الخراب في أرجاء الكون. وبمساعدة ما تبقى من الأبطال الحلفاء، يجتمع الأفنجرز مجدداً لمحاولة إبطال ما أنجزه ثانوس واستعادة النظام في الكون.</desc>
   </programme>
-  <programme start="20200923200000 +0000" stop="20200923214500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Dora And The Lost City Of Gold</title>
-    <title lang="ar">دورا اند ذا لوست سيتي اوف غولد</title>
-    <desc lang="en">Action. Now in high school, Dora embarks on a quest to save her parents. She is accompanied by a ragtag group of teens and Boots the monkey, while also trying to solve the seemingly impossible mystery behind a lost Incan civilization. تنطلق دورا الطالبة في المرحلة الثانوية في رحلة لإنقاذ والديها مصطحبة مجموعة من الأصدقاء بالإضافة إلى القرد بوتس. كما تحاول حل اللغز الذي يبدو مستحيلاً حول حضارة الإنكان المفقودة.</desc>
+  <programme start="20200926162000 +0000" stop="20200926180000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Secret Society Of Second Born Royals</title>
+    <title lang="ar">سيكريت سوسايتي أوف سيكند بورن رويالز</title>
+    <desc lang="en">It follows Sam's adventures at a top-secret training program for a new class of second-born royals tasked with saving the world. تتمة لمغامرات سام في برنامج تدريبي شديد السرية لصف جديد من أفراد العائلة المالكة المكلفة بإنقاذ العالم.</desc>
   </programme>
-  <programme start="20200923214500 +0000" stop="20200923232000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">The Assent</title>
-    <title lang="ar">ذا أسنت</title>
-    <desc lang="en">Horror with Robert Kazinsky and Peter Jason . After a series of disturbing supernatural events in his home, Joel a young single father, comes to suspect that his young son may be possessed. Soon Joel receives a visit from Father Lambert who seems to have the answer. رعب من بطولة روبرت كازينسكي وبيتر جيسن. بعد سلسلة من الأحداث الغريبة والمثيرة للقلق في منزله، يشك الوالد الأعزب جويل في أن ابنه الصغير قد يكون مملوكًا. إثرها، يتلقى جويل زيارة من الأب لامبرت الذي وكأنه يمتلك الإجابة.</desc>
-  </programme>
-  <programme start="20200923232000 +0000" stop="20200924010500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Our House</title>
-    <title lang="ar">أور هاوس</title>
-    <desc lang="en">Horror drama. When his parents are killed in a car accident, science wiz Ethan tinkers in the garage on an invention he hopes will change the world: a machine that can bring back the dead...until he unleashes the wrong spirits. فيلم رعب درامي. عقب وفاة والديه في حادث سيارة أليم، يقوم النابغة إيثان بتصميم اختراع جديد في مرآب منزله كفيل بتغيير العالم: جهاز يعيد الأموات إلى الحياة... إلى أن يتسبب بإيقاظ الأرواح الخاطئة.</desc>
+  <programme start="20200926180000 +0000" stop="20200926194500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Don't Let Go</title>
+    <title lang="ar">دونت ليت غو</title>
+    <desc lang="en">A detective suffering from a personal loss receives a call from his recently deceased niece. Being able to communicate across time, the two work together to try and stop the crime before it occurs. يتلقى مخبر عاني من خسارة شخصية مكالمة من ابنة أخته المتوفاة مؤخرًا. كونهما قادرين على التواصل عبر الوقت، يعمل الاثنان معًا لمحاولة إيقاف الجريمة قبل وقوعها.</desc>
   </programme>
   <programme start="20200924010500 +0000" stop="20200924030000 +0000" channel="OSN Movies First HD2">
     <title lang="en">Paterno</title>
@@ -465,70 +385,75 @@
     <title lang="ar">علاء الدين</title>
     <desc lang="en">A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true. تنافس شديد بين فتى بسيط وطيب القلب ومستشار السلطان الجشع والمتعطش للسلطة وذلك في سبيل الظفر بمصباح سحري يقطنه جني قادر على تحقيق جميع الأمنيات.</desc>
   </programme>
-  <programme start="20200923003000 +0000" stop="20200923021000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Sparring</title>
-    <title lang="ar">سبارينغ</title>
-    <desc lang="en">Drama starring Mathieu Kassovitz and Olivia Merilahti. Steve Landry, an aging boxer with more losses than wins, accepts to become a sparring partner for an emerging champion in a last-ditch attempt to stay relevant. دراما من بطولة ماثيو كوسوفتز وأوليفيا ميريلتي. يضطر ستيف لاندري، وهو ملاكم متعثر يحمل سجله هزائم أكثر من الانتصارات، لقبول لعب دور شريك في تدريب بطل ناشيء في محاولة أخير ويائسة لاثبات جدارته.</desc>
+  <programme start="20200925191000 +0000" stop="20200925210000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Where'd You Go, Bernadette</title>
+    <title lang="ar">وار وولد يو غو برناديت</title>
+    <desc lang="en">Comedy with Billy Crudup and Cate Blanchett. When Bernadette Fox mysteriously vanishes before a family trip to Antarctica, her resourceful teenage daughter goes through all the textual traces of her mother’s past to find her. كوميدي من بطولة بيلي كرودوب وكيت بلانشيت. تختفي برناديت فوكس في ظروف غامضة قبل رحلة عائلية إلى أنتاركتيكا، فتحاول ابنتها المراهقة تقفي آثارها الكتابية من الماضي للعثور عليها.</desc>
   </programme>
-  <programme start="20200923021000 +0000" stop="20200923041000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Insurgent</title>
-    <title lang="ar">إنسيرجينت</title>
-    <desc lang="en">Sci-fi action. Now on the run from Jeanine and the rest of the power-hungry Erudites, Tris (Shailene Woodley) and Four (Theo James) search for allies and answers in the ruins of Chicago as they unravel the secrets of the past and, ultimately, the future of their world. فيلم خيال علمي مليء بالآكشن. الآن وبينما هما هاربان من جانين وباقي المتعطشين للسلطة، يبحث تريس (شايلينس وودلي) وفور (ثيو جيمس) عن حلفاء وعن أجوبة في أنقاض شيكاغو بينما هما يكشفان أسرار الماضي، وأسرار مستقبل عالمهم.</desc>
+  <programme start="20200925210000 +0000" stop="20200925225000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Hustlers</title>
+    <title lang="ar">هسلرز</title>
+    <desc lang="en">PREMIERE. Comedy drama with Constance Wu and Jennifer Lopez. A group of ex-strip club workers form a tight bond utilize their individual talents to outwit their wealthy clients, notably Wall Street brokers. أولى حلقات الموسم دراما كوميدية من بطولة كونستانس وو وجنيفر لوبيز. تساند مجموعة من النساء العاملات في نادي للتعر سابقا بعضهن البعض وتستفدن من خبرتهن للإطاحة بالعملاء الأثرياء، وخاصة وسطاء وول ستريت.</desc>
   </programme>
-  <programme start="20200923041000 +0000" stop="20200923064000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">The Avengers</title>
-    <title lang="ar">ذا أفنجرز</title>
-    <desc lang="en">When global security is threatened, a peace keeping agency director and his team of Marvel Superheroes call upon their powers to save the world. عندما يتهدد أمن العالم، يستجمع مدير وكالة حفظ النظام وفريقه المكون من أبطال خارقين كل قواهم لإنقاذ العالم.</desc>
+  <programme start="20200925225000 +0000" stop="20200926002500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Romans</title>
+    <title lang="ar">رومانز</title>
+    <desc lang="en">An adult victim of childhood sexual abuse confronts the horrors of his past. يتناول الفيلم قصة شاب كان ضحية للإعتداء الجنسي في صغره، ويتحتم عليه الآن مواجهة أهوال الماضي.</desc>
   </programme>
-  <programme start="20200923064000 +0000" stop="20200923084500 +0000" channel="OSN Movies Action HD">
-    <title lang="en">War Of The Worlds</title>
-    <title lang="ar">وور أوف ذا ووردز</title>
-    <desc lang="en">Based on H.G Wells seminal classic, the adventure reveals the extraordinary battle for the future of human kind through the eyes of one family fighting to survive it. Sci-Fi starring Tom Cruise and Dakota Fanning. مقتبسة  عن رواية اتش جي ويلز الكلاسيكية، مغامرة تكشف عن المعركة الاستثنائية  التي تصور مستقبل النوع البشري من خلال رؤية أسرة تصارع للبقاء على قيد الحياة.خيال علمي من بطولة توم كروز و داكوتا فاننغ.</desc>
+  <programme start="20200926002500 +0000" stop="20200926021000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Inside Man: Most Wanted</title>
+    <title lang="ar">إنسايد مان: موست وانتد</title>
+    <desc lang="en">Action. An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve. يتعاون مفاوض رهينة مع وكيل إتحادي لإنقاذ عشرات السائحين المحتجزين كرهائن خلال عشر ساعات من الحصار في الإحتياطي الفيدرالي الأمريكي.</desc>
   </programme>
-  <programme start="20200923084500 +0000" stop="20200923103500 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Raid Dingue</title>
-    <title lang="ar">رايد دينغ</title>
-    <desc lang="en">Action Comedy. The story of a woman who dreams to join an intervention group in the police department called RAID. Unfortunately, she is rather clumsy and both her family and a veteran of the RAID do not approve. However, Johanna is determined to prove them wrong. كوميديا وأكشن. تدور الأحداث حول جوانا التي تحلم بالإنضمام إلى قوات "رايد" التابعة للشرطة. ولسوء حظها، لم توافق عائلتها وأحد الجنود المخضرمين على ذلك لإعتقادهم أنها غير بارعة ولكنها أصرت أن تثبت لهم أنهم مخطئين.</desc>
+  <programme start="20200926021000 +0000" stop="20200926033500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">The Secret Life Of Pets 2</title>
+    <title lang="ar">ذا سيكرت لايف أوف باتس 2</title>
+    <desc lang="en">It follows the hilarious antics of Max and his pet friends as they explore their new environment – an idyllic farm - once their owner is absent. يتابع الفيلم المغامرات الغريبة والمضحكة لماكس وأصدقائه من الحيوانات الأليفة وهم يستكشفون بيئتهم الجديدة- المزرعة المثالية - أثناء غياب مالكيهم.</desc>
   </programme>
-  <programme start="20200923103500 +0000" stop="20200923124000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">47 Ronin</title>
-    <title lang="ar">47 رونين</title>
-    <desc lang="en">Action starring Keanu Reeves, Hiroyuki Sanada, Shibasaki Kou. Based on a true-life 18th century tale, this fictional account tells a dramatic tale of clan warfare and revenge surrounding a band of 47 loyal samurai seeking retribution after their master is murdered. أكشن من بطولة كيانو ريفز، هيروكي سانادا وشيباساكي كو. استناداً إلى قصة حياة حقيقية من القرن الثامن عشر، تروي هذه الملحمة الخيالية حكاية مثيرة عن حرب العشائر ورغبة الانتقام التي كانت تسيطر على فرقة مؤلفة من 47 محارب ساموراي بعدما قًتل معلمهم.</desc>
+  <programme start="20200926033500 +0000" stop="20200926051500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Toy Story 4</title>
+    <title lang="ar">توي ستوري 4</title>
+    <desc lang="en">Animation. When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy. رسوم متحركة. عندما تنضم دمية جديدة اسمها "فوركي" إلى وودي ورفاقه، تكشف رحلة على الطرقات برفقة الأصدقاء القدامى والجدد مدى ضخامة هذا العالم بالنسبة إلى الدمى.</desc>
   </programme>
-  <programme start="20200923124000 +0000" stop="20200923144000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Allegiant</title>
-    <title lang="ar">أليجانت</title>
-    <desc lang="en">Sci-fi action. After learning the truth about their walled city and breaking down its oppressive faction system, Tris and Four come face-to-face with the society that turned their city into an enclosed experiment and uncover secrets that threaten the fate of mankind. خيال علمي وأكشن. بعدما يكتشفان الحقيقة حول مدينتهما المسورة ويحطمان نظام الحزب القمعي، تواجه تريس وفور المجتمع الذي حوّل مدينتها إلى تجربة مغلقة، ويكتشفان أسراراً تهدد مصير البشرية.</desc>
+  <programme start="20200926051500 +0000" stop="20200926063500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Auggie</title>
+    <title lang="ar">أوغي</title>
+    <desc lang="en">Sci-Fi Drama. Forced into early retirement, Felix Greystone falls in love with an augmented reality companion, to the detriment of his relationship with his wife and daughter. دراما وخيال علمي. يقع فيليكس غرايستون بعد أن أُجبر على التقاعد المبكر في حب رفيق الواقع المدمج مما يؤثر على علاقته بزوجته وابنته.</desc>
   </programme>
-  <programme start="20200923144000 +0000" stop="20200923170500 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Avengers: Age Of Ultron</title>
-    <title lang="ar">أفنجرز: أيج أوف ألترون</title>
-    <desc lang="en">The superheroes deal with a threat of their own making: a sentient robot called Ultron. Originally designed as part of a peacekeeping programme, Ultron believes peace can only be achieved by exterminating humanity. يتصدى الأبطال الخارقين لتهديد من صنع أيديهم، وهو روبوت ذكي يدعى ألترون، سبق أن تم تصميمه كجزء من برنامج لصنع السلام، لكن ألترون يعتقد أن السلام لا يمكن تحقيقه إلا من خلال القضاء على البشرية.</desc>
+  <programme start="20200926063500 +0000" stop="20200926084500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Aladdin</title>
+    <title lang="ar">علاء الدين</title>
+    <desc lang="en">A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true. تنافس شديد بين فتى بسيط وطيب القلب ومستشار السلطان الجشع والمتعطش للسلطة وذلك في سبيل الظفر بمصباح سحري يقطنه جني قادر على تحقيق جميع الأمنيات.</desc>
   </programme>
-  <programme start="20200923170500 +0000" stop="20200923190000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">I, Robot</title>
-    <title lang="ar">آي، روبوت</title>
-    <desc lang="en">In the year 2035 a techno-phobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity. Starring Will Smith and Bridget Moynahan. في عام 2035 يقوم شرطي مصاب بالرهاب بالتحقيق في جريمة من الممكن أن يكون رجل آلي هو الذي اقترفها، مما يقود إلى تهديد كبير للبشرية. من بطولة ميل سميث وبريدجيت مويناهان.</desc>
+  <programme start="20200926084500 +0000" stop="20200926101500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Curious George: Royal Monkey</title>
+    <title lang="ar">كيوريوس جورج: رويال مانكي</title>
+    <desc lang="en">After disrupting a meeting with a royal family, George accidentally trades places with the king's snooty monkey, Philippe. While Philippe puzzles Ted with his flawless manners, George travels to the castle where his fun-loving antics bring shy Isabel out of her shell. بعد تعطيله لإجتماع ملكي، يتبادل جورج عن طريق الخطأ المناصب مع قرد الملك المتعجرف فيليب، بينما يحير فيليب تيد بأخلاقه الخالية من العيوب، تبدأ رحلة جديدة لجورج المحب للمرح مع أميرة تدعى إيزابيلا بعد وصوله إلى القصر.</desc>
   </programme>
-  <programme start="20200923190000 +0000" stop="20200923190000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Die Hard 2</title>
-    <title lang="ar">داي هارد 2</title>
-    <desc lang="en">Action thriller starring Bruce Willis, William Sadler, Bonnie Bedelia. On Christmas Eve, one year after his heroics in L.A., detective John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C. أكشن وإثارة من بطولة بروس ويليس، ويليام سادلر وبوني بيديليا. عشية عيد الميلاد، وبعد مرور عام على أعماله البطولية في لوس أنجلوس، يحاول المحقق جون ماكلين تجنب وقوع كارثة بينما يسعى عملاء عسكريون محتالون للسيطرة على مطار دالاس الدولي في العاصمة واشنطون.</desc>
+  <programme start="20200926101500 +0000" stop="20200926114500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Winter's Dream</title>
+    <title lang="ar">وينترز دريم</title>
+    <desc lang="en">Romantic Drama. Former pro skier, Kat, is asked to coach a younger skier, named Anna, and finds love with the girl's widowed father, Ty. دراما رومانسية. تبدأ قصة حب غير متوقعة بين "كات"  متزلجة محترفة سابقة و "تاي" والد الطفلة "آنا" الأعزب عندما تم تكليف كات بتدريب ابنته.</desc>
   </programme>
-  <programme start="20200923190000 +0000" stop="20200923210500 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Die Hard 2</title>
-    <title lang="ar">داي هارد 2</title>
-    <desc lang="en">Action thriller starring Bruce Willis, William Sadler, Bonnie Bedelia. On Christmas Eve, one year after his heroics in L.A., detective John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C. أكشن وإثارة من بطولة بروس ويليس، ويليام سادلر وبوني بيديليا. عشية عيد الميلاد، وبعد مرور عام على أعماله البطولية في لوس أنجلوس، يحاول المحقق جون ماكلين تجنب وقوع كارثة بينما يسعى عملاء عسكريون محتالون للسيطرة على مطار دالاس الدولي في العاصمة واشنطون.</desc>
+  <programme start="20200926114500 +0000" stop="20200926133500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Where'd You Go, Bernadette</title>
+    <title lang="ar">وار وولد يو غو برناديت</title>
+    <desc lang="en">Comedy with Billy Crudup and Cate Blanchett. When Bernadette Fox mysteriously vanishes before a family trip to Antarctica, her resourceful teenage daughter goes through all the textual traces of her mother’s past to find her. كوميدي من بطولة بيلي كرودوب وكيت بلانشيت. تختفي برناديت فوكس في ظروف غامضة قبل رحلة عائلية إلى أنتاركتيكا، فتحاول ابنتها المراهقة تقفي آثارها الكتابية من الماضي للعثور عليها.</desc>
   </programme>
-  <programme start="20200923210500 +0000" stop="20200923225000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">Nightshooters</title>
-    <title lang="ar">نايتشوترز</title>
-    <desc lang="en">A film crew led by stuntman Donnie come to witness a Gangland hit, and have to fight for their lives to survive the night. يشهد طاقم فيلم مصحوبين بالممثل دوني الذي يقوم بالأدوار البديلة، على هجوم احدى العصابات وعليهم القتال من أجل الحفاظ على حياتهم.</desc>
+  <programme start="20200926133500 +0000" stop="20200926152000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Shifting Gears</title>
+    <title lang="ar">شيفتينغ غيرز</title>
+    <desc lang="en">Action Comedy. Tom, an over-worked husband and father, abandons his dead-end job to follow his dream of owning his own business. أكشن وكوميديا. يترك توم، الأب والزوج المتعب وظيفته الغير مجدية من أجل تحقيق حلمه.</desc>
   </programme>
-  <programme start="20200923225000 +0000" stop="20200924002000 +0000" channel="OSN Movies Action HD">
-    <title lang="en">All About The Money</title>
-    <title lang="ar">أول أباوت ذا موني</title>
-    <desc lang="en">Crime starring Jen Albert and Aman Chaudhry. All About The Money is the story of two amateur documentary filmmaker/plumbers that decide that the fast track to life may be a life of crime. Watch as they document every step of their journey. فيلم بوليسي من بطولة جين ألبرت وأمان تشودري. تدور القصة حول اثنان من هواة انتاج الأفلام الوثائقية/السباكة وقرارهما اختيار طريق الجريمة واعتباره أسرع الوسائل لتحقيق الكسب المادي. شاهد توثيقهما لكل خطوة من هذه الجريمة.</desc>
+  <programme start="20200926152000 +0000" stop="20200926182000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Avengers: Endgame</title>
+    <title lang="ar">أفنجرز أندغيم</title>
+    <desc lang="en">After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe. أكشن ومغامرات. عقب النهاية المأساوية للجزء السابق أفنجرز: انفنيتي وور (2018)، يعم الخراب في أرجاء الكون. وبمساعدة ما تبقى من الأبطال الحلفاء، يجتمع الأفنجرز مجدداً لمحاولة إبطال ما أنجزه ثانوس واستعادة النظام في الكون.</desc>
+  </programme>
+  <programme start="20200926182000 +0000" stop="20200926200000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Secret Society Of Second Born Royals</title>
+    <title lang="ar">سيكريت سوسايتي أوف سيكند بورن رويالز</title>
+    <desc lang="en">It follows Sam's adventures at a top-secret training program for a new class of second-born royals tasked with saving the world. تتمة لمغامرات سام في برنامج تدريبي شديد السرية لصف جديد من أفراد العائلة المالكة المكلفة بإنقاذ العالم.</desc>
   </programme>
   <programme start="20200924002000 +0000" stop="20200924022500 +0000" channel="OSN Movies Action HD">
     <title lang="en">47 Ronin</title>
@@ -660,80 +585,85 @@
     <title lang="ar">ذي رووكيز</title>
     <desc lang="en">Extreme sport lover Zhou Feng got involved in an international illegal trade by accident. So he had to follow an international special agent Bruce to Budapest. تورط عاشق الرياضة تشو فنغ في تجارة دولية غير قانونية عن طريق الصدفة. لذلك كان عليه أن يتبع بروس, وكيل دولي خاص إلى بودابست.</desc>
   </programme>
-  <programme start="20200923000000 +0000" stop="20200923012500 +0000" channel="OSN Movies HD">
-    <title lang="en">Social Animals</title>
-    <title lang="ar">سوشيال أنيمالز</title>
-    <desc lang="en">This honest, uncompromising comedy chronicles the war stories and sexual misadventures of a tight circle of lovers and friends fighting to get their acts together, for better or worse. كوميديا. تحاول فتاة عازبة، مُفلسة، ومدمنة لشرب النبيذ إنقاذ مشروعها الفاشل وتعلقها بالحياة عندما تقع في الحب للمرة الأولى مع رجل متزوج.</desc>
+  <programme start="20200925205000 +0000" stop="20200925205000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Escape Of Prisoner 614</title>
+    <title lang="ar">إسكيب أوف بريزونر 614</title>
+    <desc lang="en">Two inept, small-town Sheriff's Deputies catch an escaped prisoner that they believe was wrongly convicted. بعد تعيين رقيبين في بلدة صغيرة للقبض على سجين هارب، ولكن سرعان ما يشكان أنه بريء.</desc>
   </programme>
-  <programme start="20200923012500 +0000" stop="20200923031000 +0000" channel="OSN Movies HD">
-    <title lang="en">The Perfect Daughter</title>
-    <title lang="ar">ذا بيرفكت دوتر</title>
-    <desc lang="en">Drama. After picking up his daughter, Natalie, from a party, Martin Parish (Brady Smith), a widowed father, discovers her drunk and disoriented. He overreacts, putting a wedge between their once idyllic father-daughter relationship at a time she needs him the most. دراما. يثور الأب الأرمل مارتن باريش (برادي سميث) بشكل مبالغ فيه عندما يجد ابنته ثملة في إحدى الليالي ويضع حاجزاً كبيراً بينهما في الوقت الذي كانت في أمس الحاجة إليه.</desc>
+  <programme start="20200925205000 +0000" stop="20200925223500 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Escape Of Prisoner 614</title>
+    <title lang="ar">إسكيب أوف بريزونر 614</title>
+    <desc lang="en">Two inept, small-town Sheriff's Deputies catch an escaped prisoner that they believe was wrongly convicted. بعد تعيين رقيبين في بلدة صغيرة للقبض على سجين هارب، ولكن سرعان ما يشكان أنه بريء.</desc>
   </programme>
-  <programme start="20200923031000 +0000" stop="20200923044500 +0000" channel="OSN Movies HD">
-    <title lang="en">We Love You, Sally Carmichael</title>
-    <title lang="ar">وي لاف يو، سالي كارمايكل</title>
-    <desc lang="en">Comedy. Simon Hayes, an author, is ashamed to have written a series of romance novels under the pen name, Sally Carmichael. When Simon is forced to meet a top box office star, his carefully built life of anonymity starts crumbling down around him. كوميديا. يخجل المؤلف من كتابة مجموعة من روايات الشباب الرومانسية سراً تحت إسم "سالي كارمايكل". تبدأ حياة المؤلف مجهولة الهوية بالإنهيار عندما يُجبر على مقابلة نجم سينمائي  يلعب دوراً في الفيلم المأخوذ من كتاباته.</desc>
+  <programme start="20200925223500 +0000" stop="20200926004000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Runaway Train</title>
+    <title lang="ar">رن أواي ترين</title>
+    <desc lang="en">A hardened convict and a younger prisoner escape from a brutal prison in the middle of winter only to find themselves on an out-of-control train with a female railway worker while being pursued by the vengeful head of security. يهرب محكوم خطير وسجين شاب من سجن وحشي في منتصف الشتاء فقط ليجدا نفسيهما في قطار خارج السيطرة مع عاملة سكة حديد أثناء ملاحقتهم من قبل رئيس الأمن الشرير.</desc>
   </programme>
-  <programme start="20200923044500 +0000" stop="20200923063500 +0000" channel="OSN Movies HD">
-    <title lang="en">Mum's List</title>
-    <title lang="ar">مامز ليست</title>
-    <desc lang="en">Drama with Emilia Fox. A woman dying of incurable breast cancer creates a list of memories and lessons for the husband and sons she is about to leave behind. دراما من بطولة إيمليا فوكس. تترك الأم المحتضرة التي تعانى من سرطان الثدي قائمة من الذكريات ودروس في الحياة لزوجها وأبنائها قبل رحيلها.</desc>
+  <programme start="20200926004000 +0000" stop="20200926024000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Prince Of Persia: The Sands Of Time</title>
+    <title lang="ar">برينس أوف بيرشيا: ذا ساندز أوف تايم</title>
+    <desc lang="en">A young fugitive prince and princess must stop a villain who unknowingly threatens to destroy the world with a special dagger that enables the magic sand inside to reverse time. يتعين على الأمير والأميرة الهاربان العثور على المجرم الذي يهدد بتدمير العالم دون أن يعي، وذلك بعد استيلائه على الخنجر السحري الذي يمكن صاحبه من العودة بالزمن إلى الوراء.</desc>
   </programme>
-  <programme start="20200923063500 +0000" stop="20200923082500 +0000" channel="OSN Movies HD">
-    <title lang="en">Annapolis</title>
-    <title lang="ar">آنابوليس</title>
-    <desc lang="en">When Jake gets accepted into the prestigious Naval Academy at Annapolis, he finds that there are still battles ahead. He decides to prove his worth by entering a Navy boxing competition. Acton with James Franco. لم تنتهِ مشاكل جاك مع قبوله في أكاديمية آنابوليس البحرية الراقية، الأمر الذي دفعه لإثبات ذاته عبر الاشتراك في مسابقة للملاكمة تنظمها  الأكاديمية. آكشن، جيمز فرانكو.</desc>
+  <programme start="20200926024000 +0000" stop="20200926051000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Mission: Impossible - Fallout</title>
+    <title lang="ar">ميشن: إمبوسيبل - فالوت</title>
+    <desc lang="en">Ethan Hunt &amp; the IMF team join forces with CIA assassin August Walker to prevent a nuclear attack on the Vatican, Jerusalem &amp; Saudi Arabia by John Lark and the Apostles. ينضم إيثن هنت وفريق آي إم إف مع عميل السي آي ايه أغست واكر لمنع الهجمات النووية عن الفاتيكان، القدس والسعودية من قبل جون لارك وأعوانه.</desc>
   </programme>
-  <programme start="20200923082500 +0000" stop="20200923102000 +0000" channel="OSN Movies HD">
-    <title lang="en">Fighting With My Family</title>
-    <title lang="ar">فايتنغ ويذ ماي فاميلي</title>
-    <desc lang="en">Biography starring Dwayne Johnson and Lena Headey. The movie follows Brits Raya Knight (Florence Pugh) and her brother Zak Knight (Jack Lowden) as they attempt a career in the US as professional wrestlers in the WWE. Dwayne “The Rock” Johnson stars as himself. سيرة ذاتية من بطولة دوين جونسون ولينا هيدي. يُسلط الفيلم الضوء على بريتس رايا نايت (فلورنس بوغ) وشقيقها زاك نايت (جاك لودين) أثناء محاولتهما امتهان المصارعة المحترفة "دبليو دبليو إي" في الولايات المتحدة.</desc>
+  <programme start="20200926051000 +0000" stop="20200926072500 +0000" channel="OSN Movies Action HD">
+    <title lang="en">X2: X-Men United</title>
+    <title lang="ar">أكس2: أكس-مين يونايتد</title>
+    <desc lang="en">Professor Xavier and his School for Gifted Youngsters are targeted for the crime when a mutant assassin makes an attempt on the President's life. .يتم استهداف البروفيسور زافيير ومدرسته للأطفال الموهوبين لارتكاب جريمة، عندما يقوم قاتل متغير جينيا بمحاولة اغتيال الرئيس.</desc>
   </programme>
-  <programme start="20200923102000 +0000" stop="20200923120000 +0000" channel="OSN Movies HD">
-    <title lang="en">Little Pink House</title>
-    <title lang="ar">ليتل بينك هاوس</title>
-    <desc lang="en">Drama. Susette Kelo (Catherine Keener), a small-town nurse, fights against the eminent domain seizure of her home, all the way to the Supreme Court. دراما. تحاول سوزيت كيلو (كاثرين كينر)، وهي ممرضة في بلدة صغيرة، أن تقف ضد الإستيلاء على منزلها، وتوصل الأمر إلى المحكمة العليا.</desc>
+  <programme start="20200926072500 +0000" stop="20200926092500 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Star Trek 10: Nemesis</title>
+    <title lang="ar">ستار تريك 10: نيمسيز</title>
+    <desc lang="en">After the Enterprise is diverted to the Romulan planet of Romulus, supposedly because they want to negotiate a truce, the Federation soon find out the Romulans are planning an attack on Earth. بعد تحويل مسار إنتربرايسيز إلى كوكب روميولان الذي يسكنه شعب رومولس من أجل التوصل إلى هدنة. يكتشف الإتحاد الفيدرالي أن شعب الـ(رومولس) يخططون لشن هجوم على كوكب الأرض.</desc>
   </programme>
-  <programme start="20200923120000 +0000" stop="20200923134000 +0000" channel="OSN Movies HD">
-    <title lang="en">Josie And The Pussycats</title>
-    <title lang="ar">جوسي أند ذا بوسيكاتس</title>
-    <desc lang="en">A girl group find themselves in the middle of a conspiracy to deliver subliminal messages through popular music in this send up of the music industry &amp; pop culture. Rachael Leigh Cook, Tara Reid &amp; Rosario Dawson star. تجد مجموعة من الفتيات نفسها ضمن مؤامرة لنقل رسالة خفية من خلال الموسيقا الشعبية، وذلك في إطار من السخرية من صناعة الموسيقا وثقافة موسيقا البوب. من بطولة  راشيل لاي كوك، تارا ريد وروزاريو داوسون.</desc>
+  <programme start="20200926092500 +0000" stop="20200926112000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Twister</title>
+    <title lang="ar">تويستر</title>
+    <desc lang="en">Action drama starring Helen Hunt, Bill Paxton, Cary Elwes. During a tornado outbreak across Oklahoma, a team of storm chasers try to perfect a data-gathering instrument while competing with another better-funded team with a similar device. أكشن ودراما من بطولة هيلين هانت، بيل باكستون وكاري إلويس. أثناء وقوع إعصار في أرجاء ولاية أوكلاهوما، يحاول فريق من مطاردي الأعاصير إتمام جهاز لجمع البيانات بينما يتنافسون مع فريق آخر أفضل تمويلاً منهم ويمتلكون جهازاً مشابهاً لما بين أيديهم.</desc>
   </programme>
-  <programme start="20200923134000 +0000" stop="20200923153000 +0000" channel="OSN Movies HD">
-    <title lang="en">The Chronicles Of Narnia: Voyage Of The Dawn...</title>
-    <title lang="ar">ذا كرونوكلز أوف نارنيا: فوياج أوف ذا دون...</title>
-    <desc lang="en">Lucy and Edmund return to Narnia and, along with cousin Eustace and Prince Caspian, embark on a remarkable voyage at sea to find the seven lords who were banished when Miraz took over the throne. تعود لوسي وإدموند إلى نارنيا، ويشرعان إلى جانب ابن عمهما يوستاس والأمير كاسبيان برحلة رائعة في عرض البحر للعثور على الأمراء السبعة الذين تم نفيهم بعدما استولى ميرزا على العرش.</desc>
+  <programme start="20200926112000 +0000" stop="20200926132000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Spider-Man</title>
+    <title lang="ar">سبايدر-مان</title>
+    <desc lang="en">Action adventure starring Tobey Maguire, Willem Dafoe, Kirsten Dunst. Bitten by a genetically altered spider, a nerdy, shy, and awkward high school student gains superhuman strength, agility, and perception that he eventually must use to fight evil as a superhero. .يلعب توبي ماغواير دور بيتر باركر، الفتى العادي الذي يتحول إلى بطل خارق يقفز بواسطة الشباك بعد أن لدغه عنكبوت ونقل له مواد مشعة. تشارك في البطولة كريستن دانست.</desc>
   </programme>
-  <programme start="20200923153000 +0000" stop="20200923173000 +0000" channel="OSN Movies HD">
-    <title lang="en">Instant Family</title>
-    <title lang="ar">إنستانت فاميلي</title>
-    <desc lang="en">Comedy drama. A couple (Mark Wahlberg, Rose Byrne) find themselves in over their heads when they foster three children. فيلم درامي وكوميدي من بطولة  مارك والبرغ وروز بيرن. تنقلب حياة الزوجان رأساً على عقب عندما يقومان بتبني ثلاثة أطفال.</desc>
+  <programme start="20200926132000 +0000" stop="20200926152000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">The Book Of Eli</title>
+    <title lang="ar">ذا بوك أوف إيلي</title>
+    <desc lang="en">Action adventure with Denzel Washington and Mila Kunis. A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind. أكشن ومغامرة من بطولة دينزل واشنطون وميلا كونيس. بعد وقوع كارثة كبيرة للغاية، يكافح رجل وحيد في أرجاء أمريكا من أجل حماية كتاب مقدس يحمل في طياته الأسرار التي يمكن لها أن تنقذ البشرية.</desc>
   </programme>
-  <programme start="20200923173000 +0000" stop="20200923192500 +0000" channel="OSN Movies HD">
-    <title lang="en">Mona Lisa Smile</title>
-    <title lang="ar">موناليزا سمايل</title>
-    <desc lang="en">A free-thinking art professor teaches conservative 1950's girls to question their traditional societal roles and achieve scholastic and intellectual growth. تدور أحداث هذا الفيلم خلال الخمسينيات ويتمحور حول مدرسة فنون جامعية ذات ذهن منفتح تقوم بحث طالباتها المحافظات على رفض القيود الإجتماعية وتحقيق النمو الأكاديمي والفكري.</desc>
+  <programme start="20200926152000 +0000" stop="20200926170000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">London Has Fallen</title>
+    <title lang="ar">لندن هاز فولن</title>
+    <desc lang="en">Action thriller. After the death of the British PM, the world''s leaders gather in London to pay their respects. Secret Service agent Mike Banning (Gerard Butler) springs into action as terrorists unleash a devastating attack that leaves the city in chaos and ruins. أكشن وإثارة. بعد وفاة رئيس الوزراء البريطاني، يجتمع قادة العالم في لندن لتقديم التعازي، وينطلق عميل الخدمات السرية مايك بانينغ (جيرارد باتلر) لوضع حد للإرهابين الذين يخططون للقيام بهجوم مدمر.</desc>
   </programme>
-  <programme start="20200923192500 +0000" stop="20200923192500 +0000" channel="OSN Movies HD">
-    <title lang="en">The Weather Man</title>
-    <title lang="ar">ذا ويذر مان</title>
-    <desc lang="en">A Chicago weather man, separated from his wife and children, debates whether professional and personal success are mutually exclusive. رجل الأرصاد الجوية في شيكاغو، منفصل عن زوجته وأولاده، يناقش مسألة ما إذا كان النجاح في الحياة الأسرية والمهنية مرتبطين ببعضهما أم أن كلا منهما مستقل عن الآخر.</desc>
+  <programme start="20200926170000 +0000" stop="20200926173000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Kingdom</title>
+    <title lang="ar">كينغدوم 2</title>
+    <desc lang="en">Former servant Xin now commands 300 troops in the formidable Fei Xin Force, and the big battle he's itching for may be right around the corner. يقود الموظف السابق شين الآن 300 جندي في قوة فاي غزن الهائلة ، وقد تكون المعركة الكبيرة التي يتلهف لها في متناول اليد.</desc>
   </programme>
-  <programme start="20200923192500 +0000" stop="20200923210500 +0000" channel="OSN Movies HD">
-    <title lang="en">The Weather Man</title>
-    <title lang="ar">ذا ويذر مان</title>
-    <desc lang="en">A Chicago weather man, separated from his wife and children, debates whether professional and personal success are mutually exclusive. رجل الأرصاد الجوية في شيكاغو، منفصل عن زوجته وأولاده، يناقش مسألة ما إذا كان النجاح في الحياة الأسرية والمهنية مرتبطين ببعضهما أم أن كلا منهما مستقل عن الآخر.</desc>
+  <programme start="20200926173000 +0000" stop="20200926180000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Kingdom</title>
+    <title lang="ar">كينغدوم 2</title>
+    <desc lang="en">Former servant Xin now commands 300 troops in the formidable Fei Xin Force, and the big battle he's itching for may be right around the corner. يقود الموظف السابق شين الآن 300 جندي في قوة فاي غزن الهائلة ، وقد تكون المعركة الكبيرة التي يتلهف لها في متناول اليد.</desc>
   </programme>
-  <programme start="20200923210500 +0000" stop="20200923233000 +0000" channel="OSN Movies HD">
-    <title lang="en">Sleepers</title>
-    <title lang="ar">سليبرز</title>
-    <desc lang="en">After being brutalised by their guards as boys, a group of friends reunite to protect two of their number when they take violent revenge on the men who ruined their lives. With Brad Pitt, Al Pacino and an all star cast. بعدما عوملوا بوحشية من قبل الحراس أثناء احتجازهم في سجن الأحداث، يجتمع فريق من الأصدقاء مجدداً لمساندة اثنين من بينهم قررا الأخذ بثأرهما من الرجال الذين دمروا حياتهم. بطولة براد بيت، آل باتشينو ومجموعة كبيرة من النجوم.</desc>
+  <programme start="20200926180000 +0000" stop="20200926183000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Kingdom</title>
+    <title lang="ar">كينغدوم 2</title>
+    <desc lang="en">Former servant Xin now commands 300 troops in the formidable Fei Xin Force, and the big battle he's itching for may be right around the corner. يقود الموظف السابق شين الآن 300 جندي في قوة فاي غزن الهائلة ، وقد تكون المعركة الكبيرة التي يتلهف لها في متناول اليد.</desc>
   </programme>
-  <programme start="20200923233000 +0000" stop="20200924005000 +0000" channel="OSN Movies HD">
-    <title lang="en">Dirty Work</title>
-    <title lang="ar">ديرتي ورك</title>
-    <desc lang="en">Mitch and his buddy Sam open a revenge-for-hire business in order to raise $50,000 so Sam's father can get a heart transplant. Jack Warden and Chevy Chase co-star in this comedy. يجب على ميتش وسام أن يدبرا مبلغ 50.000 دولار سريعاً. فيتوصل ميتش لوسيلة للحصول على المال عن طريق استغلال موهبتهما الوحيدة وهي افتتاح مشروع "انتقام للإيجار". كوميدي.</desc>
+  <programme start="20200926183000 +0000" stop="20200926190000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Kingdom</title>
+    <title lang="ar">كينغدوم 2</title>
+    <desc lang="en">Former servant Xin now commands 300 troops in the formidable Fei Xin Force, and the big battle he's itching for may be right around the corner. يقود الموظف السابق شين الآن 300 جندي في قوة فاي غزن الهائلة ، وقد تكون المعركة الكبيرة التي يتلهف لها في متناول اليد.</desc>
+  </programme>
+  <programme start="20200926190000 +0000" stop="20200926205000 +0000" channel="OSN Movies Action HD">
+    <title lang="en">Deep Rising</title>
+    <title lang="ar">ديب رايزينغ</title>
+    <desc lang="en">Thieves hijack a luxury cruiseship, only to find everyone slaughtered by creatures that came from the bottom of the South China Seas. Now the thieves have become the prey. فيلم مرعب الملطخ بالدماء!!  إذ نشاهد لصوص مجوهرات يخطفون سفينة سياحية يصدمون لاكتشاف أن ركابها ذبحتهم مخلوقات غريبة اقتحمت المكان من أعماق بحار الصين الجنوبية.  والآن اللصوص هم المستهدفين!!</desc>
   </programme>
   <programme start="20200924005000 +0000" stop="20200924024500 +0000" channel="OSN Movies HD">
     <title lang="en">Little Pink House</title>
@@ -855,80 +785,70 @@
     <title lang="ar">ذي اكسبريس</title>
     <desc lang="en">Biopic starring Rob Brown and Dennis Quaid based on the life of college football hero Ernie Davis who was the first African-American to win the Heisman Trophy, in a time when the civil rights movement was gaining steam. دراما مقتبسة عن قصة حياة إيرني ديفس بطل دوري الجامعات في كرة القدم الأميريكية، وأول لاعب أميريكي من أصل أفريقي يفوز بكأس هايزمان. بطولة دنيس كايد وروب براون ومن إخراج غاري فليدر.</desc>
   </programme>
-  <programme start="20200923001000 +0000" stop="20200923015000 +0000" channel="OSN POP">
-    <title lang="en">The First Wives Club</title>
-    <title lang="ar">ذا فيرست وايفز كلوب</title>
-    <desc lang="en">All-star comedy with Goldie Hawn, Diane Keaton and Bette Midler as shunned middle-aged wives who band together to ruin the lives of the husbands who dumped them for other women. كوميدي من بطولة غولدي هون، ديان كيتون وبيتي ميدلر. تتفق ثلاث زوجات في منتصف العمر على إفساد حياة أزواجهن الذين هجروهن من أجل نساء أخريات.</desc>
+  <programme start="20200925194000 +0000" stop="20200925194000 +0000" channel="OSN Movies HD">
+    <title lang="en">Days Of Thunder</title>
+    <title lang="ar">دايز أوف ثاندر</title>
+    <desc lang="en">Tom Cruise and Nicole Kidman fell in love on the set of this action-packed romance. He plays a devil-may-care racing driver, she the doctor who has to patch him up when he crashes. Robert Duvall co-stars. يقع توم كروز ونيكول كيدمان بحب بعضهما في هذا الفيلم الرومانسي المليء بالأكشن، حيث يلعب هو دور سائق سيارات سباق بينما تلعب هي دور الطبيبة التي تعالجه عندما يتعرض لحوادث اصطدام. يشارك في البطولة روبرت دوفال.</desc>
   </programme>
-  <programme start="20200923015000 +0000" stop="20200923032000 +0000" channel="OSN POP">
-    <title lang="en">Hot Pursuit</title>
-    <title lang="ar">هوت بيرسوت</title>
-    <desc lang="en">Action comedy. An uptight and by-the-book police officer (Reese Witherspoon) tries to protect the widow (Sofia Vergara) of a cartel informant as they race through Texas pursued by crooked cops and murderous gunmen. أكشن وكوميدي. تحاول شرطية ملتزمة (ريس ويذرسبون) حماية أرملة مخبر منظمة مافيا (صوفيا فيرغارا) بينما تسعيان للتملص من أفراد الشرطة الفاسدين والقتلة المسلحين في أرجاء تكساس.</desc>
+  <programme start="20200925194000 +0000" stop="20200925212500 +0000" channel="OSN Movies HD">
+    <title lang="en">Days Of Thunder</title>
+    <title lang="ar">دايز أوف ثاندر</title>
+    <desc lang="en">Tom Cruise and Nicole Kidman fell in love on the set of this action-packed romance. He plays a devil-may-care racing driver, she the doctor who has to patch him up when he crashes. Robert Duvall co-stars. يقع توم كروز ونيكول كيدمان بحب بعضهما في هذا الفيلم الرومانسي المليء بالأكشن، حيث يلعب هو دور سائق سيارات سباق بينما تلعب هي دور الطبيبة التي تعالجه عندما يتعرض لحوادث اصطدام. يشارك في البطولة روبرت دوفال.</desc>
   </programme>
-  <programme start="20200923032000 +0000" stop="20200923051000 +0000" channel="OSN POP">
-    <title lang="en">Overboard</title>
-    <title lang="ar">اوفربورد</title>
-    <desc lang="en">Comedy with Goldie Hawn, Kurt Russell. When a snooty heiress falls overboard her yacht and develops amnesia, the redneck carpenter she haughtily dismissed without payment decides to seek his revenge and remedy his own domestic problems by claiming her as his wife. كوميدي من بطولة غولدي هون وكيرت راسل. عندما تسقط وريثة متعجرفة على سطح يختها وتفقد ذاكرتها، يقرر النجار الذي صرفته بغطرسة ومن دون أن تدفع له أتعابه أن ينتقم ويعالج مشاكله المنزلية الخاصة من خلال الإدعاء أنها زوجته.</desc>
+  <programme start="20200925212500 +0000" stop="20200926004500 +0000" channel="OSN Movies HD">
+    <title lang="en">Pathfinder</title>
+    <title lang="ar">باثفايندر</title>
+    <desc lang="en">A Viking boy is raised by Native Americans and becomes a hero when his tribe fights the Norsemen. Action starring Karl Urban and Russell Means. ولد من بلاد الفايكينغ، يتربى بين سكان أمريكا الأصليين، فيصبح بطلاً يدافع عنهم حين هاجمت قوات اسكندنافية أرضهم. أكشن، كارل أوربان و راسل مينز.</desc>
   </programme>
-  <programme start="20200923051000 +0000" stop="20200923070000 +0000" channel="OSN POP">
-    <title lang="en">Overboard</title>
-    <title lang="ar">اوفربورد</title>
-    <desc lang="en">Comedy with Anna Faris. In this gender-swapped remake of the 1987 rom-com of the same name. Leonardo (Eugenio Derbez), a spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee. كوميديا من بطولة آنا فاريس ويوجينيو ديربيز.بعد الإلقاء بالثري المُدلل من يخته إلى عرض البحر يفقد ذاكرته، فتقوم موظفة سابقة له بإستغلال الموقف والإنتقام منه لسوء معاملته له.</desc>
+  <programme start="20200926004500 +0000" stop="20200926025500 +0000" channel="OSN Movies HD">
+    <title lang="en">The Education Of Little Tree</title>
+    <title lang="ar">ذا إديوكيشن أوف ليتل تري</title>
+    <desc lang="en">Adaptation of Forrest Carter's 1992 award-winning coming-of-age novel detailing the Depression-era boyhood of an orphaned Cherokee, eight-year-old Little Tree. James Cromwell, Tantoo Cardinal, Joseph Ashton star. فيلم مقتبس عن رواية للكاتب فوريست كارتر حازت على جائزة في عام 1992، وتفصّل حقبة الكساد التي مرت بحياة صبي يتيم من قبيلة شيروكي، يبلغ من العمر 8 سنوات ويُدعى ليتل تري. بطولة جيمس كرومويل، تانتو كاردينال وجوزيف آشتون.</desc>
   </programme>
-  <programme start="20200923070000 +0000" stop="20200923084000 +0000" channel="OSN POP">
-    <title lang="en">Daddy's Home 2</title>
-    <title lang="ar">داديز هوم 2</title>
-    <desc lang="en">Comedy. Will Ferrell, Mark Wahlberg. Dusty and Brad join forces to make Christmastime perfect for the children. Their newfound partnership soon gets put to the test when their intrusive fathers arrive to turn the holiday upside down. Mel Gibson, John Lithgow also star. كوميديا من بطولة ويل فاريل، مارك وولبيرغ، ميل غيبسون وجون ليثغو. يتحد داستي وبراد ليجعلا فترة عيد الميلاد مثالية من أجل الأولاد. سرعان ما توضع شراكتهما تحت الإختبار عندما يصل والداهما ليقلبا فترة العطلة رأسا على عقب.</desc>
+  <programme start="20200926025500 +0000" stop="20200926044000 +0000" channel="OSN Movies HD">
+    <title lang="en">Amos And Andrew</title>
+    <title lang="ar">آموس و آندرو</title>
+    <desc lang="en">When Andrew Sterling buys a vacation home on a resort in New England the police mistake him for a burglar. After surrounding his home with armed men, Chief Tolliver realizes his mistake and to avoid the bad publicity offers a thief in his jail, Amos Odell a deal. عندما يقوم آندرو ستيرلينغ بشراء بيتاً لقضاء العطلات في منتجع بنيو إنجلاند، تخطىء الشرطة وتظنه لصاً. يدرك القائد توليفر خطأه بعد أن قامت الشرطة بإحاطة منزل آندرو برجال مسلحين ومن أجل تجنب الدعاية السيئة التي تسبب فيها يقوم توليفر بعرض صفقة على آموس أوديل اللص الحقيقي.</desc>
   </programme>
-  <programme start="20200923084000 +0000" stop="20200923102000 +0000" channel="OSN POP">
-    <title lang="en">Ride Along</title>
-    <title lang="ar">رايد ألونغ</title>
-    <desc lang="en">Joining his decorated police detective, future brother-in-law on a shift along the mean streets of Atlanta, a motor-mouthed high-school security guard learns that life on the force is no picnic. ينضم حارس أمن يعمل في مدرسة ثانوية إلى شقيق زوجته المستقبلية، وهو ضابط في الشرطة، خلال ذهابه في دورية على الشوارع الخطيرة في ولاية أتلانتا، في محاولة منه لأن يثبت له أنه جدير بالثقة.</desc>
+  <programme start="20200926044000 +0000" stop="20200926070500 +0000" channel="OSN Movies HD">
+    <title lang="en">The Two Jakes</title>
+    <title lang="ar">ذا تو جيكس</title>
+    <desc lang="en">Private eye Jake, now middle-aged, is about to marry a beautiful young lady until a voice from the past causes him to get involved again. 'Chinatown' sequel directed by and starring Jack Nicholson, with Harvey Keitel. المخبر السري جيك، الذي بلغ منتصف العمر،وعلى وشك الزواج بصبية حسناء،  سمع صوتاً من الماضي يناديه ليتورط بعمله من جديد. هارفي كيتل. إخراج وبطولة جاك نيكلسن الذي أخرج سلسة افلام تشاينا تاون.</desc>
   </programme>
-  <programme start="20200923102000 +0000" stop="20200923121000 +0000" channel="OSN POP">
-    <title lang="en">The Bounty Hunter</title>
-    <title lang="ar">ذا باونتي هانتر</title>
-    <desc lang="en">Comedy with Gerard Butler and Jennifer Aniston. A bounty hunter jumps for joy at the prospect of tracking down his bail-skipping ex-wife but he gets a hard dose of reality when the job proves tougher than anticipated. يهلل صائد الجوائز فرحاً بعدما توكل له مهمة اقتفاء أثر زوجته السابقة التي تم إلغاء كفالتها، لكنه يصطدم بالواقع عندما يكتشف أن هذه المهمة أصعب مما توقع. كوميدي بطولة جيرالد باتلر وجنيفر أنستون.</desc>
+  <programme start="20200926070500 +0000" stop="20200926090000 +0000" channel="OSN Movies HD">
+    <title lang="en">Days Of Thunder</title>
+    <title lang="ar">دايز أوف ثاندر</title>
+    <desc lang="en">Tom Cruise and Nicole Kidman fell in love on the set of this action-packed romance. He plays a devil-may-care racing driver, she the doctor who has to patch him up when he crashes. Robert Duvall co-stars. يقع توم كروز ونيكول كيدمان بحب بعضهما في هذا الفيلم الرومانسي المليء بالأكشن، حيث يلعب هو دور سائق سيارات سباق بينما تلعب هي دور الطبيبة التي تعالجه عندما يتعرض لحوادث اصطدام. يشارك في البطولة روبرت دوفال.</desc>
   </programme>
-  <programme start="20200923121000 +0000" stop="20200923134500 +0000" channel="OSN POP">
-    <title lang="en">Wayne's World</title>
-    <title lang="ar">واينز ويرلد</title>
-    <desc lang="en">Riotous comedy with Mike Myers as Wayne, a suburban rock nerd kid with his own public access TV show. A comedy spin-off from a 'Saturday Night Live' sketch, with Dana Carvey, Rob Lowe and Tia Carrere. يلعب مايك مايرز دور واين، وهو نجم روك من الضواحي يمتلك برنامجه التلفزيوني الخاص. وحيث أن فكرة العمل انبثقت من أحد مشاهد برنامج (ساترداي نايت لايف). كوميدي من بطولة دانا كارفي، روب لوي وتيا كارير.</desc>
+  <programme start="20200926090000 +0000" stop="20200926110500 +0000" channel="OSN Movies HD">
+    <title lang="en">Indiana Jones And The Kingdom Of The Crystal Skull</title>
+    <title lang="ar">إنديانا جونز أند ذا كينغدم أوف ذا كريستل سكال</title>
+    <desc lang="en">Action adventure, Harrison Ford, Cate Blanchett, Karen Allen. Indiana Jones has been kidnapped by the nefarious Soviet telepath Dr. Irina Spalko to help track down the crystal skull of Akator - an item with powers that could tip the balance of the Cold War. أكشن ومغامرة من بطولة هاريسون فورد، كيت بلانشيت وكارين ألين. يتم اختطاف إنديانا جونز من قبل الدكتورة السوفيتية الشائنة إرينا سبالكو من أجل مساعدتها على تعقب جمجمة الكرستال الخاصة بأكاتور، والتي تمتلك قوى يمكن لها أن تقلب موازين الحرب الباردة.</desc>
   </programme>
-  <programme start="20200923134500 +0000" stop="20200923152000 +0000" channel="OSN POP">
-    <title lang="en">Wayne's World 2</title>
-    <title lang="ar">وينز ورلد تو</title>
-    <desc lang="en">Wayne and Garth are back! This time the clueless twosome are trying to put Aurora, Illinois on the map with a huge rock concert. Rib-tickling sequel with Mike Myers, Christopher Walken, Dana Carvey and Tia Carrere. يعود واين وغارث من جديد، وهذه المرة يحاولان أن يضعا أورورا الواقعة في إلينوي على الخريطة من خلال حفلة روك ضخمة. بطولة مايك مايرز، كريستوفر والكن، دانا كارفي وتيا كارير.</desc>
+  <programme start="20200926110500 +0000" stop="20200926123500 +0000" channel="OSN Movies HD">
+    <title lang="en">Sherlock Gnomes</title>
+    <title lang="ar">شيرلوك نومز</title>
+    <desc lang="en">Animation. After a string of garden gnome disappearances in London, Gnomeo and Juliet look to legendary detective Sherlock Gnomes to solve the case of their missing friends and family. رسوم متحركة. بعد توالي حوادث اختفاء تماثيل الحديقة  المنزلية في مختلف أرجاء لندن، يقوم جنوميو وجولييت بتكليف المحقق الشهير شرلوك جنومز للعمل على حل لغز اختفاء أصدقائه وأسرته بشكل غامض.</desc>
   </programme>
-  <programme start="20200923152000 +0000" stop="20200923170000 +0000" channel="OSN POP">
-    <title lang="en">Night At The Museum: Secret Of The Tomb</title>
-    <title lang="ar">نايت آت ذا ميوزيم: سيكريت أوف ذا تومب</title>
-    <desc lang="en">When the powers of The Tablet of Ahkmenrah begin to die out, Larry unites favourite and new characters while embarking on an epic quest to save the magic before it is gone forever. . عندما تبدأ قوى لوح أكمينره بالذبول، يوحّد لاري الشخصيات المفضلة والجديدة بينما يشرع ببحث ملحمي لإنقاذ السحر قبل أن يتوقف إلى الأبد..</desc>
+  <programme start="20200926123500 +0000" stop="20200926140500 +0000" channel="OSN Movies HD">
+    <title lang="en">A Boy Called Sailboat</title>
+    <title lang="ar">أيه بوي كولد سيلبوت</title>
+    <desc lang="en">A Hispanic family find hope in their extraordinary son named Sailboat when a personal gesture awakens a global desire. Armed with a "little guitar. تجد عائلة اسبانية أملاً في ابنهم المتميز والذي يدعى سيلبوت عندما عندما توقظ لفتة شخصية مسعى دولي. مسلحاً بـ "غيتار صغير"، يقود سيلبوت فريقاً مذهلاً عبر قصة اعجازية لأعظم سر خفي.</desc>
   </programme>
-  <programme start="20200923170000 +0000" stop="20200923183500 +0000" channel="OSN POP">
-    <title lang="en">The Hustle</title>
-    <title lang="ar">ذا هاسل</title>
-    <desc lang="en">Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. تتنافس محترفتان في خداع الناس، إحداهما من الطبقة الفقيرة والأخرى من الطبقة الغنية، على سلب ثروة رجل بارز في مجال التكنلوجيا وساذج.</desc>
+  <programme start="20200926140500 +0000" stop="20200926154500 +0000" channel="OSN Movies HD">
+    <title lang="en">Clockstoppers</title>
+    <title lang="ar">كلوك ستوبرز</title>
+    <desc lang="en">A teenager discovers a mysterious machine that allows him to freeze time. Now he is using his new found device to get a few things for himself. يكتشف مراهق آلة غامضة تمكنه من إيقاف الزمن، ويقرر استخدامها للحصول على بعض الأشياء لنفسه.</desc>
   </programme>
-  <programme start="20200923183500 +0000" stop="20200923204000 +0000" channel="OSN POP">
-    <title lang="en">Bridesmaids</title>
-    <title lang="ar">برايدز ميدز</title>
-    <desc lang="en">Picked as her best friend's maid of honour, lovelorn and broke Annie looks to bluff her way through the expensive and bizarre rituals with an oddball group of bridesmaids. Kristen Wiig and Maya Rudolph star. بعد أن تم اختيارها كوصيفة للعروس، تأمل آني المتيمة والمكسورة الخاطر بشق طريقها عبر طقوس حفل الزفاف الغريبة والمكلفة برفقة شلة غريبة الأطوار من الوصيفات. بطولة كريستين ويغ ومايا رودلف.</desc>
+  <programme start="20200926154500 +0000" stop="20200926173000 +0000" channel="OSN Movies HD">
+    <title lang="en">The Bachelors</title>
+    <title lang="ar">ذا باتشلورز</title>
+    <desc lang="en">Comedy. Bill (J.K. Simmons) and his son, Wes struggle to cope with the death of their wife and mother. The pair move to Los Angeles, where Bill gets a job at a school that Wes is attending. Over time, the two men try to move forward via new romances. كوميديا. يكافح بيل وابنه ويس للتأقلم بعد وفاة زوجته وأم ابنه. وبعدها ينتقلان للعيش بلوس أنجلوس، وهناك يحصل بيل على وظيفة في المدرسة التي يدرس بها ابنه. ومع مرور الوقت، يحاول كل منهما إستكمال حياته والبدء في علاقة حب جديدة.</desc>
   </programme>
-  <programme start="20200923204000 +0000" stop="20200923204000 +0000" channel="OSN POP">
-    <title lang="en">Neighbors</title>
-    <title lang="ar">نيبورز</title>
-    <desc lang="en">A young couple with a newborn infant, who only want a good solid night's sleep, go to war with the fraternity that turns their once-peaceful neighbourhood into party central. يدخل زوجان شابان لديهما طفل حديث الولادة ويرغبان بالاستمتاع بنوم هانىء أثناء الليل، في حرب مع طلاب جامعيين يقلبون حيهم الذي كان هادئاً في وقت ما إلى مركز احتفال.</desc>
-  </programme>
-  <programme start="20200923204000 +0000" stop="20200923221500 +0000" channel="OSN POP">
-    <title lang="en">Neighbors</title>
-    <title lang="ar">نيبورز</title>
-    <desc lang="en">A young couple with a newborn infant, who only want a good solid night's sleep, go to war with the fraternity that turns their once-peaceful neighbourhood into party central. يدخل زوجان شابان لديهما طفل حديث الولادة ويرغبان بالاستمتاع بنوم هانىء أثناء الليل، في حرب مع طلاب جامعيين يقلبون حيهم الذي كان هادئاً في وقت ما إلى مركز احتفال.</desc>
-  </programme>
-  <programme start="20200923221500 +0000" stop="20200924000000 +0000" channel="OSN POP">
-    <title lang="en">Good Luck Chuck</title>
-    <title lang="ar">غود لاك تشاك</title>
-    <desc lang="en">In order to keep the woman of his dreams from falling for another guy, Charlie Logan has to break the curse that has made him wildly popular with single women. Romantic comedy starring Dane Cook. في محاولة منه لمنع حبيبته من الوقوع في غرام رجل آخر، على تشارلي لوغان التخلص من اللعنة التي جعلته شهيراً بين النساء العازبات. كوميديا رومانسية بطولة دين كوك.</desc>
+  <programme start="20200926173000 +0000" stop="20200926193000 +0000" channel="OSN Movies HD">
+    <title lang="en">Beaches</title>
+    <title lang="ar">بيتشيز</title>
+    <desc lang="en">Drama tracing the 30-year oil-and-water friendship between free-spirited Bronx Jew CC Bloom (Bette Midler) and uptight San Francisco WASP Hillary Essex (Barbara Hershey) through childhood, love, and finally, tragedy. دراما تتابع تفاصيل الصداقة التي استمرت 30 عاما بين برونكس جيو سي سي بلوم (بيت ميدلر) وهيلاري إيسكس (باربرا هيرشي) منذ الطفولة وصولا إلى مرحلة الشباب وما تخللها من حب ومآسي.</desc>
   </programme>
   <programme start="20200924000000 +0000" stop="20200924014000 +0000" channel="OSN POP">
     <title lang="en">Daddy's Home 2</title>
@@ -1060,80 +980,75 @@
     <title lang="ar">دينر فور شماكس</title>
     <desc lang="en">A screwball comedy starring Paul Rudd as a rising executive looking for glory and Steve Carell as the dim-witted IRS agent with an unusual hobby, who may just be his ticket to a big corner office. كوميدي من بطولة بول رود الذي يلعب دور موظف تنفيذي صاعد يتطلع نحو الوصول إلى المجد، وستيف كاريل الذي يلعب دور موظف ضرائب غبي يمتلك هوايات غريبة، والذي قد يكون فيما بعد وسيلته الوحيدة للوصول إلى منصب رفيع المستوى في الشركة.</desc>
   </programme>
-  <programme start="20200923001500 +0000" stop="20200923022500 +0000" channel="OSN Enigma">
-    <title lang="en">The Interpreter</title>
-    <title lang="ar">ذا إنتربرتر</title>
-    <desc lang="en">Political intrigue and deception unfold inside the United Nations, where a US Secret Service agent is assigned to investigate an interpreter who overhears an assassination plot. يتم الكشف عن خديعة سياسية في داخل الأمم المتحدة حيث يكلف عميل من الاستخبارات الأميريكية التحقيق مع مترجمة سمعت مصادفة مؤامرة تحاك تحضيراً لعملية اغتيال.</desc>
+  <programme start="20200925190000 +0000" stop="20200925190000 +0000" channel="OSN POP">
+    <title lang="en">Knocked Up</title>
+    <title lang="ar">نوكد أب</title>
+    <desc lang="en">Allison Scott's life gets seriously derailed when a one-nighter with slacker Ben Stone results in an unwanted pregnancy. Comedy starring Seth Rogen and Katherine Heigl. يخرج قطار حياة الشابة آليسون سكوت عن مساره بعد قضائها ليلة حميمة مع الشاب الكسول بين ستون، نتج عنها حمل غير محسوب أو متوقع! كوميديا، مع سيث روغن وكاثرين هايغل.</desc>
   </programme>
-  <programme start="20200923022500 +0000" stop="20200923041000 +0000" channel="OSN Enigma">
-    <title lang="en">Love Finds You In Valentine</title>
-    <title lang="ar">لاف فايندز يو إن فالنتاين</title>
-    <desc lang="en">Romantic Drama. Kennedy Blaine, a Californian girl, inherits a ranch in the small town of Valentine in Nebraska. Before she sells the property, she decides to spend the summer in her house and learn more about her family. دراما ورومانسية. ترث فتاة من كاليفورنيا تُدعى كينيدي بلين مزرعة في بلدة فالنتاين الصغيرة في نبراسكا. تقرر قضاء الصيف في منزلها والتعرف أكثر على عائلتها قبل أن تقوم ببيع العقار.</desc>
+  <programme start="20200925190000 +0000" stop="20200925211500 +0000" channel="OSN POP">
+    <title lang="en">Knocked Up</title>
+    <title lang="ar">نوكد أب</title>
+    <desc lang="en">Allison Scott's life gets seriously derailed when a one-nighter with slacker Ben Stone results in an unwanted pregnancy. Comedy starring Seth Rogen and Katherine Heigl. يخرج قطار حياة الشابة آليسون سكوت عن مساره بعد قضائها ليلة حميمة مع الشاب الكسول بين ستون، نتج عنها حمل غير محسوب أو متوقع! كوميديا، مع سيث روغن وكاثرين هايغل.</desc>
   </programme>
-  <programme start="20200923041000 +0000" stop="20200923060000 +0000" channel="OSN Enigma">
-    <title lang="en">The Other Half</title>
-    <title lang="ar">ذا أذر هاف</title>
-    <desc lang="en">A psychological drama that centres on a passionate love affair between a self-destructive drifter and a bi-polar woman. دراما سيكولوجية تتمحور حول علاقة غرامية بين شاب طائش ولامبالي وشابة تعاني من اضطراب الاكتئاب الهوسي.</desc>
+  <programme start="20200925211500 +0000" stop="20200925231500 +0000" channel="OSN POP">
+    <title lang="en">Blockers</title>
+    <title lang="ar">بلوكرز</title>
+    <desc lang="en">Three high school seniors make a pact to lose their virginity on prom night. Their disgruntled parents devise a plan to block their daughters from sealing the deal. Their secret operation leads to many hijinks and unexpected surprises. تقوم ثلاثة طالبات في المرحلة الثانوية بإبرام إتفاق على أن يفقدوا عذريتهم في يوم حفلة تخرجهم. فيقوم آباؤهم الساخطين بوضع خطة لمنع بناتهم من إتمام إتفاقهم. تؤدي هذه العملية السرية إلى الكثير من الفوضى والمفاجآت الغير متوقعة.</desc>
   </programme>
-  <programme start="20200923060000 +0000" stop="20200923074000 +0000" channel="OSN Enigma">
-    <title lang="en">Curvature</title>
-    <title lang="ar">كيرفتشر</title>
-    <desc lang="en">Sci-Fi Thriller, Helen tries to cope with the recent death of her husband, a scientist who killed himself right when he was on the verge of successfully completing the invention of a time machine. إثارة وخيال علمي، تحاول هيلين أن تتأقلم مع وفاة زوجها العالم الذي انتحر حديثاً بعد أن كان على وشك الإنتهاء من إختراعه لآله الزمن بنجاح.</desc>
+  <programme start="20200925231500 +0000" stop="20200926011500 +0000" channel="OSN POP">
+    <title lang="en">Mr. Popper's Penguins</title>
+    <title lang="ar">مستر بوبرز بنغوينز</title>
+    <desc lang="en">A businessman, clueless when it comes to the important things in life, inherits six penguins that turn his swank apartment into a snowy winter wonderland and the rest of his life upside-down. يرث رجل أعمال، جاهل في الأمور الأساسية في الحياة، ستة بطاريق يقومون بتحويل شقته الفارهة إلى شتاء مُثلج، ويقلبون حياته رأسا على عقب.</desc>
   </programme>
-  <programme start="20200923074000 +0000" stop="20200923091000 +0000" channel="OSN Enigma">
-    <title lang="en">Watching Over You</title>
-    <title lang="ar">واتشينغ أوفر يو</title>
-    <desc lang="en">Thriller. Single mum Sarah (Andrea Bogart) moves into the suburbs and starts dating a firefighter, only to find herself the target of an obsessive neighbourhood watchman who aims to prove he's the best man to protect her. إثارة. تنتقل سارة الأم العزباء ( أندريا بوغارت) لتعيش بإحدى الضواحي وهناك تتعرف على رجل الإطفاء، وسرعان ما تجد نفسها مستهدفة من قبل الحارس المهووس الذي يحاول إثبات أنه الوحيد الذي بإمكانه حمايتها.</desc>
+  <programme start="20200926011500 +0000" stop="20200926030000 +0000" channel="OSN POP">
+    <title lang="en">The Guilt Trip</title>
+    <title lang="ar">ذا غيلت تريب</title>
+    <desc lang="en">An inventor invites his widowed mother (Barbara Streisand) on a road-trip as he tries to sell a new product. Across 3,000 miles he's constantly aggravated by her antics, but over time comes to realise they have more in common than he thought. يوجه مخترع الدعوة لأمه الأرملة لمرافقته في رحلة يحاول خلالها بيع منتج جديد. وبينما يقطعان مسافة 3 آلاف ميل، يشعر بالغضب بشكل متواصل بسبب تصرفاتها الغريبة، ولكنه مع الوقت يدرك أنهما يمتلكان العديد من الأشياء المشتركة بينهما.</desc>
   </programme>
-  <programme start="20200923091000 +0000" stop="20200923104000 +0000" channel="OSN Enigma">
-    <title lang="en">A Friend's Obsession</title>
-    <title lang="ar">ايه فريندز أوبسيشن</title>
-    <desc lang="en">Thriller drama. When Megan's fiance is killed, she moves cross country and rebuilds her life with a new boyfriend. She runs into an old colleague, Lloyd, and becomes close friends with him. When Lloyd wants more from Megan, he begins sabotaging everything in her life. دراما وإثارة. تنتقل ميغان مقتل خطيبها لتبدأ بناء حياتها مع صديق جديد. ولكن عندما تتقابل صدفة بزميل قديم لها " لويد" ويتقرب منها يبدأ في تخريب كل شيء في حياتها.</desc>
+  <programme start="20200926030000 +0000" stop="20200926044500 +0000" channel="OSN POP">
+    <title lang="en">Legally Blonde</title>
+    <title lang="ar">ليغالي بلوند</title>
+    <desc lang="en">Elle has it all. She's the president of her sorority, she dates the cutest boy on campus and wants nothing more than to be Mrs. Warner Huntington. But, there's just one thing stopping Warner from popping the question: Elle is too blonde. أيل تملك كل شيء، فهي رئيسة سكن الطالبات الجامعي، وتواعد أظرف شاب في المخيم، لكنها ترغب بشدة بأن تتزوج وتصبح السيدة وورنر هانتنغتن، لكن هناك شيء واحد يوقف وورنر عن طلب الزواج منها وهو أنها شقراء للغاية.</desc>
   </programme>
-  <programme start="20200923104000 +0000" stop="20200923122500 +0000" channel="OSN Enigma">
-    <title lang="en">The Other Half</title>
-    <title lang="ar">ذا أذر هاف</title>
-    <desc lang="en">A psychological drama that centres on a passionate love affair between a self-destructive drifter and a bi-polar woman. دراما سيكولوجية تتمحور حول علاقة غرامية بين شاب طائش ولامبالي وشابة تعاني من اضطراب الاكتئاب الهوسي.</desc>
+  <programme start="20200926044500 +0000" stop="20200926063500 +0000" channel="OSN POP">
+    <title lang="en">Camp Nowhere</title>
+    <title lang="ar">كامب نو وير</title>
+    <desc lang="en">A has-been drama teacher is bribed by a group of kids to pose as a camp counsellor for their made-up summer camp. Mayhem ensues when the parents come to visit. Family comedy starring Christopher Lloyd. تتمكن مجموعة أطفال من إقناع مدرس كان يدرّسهم مادة الدراما، ويقدموا له رشوة  مقابل تمثيل دور المشرف على معسكرهم الصيفي. تبدأ المشاكل بوصول أهاليهم لزيارتهم. عائلي كوميدي، كريستوفر لويد.</desc>
   </programme>
-  <programme start="20200923122500 +0000" stop="20200923135500 +0000" channel="OSN Enigma">
-    <title lang="en">Campfire Kiss</title>
-    <title lang="ar">كامبفاير كيدز</title>
-    <desc lang="en">Feeling disconnected with her teenage son, a protective mother decides to step outside of her comfort zone and take him camping. She begins butting heads with her handsome cabin neighbor, a single father who is also in search of a connection with his teen daughter. عندما تشعر الأم بانفصالها عن ابنها المراهق ، تقرر الخروج من عزلتها وأخذه للتخييم. وسرعان ما تبدأ المشاحنات مع جارها الوسيم، وهو أب عازب يبحث أيضًا عن علاقة مع ابنته المراهقة.</desc>
+  <programme start="20200926063500 +0000" stop="20200926083500 +0000" channel="OSN POP">
+    <title lang="en">Ride Along</title>
+    <title lang="ar">رايد ألونغ</title>
+    <desc lang="en">Joining his decorated police detective, future brother-in-law on a shift along the mean streets of Atlanta, a motor-mouthed high-school security guard learns that life on the force is no picnic. ينضم حارس أمن يعمل في مدرسة ثانوية إلى شقيق زوجته المستقبلية، وهو ضابط في الشرطة، خلال ذهابه في دورية على الشوارع الخطيرة في ولاية أتلانتا، في محاولة منه لأن يثبت له أنه جدير بالثقة.</desc>
   </programme>
-  <programme start="20200923135500 +0000" stop="20200923152500 +0000" channel="OSN Enigma">
-    <title lang="en">Lethal Beauty</title>
-    <title lang="ar">ليثال بيوتي</title>
-    <desc lang="en">Thriller. A spa owner, Aya (Haley Webb), bumps into a distraught, heartbroken sorority sister, Taryn (Haley Pullos), and welcomes her into her home. Taryn, a former foster child, will stop at nothing to create the family bond she has desperately wanted her entire life. إثارة. تتقابل صاحبة النادي الصحي آيه (هالي ويب) صدفة بتارين (هالي بولوز) وتقوم بإستضافتها في منزلها وهي لا تدرك حقيقة تلك الفتاة.</desc>
+  <programme start="20200926083500 +0000" stop="20200926103000 +0000" channel="OSN POP">
+    <title lang="en">Little Fockers</title>
+    <title lang="ar">ليتل فوكرز</title>
+    <desc lang="en">Comedy with Robert De Niro and Ben Stiller. It's taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get 'in' with his tightly wound father-in-law but will he pass the final test. كوميدي من بطولة روبرت دي نيرو وبين ستيلر. تطلّب الأمر من غريغ 10 أعوام، إنجاب طفلين من زوجته بام، واجتياز الكثير من العقبات حتى يتمكن أخيراً من التقرب من حماه، ولكن هل سيتمكن من اجتياز الاختبار الأخير؟.</desc>
   </programme>
-  <programme start="20200923152500 +0000" stop="20200923170000 +0000" channel="OSN Enigma">
-    <title lang="en">Mrs. Harris</title>
-    <title lang="ar">مسز هاريس</title>
-    <desc lang="en">Drama starring Annette Bening, Ben Kingsley and Cloris Leachman, based on the sensational 1980s media event when famed cardiologist Herman Tarnower met a particularly brutal end at the hands of his jilted lover, Jean Harris. دراما من بطولة أنيت بينينغ، بين كينغسلي وكلوريس ليتشمان، مبنية على الحدث الإعلامي المثير في ثمانينيات القرن العشرين عندما لقي طبيب القلب المشهور هيرمان تارنوير حتفه بطريقة وحشية على يدي حبيبته جين هاريس.</desc>
+  <programme start="20200926103000 +0000" stop="20200926121500 +0000" channel="OSN POP">
+    <title lang="en">Baby Mama</title>
+    <title lang="ar">بايبي ماما</title>
+    <desc lang="en">A successful single businesswoman, who dreams of having a baby, discovers she is infertile and so hires a working class woman to be her unlikely surrogate. سيدة أعمال ناجحة غير متزوجة وتحلم أن تصبح أماً، لكنها تكتشف أنها عاقر. فتقوم باستئجار شابة من الطبقة العاملة لتقوم بدور الأم البديلة.</desc>
   </programme>
-  <programme start="20200923170000 +0000" stop="20200923184500 +0000" channel="OSN Enigma">
-    <title lang="en">The Glass House</title>
-    <title lang="ar">ذا غلاس هاوس</title>
-    <desc lang="en">A pair of orphaned teenagers become suspicious when their new legal guardians seem more interested in their insurance money than their well-being. يتشكك مراهقان يتيمان في نوايا الوصيين الجديدين عليهما، لأنهما يبديان اهتماماً بأموال التأمين الخاصة بهما، أكثر من سلامتهما.</desc>
+  <programme start="20200926121500 +0000" stop="20200926140000 +0000" channel="OSN POP">
+    <title lang="en">Legally Blonde 2: Red White And Blonde</title>
+    <title lang="ar">ليغالي بلوند 2: ريد وايت آند بلوند</title>
+    <desc lang="en">After Elle Woods, the eternally perky, fashionably adventurous, famously blonde Harvard Law grad gets fired by her law firm because of her opposition to animal testing, she takes her fight to Washington. بعدما تتعرض أيل وودز، الفتاة الشقراء الشهيرة التي تخرجت من هارفرد، للطرد من قبل مكتب المحاماة بسبب اعتراضها على التجارب التي تجرى على الحيوانات، تذهب إلى واشنطون لمواصلة معركتها هناك.</desc>
   </programme>
-  <programme start="20200923184500 +0000" stop="20200923203500 +0000" channel="OSN Enigma">
-    <title lang="en">The Runaways</title>
-    <title lang="ar">ذا راناوايز</title>
-    <desc lang="en">Drama. A coming-of-age biographical film about the 1970s teenage all-girl rock band The Runaways. The relationship between band members Cherie Currie and Joan Jett is also explored. .دراما. تتناول الأحداث قصة فرقة (الرنواي) خلال سبعينات القرن الماضي والتي نكتشف من خلالها العلاقة بين عضوات الفريق شيري كاري وجوان جيت.</desc>
+  <programme start="20200926140000 +0000" stop="20200926160000 +0000" channel="OSN POP">
+    <title lang="en">The Heat</title>
+    <title lang="ar">ذا هيت</title>
+    <desc lang="en">An egotistical FBI agent is forced to team with a loud-mouthed local cop. The two despise one another at first sight but as they dig deeper into the identity of their prey, they forge an abiding respect and friendship. تنال عميلة أف بي آي وعدا بالحصول على ترقية كبيرة إذا ما تمكنت من إلقاء القبض على لورد مخدرات يؤسس محلاً له في بوسطن، ولكنها مجبرة على التعاون مع شرطية محلية وقحة بالرغم من أن كلتيهما تحتقر الأخرى من أول نظرة.</desc>
   </programme>
-  <programme start="20200923203500 +0000" stop="20200923203500 +0000" channel="OSN Enigma">
-    <title lang="en">Anti Matter</title>
-    <title lang="ar">أنتي ماتر</title>
-    <desc lang="en">A scientist faces the question of what makes us whole and if there is a part of us that is not part of this physical world when she discovers how to travel through a worm hole. تتساءل عالمة حول ما يجعلنا كاملين وما إذا كان هناك جزء منا ليس من هذا العالم المادي عندما تكتشف كيفية السفر عبر ثقب دودي.</desc>
+  <programme start="20200926160000 +0000" stop="20200926180000 +0000" channel="OSN POP">
+    <title lang="en">Spy</title>
+    <title lang="ar">سباي</title>
+    <desc lang="en">After years of doing work integral to the success of major missions, a deskbound CIA analyst is given the chance to go undercover in order to save her partner and thwart a global disaster at the hands of an arms dealer. بعد سنوات من القيام بوظيفة بالغة الأهمية ساهمت في إنجاح العديد من المهمات الكبيرة، تمنح موظفة سي آي أيه مكتبية فرصة التحول إلى عميلة ميدانية من أجل إنقاذ شريكها ومحاولة إحباط كارثة عالمية يخطط لتنفيذها تاجر سلاح.</desc>
   </programme>
-  <programme start="20200923203500 +0000" stop="20200923222000 +0000" channel="OSN Enigma">
-    <title lang="en">Anti Matter</title>
-    <title lang="ar">أنتي ماتر</title>
-    <desc lang="en">A scientist faces the question of what makes us whole and if there is a part of us that is not part of this physical world when she discovers how to travel through a worm hole. تتساءل عالمة حول ما يجعلنا كاملين وما إذا كان هناك جزء منا ليس من هذا العالم المادي عندما تكتشف كيفية السفر عبر ثقب دودي.</desc>
-  </programme>
-  <programme start="20200923222000 +0000" stop="20200924000000 +0000" channel="OSN Enigma">
-    <title lang="en">Blame</title>
-    <title lang="ar">بليم</title>
-    <desc lang="en">A drama teacher's taboo relationship with an unstable student strikes a nerve in her jealous classmate, sparking a vengeful chain of events within their suburban high school that draws parallels to 'The Crucible'. تقيم  معلمة علاقة محظورة مع طالب غير مستقر والتي تسبب توترا كبيرا مع زميلتها الغيورة مما تسبب بمجموعة من الأحداث داخل مدرستهم الثانوية الواقعة في الضواحي.</desc>
+  <programme start="20200926180000 +0000" stop="20200926200000 +0000" channel="OSN POP">
+    <title lang="en">There's Something About Mary</title>
+    <title lang="ar">ذيرز سامثينغ اباوت ماري</title>
+    <desc lang="en">A man gets a chance to meet up with his dream girl from highschool, even though his date with her back then was a complete disaster. Starring Cameron Diaz. يحظى رجل بلقاء فتاة أحلامه من أيام المدرسة الثانوية، برغم أن موعدهما الغرامي أيام المدرسة كان كارثة كبيرة. من بطولة كاميرون دياز.</desc>
   </programme>
   <programme start="20200924000000 +0000" stop="20200924014500 +0000" channel="OSN Enigma">
     <title lang="en">Lethal Beauty</title>
@@ -1270,95 +1185,80 @@
     <title lang="ar">كوول بلو</title>
     <desc lang="en">Dustin, an aspiring painter meets this woman named Christiane. Dustin is on a search for love and inspiration. When Christiane dumps him and disapears as quickly as she dropped in, Dustin embarks on an obsessive search in Southern California to search for her. داستن ، رسام طموح يلتقي امرأة تدعى كريستيان. داستن يبحث عن الحب والإلهام. عندما تتخلى عنه كريستيان وتختفي بالسرعة التي دخلت فيها حياته، يشرع داستن في بحث هوسي عنها في جنوب كاليفورنيا.</desc>
   </programme>
-  <programme start="20200923004500 +0000" stop="20200923020500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Kurt Turns Evil</title>
-    <title lang="ar">كيرت تيرنز إيفل</title>
-    <desc lang="en">Kurt a forklift, operator surrounded by successful careers, realizes that his career is not respected by society, so he decides to climb the social ladder. As failure greets him at every step, Kurt turns evil. يدرك كيرت أن وظيفته كمشغل للرافعة الشوكية لا تحظى بإحترام الآخرين لذا يقرر أن يتسلق السلم الإجتماعى. ومع ملاحقة الفشل له، يتحول شريراً.</desc>
+  <programme start="20200925204500 +0000" stop="20200925204500 +0000" channel="OSN Enigma">
+    <title lang="en">Sliver</title>
+    <title lang="ar">سيلفر</title>
+    <desc lang="en">A new apartment brings a new life of passion and murder to a literary editor, in this voyeuristic love triangle. Starring Sharon Stone and William Baldwin. تعيش كاتبة حياة جديدة مليئة بالإثارة والحياة الإجرامية في آن واحد في شقتها الجديدة، وذلك بسبب علاقة عاطفية ثلاثية الأطراف. بطولة شارون ستون وويليام بالدوين.</desc>
   </programme>
-  <programme start="20200923020500 +0000" stop="20200923033000 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Twigson Ties The Knot</title>
-    <title lang="ar">تويغسان تايز ذا نوت</title>
-    <desc lang="en">Animation. When Lillebror's mother is mysteriously hurt in a biking accident, Lillebror and Knerten turn the town upside down trying to find the culprit. فيلم رسوم متحركة عائلي. عندما تصاب والدة ليليبرور بشكل غامض في حادث دراجة، يقلب ليليبرور ونيرتن البلدة رأسا على عقب للعثور على الجاني.</desc>
+  <programme start="20200925204500 +0000" stop="20200925223500 +0000" channel="OSN Enigma">
+    <title lang="en">Sliver</title>
+    <title lang="ar">سيلفر</title>
+    <desc lang="en">A new apartment brings a new life of passion and murder to a literary editor, in this voyeuristic love triangle. Starring Sharon Stone and William Baldwin. تعيش كاتبة حياة جديدة مليئة بالإثارة والحياة الإجرامية في آن واحد في شقتها الجديدة، وذلك بسبب علاقة عاطفية ثلاثية الأطراف. بطولة شارون ستون وويليام بالدوين.</desc>
   </programme>
-  <programme start="20200923033000 +0000" stop="20200923050500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Boonie Bears &amp; The Hunters</title>
-    <title lang="ar">بوني بيرز أند ذي هنتر</title>
-    <desc lang="en">Hunter Vick is chasing the bears Brayer and Bramble in attempt to take them to the circus and gain some money in return, The beaver loses all his turnips in this mess and tries to take revenge from the bears. Hunter Vick never seems to give up and keeps on chasing the f. يقوم هانتر فيك بمطاردة الدببة براير وبرامبل في محاولة لنقلهما إلى السيرك لكسب بعض المال، يفقد القندس كل اللفت في هذه الفوضى ويحاول الانتقام من الدببة،  لكن هنتر فيك لا يستسلم أبدًا ويواصل مطاردته للدببة.</desc>
+  <programme start="20200925223500 +0000" stop="20200926000000 +0000" channel="OSN Enigma">
+    <title lang="en">Even Lambs Have Teeth</title>
+    <title lang="ar">إيفن لامبس هاف تيث</title>
+    <desc lang="en">Two young women terrorized by a group of small town psychos seek revenge on their tormentors. ترعب مجموعة من المعقدين نفسيا شابتان في بلدة صغيرة يسعون للانتقام من معذبيهم.</desc>
   </programme>
-  <programme start="20200923050500 +0000" stop="20200923063500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">The Secret Of Kells</title>
-    <title lang="ar">ذا سيكرت أوف كيلز</title>
-    <desc lang="en">Animation. Adventure awaits 12-year-old Brendan who must fight Vikings to find a crystal and complete the legendary Book of Kells. Brendan must overcome his deepest fears on a secret quest that will take him into the enchanted forest where mythical creatures hide. رسوم متحركة. ينتظر بريندن البالغ من العمر 12 عاماً العديد من المغامرات بينما يتوجب عليه قتال الفايكينغز للعثور على بلورة وإكمال بوك أوف كيلز الأسطوري، كما يتوجب عليه التغلب على أعظم مخاوفه خلال بحث سري سيأخذه إلى الغابة السحرية التي يختبىء داخلها مخلوقات أسطورية.</desc>
+  <programme start="20200926000000 +0000" stop="20200926014000 +0000" channel="OSN Enigma">
+    <title lang="en">Picture Perfect Mysteries: Dead Over Diamonds</title>
+    <title lang="ar">بيكتشر بيرفكت ميستريز: ديد أوفر دايموندز</title>
+    <desc lang="en">Crime. Photographer Allie and Detective Sam's investigation into a priceless stolen necklace leads to danger and an unexpected death. جريمة. يؤدي تحقيق المصورة آلى والمحقق سام في قضية العقد الثمين المسروق إلى خطر وموت غير متوقع.</desc>
   </programme>
-  <programme start="20200923063500 +0000" stop="20200923075500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Twigson In Trouble</title>
-    <title lang="ar">تويغسون إن ترابل</title>
-    <desc lang="en">Family. The final part in the trilogy about Twigson and Junior. A boy (Adrian Smith) finds an abandoned baby while searching for his little friend. عائلي. في الجزء الأخير من الثلاثية التي تدور حول تويغسون وجونيور، يعثر صبي (أدريان سميث) على طفل منبوذ بينما يبحث عن صديقه الصغير.</desc>
+  <programme start="20200926014000 +0000" stop="20200926032500 +0000" channel="OSN Enigma">
+    <title lang="en">Appetite For Love</title>
+    <title lang="ar">أبتايت فور لاف</title>
+    <desc lang="en">A corporate executive is sent to a small town to re-brand a restaurant as part of a strategic acquisition, but the iconic diner happens to be in her home town where she hasn't been in years and the owner is her high school sweetheart. يتم إرسال مديرة تنفيذية لاحدى الشركات إلى بلدة صغيرة لإعادة افتتاح مطعم مستملك من قبل الشركة ولكن يصادف أن هذا المطعم يقع في مسقط رأسها  والتي لم تزرها منذ سنوات والمالك هو حبيبها السابق.</desc>
   </programme>
-  <programme start="20200923075500 +0000" stop="20200923091500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Black Sheep Smile</title>
-    <title lang="ar">بلاك شيب سمايل</title>
-    <desc lang="en">Fancy, Cloe and Victoria are annoyed. Grumbo has his own theory. Blackie, of course, has other ideas. Everyone will have a laugh when she tries to put her theory into practice. ينزعج كل من فانسي ، كلو ي وفكتوريا . ولكن غرامبو  لديه نظريته الخاصة وبلاكي لديه أفكار أخرى. سيضحك الجميع عندما تحاول تطبيق نظريتها.</desc>
+  <programme start="20200926032500 +0000" stop="20200926051000 +0000" channel="OSN Enigma">
+    <title lang="en">The Other Wife</title>
+    <title lang="ar">ذا اذر وايف</title>
+    <desc lang="en">Kate is devastated to learn that her husband Billy has been living a double life. تشعر كيت بخيبة أمل كبيرة عندما علمت أن زوجها بيلي يعيش حياة مزدوجة.</desc>
   </programme>
-  <programme start="20200923091500 +0000" stop="20200923110000 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Blue Elephant 2</title>
-    <title lang="ar">بلو إيليفانت 2</title>
-    <desc lang="en">This animated sequel tells of Khan Kluay's two elephant children and the struggle whether to live with his wife or fight another attack by the Burmese as King Naresuan's war elephant. تروي هذه التتمة من فيلم الرسوم المتحركة هذا قصة خان كلواي وصغيريه الفيلين، وصراعه بين أن يعيش مع زوجته أو أن يحارب ضد هجوم آخر شنّه البورميين باعتباره فيل الملك ناريسوانت المحارب.</desc>
+  <programme start="20200926051000 +0000" stop="20200926065500 +0000" channel="OSN Enigma">
+    <title lang="en">The Wrong Babysitter</title>
+    <title lang="ar">ذا رونغ بيبي سيتر</title>
+    <desc lang="en">Thriller. Susan (Daphne Zuniga), a single mother, hires her neighbour to baby-sit while she's out on a business trip. She's forced to rush home when her daughter, Christy, goes missing. Susan has to face some painful memories to rescue her daughter. إثارة. تستأجر سوزان (دافني زونيغا)، الأم العزباء جارتها للعناية بابنتها أثناء قيامها برحلة عمل. لذا يجب عليها أن تواجه بعض الذكريات المؤلمة لإنقاذ ابنتها بعد إختفائها.</desc>
   </programme>
-  <programme start="20200923110000 +0000" stop="20200923122000 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">The Wheelers</title>
-    <title lang="ar">ذا ويلرز</title>
-    <desc lang="en">Animation. A small group of friends calling themselves "The Wheelers" patrol the streets on their skateboards to protect their neighbourhood from vandals and crime. One day they meet BUFO a friendly alien on the run from the sinister Air Defence Bureau. رسوم متحركة. تجول مجموعة صغيرة من الأصدقاء الذين يُطلقون على أنفسهم اسم "ذا ويلرز" في الشوارع على ألواح تزلجهم، وذلك من أجل إنقاذ حيّهم من المخربين والجريمة، وفي أحد الأيام يلتقون بمخلوق غريب ولطيف يُدعى بوفو، يحاول الهرب من مكتب الدفاع الجوي الشرير.</desc>
+  <programme start="20200926065500 +0000" stop="20200926084000 +0000" channel="OSN Enigma">
+    <title lang="en">The Night Eats The World</title>
+    <title lang="ar">ذا نايت إيتس ذا وورلد</title>
+    <desc lang="en">Horror drama starring Anders Danielsen Lie and Golshifteh Farahani. The morning after a party, a young man wakes up to find Paris invaded by zombies. فيلم رعب درامي من بطولة انديرز دانيلسن وغولشيفته فارهاني. يستيقظ شاب في صباح أحد الأيام عقب أمسية حافلة ليجد مدينة تتعرض لغزو من وحوش الزومبي.</desc>
   </programme>
-  <programme start="20200923122000 +0000" stop="20200923135000 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Boonie Bears &amp; The Hunters</title>
-    <title lang="ar">بوني بيرز أند ذي هنتر</title>
-    <desc lang="en">Hunter Vick is chasing the bears Brayer and Bramble in attempt to take them to the circus and gain some money in return, The beaver loses all his turnips in this mess and tries to take revenge from the bears. Hunter Vick never seems to give up and keeps on chasing the f. يقوم هانتر فيك بمطاردة الدببة براير وبرامبل في محاولة لنقلهما إلى السيرك لكسب بعض المال، يفقد القندس كل اللفت في هذه الفوضى ويحاول الانتقام من الدببة،  لكن هنتر فيك لا يستسلم أبدًا ويواصل مطاردته للدببة.</desc>
+  <programme start="20200926084000 +0000" stop="20200926102500 +0000" channel="OSN Enigma">
+    <title lang="en">The Other Wife</title>
+    <title lang="ar">ذا اذر وايف</title>
+    <desc lang="en">Kate is devastated to learn that her husband Billy has been living a double life. تشعر كيت بخيبة أمل كبيرة عندما علمت أن زوجها بيلي يعيش حياة مزدوجة.</desc>
   </programme>
-  <programme start="20200923135000 +0000" stop="20200923150500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Farm Friends</title>
-    <title lang="ar">فارم فريندز</title>
-    <desc lang="en">Blackie arrives at “Liberty” farm - a boring place where nothing ever happens. As soon as the black sheep gets there she already wants to leave and be free. But Blackie will soon find out that the farm is the best place for her. تصل بلاكي إلى مزرعة "ليبرتي" وهو مكان ممل لا يحدث فيه أي شيء على الإطلاق. فعندما يصل الخروف الأسود إلى هناك، تريد أن ترحل و تصبح حرة ولكنها سرعان ما تكتشف أن تلك المزرعة هي أفضل مكان لها.</desc>
+  <programme start="20200926102500 +0000" stop="20200926120500 +0000" channel="OSN Enigma">
+    <title lang="en">This Beautiful Fantastic</title>
+    <title lang="ar">ذيس بيوتيفل فنتاستك</title>
+    <desc lang="en">A whimsical comedy drama. Bella Brown, a reclusive young woman, faces eviction from her home if she doesn't renovate her garden. She sets to work watched by Alfie, her neighbour with a green thumb. Their bond inspires her to pursue her dream of becoming an author. دراما وكوميديا. تدور أحداث الفيلم حول فتاة شابة منعزلة تتعرض للتهديد بأن يتم طردها من منزلها إذا لم تقم بترميم حديقتها. وتلهمها علاقتها بجارها ألفي على سعيها  وراء تحقيق حلمها فى أن تصبح مؤلفة.</desc>
   </programme>
-  <programme start="20200923150500 +0000" stop="20200923163500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Mia And The Migoo</title>
-    <title lang="ar">ميا آند ذا ميغو</title>
-    <desc lang="en">In this beautiful hand-painted animation the young heroine Mia enters the mysterious, almost fairytale world of the forest and befriends the mysterious Migoo with whom she saves the planet from ecological disaster. رسوم متحركة. تدخل ميا البطلة الصغيرة العالم الغامض والخيالي للغابة، وتُصادق ميغو الغامض، حيث يقومان بإنقاذ الكوكب من كارثة بيئية.</desc>
+  <programme start="20200926120500 +0000" stop="20200926134000 +0000" channel="OSN Enigma">
+    <title lang="en">Murder At The Mansion</title>
+    <title lang="ar">مردر آت ذا مانشن</title>
+    <desc lang="en">Thriller. Deanna, a bride-to-be, becomes suspicious of her fiance's family, when she comes across some dark family secrets, while planning their wedding at his remote countryside estate. إثارة. تشك العروس ديانا بعائلة خطيبها عندما تكتشف بعض من الأسرار الخاصة بالعائلة أثناء تحضيرها هي وخطيبها لزواجهما في منزل خطيبها النائي في الريف.</desc>
   </programme>
-  <programme start="20200923163500 +0000" stop="20200923175500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">The Secret Of Kells</title>
-    <title lang="ar">ذا سيكرت أوف كيلز</title>
-    <desc lang="en">Animation. Adventure awaits 12-year-old Brendan who must fight Vikings to find a crystal and complete the legendary Book of Kells. Brendan must overcome his deepest fears on a secret quest that will take him into the enchanted forest where mythical creatures hide. رسوم متحركة. ينتظر بريندن البالغ من العمر 12 عاماً العديد من المغامرات بينما يتوجب عليه قتال الفايكينغز للعثور على بلورة وإكمال بوك أوف كيلز الأسطوري، كما يتوجب عليه التغلب على أعظم مخاوفه خلال بحث سري سيأخذه إلى الغابة السحرية التي يختبىء داخلها مخلوقات أسطورية.</desc>
+  <programme start="20200926134000 +0000" stop="20200926152000 +0000" channel="OSN Enigma">
+    <title lang="en">Real Women Have Curves</title>
+    <title lang="ar">ريل ويمين هاف كيرفز</title>
+    <desc lang="en">Comedy drama starring America Ferrera, Lupe Ontiveros, Ingrid Oliu. A humorous and warm-hearted look at a Mexican-American teenage girl coming of age in a boiling cauldron of cultural expectations, class constrictions, family duty, and her own personal aspirations. دراما كوميدية من بطولة أمريكا فيريرا، لوب أونتيفيروس، إنغريد أوليو. نظرة طريفة على مراهقة مكسيكية-أمريكية ممزقة بين التوقعات الثقافية، التضييق الطبقي، الواجبات الأسرية، وطموحاتها الخاصة.</desc>
   </programme>
-  <programme start="20200923175500 +0000" stop="20200923191000 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">The Wheelers</title>
-    <title lang="ar">ذا ويلرز</title>
-    <desc lang="en">Animation. A small group of friends calling themselves "The Wheelers" patrol the streets on their skateboards to protect their neighbourhood from vandals and crime. One day they meet BUFO a friendly alien on the run from the sinister Air Defence Bureau. رسوم متحركة. تجول مجموعة صغيرة من الأصدقاء الذين يُطلقون على أنفسهم اسم "ذا ويلرز" في الشوارع على ألواح تزلجهم، وذلك من أجل إنقاذ حيّهم من المخربين والجريمة، وفي أحد الأيام يلتقون بمخلوق غريب ولطيف يُدعى بوفو، يحاول الهرب من مكتب الدفاع الجوي الشرير.</desc>
+  <programme start="20200926152000 +0000" stop="20200926170000 +0000" channel="OSN Enigma">
+    <title lang="en">Josie</title>
+    <title lang="ar">جوسي</title>
+    <desc lang="en">Drama and thriller starring Sophie Turner and Dylan McDermott. Hank, a solitary man living a dull existence in the sleepy, Southern town raises eyebrows when he develops a questionable relationship with Josie, a recently transplanted high school student. فيلم دراما وتشويق من بطولة صوفي تيرنر وديلان ماكديرمات. هانك شخص انعزالي يعيش حياة مملة في بلدة جنوبية هادئة، وسرعان ما يثير التساؤلات عندما يقع في غرام جوسي، وهي طالبة في المرحلة الثانوية انتقلت حديثاً.</desc>
   </programme>
-  <programme start="20200923191000 +0000" stop="20200923202500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Twigson In Trouble</title>
-    <title lang="ar">تويغسون إن ترابل</title>
-    <desc lang="en">Family. The final part in the trilogy about Twigson and Junior. A boy (Adrian Smith) finds an abandoned baby while searching for his little friend. عائلي. في الجزء الأخير من الثلاثية التي تدور حول تويغسون وجونيور، يعثر صبي (أدريان سميث) على طفل منبوذ بينما يبحث عن صديقه الصغير.</desc>
+  <programme start="20200926170000 +0000" stop="20200926184000 +0000" channel="OSN Enigma">
+    <title lang="en">Poltergeist III</title>
+    <title lang="ar">بولترغايست 3</title>
+    <desc lang="en">The final installment in the supernatural Poltergeist series. Psychically attuned youngster Carol Anne (Heather O'Rourke) is sent to live in Chicago with her aunt and uncle, but that doesn't mean that she has escaped the apparitions that have haunted her in the past. الجزء الأخير من سلسلة بولترغايست. تم إرسال الطفلة كارول آن (هيثر أورورك) للعيش مع أقاربها بولاية شيكاغو، ولكن هل ستنجى هناك من الأشباح التي كانت تطاردها في الماضي؟.</desc>
   </programme>
-  <programme start="20200923202500 +0000" stop="20200923202500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Farm Friends</title>
-    <title lang="ar">فارم فريندز</title>
-    <desc lang="en">Blackie arrives at “Liberty” farm - a boring place where nothing ever happens. As soon as the black sheep gets there she already wants to leave and be free. But Blackie will soon find out that the farm is the best place for her. تصل بلاكي إلى مزرعة "ليبرتي" وهو مكان ممل لا يحدث فيه أي شيء على الإطلاق. فعندما يصل الخروف الأسود إلى هناك، تريد أن ترحل و تصبح حرة ولكنها سرعان ما تكتشف أن تلك المزرعة هي أفضل مكان لها.</desc>
-  </programme>
-  <programme start="20200923202500 +0000" stop="20200923214000 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Farm Friends</title>
-    <title lang="ar">فارم فريندز</title>
-    <desc lang="en">Blackie arrives at “Liberty” farm - a boring place where nothing ever happens. As soon as the black sheep gets there she already wants to leave and be free. But Blackie will soon find out that the farm is the best place for her. تصل بلاكي إلى مزرعة "ليبرتي" وهو مكان ممل لا يحدث فيه أي شيء على الإطلاق. فعندما يصل الخروف الأسود إلى هناك، تريد أن ترحل و تصبح حرة ولكنها سرعان ما تكتشف أن تلك المزرعة هي أفضل مكان لها.</desc>
-  </programme>
-  <programme start="20200923214000 +0000" stop="20200923231000 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Boonie Bears &amp; The Hunters</title>
-    <title lang="ar">بوني بيرز أند ذي هنتر</title>
-    <desc lang="en">Hunter Vick is chasing the bears Brayer and Bramble in attempt to take them to the circus and gain some money in return, The beaver loses all his turnips in this mess and tries to take revenge from the bears. Hunter Vick never seems to give up and keeps on chasing the f. يقوم هانتر فيك بمطاردة الدببة براير وبرامبل في محاولة لنقلهما إلى السيرك لكسب بعض المال، يفقد القندس كل اللفت في هذه الفوضى ويحاول الانتقام من الدببة،  لكن هنتر فيك لا يستسلم أبدًا ويواصل مطاردته للدببة.</desc>
-  </programme>
-  <programme start="20200923231000 +0000" stop="20200924004500 +0000" channel="OSN Movies Kids HD">
-    <title lang="en">Mia And The Migoo</title>
-    <title lang="ar">ميا آند ذا ميغو</title>
-    <desc lang="en">In this beautiful hand-painted animation the young heroine Mia enters the mysterious, almost fairytale world of the forest and befriends the mysterious Migoo with whom she saves the planet from ecological disaster. رسوم متحركة. تدخل ميا البطلة الصغيرة العالم الغامض والخيالي للغابة، وتُصادق ميغو الغامض، حيث يقومان بإنقاذ الكوكب من كارثة بيئية.</desc>
+  <programme start="20200926184000 +0000" stop="20200926204000 +0000" channel="OSN Enigma">
+    <title lang="en">Frankie And Johnny</title>
+    <title lang="ar">فرانكي أند جوني</title>
+    <desc lang="en">The story of a short-order chef who drives a waitress in his place of work crazy with his adamant courtship and mixed messages. قصة طباخ يقود نادلة في مكان عمله نحو الجنون من خلال مغازلته العنيدة ورسائله المختلطة.</desc>
   </programme>
   <programme start="20200924004500 +0000" stop="20200924020000 +0000" channel="OSN Movies Kids HD">
     <title lang="en">The Wheelers</title>
@@ -1520,80 +1420,100 @@
     <title lang="ar">كاب دوغ</title>
     <desc lang="en">Family adventure with Billy Unger and Cassi Thomson. When his father dies in the line of duty, a young boy works together with his dad's former partner to solve the crime. His dad's former partner? A police dog named Marlowe. فيلم مغامرة عائلي من بطولة بيلي أنغر وكاسي ثومسون. عندما يموت والده أثناء تأدية عمله، يعمل فتى يافع مع شريك والده السابق، وهو كلب بوليسي يدعى مارلو، لحل الجريمة.</desc>
   </programme>
-  <programme start="20200923004000 +0000" stop="20200923022000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Mr. Magoo</title>
-    <title lang="ar">مستر ماغو</title>
-    <desc lang="en">When a stolen gem mistakenly lands in the hands of Quincy Magoo, it’s a cause for confusion, collusion and laughs as a gang of thieves attempts to get the jewel back. عندما تقع جوهرة مسروقة بالخطأ بين يدي كوينسي ماغو، يتسبب الأمر بإحداث حالة من الإلتباس والضحك بينما تحاول عصابة من اللصوص استرجاع الجوهرة.</desc>
+  <programme start="20200925200000 +0000" stop="20200925200000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">The Wish Fish</title>
+    <title lang="ar">ذا ويش فيش</title>
+    <desc lang="en">Animation. Opil is a plump, 8-year-old boy. In a final attempt to stop him from eating junk food, his mother serves him "the wish fish". Opil, thinking it is a joke, wishes that aliens take away all of the fish from the planet. The next day, his wish is fulfilled. أوبيل هو فتى بدين يبلغ من العمر 8 سنوات، تحاول والدته إقناعه بالامتناع عن تناول الطعام غير الصحي من خلال تقديم "سمكة الأماني" له، ونتيجة اعتقاده أن الأمر مجرد مزحة، يتمنى أوبيل أن تقوم المخلوقات الغريبة بأخذ جميع الأسماك من الكوكب، لتتحقق أمنيته في اليوم التالي.</desc>
   </programme>
-  <programme start="20200923022000 +0000" stop="20200923040500 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Maleficent</title>
-    <title lang="ar">ماليفسنت</title>
-    <desc lang="en">Family adventure with Angelina Jolie, Sharlto Copley, Elle Fanning. A powerful and respected fairy helps to rule a magical land, but a betrayal years later turns her pure heart to stone and twists her into a creature bent on revenge, driven to curse an infant princess. مغامرة عائلية من بطولة أنجيلينا جولي، شارلتو كوبلي وإيلي فانينغ. تساعد جنية قوية ومحترمة بحكم أرض سحرية، لكن وبعد تعرضها لسنوات من الخيانة يتحول قلبها النقي إلى حجر وتصبح مخلوقة مصممة على الانتقام، مما يدفعها لإلقاء لعنة على أميرة صغيرة.</desc>
+  <programme start="20200925200000 +0000" stop="20200925211500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">The Wish Fish</title>
+    <title lang="ar">ذا ويش فيش</title>
+    <desc lang="en">Animation. Opil is a plump, 8-year-old boy. In a final attempt to stop him from eating junk food, his mother serves him "the wish fish". Opil, thinking it is a joke, wishes that aliens take away all of the fish from the planet. The next day, his wish is fulfilled. أوبيل هو فتى بدين يبلغ من العمر 8 سنوات، تحاول والدته إقناعه بالامتناع عن تناول الطعام غير الصحي من خلال تقديم "سمكة الأماني" له، ونتيجة اعتقاده أن الأمر مجرد مزحة، يتمنى أوبيل أن تقوم المخلوقات الغريبة بأخذ جميع الأسماك من الكوكب، لتتحقق أمنيته في اليوم التالي.</desc>
   </programme>
-  <programme start="20200923040500 +0000" stop="20200923054000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">The Wild</title>
-    <title lang="ar">ذا وايلد</title>
-    <desc lang="en">Family animation. When a band of furry friends escape from the city zoo, they discover that New York City is the biggest, craziest jungle of all. Now, faced with a new journey and the challenge of a lifetime, they must work together to survive on the outside. عائلي ورسوم متحركة. عندما تهرب فرقة من الأصدقاء من حديقة الحيوانات، يكتشفون أن مدينة نيويورك هي أكبر وأكثر غابة مجنونة على الإطلاق. وبينما يواجهون رحلة جديدة وتحد من العمر، يتوجب عليهم أن يتعاونوا معاً للنجاة.</desc>
+  <programme start="20200925211500 +0000" stop="20200925224500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Zodiac: The Race Begins</title>
+    <title lang="ar">زودياك: ذا ريس بيغنز</title>
+    <desc lang="en">The first 3D animated film to come out of Singapore. An ancient spirit tree tries to stop the Jade Emperor from using 12 animals for a calendar. Tom Arnold lends his voice. أول فيلم رسوم متحركة بتقنية 3D من إنتاج سنغافورة، بصوت توم آرنولد. تحاول شجرة قديمة إيقاف الإمبراطور من استخدام 12 حيوان لإعداد التقويم.</desc>
   </programme>
-  <programme start="20200923054000 +0000" stop="20200923072500 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Brave</title>
-    <title lang="ar">بريف</title>
-    <desc lang="en">Animated adventure. An impetuous princess discovers her reckless choice has put both her family and father's kingdom in peril. Now she will have to face off against the forces of nature and contend with an ancient curse. مغامرة كرتونية. تكتشف أميرة طائشة أن خيارها المتهور يتسبب بتعريض عائلتها ومملكة والدها لخطر كبير. ونتيجة لذلك سيتوجب عليها أن تواجه قوى الطبيعة وتكافح لإبطال لعنة قديمة.</desc>
+  <programme start="20200925224500 +0000" stop="20200926002000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Catcher: Cat City 2</title>
+    <title lang="ar">كاتشر: كات سيتي 2</title>
+    <desc lang="en">Animation. Stanley Mouse, an investigative journalist, is searching for the legend from an ancient "cat tribe" lost in Africa. After finding them, it threatens the continued existence of mouse civilisation. Special Agent Grabowsky will try to save the day. رسوم متحركة. يبحث الصحفي ستانلي ماوس عن أسطورة تعود لـ "قبيلة قطط" قديمة، ضاعت في إفريقيا، وبعد العثور على تلك القبيلة يصبح وجود حضارة الفئران مهدداً، حيث سيحاول العميل الخاص غرابوسكي إنقاذ الموقف.</desc>
   </programme>
-  <programme start="20200923072500 +0000" stop="20200923090500 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Mr. Magoo</title>
-    <title lang="ar">مستر ماغو</title>
-    <desc lang="en">When a stolen gem mistakenly lands in the hands of Quincy Magoo, it’s a cause for confusion, collusion and laughs as a gang of thieves attempts to get the jewel back. عندما تقع جوهرة مسروقة بالخطأ بين يدي كوينسي ماغو، يتسبب الأمر بإحداث حالة من الإلتباس والضحك بينما تحاول عصابة من اللصوص استرجاع الجوهرة.</desc>
+  <programme start="20200926002000 +0000" stop="20200926014500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Cher Ami</title>
+    <title lang="ar">شير آمي</title>
+    <desc lang="en">Animation following the adventures of a French farm pigeon and his friends, who, conscience of their responsibility in the Great War, become bold and courageous couriers trying to save the lives of American soldiers. فيلم رسوم متحركة يروي مغامرات حمامة مزرعة فرنسية وأصدقائها، والذين أدركوا مدى مسؤولياتهم في الحرب العظمى، ليصبحوا سعاة بريد جريئين وشجعان، في محاولة منهم لإنقاذ أرواح الجنود الأمريكيين.</desc>
   </programme>
-  <programme start="20200923090500 +0000" stop="20200923105000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Maleficent</title>
-    <title lang="ar">ماليفسنت</title>
-    <desc lang="en">Family adventure with Angelina Jolie, Sharlto Copley, Elle Fanning. A powerful and respected fairy helps to rule a magical land, but a betrayal years later turns her pure heart to stone and twists her into a creature bent on revenge, driven to curse an infant princess. مغامرة عائلية من بطولة أنجيلينا جولي، شارلتو كوبلي وإيلي فانينغ. تساعد جنية قوية ومحترمة بحكم أرض سحرية، لكن وبعد تعرضها لسنوات من الخيانة يتحول قلبها النقي إلى حجر وتصبح مخلوقة مصممة على الانتقام، مما يدفعها لإلقاء لعنة على أميرة صغيرة.</desc>
+  <programme start="20200926014500 +0000" stop="20200926031500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Cop Dog</title>
+    <title lang="ar">كاب دوغ</title>
+    <desc lang="en">Family adventure with Billy Unger and Cassi Thomson. When his father dies in the line of duty, a young boy works together with his dad's former partner to solve the crime. His dad's former partner? A police dog named Marlowe. فيلم مغامرة عائلي من بطولة بيلي أنغر وكاسي ثومسون. عندما يموت والده أثناء تأدية عمله، يعمل فتى يافع مع شريك والده السابق، وهو كلب بوليسي يدعى مارلو، لحل الجريمة.</desc>
   </programme>
-  <programme start="20200923105000 +0000" stop="20200923125000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Cinderella</title>
-    <title lang="ar">سندريلا</title>
-    <desc lang="en">Live-action take on the classic fairy tale of a young women (Lily James) forced to endure a life of labour at the hands of her stepmother (Cate Blanchett). Forced to do every menial chore imaginable, Ella's fortunes begin to change after meeting a dashing stranger. دراما رومانسية. يعيد هذا الفيلم سرد قصة سندريلا الخيالية الكلاسيكية، فبعدما يموت والدها بشكل غير متوقع، تجد إيلا الشابة (ليلي جيمس) نفسها واقعة تحت رحمة زوجة أبيها (كيت بلانشت) وبناتها، لكن حظها يتغير بعدما تلتقي بالأمير الساحر في الغابة.</desc>
+  <programme start="20200926031500 +0000" stop="20200926043000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">The Wish Fish</title>
+    <title lang="ar">ذا ويش فيش</title>
+    <desc lang="en">Animation. Opil is a plump, 8-year-old boy. In a final attempt to stop him from eating junk food, his mother serves him "the wish fish". Opil, thinking it is a joke, wishes that aliens take away all of the fish from the planet. The next day, his wish is fulfilled. أوبيل هو فتى بدين يبلغ من العمر 8 سنوات، تحاول والدته إقناعه بالامتناع عن تناول الطعام غير الصحي من خلال تقديم "سمكة الأماني" له، ونتيجة اعتقاده أن الأمر مجرد مزحة، يتمنى أوبيل أن تقوم المخلوقات الغريبة بأخذ جميع الأسماك من الكوكب، لتتحقق أمنيته في اليوم التالي.</desc>
   </programme>
-  <programme start="20200923125000 +0000" stop="20200923141000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Peter Pan: Return To Neverland</title>
-    <title lang="ar">بيتر بان: ريتيرن تو نيفرلاند</title>
-    <desc lang="en">Animation. In order to ensnare Peter Pan, Captain Hook tries to kidnap Wendy but spirits her daughter to Neverland by mistake. Peter comes to the aid of young Jane, but as they do battle with Hook he realises it'll take some work before Jane fits in with the Lost Boys. رسوم متحركة. من أجل الإيقاع ببيتربان، يحاول كابتن هوك اختطاف ويندي لكنه يختطف ابنتها جين إلى نيفيرلاند بالخطأ. يأتي بيتربان لإنقاذ جين، لكنه يدرك أثناء عراكه مع هوك أن جين تحتاج لبعض الوقت لتنسجم مع (الصبية المفقودين).</desc>
+  <programme start="20200926043000 +0000" stop="20200926053000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Funny Little Cars</title>
+    <title lang="ar">فاني ليتل كارز</title>
+    <desc lang="en">Animation. Citizens of Doom Valley are not human beings but cars, trucks, boats, and scooters with strong human characteristics. Doom Valley is being destroyed by criminals and environmentally unsound businesses. Its up to the few residents left in town to fight back. رسوم متحركة. يعيش في دوم فالي سكان غير بشريين، وهم سيارات، شاحنات، قوارب ودراجات تتمتع بخصائص بشرية، لكن تلك البلدة تتعرض للتدمير من قبل المجرمين والأعمال المضرة بالبيئة، حيث يعود الأمر للسكان القلائل المتبقين في البلدة للتصدي لهم.</desc>
   </programme>
-  <programme start="20200923141000 +0000" stop="20200923160000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Race To Witch Mountain</title>
-    <title lang="ar">ريس تو ويتش ماونتن</title>
-    <desc lang="en">Family adventure. A Las Vegas cabbie enlists the help of a UFO expert to protect two siblings with paranormal powers from the clutches of an organisation that wants to use the kids for its nefarious plans. يستعين سائق تاكسي بعالمة فضاء لحماية أخوين يتمتعان بقوى خارقة من الوقوع في قبضة المنظمة التي تريد استغلالهما ضمن مخططاتها الشريرة. مغامرات بطولة دوين جونسون.</desc>
+  <programme start="20200926053000 +0000" stop="20200926064500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Marco Macaco</title>
+    <title lang="ar">ماركو ماكاكو</title>
+    <desc lang="en">Animation. Marco Macaco is a day dreamer but also a dedicated beach officer on an island where nothing seems to happen, until the charming Carlo arrives to build a gigantic casino right on Marco's beach. رسوم متحركة. ماركو ماكاكو هو شرطي سواحل متخصص على جزيرة خالية من المشاكل، لحين يصل الساحر كارلو ويقوم ببناء كازينو ضخم على شاطئ ماركو.</desc>
   </programme>
-  <programme start="20200923160000 +0000" stop="20200923180000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">High School Musical 3: Senior Year</title>
-    <title lang="ar">هاي سكول ميوزيكل 3: سينيور يير</title>
-    <desc lang="en">Comedy starring Zac Efron and Ashley Tisdale. High school seniors Troy and Gabriella are facing the prospect of being separated from one another as they head off in different directions to college. يحاول طالبا السنة الأخيرة بالمرحلة الثانوية، تروي وغابريللا، تقبل فكرة افتراقهما عندما يلتحق كل منهما بجامعة مختلفة. كوميدي بطولة زاك إفرون وأشلي تيسديل.</desc>
+  <programme start="20200926064500 +0000" stop="20200926080500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Micropolis</title>
+    <title lang="ar">ميكروبوليس</title>
+    <desc lang="en">Animation. Rafy, a shy mongoose, falls in love with celebrated mongoose diva Onin but their idyllic lives are threatened when Rascal, the leader of the shrews, decides to take control of their Micropolis city. فيلم رسوم متحركة. يقع رافي، النمس الخجول، في حب أونين، أنثى النمس ومغنية الأوبرا المشهورة، لكن يتم تهديد حياتهما العاطفية عندما يقرر راسكال، زعيم الجرذان، أن يسيطر على مدينة ميكروبوليس التي يعيشون فيها.</desc>
   </programme>
-  <programme start="20200923180000 +0000" stop="20200923195500 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Togo</title>
-    <title lang="ar">توغو</title>
-    <desc lang="en">The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage of one man, Leonhard Seppala, and his lead sled dog, Togo. قصة حقيقية تدور أحداثها في سهول الألاسكا في شتاء عام 1925. نشاهد من خلال الفيلم مغامرة مبهجة ورائعة تختبر قوة وشجاعة رجل واحد، ليونارد سيبالا ،وكلبه توغو كلب الزلاجات.</desc>
+  <programme start="20200926080500 +0000" stop="20200926093500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Zodiac: The Race Begins</title>
+    <title lang="ar">زودياك: ذا ريس بيغنز</title>
+    <desc lang="en">The first 3D animated film to come out of Singapore. An ancient spirit tree tries to stop the Jade Emperor from using 12 animals for a calendar. Tom Arnold lends his voice. أول فيلم رسوم متحركة بتقنية 3D من إنتاج سنغافورة، بصوت توم آرنولد. تحاول شجرة قديمة إيقاف الإمبراطور من استخدام 12 حيوان لإعداد التقويم.</desc>
   </programme>
-  <programme start="20200923195500 +0000" stop="20200923195500 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Cinderella</title>
-    <title lang="ar">سندريلا</title>
-    <desc lang="en">Live-action take on the classic fairy tale of a young women (Lily James) forced to endure a life of labour at the hands of her stepmother (Cate Blanchett). Forced to do every menial chore imaginable, Ella's fortunes begin to change after meeting a dashing stranger. دراما رومانسية. يعيد هذا الفيلم سرد قصة سندريلا الخيالية الكلاسيكية، فبعدما يموت والدها بشكل غير متوقع، تجد إيلا الشابة (ليلي جيمس) نفسها واقعة تحت رحمة زوجة أبيها (كيت بلانشت) وبناتها، لكن حظها يتغير بعدما تلتقي بالأمير الساحر في الغابة.</desc>
+  <programme start="20200926093500 +0000" stop="20200926110000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Cher Ami</title>
+    <title lang="ar">شير آمي</title>
+    <desc lang="en">Animation following the adventures of a French farm pigeon and his friends, who, conscience of their responsibility in the Great War, become bold and courageous couriers trying to save the lives of American soldiers. فيلم رسوم متحركة يروي مغامرات حمامة مزرعة فرنسية وأصدقائها، والذين أدركوا مدى مسؤولياتهم في الحرب العظمى، ليصبحوا سعاة بريد جريئين وشجعان، في محاولة منهم لإنقاذ أرواح الجنود الأمريكيين.</desc>
   </programme>
-  <programme start="20200923195500 +0000" stop="20200923214000 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Cinderella</title>
-    <title lang="ar">سندريلا</title>
-    <desc lang="en">Live-action take on the classic fairy tale of a young women (Lily James) forced to endure a life of labour at the hands of her stepmother (Cate Blanchett). Forced to do every menial chore imaginable, Ella's fortunes begin to change after meeting a dashing stranger. دراما رومانسية. يعيد هذا الفيلم سرد قصة سندريلا الخيالية الكلاسيكية، فبعدما يموت والدها بشكل غير متوقع، تجد إيلا الشابة (ليلي جيمس) نفسها واقعة تحت رحمة زوجة أبيها (كيت بلانشت) وبناتها، لكن حظها يتغير بعدما تلتقي بالأمير الساحر في الغابة.</desc>
+  <programme start="20200926110000 +0000" stop="20200926122500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Quest For A Heart</title>
+    <title lang="ar">كويست فور أيه هارت</title>
+    <desc lang="en">Animation. A young troll and his friends are on a quest to find the magic heart that will save their village and the world from turning to stone. رسوم متحركة. يسعى قزم شاب وأصدقاءه للذهاب في رحلة بحث عن القلب السحري الذي سينقذ قريتهم والعالم من التحجر.</desc>
   </programme>
-  <programme start="20200923214000 +0000" stop="20200923225500 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">Peter Pan: Return To Neverland</title>
-    <title lang="ar">بيتر بان: ريتيرن تو نيفرلاند</title>
-    <desc lang="en">Animation. In order to ensnare Peter Pan, Captain Hook tries to kidnap Wendy but spirits her daughter to Neverland by mistake. Peter comes to the aid of young Jane, but as they do battle with Hook he realises it'll take some work before Jane fits in with the Lost Boys. رسوم متحركة. من أجل الإيقاع ببيتربان، يحاول كابتن هوك اختطاف ويندي لكنه يختطف ابنتها جين إلى نيفيرلاند بالخطأ. يأتي بيتربان لإنقاذ جين، لكنه يدرك أثناء عراكه مع هوك أن جين تحتاج لبعض الوقت لتنسجم مع (الصبية المفقودين).</desc>
+  <programme start="20200926122500 +0000" stop="20200926132500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Funny Little Cars</title>
+    <title lang="ar">فاني ليتل كارز</title>
+    <desc lang="en">Animation. Citizens of Doom Valley are not human beings but cars, trucks, boats, and scooters with strong human characteristics. Doom Valley is being destroyed by criminals and environmentally unsound businesses. Its up to the few residents left in town to fight back. رسوم متحركة. يعيش في دوم فالي سكان غير بشريين، وهم سيارات، شاحنات، قوارب ودراجات تتمتع بخصائص بشرية، لكن تلك البلدة تتعرض للتدمير من قبل المجرمين والأعمال المضرة بالبيئة، حيث يعود الأمر للسكان القلائل المتبقين في البلدة للتصدي لهم.</desc>
   </programme>
-  <programme start="20200923225500 +0000" stop="20200924004500 +0000" channel="OSN Movies Disney HD">
-    <title lang="en">High School Musical 3: Senior Year</title>
-    <title lang="ar">هاي سكول ميوزيكل 3: سينيور يير</title>
-    <desc lang="en">Comedy starring Zac Efron and Ashley Tisdale. High school seniors Troy and Gabriella are facing the prospect of being separated from one another as they head off in different directions to college. يحاول طالبا السنة الأخيرة بالمرحلة الثانوية، تروي وغابريللا، تقبل فكرة افتراقهما عندما يلتحق كل منهما بجامعة مختلفة. كوميدي بطولة زاك إفرون وأشلي تيسديل.</desc>
+  <programme start="20200926132500 +0000" stop="20200926145000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">The Apple &amp; The Worm</title>
+    <title lang="ar">ذا آبل آند ذا وورم</title>
+    <desc lang="en">Animation. Torben is Just like any other apple, afraid of sickness, anxious &amp; cynical. His ambition is to end up as the most perfect &amp; beautiful apple in the supermarket. Then the unthinkable happens - he gets a worm! رسوم متحركة. توربين هو تماما مثل أي تفاحة أخرى، يخاف من المرض، القلق والسخرية. طموحه هو أن ينتهي به المطاف كأجمل وأفضل تفاحة في المتجر. ثم حدث أمر غير متوقع، لديه دودة!</desc>
+  </programme>
+  <programme start="20200926145000 +0000" stop="20200926160500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Bunny Tales</title>
+    <title lang="ar">باني تيلز</title>
+    <desc lang="en">Animation. As Mother Bunny reads from her ancient story book, the little bunnies learn important lessons as they're transported into the enchanted &amp; colourful, magical &amp; wonderful worlds of six classical fairy tales. رسوم متحركة. بينما تقرأ الأرنب الأم  من كتاب قصصها القديم، يتعلم الأرانب الصغار دروسا مهمة حيث ينتقلون إلى عوالم رائعة، ملونة وساحرة لـ ست قصص كلاسيكية.</desc>
+  </programme>
+  <programme start="20200926160500 +0000" stop="20200926172500 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Marco Macaco</title>
+    <title lang="ar">ماركو ماكاكو</title>
+    <desc lang="en">Animation. Marco Macaco is a day dreamer but also a dedicated beach officer on an island where nothing seems to happen, until the charming Carlo arrives to build a gigantic casino right on Marco's beach. رسوم متحركة. ماركو ماكاكو هو شرطي سواحل متخصص على جزيرة خالية من المشاكل، لحين يصل الساحر كارلو ويقوم ببناء كازينو ضخم على شاطئ ماركو.</desc>
+  </programme>
+  <programme start="20200926172500 +0000" stop="20200926185000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Quest For A Heart</title>
+    <title lang="ar">كويست فور أيه هارت</title>
+    <desc lang="en">Animation. A young troll and his friends are on a quest to find the magic heart that will save their village and the world from turning to stone. رسوم متحركة. يسعى قزم شاب وأصدقاءه للذهاب في رحلة بحث عن القلب السحري الذي سينقذ قريتهم والعالم من التحجر.</desc>
+  </programme>
+  <programme start="20200926185000 +0000" stop="20200926202000 +0000" channel="OSN Movies Kids HD">
+    <title lang="en">Micropolis</title>
+    <title lang="ar">ميكروبوليس</title>
+    <desc lang="en">Animation. Rafy, a shy mongoose, falls in love with celebrated mongoose diva Onin but their idyllic lives are threatened when Rascal, the leader of the shrews, decides to take control of their Micropolis city. فيلم رسوم متحركة. يقع رافي، النمس الخجول، في حب أونين، أنثى النمس ومغنية الأوبرا المشهورة، لكن يتم تهديد حياتهما العاطفية عندما يقرر راسكال، زعيم الجرذان، أن يسيطر على مدينة ميكروبوليس التي يعيشون فيها.</desc>
   </programme>
   <programme start="20200924004500 +0000" stop="20200924022500 +0000" channel="OSN Movies Disney HD">
     <title lang="en">Race To Witch Mountain</title>
@@ -1730,75 +1650,80 @@
     <title lang="ar">كريستوفر روبين</title>
     <desc lang="en">Animation. Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life. رسوم متحركة. يلتقي كريستوفر روبين، وهو رب أسرة من الطبقة العاملة، بصديق طفولته ويني-ذا-بوه، والذي يساعده في إعادة التعرف على مصادر السعادة في الحياة.</desc>
   </programme>
-  <programme start="20200923000000 +0000" stop="20200923030500 +0000" channel="Star Movies HD">
-    <title lang="en">Marie Antoinette</title>
-    <title lang="ar">ماري أنطوانيت</title>
-    <desc lang="en">Dir. Sofia Coppola puts a new spin on the life and times of one of Europe's most infamous monarchs in this lavish historical drama which fuses a contemporary sensibility with painstaking recreations of the look of the 18th century. Kirsten Dunst, Jason Schwartzman star. تعيد المخرجة صوفيا كابولا سرد أحداث حياة الملكة ماري انطوانيت من مرحلة زواجها من ملك فرنسا لويس السادس عشر وتتويجها كملكة إلى نهاية فترة حكمها وسقوط قصر فرساي. دراما من بطولة كرستن دانست وجيسون شوارتزمان.</desc>
+  <programme start="20200925194500 +0000" stop="20200925194500 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Tinker Bell And The Legend Of The NeverBeast</title>
+    <title lang="ar">تنكر بيل أند ذا ليجند أوف ذا نيفربيست</title>
+    <desc lang="en">When the scout fairies grow fearful that the mysterious NeverBeast will destroy Pixie Hollow, friendly Fawn must convince Tinker Bell and the rest of the locals that the creature is in fact a gentle giant. عندما يزداد خوف الجنيات من أن حيوان نيفربيست الغامض سيدمر بكسي هولو، يجب على فون اللطيفة أن تقنع تنكر بيل وبقية المواطنين بأن ذلك المخلوق في الحقيقة هو كائن رقيق وضخم.</desc>
   </programme>
-  <programme start="20200923030500 +0000" stop="20200923050500 +0000" channel="Star Movies HD">
-    <title lang="en">How Do You Know</title>
-    <title lang="ar">هاو دو يو نو</title>
-    <desc lang="en">Romantic comedy with Reese Witherspoon, Paul Rudd &amp; Owen Wilson. Lisa finds herself evaluating her life and in the middle of a love triangle as a corporate guy in crisis competes with her baseball-playing beau. كوميديا رومانسية مع ريز ويذرسبون، بول رود وأوين ويلسون. تجد ليزا نفسها تعيد تقييم حياتها وفي منتصف علاقة حب ثلاثية الأطراف، حيث يتنافس موظف شركة واقعا في أزمة مع عشيقها لاعب البيسبول.</desc>
+  <programme start="20200925194500 +0000" stop="20200925210500 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Tinker Bell And The Legend Of The NeverBeast</title>
+    <title lang="ar">تنكر بيل أند ذا ليجند أوف ذا نيفربيست</title>
+    <desc lang="en">When the scout fairies grow fearful that the mysterious NeverBeast will destroy Pixie Hollow, friendly Fawn must convince Tinker Bell and the rest of the locals that the creature is in fact a gentle giant. عندما يزداد خوف الجنيات من أن حيوان نيفربيست الغامض سيدمر بكسي هولو، يجب على فون اللطيفة أن تقنع تنكر بيل وبقية المواطنين بأن ذلك المخلوق في الحقيقة هو كائن رقيق وضخم.</desc>
   </programme>
-  <programme start="20200923050500 +0000" stop="20200923062500 +0000" channel="Star Movies HD">
-    <title lang="en">London</title>
-    <title lang="ar">لندن</title>
-    <desc lang="en">Drama. A party becomes a metaphor for the wasted lives of a handful of hipsters as a man engages in a drug-fuelled conversation with someone he barely knows as he tries to find the courage to stop his ex-lover from leaving town. Chris Evans, Jessica Biel, Jason Statham. لندن، فيلم مغامرات مثقل بالمخدرات، ويدور حول مجموعة تقيم بنيويورك، على شرفة تطل على المتنزه العام، حيث يقطن شاب يسعى وراء استرداد صديقته السابقة. دراما، كريس إيفانز و جيسيكا بييل.</desc>
+  <programme start="20200925210500 +0000" stop="20200925225000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Lady And The Tramp</title>
+    <title lang="ar">ليدي أند ذا ترامب</title>
+    <desc lang="en">The love story between a pampered Cocker Spaniel named Lady and a streetwise mongrel named Tramp. Lady finds herself out on the street after her owners have a baby and is saved from a pack by Tramp, who tries to show her to live her life footloose and collar-free. تدور الأحداث حول قصة حب كلبة مدللة من فصيلة كوكر سبانيل تُدعى ليدي وكلب هجين لديه تجارب في الحياة اسمه ترامب. يتخلى أصحاب ليدي عنها بعد إنجابهم لطفل وتجد نفسها في الشارع ويتم إنقاذها من قبل ترامب الذي كان يحاول أن يعلمها كيف تعيش حياتها حرة طليقة.</desc>
   </programme>
-  <programme start="20200923062500 +0000" stop="20200923083000 +0000" channel="Star Movies HD">
-    <title lang="en">Anonymous</title>
-    <title lang="ar">Star Movies HD</title>
-    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  <programme start="20200925225000 +0000" stop="20200926001000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Inspector Gadget</title>
+    <title lang="ar">إنسبكتور غادجيت</title>
+    <desc lang="en">In this live-action adaptation of the animated series a wounded security guard is turned into a crime-fighting dynamo by replacing his limbs with a wealth of gadgets &amp; gimmicks. في فيلم الأكشن هذا المقتبس من المسلسل الكرتوني، يدخل حارس أمن في عالم مكافحة الجرائم، وذلك باستبدال أطرافه بمجموعة كبيرة من الأدوات.</desc>
   </programme>
-  <programme start="20200923083000 +0000" stop="20200923100500 +0000" channel="Star Movies HD">
-    <title lang="en">10 Things I Hate About You</title>
-    <title lang="ar">تن ثينغز آي هيت أباوت يو</title>
-    <desc lang="en">Romantic comedy adapted from Shakespeare's "Taming Of The Shrew. مسرحية كلاسيكية من أعمال شكسبير، ترويض النمرة، بأحداث معاصرة لمدرسة ثانوية. كوميدي بطولة هيث ليدجر و جوليا ستيلز.</desc>
+  <programme start="20200926001000 +0000" stop="20200926015500 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">The Good Dinosaur</title>
+    <title lang="ar">ذا غود دايناصور</title>
+    <desc lang="en">In this enchanting computer-animated fantasy a young Apatosaurus named Arlo is swept away by a river current, stranding him in a frightening new place. Far from home he embarks on a journey to reunite with his family, befriending a prehistoric child along the way. فيلم رسوم متحركة عائلية يتحدث عن ديناصور صغير يدعى أرلو والذي يجرفه تيار مائي ويجعله عالقاً في مكان مخيف. لكن يبدأ رحلة شاقة للعودة والاتحاد مع عائلته لكنه يصادق طفل ما قبل التاريخ على طول الطريق.</desc>
   </programme>
-  <programme start="20200923100500 +0000" stop="20200923114500 +0000" channel="Star Movies HD">
-    <title lang="en">My Cousin Rachel</title>
-    <title lang="ar">ماي كازن ريتشل</title>
-    <desc lang="en">A young Englishman plots revenge against his mysterious, beautiful cousin, believing that she murdered his guardian. But his feelings become complicated as he finds himself falling under the beguiling spell of her charms. يخطط شاب انجليزي للانتقام من ابنة عمه الحسناء والغامضة، معتقداً أنها من قام بقتل أوصيائه. ولكن سرعان ما تختلط عليه المشاعر عندما يجد نفسه مغروماً بجمالها الساحر.</desc>
+  <programme start="20200926015500 +0000" stop="20200926034000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">102 Dalmatians</title>
+    <title lang="ar">102 دالميشنز</title>
+    <desc lang="en">Family comedy, Glenn Close, Gerard Depardieu, Ioan Gruffudd. Cruella is released from prison, vowing she'll have nothing to do with fur ever again. She, however, cannot keep this promise and is soon plotting another "fur-ocious" scheme to get her ultimate spotted coat. تحرر ذنب جديد غير مرقط من قيده، حين خرجت كرويلا ديفيل من السجن وانطلقت خلف الكلاب اللاهية، مرة أخرى. عائلي وكوميدي من بطولة غلين كلوز و جيرار ديبارديو.</desc>
   </programme>
-  <programme start="20200923114500 +0000" stop="20200923132500 +0000" channel="Star Movies HD">
-    <title lang="en">Bewitched</title>
-    <title lang="ar">بيويتشد</title>
-    <desc lang="en">Against her fathers' wishes, Isabel, a witch, decides to move to the L.A. Valley and live a normal life. Then she meets Jack, an actor who stars in the old Bewitched TV show. Comedy with Nicole Kidman, Will Ferrell. تقرر الساحرة ايزابيل الانتقال للعيش في لوس انجلوس فالي، معارضة رغبة والدها، لتحيا حياة عادية. تلتقي بجاك، الممثل الذي يقدم  برنامجاً تلفزيونياً عن السحر: بيويتشد. كوميدي، بطولة نيكول كيدمان و ويل فيريل.</desc>
+  <programme start="20200926034000 +0000" stop="20200926053000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Christopher Robin</title>
+    <title lang="ar">كريستوفر روبين</title>
+    <desc lang="en">Animation. Working-class family man Christopher Robin encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life. رسوم متحركة. يلتقي كريستوفر روبين، وهو رب أسرة من الطبقة العاملة، بصديق طفولته ويني-ذا-بوه، والذي يساعده في إعادة التعرف على مصادر السعادة في الحياة.</desc>
   </programme>
-  <programme start="20200923132500 +0000" stop="20200923150000 +0000" channel="Star Movies HD">
-    <title lang="en">Little Miss Sunshine</title>
-    <title lang="ar">ليتل ميس سانشاين</title>
-    <desc lang="en">Comedy drama. When a pudgy, bespectacled 7-year-old voices her desire to take home the coveted crown at an upcoming beauty pageant, her wildly dysfunctional family sets out on an interstate road trip to ensure her a clear shot. Greg Kinnear, Steve Carell, Toni Collette. كوميدي ودراما. عندما تبدي فتاة في السابعة من العمر عن رغبتها بالفوز في مسابقة ملكة الجمال القادمة، تبذل عائلتها كل ما وسعها لمساعدتها على تحقيق حلمها والمشاركة في تلك المسابقة. بطولة غريغ كينير، ستيف كاريل وطوني كوليت.</desc>
+  <programme start="20200926053000 +0000" stop="20200926070000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Inspector Gadget</title>
+    <title lang="ar">إنسبكتور غادجيت</title>
+    <desc lang="en">In this live-action adaptation of the animated series a wounded security guard is turned into a crime-fighting dynamo by replacing his limbs with a wealth of gadgets &amp; gimmicks. في فيلم الأكشن هذا المقتبس من المسلسل الكرتوني، يدخل حارس أمن في عالم مكافحة الجرائم، وذلك باستبدال أطرافه بمجموعة كبيرة من الأدوات.</desc>
   </programme>
-  <programme start="20200923150000 +0000" stop="20200923170000 +0000" channel="Star Movies HD">
-    <title lang="en">How Do You Know</title>
-    <title lang="ar">هاو دو يو نو</title>
-    <desc lang="en">Romantic comedy with Reese Witherspoon, Paul Rudd &amp; Owen Wilson. Lisa finds herself evaluating her life and in the middle of a love triangle as a corporate guy in crisis competes with her baseball-playing beau. كوميديا رومانسية مع ريز ويذرسبون، بول رود وأوين ويلسون. تجد ليزا نفسها تعيد تقييم حياتها وفي منتصف علاقة حب ثلاثية الأطراف، حيث يتنافس موظف شركة واقعا في أزمة مع عشيقها لاعب البيسبول.</desc>
+  <programme start="20200926070000 +0000" stop="20200926084500 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">The Good Dinosaur</title>
+    <title lang="ar">ذا غود دايناصور</title>
+    <desc lang="en">In this enchanting computer-animated fantasy a young Apatosaurus named Arlo is swept away by a river current, stranding him in a frightening new place. Far from home he embarks on a journey to reunite with his family, befriending a prehistoric child along the way. فيلم رسوم متحركة عائلية يتحدث عن ديناصور صغير يدعى أرلو والذي يجرفه تيار مائي ويجعله عالقاً في مكان مخيف. لكن يبدأ رحلة شاقة للعودة والاتحاد مع عائلته لكنه يصادق طفل ما قبل التاريخ على طول الطريق.</desc>
   </programme>
-  <programme start="20200923170000 +0000" stop="20200923183700 +0000" channel="Star Movies HD">
-    <title lang="en">Six Days, Seven Nights</title>
-    <title lang="ar">سكس دايز، سفن نايتس</title>
-    <desc lang="en">Romantic adventure starring Harrison Ford and Anne Heche. A gruff pilot and a New York magazine editor must put aside their mutual dislike if they are to survive after crash landing on a deserted South Seas island. فيلم رومانسي مليء بالمغامرة من بطولة هاريسون فورد وأن هيتش. بعد هبوط اضطراري على جزيرة ساوث سيز النائية، يجب على الطيار القاسي ومحررة في مجلة نيويورك أن يضعا كراهيتهما لبعضهما جانباً إذا ما كانا يريدان النجاة.</desc>
+  <programme start="20200926084500 +0000" stop="20200926103000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Wreck-It Ralph</title>
+    <title lang="ar">ريك-إت رالف</title>
+    <desc lang="en">Animation. A video-game character attempts to shed his bad-guy image by escaping into a popular first-person shooter but inadvertently wreaks havoc in the video-game universe by freeing a digital villain who can only be contained with the help of a most unlikely ally. رسوم متحركة. يحاول رالف، وهو شخصية من ألعاب الفيديو، التخلص من صورته السيئة من خلال الهروب إلى لعبة أخرى، لكنه يلحق الدمار عن غير قصد في عالم ألعاب الفيديو بعد إطلاق سراح شخصية رقمية شريرة، والتي لا يمكن السيطرة عليها إلا بمساعدة حليف غير متوقع.</desc>
   </programme>
-  <programme start="20200923183700 +0000" stop="20200923201000 +0000" channel="Star Movies HD">
-    <title lang="en">Hush</title>
-    <title lang="ar">هاش</title>
-    <desc lang="en">Thriller starring Gwyneth Paltrow and Jessica Lange. A demented widow preys upon her son's young pregnant wife when they move to her sumptuous Kentucky estate and horse farm. في مزرعة بولاية كنتاكي، زوجة شابة حامل تقع ضحية لأم زوجها الأرملة المخبولة. بطولة غوينيث بالترو وجيسيكا لانغ.</desc>
+  <programme start="20200926103000 +0000" stop="20200926121500 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Timmy Failure</title>
+    <title lang="ar">تيمي فاليار</title>
+    <desc lang="en">Family. An 11-year old boy believes that he is the best detective in town and runs the agency Total Failures with his best friend, an imaginary 1,200 pound polar bear. عائلي. يعتقد صبي يبلغ من العمر 11 عامًا أنه أفضل محقق في المدينة ويدير وكالة توتال فاليارز مع أفضل صديق له ، وهو الدب القطبي الخيالي البالغ وزنه 1200 باوند.</desc>
   </programme>
-  <programme start="20200923201000 +0000" stop="20200923201000 +0000" channel="Star Movies HD">
-    <title lang="en">Drive Me Crazy</title>
-    <title lang="ar">هلا جننتني - كوميديا رومانسية</title>
-    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  <programme start="20200926121500 +0000" stop="20200926140000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Finding Nemo</title>
+    <title lang="ar">فايندينغ نيمو</title>
+    <desc lang="en">Family animation. Marlin the clown fish embarks on a journey to find his son Nemo after losing him in the Great Barrier Reef. What Marlin doesn't know, however, is that while watching a boat passing, Nemo was caught in a net and given a new home in a dentist's aquarium. رسوم متحركة عائلي. عندما يبتعد نيمو فجأة عن منزله ويقع بيد غواص يأخذه إلى أستراليا، يشرع والده مارلن وسمكة ودودة تعاني من فقدان الذاكرة برحلة للبحث عنه، حيث يواجهون خلالها أسماك قرش نباتية، وسلاحف متأنقة، وقناديل منومة وطيور نورس جائعة.</desc>
   </programme>
-  <programme start="20200923201000 +0000" stop="20200923214000 +0000" channel="Star Movies HD">
-    <title lang="en">Drive Me Crazy</title>
-    <title lang="ar">هلا جننتني - كوميديا رومانسية</title>
-    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  <programme start="20200926140000 +0000" stop="20200926160000 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Moana</title>
+    <title lang="ar">موانا</title>
+    <desc lang="en">Young navigator Moana (voice of Auli'i Cravalho) teams with demigod Maui (voice of Dwayne Johnson) to locate a legendary island, and together the pair explore fantastical lands and encounter incredible sea creatures in this animated Disney adventure. تنضم المستكشفة الشابة موانا (بصوت أويلي كارفاليو) إلى ماوي (دواين جونسون) من أجل العثور على جزيرة أسطورية، حيث يكتشف الإثنان أراض رائعة وخيالية ويواجهان الكثير من المخلوقات البحرية في هذه المغامرة من إنتاج ديزني.</desc>
   </programme>
-  <programme start="20200923214000 +0000" stop="20200924000000 +0000" channel="Star Movies HD">
-    <title lang="en">Big Fish</title>
-    <title lang="ar">بيغ فيش</title>
-    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  <programme start="20200926160000 +0000" stop="20200926174500 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">Noelle</title>
+    <title lang="ar">نويل</title>
+    <desc lang="en">Kris Kringle's daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it's his turn to take over as Santa. تنطلق ابنة كريس كرينجل ، نويل ، في مهمة للعثور على شقيقها وإعادته ، بعد أن فقد أثره عندما حان دوره لتولي منصب سانتا.</desc>
+  </programme>
+  <programme start="20200926174500 +0000" stop="20200926194500 +0000" channel="OSN Movies Disney HD">
+    <title lang="en">The Sorcerer's Apprentice</title>
+    <title lang="ar">ذا سورسيرارز أبرينتيس</title>
+    <desc lang="en">Balthazar is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis. Unable to do it alone he recruits a seemingly average guy as his protege. بالتازار هو ساحر محترف يحاول الدفاع عن مدينة مانهاتن ضد خصومه اللدودين، ويضطر لتجنيد شخص ذو مهارات متوسطة ليساعده في مهمته الصعبة.</desc>
   </programme>
   <programme start="20200924000000 +0000" stop="20200924020000 +0000" channel="Star Movies HD">
     <title lang="en">10 Things I Hate About You</title>
@@ -1919,5 +1844,70 @@
     <title lang="en">The Wedding March</title>
     <title lang="ar">Star Movies HD</title>
     <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  </programme>
+  <programme start="20200925201200 +0000" stop="20200925201200 +0000" channel="Star Movies HD">
+    <title lang="en">Pirates Of The Caribbean: Curse Of The Black Pearl</title>
+    <title lang="ar">بايرتس أوف ذا كاريبيان: كيرس أوف ذا بلاك بيرل</title>
+    <desc lang="en">Fantasy adventure starring Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush. In a race against time and a battle against the undead, Will Turner teams up with swashbuckling pirate Jack Sparrow to save his love from The Black Pearl's Captain Barbossa. مغامرة وخيال من بطولة جوني ديب، أورلاندو بلوم، كيرا نايتلي وجيوفري راش.  في سباق مع الزمن ومعركة ضد الأموات الذين لا يزالون أحياء، يتعاون ويل تيرنر مع الكابتن جاك سبارو لإنقاذ حب حياته، إليزابيث، التي تم اختطافها من جانب الكابتن باربوسا المخيف.</desc>
+  </programme>
+  <programme start="20200925201200 +0000" stop="20200925223000 +0000" channel="Star Movies HD">
+    <title lang="en">Pirates Of The Caribbean: Curse Of The Black Pearl</title>
+    <title lang="ar">بايرتس أوف ذا كاريبيان: كيرس أوف ذا بلاك بيرل</title>
+    <desc lang="en">Fantasy adventure starring Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush. In a race against time and a battle against the undead, Will Turner teams up with swashbuckling pirate Jack Sparrow to save his love from The Black Pearl's Captain Barbossa. مغامرة وخيال من بطولة جوني ديب، أورلاندو بلوم، كيرا نايتلي وجيوفري راش.  في سباق مع الزمن ومعركة ضد الأموات الذين لا يزالون أحياء، يتعاون ويل تيرنر مع الكابتن جاك سبارو لإنقاذ حب حياته، إليزابيث، التي تم اختطافها من جانب الكابتن باربوسا المخيف.</desc>
+  </programme>
+  <programme start="20200925223000 +0000" stop="20200926003000 +0000" channel="Star Movies HD">
+    <title lang="en">The Sea Of Trees</title>
+    <title lang="ar">Star Movies HD</title>
+    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  </programme>
+  <programme start="20200926003000 +0000" stop="20200926031500 +0000" channel="Star Movies HD">
+    <title lang="en">The Man Who Knew Infinity</title>
+    <title lang="ar">ذا مان هو نيو إنفينيتي</title>
+    <desc lang="en">Biopic detailing the extraordinary life of Srinivasa Ramanujan, who, after growing up poor in India, earns admittance to Cambridge University during WWI where he becomes a pioneer in mathematical theories with the guidance of his professor, G. H. Hardy (Jeremy Irons). سيرة ذاتية تروي قصة حياة سرينيفاسا رامانوجان الاستثنائية، الذي تم قبوله في جامعة كامبريج في إنكلترا أثناء الحرب العالمية الثانية بعد نشأته الفقيرة في الهند، ليصبح رائداً في النظريات الرياضية بتوجيه من أستاذه جي إتش هاردي (جيرمي آيرونز).</desc>
+  </programme>
+  <programme start="20200926031500 +0000" stop="20200926052500 +0000" channel="Star Movies HD">
+    <title lang="en">The Light Between Oceans</title>
+    <title lang="ar">Star Movies HD</title>
+    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  </programme>
+  <programme start="20200926052500 +0000" stop="20200926074500 +0000" channel="Star Movies HD">
+    <title lang="en">A.I. Artificial Intelligence</title>
+    <title lang="ar">أيه.آي. آرتيفيشال إنتيليجنس</title>
+    <desc lang="en">Sci-fi fantasy adventure directed by Steven Spielberg. David (Haley Joel Osment), a robotic boy, programmed to love, is adopted as a test case by a Cybertronics employee and his wife. David longs to become "real" so that he can regain the love of his human mother. خيال علمي ومغامرة من إخراج ستيفن سبيلبرغ. ديفيد (هيلي جويل أوزمينت) هو روبوت صبي، مبرمج لكي يحب، يتم تبنيه كتجربة من قبل موظف وزوجته، لكن ديفيد يتوق لكي يصبح حقيقياً حتى يتمكن من استعادة حب والدته البشرية.</desc>
+  </programme>
+  <programme start="20200926074500 +0000" stop="20200926093500 +0000" channel="Star Movies HD">
+    <title lang="en">The Sea Of Trees</title>
+    <title lang="ar">Star Movies HD</title>
+    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  </programme>
+  <programme start="20200926093500 +0000" stop="20200926115500 +0000" channel="Star Movies HD">
+    <title lang="en">Pirates Of The Caribbean: Curse Of The Black Pearl</title>
+    <title lang="ar">بايرتس أوف ذا كاريبيان: كيرس أوف ذا بلاك بيرل</title>
+    <desc lang="en">Fantasy adventure starring Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush. In a race against time and a battle against the undead, Will Turner teams up with swashbuckling pirate Jack Sparrow to save his love from The Black Pearl's Captain Barbossa. مغامرة وخيال من بطولة جوني ديب، أورلاندو بلوم، كيرا نايتلي وجيوفري راش.  في سباق مع الزمن ومعركة ضد الأموات الذين لا يزالون أحياء، يتعاون ويل تيرنر مع الكابتن جاك سبارو لإنقاذ حب حياته، إليزابيث، التي تم اختطافها من جانب الكابتن باربوسا المخيف.</desc>
+  </programme>
+  <programme start="20200926115500 +0000" stop="20200926132000 +0000" channel="Star Movies HD">
+    <title lang="en">The Wedding March</title>
+    <title lang="ar">Star Movies HD</title>
+    <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
+  </programme>
+  <programme start="20200926132000 +0000" stop="20200926151000 +0000" channel="Star Movies HD">
+    <title lang="en">World War Z</title>
+    <title lang="ar">وورلد وور زي</title>
+    <desc lang="en">Apocalyptic fiction starring Brad Pitt, Mireille Enos, Daniella Kertesz. A retired U.N. investigator traverses the world in in a bid to find the catalyst for a virus that transforms those who contract it into rampaging maniacs, threatening to destroy humanity itself. فيلم خيالي مروع من بطولة براد بيت، ميرلي إنوس، ودانيلا كيرتيش. يجوب محقق متقاعد في الأمم المتحدة، العالم في محاولة منه للعثور على المادة المحفزة لفيروس يحوّل الأشخاص الذين يصابون به إلى مجانين هائجين، مما يهدد بتدمير الإنسانية.</desc>
+  </programme>
+  <programme start="20200926151000 +0000" stop="20200926170000 +0000" channel="Star Movies HD">
+    <title lang="en">The Man Who Knew Infinity</title>
+    <title lang="ar">ذا مان هو نيو إنفينيتي</title>
+    <desc lang="en">Biopic detailing the extraordinary life of Srinivasa Ramanujan, who, after growing up poor in India, earns admittance to Cambridge University during WWI where he becomes a pioneer in mathematical theories with the guidance of his professor, G. H. Hardy (Jeremy Irons). سيرة ذاتية تروي قصة حياة سرينيفاسا رامانوجان الاستثنائية، الذي تم قبوله في جامعة كامبريج في إنكلترا أثناء الحرب العالمية الثانية بعد نشأته الفقيرة في الهند، ليصبح رائداً في النظريات الرياضية بتوجيه من أستاذه جي إتش هاردي (جيرمي آيرونز).</desc>
+  </programme>
+  <programme start="20200926170000 +0000" stop="20200926184500 +0000" channel="Star Movies HD">
+    <title lang="en">The Proposal</title>
+    <title lang="ar">ذا بروبوزال</title>
+    <desc lang="en">Romantic comedy with Sandra Bullock and Ryan Reynolds. A pushy boss forces her young assistant to marry her in order to keep her U.S. visa status and avoid deportation to Canada. تُجبر مديرة متسلطة مساعدها الشاب على الزواج منها لتحافظ على تأشيرة إقامتها في الولايات المتحدة الأميريكية ولتتفادى ترحيلها إلى كندا. كوميديا رومانسية بطولة ساندرا بولوك وراين رينولدز.</desc>
+  </programme>
+  <programme start="20200926184500 +0000" stop="20200926201000 +0000" channel="Star Movies HD">
+    <title lang="en">Friends With Money</title>
+    <title lang="ar">فريندز ويذ ماني</title>
+    <desc lang="en">Four lifelong friends staring middle age in the face have to learn to come to terms with their careers, their men, and their children. Comedy with Jennifer Aniston and Catherine Keener. أربع نسوة جمعتهن صداقة طويلة، اجتمعن بأعمارهن التي انتصفت، للتشارك بحل أمور هامة تتعلق بوظائفهن ورجالهن وأولادهن. كوميدي، بطولة جينيفر آنيستون وكاترين كيينر.</desc>
   </programme>
 </tv>
