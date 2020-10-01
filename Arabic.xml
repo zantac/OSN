@@ -50,130 +50,239 @@
     <icon src="http://content.osn.com/logo/channel/cropped/NOW.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <programme start="20200930003000 +0000" stop="20200930013000 +0000" channel="Series Channel">
-    <title lang="en">Al Khan</title>
-    <title lang="ar">الخان</title>
-    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 28; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 28؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
+  <programme start="20201001000000 +0000" stop="20201001010000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Tufah Al Haram</title>
+    <title lang="ar">التفاح الحرام</title>
+    <desc lang="en">Joldz's life changes dramatically when she receives a job offer from high society queen Ender. when Ender desides to divorce her husband, she makes Jalldez seduce Khalid. Jalldez accepts Ender's offer, but her decision affects not only her life but also her sister's. تدور أحداث المسلسل حول الشقيقتين يلدز وزينب، عندما تتحقق أماني يلدز في الدخول إلى عالم الطبقة المخملية، تقوم بقبول عرضاً من السيدة آندر في مساعدتها في التخلص من زوجها، لكن عواقب ذلك الأمر لن يؤثر عليها وحدها بل على زينب أيضاً.</desc>
   </programme>
-  <programme start="20200930013000 +0000" stop="20200930023000 +0000" channel="Series Channel">
-    <title lang="en">Hatha Al Masaa'</title>
-    <title lang="ar">هذا المساء</title>
-    <desc lang="en">Iyaad Nassar;Arwa Jawdat. Eps 4; The series talks about many social issues with lots of developments to turn small events into big problems. (R3). إياد نصار؛ اروى جودة.الحلقة 4؛ يتناول المسلسل مواضيع اجتماعية عديدة، تتطور فيه الأحداث ككرة ثلج، فمن أخطاء وهفوات بسيطة، تتصاعد الأحداث إلى صراع ومصائر مهدده بالإنفجار (R3).</desc>
+  <programme start="20201001010000 +0000" stop="20201001020000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Qatel Eve</title>
+    <title lang="ar">قتل إيف</title>
+    <desc lang="en">Tensions are running high as the situation in Moscow escalates, and Eve starts to question who she can trust. Despite the danger, with her sights firmly set on Villanelle, Eve goes rogue. With both women under pressure, the stakes are higher than ever. تتصاعد التوترات مع تصاعد الموقف في موسكو ، وتبدأ إيف في الشك بمن يمكنها الوثوق به. على الرغم من الخطر ، وعينها بحزم على فيلانيل ، تختفي إيف. بوجود كل النساء تحت الضغط ، فإن المخاطر أكبر من أي وقت مضى.</desc>
   </programme>
-  <programme start="20200930023000 +0000" stop="20200930033000 +0000" channel="Series Channel">
-    <title lang="en">Did Majhool</title>
-    <title lang="ar">ضد مجهول</title>
-    <desc lang="en">Ghada Abdel Razeq, Firas Saiid. Eps 30; Nada fights the so called judicial action against unknown after loosing her daughter and putting her case on hold. (R3). غادة عبد الرازق؛ فراس سعيد.الحلقة 30؛ ندى ام احترق قلبها بعد ان فقدت ابنتها غدراً امام عينيها ويتم حفظ القضية لأنها ضد مجهول تسعى ندى بكل قوة الى الغاء ما يسمى بضد مجهول فتتعرض لمؤامرات جمة (R3).</desc>
+  <programme start="20201001020000 +0000" stop="20201001030000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Shahad Al Murr</title>
+    <title lang="ar">الشهد المر</title>
+    <desc lang="en">The story follows the family of Suhail and how he wisely solves matters and family clashes, including the never ending conflict between his two wives, and the problems of his brother Shaheen with Sorour. يتابع هذا المسلسل الخليجي رب الأسرة سهيل وهو يعالج بحكمة مشاكل أسرته والشجار الذي لا ينتهي بين زوجتيه، بالإضافة إلى مراعاته لعائلته وشقيقه شاهين ومواجهاته مع سرور.</desc>
   </programme>
-  <programme start="20200930033000 +0000" stop="20200930043000 +0000" channel="Series Channel">
-    <title lang="en">La'aakher Nafas</title>
-    <title lang="ar">لآخر نفس</title>
-    <desc lang="en">Yasmin Abd El Aziz; Ahmad Al Awadi. Eps 4; The series talks about a mother of two who loses her husband, a police officer, and finds interesting facts around his case which was full of ambiguities. (R3). ياسمين عبد العزيز؛ احمد العوضي.الحلقة 4؛ أم لولدين تفقد زوجها ضابط شرطة بظروف غامضة، فتبدأ البحث عن القضية التي اودت بحياة زوجها واذا بها تتفاجأ بأحداث مثيرة لم تكن تعلم بها (R3).</desc>
+  <programme start="20201001030000 +0000" stop="20201001040000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Imra'ah</title>
+    <title lang="ar">امرأة</title>
+    <desc lang="en">Drama series chronicling the life, times, troubles and search for happiness of a young widowed mother of two who's life thus far has been riddled by loss, tragedy and grief. Özge Özpirinci, Caner Cindoruk and Bennu Yildirimlar star. دراما تركية. نتابع في هذا المسلسل نضال امرأة أرملة تكرّس حاضرها ومستقبلها لترسم البسمة على شفاه طفليها، إلى أن تظهر والدتها مجدداً في حياتها حيث تتكشف لها بعض من ذكريات ماضيها المؤلم.</desc>
   </programme>
-  <programme start="20200930043000 +0000" stop="20200930053000 +0000" channel="Series Channel">
-    <title lang="en">Rasaayel</title>
-    <title lang="ar">رسايل</title>
-    <desc lang="en">Mai Ezzedin, khaled Slim. Eps 29; The serial revolves events around the poor Egyptian families and in specific details about Hala who attains whatever she dreams for. (R3). مي عز الدين؛خالد سليم.الحلقة 29؛ تدور احداث المسلسل حول الأسر المصرية التي تنتمي للطبقة المتوسطة وتعيش تحت خط الفقر يرصد المسلسل حياة الفتاة هالة التي تحلم بأشياء تتحقق كلما حلمت بها (R3).</desc>
+  <programme start="20201001040000 +0000" stop="20201001050000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Madraset Al Hob</title>
+    <title lang="ar">مدرسة الحب</title>
+    <desc lang="en">when a father meets his daughter after 20 years, he finds out that his ex-wife and her husband arranged that meeting in attempt to seize his fortune. عندما يلتقي والد بابنته بعد عشرين عاماً، يكتشف بأن اللقاء لم يكن صدفة وبأن طليقته وزوجها قد رتبا الأمر، للاستيلاء على ثروته.</desc>
   </programme>
-  <programme start="20200930053000 +0000" stop="20200930063000 +0000" channel="Series Channel">
-    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
-    <title lang="ar">فوق مستوى الشبهات</title>
-    <desc lang="en">Yusra; Sherine Reeda. Eps 4; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 4؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  <programme start="20201001050000 +0000" stop="20201001060000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Ghurab</title>
+    <title lang="ar">الغراب</title>
+    <desc lang="en">Al Ghurab's family life changes completely as a result of the caliper held against his father, who is a police. Kuzgun will fall into a bondage, pain, anger, and struggle that will last 20 years. مسلسل درامي تركي، عندما يتم تلفيق تهمة حيازة المخدرات لرجل الشرطة الشريف، يتشرد ابنه الغراب ويغرق بمشاعر الحزن، اليأس والغضب لعشرين عاماً .. إلى أن يجد طريقه للانتقام.</desc>
   </programme>
-  <programme start="20200930063000 +0000" stop="20200930073000 +0000" channel="Series Channel">
-    <title lang="en">Ma'moun Wa Shurakaahu</title>
-    <title lang="ar">مأمون وشركاه</title>
-    <desc lang="en">Adel Imam; Lobloba. Eps 30;Despite being a millionaire Ma`moun is stingy man. He donates some money for humanitarian purposes when the government asks for it. The search for his hidden money continues. (R3). عادل امام؛ لبلبة.الحلقة 30؛على الرغم من امتلاكه المليارات لكن مأمون رجل شديد البخل على نفسه وعائلته يتبرع بجزء من امواله لأهداف انسانية بطلب من الدولة لكن البحث عن مكان اختباء الأموال يستمر حتى اكتشاف الحقيقة (R3).</desc>
+  <programme start="20201001060000 +0000" stop="20201001070000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Tufah Al Haram</title>
+    <title lang="ar">التفاح الحرام</title>
+    <desc lang="en">Joldz's life changes dramatically when she receives a job offer from high society queen Ender. when Ender desides to divorce her husband, she makes Jalldez seduce Khalid. Jalldez accepts Ender's offer, but her decision affects not only her life but also her sister's. تدور أحداث المسلسل حول الشقيقتين يلدز وزينب، عندما تتحقق أماني يلدز في الدخول إلى عالم الطبقة المخملية، تقوم بقبول عرضاً من السيدة آندر في مساعدتها في التخلص من زوجها، لكن عواقب ذلك الأمر لن يؤثر عليها وحدها بل على زينب أيضاً.</desc>
   </programme>
-  <programme start="20200930073000 +0000" stop="20200930083000 +0000" channel="Series Channel">
-    <title lang="en">Ikhtifaa'</title>
-    <title lang="ar">إختفاء</title>
-    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 5; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 5؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
+  <programme start="20201001070000 +0000" stop="20201001080000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Qatel Eve</title>
+    <title lang="ar">قتل إيف</title>
+    <desc lang="en">Tensions are running high as the situation in Moscow escalates, and Eve starts to question who she can trust. Despite the danger, with her sights firmly set on Villanelle, Eve goes rogue. With both women under pressure, the stakes are higher than ever. تتصاعد التوترات مع تصاعد الموقف في موسكو ، وتبدأ إيف في الشك بمن يمكنها الوثوق به. على الرغم من الخطر ، وعينها بحزم على فيلانيل ، تختفي إيف. بوجود كل النساء تحت الضغط ، فإن المخاطر أكبر من أي وقت مضى.</desc>
   </programme>
-  <programme start="20200930083000 +0000" stop="20200930093000 +0000" channel="Series Channel">
-    <title lang="en">Al Khan</title>
-    <title lang="ar">الخان</title>
-    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 29; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 29؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
+  <programme start="20201001080000 +0000" stop="20201001090000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">El Futowa</title>
+    <title lang="ar">الفتوّة</title>
+    <desc lang="en">Drama series events took place in the poor neighborhoods of Egypt which was organized and run by a class of courageous people who were called (El Futowa) back in the 50s, where they had the responsibility of defending the people in the area against any danger. دراما من بطولة ياسر جلال، وأحمد صلاح حسيني، تعود أحداث هذا المسلسل إلى خمسينيات القرن الماضي، في إحدى قرى مصر الفقيرة التي كانت تديرها مجموعة من الرجال الشجعان الذين يطلق عليهم جماعة "الفتوّة" حيث يقع على عاتقهم حماية سكان القرية من كل عدوان.</desc>
   </programme>
-  <programme start="20200930093000 +0000" stop="20200930103000 +0000" channel="Series Channel">
-    <title lang="en">Hatha Al Masaa'</title>
-    <title lang="ar">هذا المساء</title>
-    <desc lang="en">Iyaad Nassar;Arwa Jawdat. Eps 5; The series talks about many social issues with lots of developments to turn small events into big problems. (R3). إياد نصار؛ اروى جودة.الحلقة 5؛ يتناول المسلسل مواضيع اجتماعية عديدة، تتطور فيه الأحداث ككرة ثلج، فمن أخطاء وهفوات بسيطة، تتصاعد الأحداث إلى صراع ومصائر مهدده بالإنفجار (R3).</desc>
+  <programme start="20201001090000 +0000" stop="20201001100000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Imra'ah</title>
+    <title lang="ar">امرأة</title>
+    <desc lang="en">Drama series chronicling the life, times, troubles and search for happiness of a young widowed mother of two who's life thus far has been riddled by loss, tragedy and grief. Özge Özpirinci, Caner Cindoruk and Bennu Yildirimlar star. دراما تركية. نتابع في هذا المسلسل نضال امرأة أرملة تكرّس حاضرها ومستقبلها لترسم البسمة على شفاه طفليها، إلى أن تظهر والدتها مجدداً في حياتها حيث تتكشف لها بعض من ذكريات ماضيها المؤلم.</desc>
   </programme>
-  <programme start="20200930103000 +0000" stop="20200930113000 +0000" channel="Series Channel">
-    <title lang="en">Julia</title>
-    <title lang="ar">جوليا</title>
-    <desc lang="en">Maguy Bou Ghosn;Kais Sheikh Najib. Eps 1;Julia,a girl seeking to achieve herself and her goals in life in an uncommon way,until she meets psychologist who tries to help her. They face together all the to (R3). ماغي بو غصن؛ قيس الشيخ نجيب.الحلقة 1؛ جوليا فتاة  تسعى لتحقيق ذاتها في الحياة بأسلوب غريب جدا ما يجمعها بطبيب نفسي الذي يحاول مساعدتها، فيواجهان معا أصعب المواقف في إطار كوميدي (R3).</desc>
+  <programme start="20201001100000 +0000" stop="20201001110000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Ghurab</title>
+    <title lang="ar">الغراب</title>
+    <desc lang="en">Al Ghurab's family life changes completely as a result of the caliper held against his father, who is a police. Kuzgun will fall into a bondage, pain, anger, and struggle that will last 20 years. مسلسل درامي تركي، عندما يتم تلفيق تهمة حيازة المخدرات لرجل الشرطة الشريف، يتشرد ابنه الغراب ويغرق بمشاعر الحزن، اليأس والغضب لعشرين عاماً .. إلى أن يجد طريقه للانتقام.</desc>
   </programme>
-  <programme start="20200930113000 +0000" stop="20200930123000 +0000" channel="Series Channel">
-    <title lang="en">La'aakher Nafas</title>
-    <title lang="ar">لآخر نفس</title>
-    <desc lang="en">Yasmin Abd El Aziz; Ahmad Al Awadi. Eps 5; The series talks about a mother of two who loses her husband, a police officer, and finds interesting facts around his case which was full of ambiguities. (R3). ياسمين عبد العزيز؛ احمد العوضي.الحلقة 5؛ أم لولدين تفقد زوجها ضابط شرطة بظروف غامضة، فتبدأ البحث عن القضية التي اودت بحياة زوجها واذا بها تتفاجأ بأحداث مثيرة لم تكن تعلم بها (R3).</desc>
+  <programme start="20201001110000 +0000" stop="20201001120000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Madraset Al Hob</title>
+    <title lang="ar">مدرسة الحب</title>
+    <desc lang="en">when a father meets his daughter after 20 years, he finds out that his ex-wife and her husband arranged that meeting in attempt to seize his fortune. عندما يلتقي والد بابنته بعد عشرين عاماً، يكتشف بأن اللقاء لم يكن صدفة وبأن طليقته وزوجها قد رتبا الأمر، للاستيلاء على ثروته.</desc>
   </programme>
-  <programme start="20200930123000 +0000" stop="20200930133000 +0000" channel="Series Channel">
-    <title lang="en">Rasaayel</title>
-    <title lang="ar">رسايل</title>
-    <desc lang="en">Mai Ezzedin, khaled Slim. Eps 30; The serial revolves events around the poor Egyptian families and in specific details about Hala who attains whatever she dreams for. (R3). مي عز الدين؛خالد سليم.الحلقة 30؛ تدور احداث المسلسل حول الأسر المصرية التي تنتمي للطبقة المتوسطة وتعيش تحت خط الفقر يرصد المسلسل حياة الفتاة هالة التي تحلم بأشياء تتحقق كلما حلمت بها (R3).</desc>
+  <programme start="20201001120000 +0000" stop="20201001130000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Tufah Al Haram</title>
+    <title lang="ar">التفاح الحرام</title>
+    <desc lang="en">Joldz's life changes dramatically when she receives a job offer from high society queen Ender. when Ender desides to divorce her husband, she makes Jalldez seduce Khalid. Jalldez accepts Ender's offer, but her decision affects not only her life but also her sister's. تدور أحداث المسلسل حول الشقيقتين يلدز وزينب، عندما تتحقق أماني يلدز في الدخول إلى عالم الطبقة المخملية، تقوم بقبول عرضاً من السيدة آندر في مساعدتها في التخلص من زوجها، لكن عواقب ذلك الأمر لن يؤثر عليها وحدها بل على زينب أيضاً.</desc>
   </programme>
-  <programme start="20200930133000 +0000" stop="20200930143000 +0000" channel="Series Channel">
-    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
-    <title lang="ar">فوق مستوى الشبهات</title>
-    <desc lang="en">Yusra; Sherine Reeda. Eps 5; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 5؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  <programme start="20201001130000 +0000" stop="20201001140000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">MA Fiyyi</title>
+    <title lang="ar">ما فيّي</title>
+    <desc lang="en">When Fares comes back from Syria to reopen his parents’ restaurant, he is struck by rumors accusing the powerful landlord Fawzi of a murder years ago. A truth that is bound to threaten the love story that has started with Yasma, Fawzi’s daughter. تدور أحداث هذا المسلسل في إحدى القرى الجبلية الهادئة. عندما يعود الشاب فارس إلى القرية بعد اختفائه الغامض تكشف الأسرار عائلة فوزي، الأمر الذي يؤثرعلى علاقته مع ابنة العائلة الجميلة ياسما.</desc>
   </programme>
-  <programme start="20200930143000 +0000" stop="20200930153000 +0000" channel="Series Channel">
-    <title lang="en">Ma'moun Wa Shurakaahu</title>
-    <title lang="ar">مأمون وشركاه</title>
-    <desc lang="en">Adel Imam; Lobloba. Eps 30;Despite being a millionaire Ma`moun is stingy man. He donates some money for humanitarian purposes when the government asks for it. The search for his hidden money continues. (R3). عادل امام؛ لبلبة.الحلقة 30؛على الرغم من امتلاكه المليارات لكن مأمون رجل شديد البخل على نفسه وعائلته يتبرع بجزء من امواله لأهداف انسانية بطلب من الدولة لكن البحث عن مكان اختباء الأموال يستمر حتى اكتشاف الحقيقة (R3).</desc>
+  <programme start="20201001140000 +0000" stop="20201001150000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">El Futowa</title>
+    <title lang="ar">الفتوّة</title>
+    <desc lang="en">Drama series events took place in the poor neighborhoods of Egypt which was organized and run by a class of courageous people who were called (El Futowa) back in the 50s, where they had the responsibility of defending the people in the area against any danger. دراما من بطولة ياسر جلال، وأحمد صلاح حسيني، تعود أحداث هذا المسلسل إلى خمسينيات القرن الماضي، في إحدى قرى مصر الفقيرة التي كانت تديرها مجموعة من الرجال الشجعان الذين يطلق عليهم جماعة "الفتوّة" حيث يقع على عاتقهم حماية سكان القرية من كل عدوان.</desc>
   </programme>
-  <programme start="20200930153000 +0000" stop="20200930163000 +0000" channel="Series Channel">
-    <title lang="en">Ikhtifaa'</title>
-    <title lang="ar">إختفاء</title>
-    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 5; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 5؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
+  <programme start="20201001150000 +0000" stop="20201001160000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Imra'ah</title>
+    <title lang="ar">امرأة</title>
+    <desc lang="en">Drama series chronicling the life, times, troubles and search for happiness of a young widowed mother of two who's life thus far has been riddled by loss, tragedy and grief. Özge Özpirinci, Caner Cindoruk and Bennu Yildirimlar star. دراما تركية. نتابع في هذا المسلسل نضال امرأة أرملة تكرّس حاضرها ومستقبلها لترسم البسمة على شفاه طفليها، إلى أن تظهر والدتها مجدداً في حياتها حيث تتكشف لها بعض من ذكريات ماضيها المؤلم.</desc>
   </programme>
-  <programme start="20200930163000 +0000" stop="20200930173000 +0000" channel="Series Channel">
-    <title lang="en">Al Khan</title>
-    <title lang="ar">الخان</title>
-    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 29; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 29؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
+  <programme start="20201001160000 +0000" stop="20201001170000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Shahad Al Murr</title>
+    <title lang="ar">الشهد المر</title>
+    <desc lang="en">The story follows the family of Suhail and how he wisely solves matters and family clashes, including the never ending conflict between his two wives, and the problems of his brother Shaheen with Sorour. يتابع هذا المسلسل الخليجي رب الأسرة سهيل وهو يعالج بحكمة مشاكل أسرته والشجار الذي لا ينتهي بين زوجتيه، بالإضافة إلى مراعاته لعائلته وشقيقه شاهين ومواجهاته مع سرور.</desc>
   </programme>
-  <programme start="20200930173000 +0000" stop="20200930183000 +0000" channel="Series Channel">
-    <title lang="en">Hatha Al Masaa'</title>
-    <title lang="ar">هذا المساء</title>
-    <desc lang="en">Iyaad Nassar;Arwa Jawdat. Eps 5; The series talks about many social issues with lots of developments to turn small events into big problems. (R3). إياد نصار؛ اروى جودة.الحلقة 5؛ يتناول المسلسل مواضيع اجتماعية عديدة، تتطور فيه الأحداث ككرة ثلج، فمن أخطاء وهفوات بسيطة، تتصاعد الأحداث إلى صراع ومصائر مهدده بالإنفجار (R3).</desc>
+  <programme start="20201001170000 +0000" stop="20201001180000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Madraset Al Hob</title>
+    <title lang="ar">مدرسة الحب</title>
+    <desc lang="en">when a father meets his daughter after 20 years, he finds out that his ex-wife and her husband arranged that meeting in attempt to seize his fortune. عندما يلتقي والد بابنته بعد عشرين عاماً، يكتشف بأن اللقاء لم يكن صدفة وبأن طليقته وزوجها قد رتبا الأمر، للاستيلاء على ثروته.</desc>
   </programme>
-  <programme start="20200930183000 +0000" stop="20200930193000 +0000" channel="Series Channel">
-    <title lang="en">Julia</title>
-    <title lang="ar">جوليا</title>
-    <desc lang="en">Maguy Bou Ghosn;Kais Sheikh Najib. Eps 1;Julia,a girl seeking to achieve herself and her goals in life in an uncommon way,until she meets psychologist who tries to help her. They face together all the to (R3). ماغي بو غصن؛ قيس الشيخ نجيب.الحلقة 1؛ جوليا فتاة  تسعى لتحقيق ذاتها في الحياة بأسلوب غريب جدا ما يجمعها بطبيب نفسي الذي يحاول مساعدتها، فيواجهان معا أصعب المواقف في إطار كوميدي (R3).</desc>
+  <programme start="20201001180000 +0000" stop="20201001190000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Ghurab</title>
+    <title lang="ar">الغراب</title>
+    <desc lang="en">Al Ghurab's family life changes completely as a result of the caliper held against his father, who is a police. Kuzgun will fall into a bondage, pain, anger, and struggle that will last 20 years. مسلسل درامي تركي، عندما يتم تلفيق تهمة حيازة المخدرات لرجل الشرطة الشريف، يتشرد ابنه الغراب ويغرق بمشاعر الحزن، اليأس والغضب لعشرين عاماً .. إلى أن يجد طريقه للانتقام.</desc>
   </programme>
-  <programme start="20200930193000 +0000" stop="20200930203000 +0000" channel="Series Channel">
-    <title lang="en">La'aakher Nafas</title>
-    <title lang="ar">لآخر نفس</title>
-    <desc lang="en">Yasmin Abd El Aziz; Ahmad Al Awadi. Eps 5; The series talks about a mother of two who loses her husband, a police officer, and finds interesting facts around his case which was full of ambiguities. (R3). ياسمين عبد العزيز؛ احمد العوضي.الحلقة 5؛ أم لولدين تفقد زوجها ضابط شرطة بظروف غامضة، فتبدأ البحث عن القضية التي اودت بحياة زوجها واذا بها تتفاجأ بأحداث مثيرة لم تكن تعلم بها (R3).</desc>
+  <programme start="20201001190000 +0000" stop="20201001200000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Tufah Al Haram</title>
+    <title lang="ar">التفاح الحرام</title>
+    <desc lang="en">Joldz's life changes dramatically when she receives a job offer from high society queen Ender. when Ender desides to divorce her husband, she makes Jalldez seduce Khalid. Jalldez accepts Ender's offer, but her decision affects not only her life but also her sister's. تدور أحداث المسلسل حول الشقيقتين يلدز وزينب، عندما تتحقق أماني يلدز في الدخول إلى عالم الطبقة المخملية، تقوم بقبول عرضاً من السيدة آندر في مساعدتها في التخلص من زوجها، لكن عواقب ذلك الأمر لن يؤثر عليها وحدها بل على زينب أيضاً.</desc>
   </programme>
-  <programme start="20200930203000 +0000" stop="20200930203000 +0000" channel="Series Channel">
-    <title lang="en">Rasaayel</title>
-    <title lang="ar">رسايل</title>
-    <desc lang="en">Mai Ezzedin, khaled Slim. Eps 30; The serial revolves events around the poor Egyptian families and in specific details about Hala who attains whatever she dreams for. (R3). مي عز الدين؛خالد سليم.الحلقة 30؛ تدور احداث المسلسل حول الأسر المصرية التي تنتمي للطبقة المتوسطة وتعيش تحت خط الفقر يرصد المسلسل حياة الفتاة هالة التي تحلم بأشياء تتحقق كلما حلمت بها (R3).</desc>
+  <programme start="20201001200000 +0000" stop="20201001210000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Qatel Eve</title>
+    <title lang="ar">قتل إيف</title>
+    <desc lang="en">Villanelle's mission is proving anything but straightforward, forcing her to take drastic measures. Meanwhile, Eve makes a shocking discovery, which leads her right to Villanelle and an electrifying confrontation from which neither will emerge unscathed. تثبت مهمة فيلانيل بأنها ليست سهلة ، مما يجبرها على اتخاذ تدابير صارمة. في هذه الأثناء ، تقوم إيف باكتشاف مروع ، يقودها مباشرة  إلى فيلانيل حيث تحصل مواجهة مزعجة لا ينتج منها أي ضرر.</desc>
   </programme>
-  <programme start="20200930203000 +0000" stop="20200930213000 +0000" channel="Series Channel">
-    <title lang="en">Rasaayel</title>
-    <title lang="ar">رسايل</title>
-    <desc lang="en">Mai Ezzedin, khaled Slim. Eps 30; The serial revolves events around the poor Egyptian families and in specific details about Hala who attains whatever she dreams for. (R3). مي عز الدين؛خالد سليم.الحلقة 30؛ تدور احداث المسلسل حول الأسر المصرية التي تنتمي للطبقة المتوسطة وتعيش تحت خط الفقر يرصد المسلسل حياة الفتاة هالة التي تحلم بأشياء تتحقق كلما حلمت بها (R3).</desc>
+  <programme start="20201001210000 +0000" stop="20201001220500 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Qa'det Reggala</title>
+    <title lang="ar">قعدة رجالة</title>
+    <desc lang="en">In this episode our three male celebrity hosts; Qais Sheikh Najeeb, Khalid Selim and Nicolas Moawad will host Nadine Njeim. سيستضيف نجومنا قيس الشيخ نجيب، خالد سليم ونيكولاس معوض في هذه الحلقة الفنّانة ندين نجيم.</desc>
   </programme>
-  <programme start="20200930213000 +0000" stop="20200930223000 +0000" channel="Series Channel">
-    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
-    <title lang="ar">فوق مستوى الشبهات</title>
-    <desc lang="en">Yusra; Sherine Reeda. Eps 5; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 5؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  <programme start="20201001220500 +0000" stop="20201001222000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Harb Alameya</title>
+    <title lang="ar">حرب عالمية</title>
+    <desc lang="en">Arabic Talk show where Enjy Kiwan will be hosting each of Qa'dat Regale's guests. في هذا البرنامج، ستقوم إنجي كيوان باستضافة النجمات اللاتي تمت استضافتهن في البرنامج الحواري قعدة رجالة.</desc>
   </programme>
-  <programme start="20200930223000 +0000" stop="20200930233000 +0000" channel="Series Channel">
-    <title lang="en">Ma'moun Wa Shurakaahu</title>
-    <title lang="ar">مأمون وشركاه</title>
-    <desc lang="en">Adel Imam; Lobloba. Eps 30;Despite being a millionaire Ma`moun is stingy man. He donates some money for humanitarian purposes when the government asks for it. The search for his hidden money continues. (R3). عادل امام؛ لبلبة.الحلقة 30؛على الرغم من امتلاكه المليارات لكن مأمون رجل شديد البخل على نفسه وعائلته يتبرع بجزء من امواله لأهداف انسانية بطلب من الدولة لكن البحث عن مكان اختباء الأموال يستمر حتى اكتشاف الحقيقة (R3).</desc>
+  <programme start="20201001222000 +0000" stop="20201001231000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Imra'ah</title>
+    <title lang="ar">امرأة</title>
+    <desc lang="en">Drama series chronicling the life, times, troubles and search for happiness of a young widowed mother of two who's life thus far has been riddled by loss, tragedy and grief. Özge Özpirinci, Caner Cindoruk and Bennu Yildirimlar star. دراما تركية. نتابع في هذا المسلسل نضال امرأة أرملة تكرّس حاضرها ومستقبلها لترسم البسمة على شفاه طفليها، إلى أن تظهر والدتها مجدداً في حياتها حيث تتكشف لها بعض من ذكريات ماضيها المؤلم.</desc>
   </programme>
-  <programme start="20200930233000 +0000" stop="20201001003000 +0000" channel="Series Channel">
-    <title lang="en">Ikhtifaa'</title>
-    <title lang="ar">إختفاء</title>
-    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 5; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 5؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
+  <programme start="20201001231000 +0000" stop="20201002000000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Ghurab</title>
+    <title lang="ar">الغراب</title>
+    <desc lang="en">Al Ghurab's family life changes completely as a result of the caliper held against his father, who is a police. Kuzgun will fall into a bondage, pain, anger, and struggle that will last 20 years. مسلسل درامي تركي، عندما يتم تلفيق تهمة حيازة المخدرات لرجل الشرطة الشريف، يتشرد ابنه الغراب ويغرق بمشاعر الحزن، اليأس والغضب لعشرين عاماً .. إلى أن يجد طريقه للانتقام.</desc>
+  </programme>
+  <programme start="20201002000000 +0000" stop="20201002005000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">El Futowa</title>
+    <title lang="ar">الفتوّة</title>
+    <desc lang="en">Drama series events took place in the poor neighborhoods of Egypt which was organized and run by a class of courageous people who were called (El Futowa) back in the 50s, where they had the responsibility of defending the people in the area against any danger. دراما من بطولة ياسر جلال، وأحمد صلاح حسيني، تعود أحداث هذا المسلسل إلى خمسينيات القرن الماضي، في إحدى قرى مصر الفقيرة التي كانت تديرها مجموعة من الرجال الشجعان الذين يطلق عليهم جماعة "الفتوّة" حيث يقع على عاتقهم حماية سكان القرية من كل عدوان.</desc>
+  </programme>
+  <programme start="20201002005000 +0000" stop="20201002014000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Tufah Al Haram</title>
+    <title lang="ar">التفاح الحرام</title>
+    <desc lang="en">Joldz's life changes dramatically when she receives a job offer from high society queen Ender. when Ender desides to divorce her husband, she makes Jalldez seduce Khalid. Jalldez accepts Ender's offer, but her decision affects not only her life but also her sister's. تدور أحداث المسلسل حول الشقيقتين يلدز وزينب، عندما تتحقق أماني يلدز في الدخول إلى عالم الطبقة المخملية، تقوم بقبول عرضاً من السيدة آندر في مساعدتها في التخلص من زوجها، لكن عواقب ذلك الأمر لن يؤثر عليها وحدها بل على زينب أيضاً.</desc>
+  </programme>
+  <programme start="20201002014000 +0000" stop="20201002023000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Qatel Eve</title>
+    <title lang="ar">قتل إيف</title>
+    <desc lang="en">Villanelle's mission is proving anything but straightforward, forcing her to take drastic measures. Meanwhile, Eve makes a shocking discovery, which leads her right to Villanelle and an electrifying confrontation from which neither will emerge unscathed. تثبت مهمة فيلانيل بأنها ليست سهلة ، مما يجبرها على اتخاذ تدابير صارمة. في هذه الأثناء ، تقوم إيف باكتشاف مروع ، يقودها مباشرة  إلى فيلانيل حيث تحصل مواجهة مزعجة لا ينتج منها أي ضرر.</desc>
+  </programme>
+  <programme start="20201002023000 +0000" stop="20201002032000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Shahad Al Murr (?)</title>
+    <title lang="ar">الشهد المر</title>
+  </programme>
+  <programme start="20201002032000 +0000" stop="20201002041000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Imra'ah</title>
+    <title lang="ar">امرأة</title>
+    <desc lang="en">Drama series chronicling the life, times, troubles and search for happiness of a young widowed mother of two who's life thus far has been riddled by loss, tragedy and grief. Özge Özpirinci, Caner Cindoruk and Bennu Yildirimlar star. دراما تركية. نتابع في هذا المسلسل نضال امرأة أرملة تكرّس حاضرها ومستقبلها لترسم البسمة على شفاه طفليها، إلى أن تظهر والدتها مجدداً في حياتها حيث تتكشف لها بعض من ذكريات ماضيها المؤلم.</desc>
+  </programme>
+  <programme start="20201002041000 +0000" stop="20201002050000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Madraset Al Hob</title>
+    <title lang="ar">مدرسة الحب</title>
+    <desc lang="en">when a father meets his daughter after 20 years, he finds out that his ex-wife and her husband arranged that meeting in attempt to seize his fortune. عندما يلتقي والد بابنته بعد عشرين عاماً، يكتشف بأن اللقاء لم يكن صدفة وبأن طليقته وزوجها قد رتبا الأمر، للاستيلاء على ثروته.</desc>
+  </programme>
+  <programme start="20201002050000 +0000" stop="20201002060000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Ghurab</title>
+    <title lang="ar">الغراب</title>
+    <desc lang="en">Al Ghurab's family life changes completely as a result of the caliper held against his father, who is a police. Kuzgun will fall into a bondage, pain, anger, and struggle that will last 20 years. مسلسل درامي تركي، عندما يتم تلفيق تهمة حيازة المخدرات لرجل الشرطة الشريف، يتشرد ابنه الغراب ويغرق بمشاعر الحزن، اليأس والغضب لعشرين عاماً .. إلى أن يجد طريقه للانتقام.</desc>
+  </programme>
+  <programme start="20201002060000 +0000" stop="20201002070000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Tufah Al Haram</title>
+    <title lang="ar">التفاح الحرام</title>
+    <desc lang="en">Joldz's life changes dramatically when she receives a job offer from high society queen Ender. when Ender desides to divorce her husband, she makes Jalldez seduce Khalid. Jalldez accepts Ender's offer, but her decision affects not only her life but also her sister's. تدور أحداث المسلسل حول الشقيقتين يلدز وزينب، عندما تتحقق أماني يلدز في الدخول إلى عالم الطبقة المخملية، تقوم بقبول عرضاً من السيدة آندر في مساعدتها في التخلص من زوجها، لكن عواقب ذلك الأمر لن يؤثر عليها وحدها بل على زينب أيضاً.</desc>
+  </programme>
+  <programme start="20201002070000 +0000" stop="20201002080000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Qatel Eve</title>
+    <title lang="ar">قتل إيف</title>
+    <desc lang="en">Villanelle's mission is proving anything but straightforward, forcing her to take drastic measures. Meanwhile, Eve makes a shocking discovery, which leads her right to Villanelle and an electrifying confrontation from which neither will emerge unscathed. تثبت مهمة فيلانيل بأنها ليست سهلة ، مما يجبرها على اتخاذ تدابير صارمة. في هذه الأثناء ، تقوم إيف باكتشاف مروع ، يقودها مباشرة  إلى فيلانيل حيث تحصل مواجهة مزعجة لا ينتج منها أي ضرر.</desc>
+  </programme>
+  <programme start="20201002080000 +0000" stop="20201002090000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">El Futowa</title>
+    <title lang="ar">الفتوّة</title>
+    <desc lang="en">Drama series events took place in the poor neighborhoods of Egypt which was organized and run by a class of courageous people who were called (El Futowa) back in the 50s, where they had the responsibility of defending the people in the area against any danger. دراما من بطولة ياسر جلال، وأحمد صلاح حسيني، تعود أحداث هذا المسلسل إلى خمسينيات القرن الماضي، في إحدى قرى مصر الفقيرة التي كانت تديرها مجموعة من الرجال الشجعان الذين يطلق عليهم جماعة "الفتوّة" حيث يقع على عاتقهم حماية سكان القرية من كل عدوان.</desc>
+  </programme>
+  <programme start="20201002090000 +0000" stop="20201002100000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Imra'ah</title>
+    <title lang="ar">امرأة</title>
+    <desc lang="en">Drama series chronicling the life, times, troubles and search for happiness of a young widowed mother of two who's life thus far has been riddled by loss, tragedy and grief. Özge Özpirinci, Caner Cindoruk and Bennu Yildirimlar star. دراما تركية. نتابع في هذا المسلسل نضال امرأة أرملة تكرّس حاضرها ومستقبلها لترسم البسمة على شفاه طفليها، إلى أن تظهر والدتها مجدداً في حياتها حيث تتكشف لها بعض من ذكريات ماضيها المؤلم.</desc>
+  </programme>
+  <programme start="20201002100000 +0000" stop="20201002110000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Ghurab</title>
+    <title lang="ar">الغراب</title>
+    <desc lang="en">Al Ghurab's family life changes completely as a result of the caliper held against his father, who is a police. Kuzgun will fall into a bondage, pain, anger, and struggle that will last 20 years. مسلسل درامي تركي، عندما يتم تلفيق تهمة حيازة المخدرات لرجل الشرطة الشريف، يتشرد ابنه الغراب ويغرق بمشاعر الحزن، اليأس والغضب لعشرين عاماً .. إلى أن يجد طريقه للانتقام.</desc>
+  </programme>
+  <programme start="20201002110000 +0000" stop="20201002120000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Madraset Al Hob</title>
+    <title lang="ar">مدرسة الحب</title>
+    <desc lang="en">when a father meets his daughter after 20 years, he finds out that his ex-wife and her husband arranged that meeting in attempt to seize his fortune. عندما يلتقي والد بابنته بعد عشرين عاماً، يكتشف بأن اللقاء لم يكن صدفة وبأن طليقته وزوجها قد رتبا الأمر، للاستيلاء على ثروته.</desc>
+  </programme>
+  <programme start="20201002120000 +0000" stop="20201002130000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Tufah Al Haram</title>
+    <title lang="ar">التفاح الحرام</title>
+    <desc lang="en">Joldz's life changes dramatically when she receives a job offer from high society queen Ender. when Ender desides to divorce her husband, she makes Jalldez seduce Khalid. Jalldez accepts Ender's offer, but her decision affects not only her life but also her sister's. تدور أحداث المسلسل حول الشقيقتين يلدز وزينب، عندما تتحقق أماني يلدز في الدخول إلى عالم الطبقة المخملية، تقوم بقبول عرضاً من السيدة آندر في مساعدتها في التخلص من زوجها، لكن عواقب ذلك الأمر لن يؤثر عليها وحدها بل على زينب أيضاً.</desc>
+  </programme>
+  <programme start="20201002130000 +0000" stop="20201002140000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">MA Fiyyi</title>
+    <title lang="ar">ما فيّي</title>
+    <desc lang="en">When Fares comes back from Syria to reopen his parents’ restaurant, he is struck by rumors accusing the powerful landlord Fawzi of a murder years ago. A truth that is bound to threaten the love story that has started with Yasma, Fawzi’s daughter. تدور أحداث هذا المسلسل في إحدى القرى الجبلية الهادئة. عندما يعود الشاب فارس إلى القرية بعد اختفائه الغامض تكشف الأسرار عائلة فوزي، الأمر الذي يؤثرعلى علاقته مع ابنة العائلة الجميلة ياسما.</desc>
+  </programme>
+  <programme start="20201002140000 +0000" stop="20201002150000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">El Futowa</title>
+    <title lang="ar">الفتوّة</title>
+    <desc lang="en">Drama series events took place in the poor neighborhoods of Egypt which was organized and run by a class of courageous people who were called (El Futowa) back in the 50s, where they had the responsibility of defending the people in the area against any danger. دراما من بطولة ياسر جلال، وأحمد صلاح حسيني، تعود أحداث هذا المسلسل إلى خمسينيات القرن الماضي، في إحدى قرى مصر الفقيرة التي كانت تديرها مجموعة من الرجال الشجعان الذين يطلق عليهم جماعة "الفتوّة" حيث يقع على عاتقهم حماية سكان القرية من كل عدوان.</desc>
+  </programme>
+  <programme start="20201002150000 +0000" stop="20201002160000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Imra'ah</title>
+    <title lang="ar">امرأة</title>
+    <desc lang="en">Drama series chronicling the life, times, troubles and search for happiness of a young widowed mother of two who's life thus far has been riddled by loss, tragedy and grief. Özge Özpirinci, Caner Cindoruk and Bennu Yildirimlar star. دراما تركية. نتابع في هذا المسلسل نضال امرأة أرملة تكرّس حاضرها ومستقبلها لترسم البسمة على شفاه طفليها، إلى أن تظهر والدتها مجدداً في حياتها حيث تتكشف لها بعض من ذكريات ماضيها المؤلم.</desc>
+  </programme>
+  <programme start="20201002160000 +0000" stop="20201002170000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Shahad Al Murr</title>
+    <title lang="ar">الشهد المر</title>
+    <desc lang="en">The story follows the family of Suhail and how he wisely solves matters and family clashes, including the never ending conflict between his two wives, and the problems of his brother Shaheen with Sorour. يتابع هذا المسلسل الخليجي رب الأسرة سهيل وهو يعالج بحكمة مشاكل أسرته والشجار الذي لا ينتهي بين زوجتيه، بالإضافة إلى مراعاته لعائلته وشقيقه شاهين ومواجهاته مع سرور.</desc>
+  </programme>
+  <programme start="20201002170000 +0000" stop="20201002180500 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Qa'det Reggala</title>
+    <title lang="ar">قعدة رجالة</title>
+    <desc lang="en">In this episode our three male celebrity hosts; Qais Sheikh Najeeb, Khalid Selim and Nicolas Moawad will host Nadine Njeim. سيستضيف نجومنا قيس الشيخ نجيب، خالد سليم ونيكولاس معوض في هذه الحلقة الفنّانة ندين نجيم.</desc>
+  </programme>
+  <programme start="20201002180500 +0000" stop="20201002182000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Harb Alameya</title>
+    <title lang="ar">حرب عالمية</title>
+    <desc lang="en">Arabic Talk show where Enjy Kiwan will be hosting each of Qa'dat Regale's guests. في هذا البرنامج، ستقوم إنجي كيوان باستضافة النجمات اللاتي تمت استضافتهن في البرنامج الحواري قعدة رجالة.</desc>
+  </programme>
+  <programme start="20201002182000 +0000" stop="20201002190500 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Al Ghurab</title>
+    <title lang="ar">الغراب</title>
+    <desc lang="en">Al Ghurab's family life changes completely as a result of the caliper held against his father, who is a police. Kuzgun will fall into a bondage, pain, anger, and struggle that will last 20 years. مسلسل درامي تركي، عندما يتم تلفيق تهمة حيازة المخدرات لرجل الشرطة الشريف، يتشرد ابنه الغراب ويغرق بمشاعر الحزن، اليأس والغضب لعشرين عاماً .. إلى أن يجد طريقه للانتقام.</desc>
+  </programme>
+  <programme start="20201002190500 +0000" stop="20201002200000 +0000" channel="OSN Ya Hala HD">
+    <title lang="en">Thill El Helm</title>
+    <title lang="ar">ظل الحلم</title>
+    <desc lang="en">Drama series about a parapsychologist investigating a troubled woman who is convinced that all her night-time dreams turn to reality - but as he digs deeper into the case, he finds himself becoming a part of it. مسلسل درامي سعودي، يتناول قصة باحث الماورائيات الذي يدقق في قصة المرأة التي تتحقق جميع أحلامهاعلى أرض الواقع، فيغوص في تفاصيل الحالة حتى يصبح جزءاً منها.</desc>
   </programme>
   <programme start="20201001003000 +0000" stop="20201001013000 +0000" channel="Series Channel">
     <title lang="en">Al Khan</title>
@@ -275,65 +384,130 @@
     <title lang="ar">لآخر نفس</title>
     <desc lang="en">Yasmin Abd El Aziz; Ahmad Al Awadi. Eps 6; The series talks about a mother of two who loses her husband, a police officer, and finds interesting facts around his case which was full of ambiguities. (R3). ياسمين عبد العزيز؛ احمد العوضي.الحلقة 6؛ أم لولدين تفقد زوجها ضابط شرطة بظروف غامضة، فتبدأ البحث عن القضية التي اودت بحياة زوجها واذا بها تتفاجأ بأحداث مثيرة لم تكن تعلم بها (R3).</desc>
   </programme>
-  <programme start="20200930010000 +0000" stop="20200930030000 +0000" channel="Cinema 1">
-    <title lang="en">Bustan Al-Mawt</title>
-    <title lang="ar">بستان الموت</title>
-    <desc lang="en">Zinati Qudsiyya An old house in Jerusalem has Palestinian and Israeli tenants live under one roof and reflects the endless conflict of Palestinian stamina versus the Israeli and Zionist insolence (R3). زيناتي قدسية في منزل قديم بالقدس الشرقية تعيش أسرة فلسطينية في الطابق الأول وتحتل أسرة صهيونية طابقه الثاني تعكس حياة العائلتين في ذات المكان صراع الشعبين من خلال تضحية الفلسطينيين وغطرسة الصهاينة (R3).</desc>
+  <programme start="20201001203000 +0000" stop="20201001203000 +0000" channel="Series Channel">
+    <title lang="en">Jannet Halee</title>
+    <title lang="ar">جنة هلي</title>
+    <desc lang="en">Souad Abdallah; Ibrahim Al Harbi. Eps 1; Events revolve around different personalities focusing on social problems with human dimensions. (R3). سعاد عبدالله؛ ابراهيم الحربي.الحلقة 1؛ يطرح المسلسل قضايا اجتماعية حساسة ذات بعد إنساني تدور الأحداث حول عدة شخصيات ويتم تسليط الضوء على مشكلات اساسية واخرى ثانوية تعانيها المجتمعات (R3).</desc>
   </programme>
-  <programme start="20200930030000 +0000" stop="20200930050000 +0000" channel="Cinema 1">
-    <title lang="en">Agda‘ Naas</title>
-    <title lang="ar">أجدع ناس</title>
-    <desc lang="en">Kamal Al Shinnawi, Hala Sedqi  An Egyptian Karate team is playing a decisive match against America, which they have never defeated before, and are willing to work their best in order to acheive this (R3). كمال الشناوي، هالة صدقي دراما تروي قصة مدرب للكاراتيه يقرر تكوين فريق من خمسة شبان لينافس الفريق الأمريكي الذي لم يهزم طوال أربع سنوات، والذي سوف يأتي إلى مصر للعب (R3).</desc>
+  <programme start="20201001203000 +0000" stop="20201001213000 +0000" channel="Series Channel">
+    <title lang="en">Jannet Halee</title>
+    <title lang="ar">جنة هلي</title>
+    <desc lang="en">Souad Abdallah; Ibrahim Al Harbi. Eps 1; Events revolve around different personalities focusing on social problems with human dimensions. (R3). سعاد عبدالله؛ ابراهيم الحربي.الحلقة 1؛ يطرح المسلسل قضايا اجتماعية حساسة ذات بعد إنساني تدور الأحداث حول عدة شخصيات ويتم تسليط الضوء على مشكلات اساسية واخرى ثانوية تعانيها المجتمعات (R3).</desc>
   </programme>
-  <programme start="20200930050000 +0000" stop="20200930070000 +0000" channel="Cinema 1">
-    <title lang="en">Ashraf Khati'ah</title>
-    <title lang="ar">اشرف خاطئة</title>
-    <desc lang="en">Nahed Sherif;Nour Al Sherif Sameh`s wife was forced to surrender to his boss to get some papers signed for his treatmentWhen he heals,his boss tries to separate him from his wife with Zizi`s support (R3). ناهد شريف؛ نور الشريف يفقد المهندس سامح بصره تقصد زوجته مديره لتوقيع اوراق فيطمع بها ويساومها على نفسها مقابل الموافقةترضخ له ويعود لسامح بصره تصمم زيزي مع المدير على التفرقة بين الزوجين  (R3).</desc>
+  <programme start="20201001213000 +0000" stop="20201001223000 +0000" channel="Series Channel">
+    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
+    <title lang="ar">فوق مستوى الشبهات</title>
+    <desc lang="en">Yusra; Sherine Reeda. Eps 6; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 6؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
   </programme>
-  <programme start="20200930070000 +0000" stop="20200930090000 +0000" channel="Cinema 1">
-    <title lang="en">Rihlat Al Ayyam</title>
-    <title lang="ar">رحلة الأيام</title>
-    <desc lang="en">Suhair Ramzi, Samir Sabri Majdi divorces his wife yasmeen after she`s wrongfully accused of prostitution without giving her a chance to defend herself After years go by, he discovers he has a son (R3). سهير رمزي، سمير صبري يطلق مجدي زوجته ياسمين بعد اتهامها زوراً بالدعارة بدون أن يعطيها فرصة لإظهار براءتها تمر الأيام ويقابل مجدي الطفل سامح وتنشأ بينهما صداقة، ولكنه يفاجأ لاحقاً بأنه ابنه (R3).</desc>
+  <programme start="20201001223000 +0000" stop="20201001233000 +0000" channel="Series Channel">
+    <title lang="en">Saabe' Jaar</title>
+    <title lang="ar">سابع جار</title>
+    <desc lang="en">Ghanem Saleh, Intisar Alsharah. Eps 1;A light comedy revolving around the social interaction between individuals in tha Arab community, and the effect of newly acquired and foreign habits on such comm (R3). غانم صالح، انتصار الشراح.الحلقة 1؛مسلسل كوميدي يتطرق إلى المشاكل اليومية والعلاقات بين الأفراد في المجتمع العربي والعادات المستوردة التي دخلت المجتمع، كما يتحدث عن السلبيات داخل الأسر وتأثيرها على الأولاد (R3).</desc>
   </programme>
-  <programme start="20200930090000 +0000" stop="20200930110000 +0000" channel="Cinema 1">
-    <title lang="en">Al Shaytan Wal Khareef</title>
-    <title lang="ar">الشيطان والخريف</title>
-    <desc lang="en">Rushdi Abatha; A series of events occur when Naim and his wife Dalal decide to take revenge from Wasfi Bek`s widow Narjes At the end Dalal killed Naim who also killed her while taking his last breathe (R3). رشدي اباظة؛ سناء جميل احداث كثيرة حطت عندما كان نعيم وزوجته دلال يريدان الإنتقام من نرجس ارملة وصفي بك لكن الإنتقام انقلب عليهما وأدى الى ان تقتل دلال نعيم الذي بدوره قتلها وهو يلفظ انفاسه الأخيرة (R3).</desc>
+  <programme start="20201001233000 +0000" stop="20201002003000 +0000" channel="Series Channel">
+    <title lang="en">Ikhtifaa'</title>
+    <title lang="ar">إختفاء</title>
+    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 6; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 6؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
   </programme>
-  <programme start="20200930110000 +0000" stop="20200930130000 +0000" channel="Cinema 1">
-    <title lang="en">Karawana</title>
-    <title lang="ar">كروانة</title>
-    <desc lang="en">Nour Al-Sherif, Pousy Karawana, whom Dr Taymour refuses to take in at first, penetrates his secluded life despite her inferiority and manages to revive his subsistence in return for saving her life (R3). نور الشريف، بوسي تهرب كروانة من منزل عمتها وتلجأ إلى الطبيب تيمور الذي قرر اعتزال الحياة والناس يرفضها في البداية لكن مع مرور الأيام تتمكن من إعادة رغبته في العمل والحياة ويمنحها الأمان والاستقرار (R3).</desc>
+  <programme start="20201002003000 +0000" stop="20201002013000 +0000" channel="Series Channel">
+    <title lang="en">Did Majhool</title>
+    <title lang="ar">ضد مجهول</title>
+    <desc lang="en">Ghada Abdel Razeq, Firas Saiid. Eps 28; Nada fights the so called judicial action against unknown after loosing her daughter and putting her case on hold. (R3). غادة عبد الرازق؛ فراس سعيد.الحلقة 28؛ ندى ام احترق قلبها بعد ان فقدت ابنتها غدراً امام عينيها ويتم حفظ القضية لأنها ضد مجهول تسعى ندى بكل قوة الى الغاء ما يسمى بضد مجهول فتتعرض لمؤامرات جمة (R3).</desc>
   </programme>
-  <programme start="20200930130000 +0000" stop="20200930150000 +0000" channel="Cinema 1">
-    <title lang="en">Al Yaqathah</title>
-    <title lang="ar">اليقظة</title>
-    <desc lang="en">`Abaid Fahed, Farah Bsiso A dramatic tale of a young wealthy man desperately in love with a young woman who does not share his feelings (R3). عبيد فهد، فرح بسيسو قصة شاب عصامي من عائلة ثرية ومتخصص في مجال الآثار، يمر بمرحلة صعبة من حياته، إذ يعاني من إحباط نفسي واضطراب في علاقته العاطفية مع خطيبته الحسناء سناء التي لا تبادله نفس المشاعر (R3).</desc>
+  <programme start="20201002013000 +0000" stop="20201002023000 +0000" channel="Series Channel">
+    <title lang="en">Did Majhool</title>
+    <title lang="ar">ضد مجهول</title>
+    <desc lang="en">Ghada Abdel Razeq, Firas Saiid. Eps 29; Nada fights the so called judicial action against unknown after loosing her daughter and putting her case on hold. (R3). غادة عبد الرازق؛ فراس سعيد.الحلقة 29؛ ندى ام احترق قلبها بعد ان فقدت ابنتها غدراً امام عينيها ويتم حفظ القضية لأنها ضد مجهول تسعى ندى بكل قوة الى الغاء ما يسمى بضد مجهول فتتعرض لمؤامرات جمة (R3).</desc>
   </programme>
-  <programme start="20200930150000 +0000" stop="20200930170000 +0000" channel="Cinema 1">
-    <title lang="en">Tujjar Al Sumoum</title>
-    <title lang="ar">تجار السموم</title>
-    <desc lang="en">Abu Bakr `Ezzat, Raja` Al Jeddawi Omar is a spoilt young teenager who falls victim to a morally corrupt woman, who takes him into the world of drugs, where he ends up a drug addict (R3). أبو بكر عزت، رجاء الجداوي يقع شاب مراهق مدلل في حبائل امرأة لعوب، سرعان ما تمضي به إلى طريق الإنحراف فيصبح مدمناً على الحقن المخدرة (R3).</desc>
+  <programme start="20201002023000 +0000" stop="20201002033000 +0000" channel="Series Channel">
+    <title lang="en">Did Majhool</title>
+    <title lang="ar">ضد مجهول</title>
+    <desc lang="en">Ghada Abdel Razeq, Firas Saiid. Eps 30; Nada fights the so called judicial action against unknown after loosing her daughter and putting her case on hold. (R3). غادة عبد الرازق؛ فراس سعيد.الحلقة 30؛ ندى ام احترق قلبها بعد ان فقدت ابنتها غدراً امام عينيها ويتم حفظ القضية لأنها ضد مجهول تسعى ندى بكل قوة الى الغاء ما يسمى بضد مجهول فتتعرض لمؤامرات جمة (R3).</desc>
   </programme>
-  <programme start="20200930170000 +0000" stop="20200930190000 +0000" channel="Cinema 1">
-    <title lang="en">Ard Al-Ahlaam</title>
-    <title lang="ar">أرض الأحلام</title>
-    <desc lang="en">Faten Hamama, Yehya Al-Fakharani With his magic wand, magician Ra`ouf unintentionally opens a door for Narjes to have a glance at a world new to her which deviates her from migrating to the States (R3). فاتن حمامة، يحيى الفخراني تفقد نرجس جواز سفرها قبل ساعات من سفرها إلى أمريكا تبحث عنه في كل الأماكن ومع كل الأشخاص الذي التقتهم يومها ما يضطرها لمطاردة الساحر رؤوف الذي ترى من خلاله عالماً مختلفاً (R3).</desc>
+  <programme start="20201002033000 +0000" stop="20201002043000 +0000" channel="Series Channel">
+    <title lang="en">Julia</title>
+    <title lang="ar">جوليا</title>
+    <desc lang="en">Maguy Bou Ghosn;Kais Sheikh Najib. Eps 1;Julia,a girl seeking to achieve herself and her goals in life in an uncommon way,until she meets psychologist who tries to help her. They face together all the to (R3). ماغي بو غصن؛ قيس الشيخ نجيب.الحلقة 1؛ جوليا فتاة  تسعى لتحقيق ذاتها في الحياة بأسلوب غريب جدا ما يجمعها بطبيب نفسي الذي يحاول مساعدتها، فيواجهان معا أصعب المواقف في إطار كوميدي (R3).</desc>
   </programme>
-  <programme start="20200930190000 +0000" stop="20200930210000 +0000" channel="Cinema 1">
-    <title lang="en">Al Fatina Wa Al Su'look</title>
-    <title lang="ar">الفاتنة والصعلوك</title>
-    <desc lang="en">Mirvat Amin; Hussein Fahmi Abdo works in car robbery tries to trap Najwa`s husband to save her from him being a gangster (R3). ميرفت أمين؛ حسين فهمي يعمل عبده في سرقة السيارات، يتعرف على نجوى وهي امرأة متزوجة وتعاني من زوجها حنفي زعيم احدى العصابات يحاول البحث عن دليل للإيقاع بالزوج فتدور سلسلة من الأحداث المشوقة (R3).</desc>
+  <programme start="20201002043000 +0000" stop="20201002053000 +0000" channel="Series Channel">
+    <title lang="en">Julia</title>
+    <title lang="ar">جوليا</title>
+    <desc lang="en">Maguy Bou Ghosn;Kais Sheikh Najib. Eps 2;Julia,a girl seeking to achieve herself and her goals in life in an uncommon way,until she meets psychologist who tries to help her. They face together all the to (R3). ماغي بو غصن؛ قيس الشيخ نجيب.الحلقة 2؛ جوليا فتاة  تسعى لتحقيق ذاتها في الحياة بأسلوب غريب جدا ما يجمعها بطبيب نفسي الذي يحاول مساعدتها، فيواجهان معا أصعب المواقف في إطار كوميدي (R3).</desc>
   </programme>
-  <programme start="20200930210000 +0000" stop="20200930230000 +0000" channel="Cinema 1">
-    <title lang="en">Araq Al-Balah</title>
-    <title lang="ar">عرق البلح</title>
-    <desc lang="en">Sherihan Women of a remote village undergo all forms of deprivation after their spouses leave them behind to work abroad Ahmad insists to stay with his ailing grandfather which entails his own woe (R3). شريهان يهاجر جميع رجال قرية نائية للعمل في بلاد النفط تاركين نساءهم يعانون الحرمان يبقى الشاب اليافع أحمد مع النسوة في القرية ينمو الحب بينه وبين سلمى فتحمل منه، ما يجعل والدها ينوي التخلص منه (R3).</desc>
+  <programme start="20201002053000 +0000" stop="20201002063000 +0000" channel="Series Channel">
+    <title lang="en">Al Khan</title>
+    <title lang="ar">الخان</title>
+    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 26; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 26؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
   </programme>
-  <programme start="20200930230000 +0000" stop="20201001010000 +0000" channel="Cinema 1">
-    <title lang="en">Al-Bulldozer</title>
-    <title lang="ar">البلدوزر</title>
-    <desc lang="en">Yousef Mansour, Shireen Saif Al-Nasr Shireen`s confinement in her elderly husband`s mansion doesn`t stop her from feeling love to his assistant Yousef which infuriates her husband to a fatal extent (R3). يوسف منصور، شيرين سيف النصر يتزوج الثري برهان من شيرين التي تصغره بسوات ويحبسها داخل قلعته المنيعة تقع في المحظور حين يميل قلبها لمساعده الشاب منصور ما يثير سخط زوجها الذي يعدّ للانتقام من كليهما (R3).</desc>
+  <programme start="20201002063000 +0000" stop="20201002073000 +0000" channel="Series Channel">
+    <title lang="en">Al Khan</title>
+    <title lang="ar">الخان</title>
+    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 27; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 27؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
+  </programme>
+  <programme start="20201002073000 +0000" stop="20201002083000 +0000" channel="Series Channel">
+    <title lang="en">Al Khan</title>
+    <title lang="ar">الخان</title>
+    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 28; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 28؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
+  </programme>
+  <programme start="20201002083000 +0000" stop="20201002093000 +0000" channel="Series Channel">
+    <title lang="en">Al Khan</title>
+    <title lang="ar">الخان</title>
+    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 29; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 29؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
+  </programme>
+  <programme start="20201002093000 +0000" stop="20201002103000 +0000" channel="Series Channel">
+    <title lang="en">Al Khan</title>
+    <title lang="ar">الخان</title>
+    <desc lang="en">Abed Al Men`im Amayri; Nadine Salama. Eps 30; A series of social Chamian problems presented in 1890 in a comedian style based on the events and situations happened with the Khan`s guests. (R3). عبد المنعم عمايري؛ نادين سلامة.الحلقة 30؛ يعرض المسلسل مشاكل وقصص اجتماعية شامية حصلت سنة 1890 في جو كوميدي من خلال المواقف والأحداث التي تحصل مع نزلاء الخان (R3).</desc>
+  </programme>
+  <programme start="20201002103000 +0000" stop="20201002113000 +0000" channel="Series Channel">
+    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
+    <title lang="ar">فوق مستوى الشبهات</title>
+    <desc lang="en">Yusra; Sherine Reeda. Eps 2; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 2؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  </programme>
+  <programme start="20201002113000 +0000" stop="20201002123000 +0000" channel="Series Channel">
+    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
+    <title lang="ar">فوق مستوى الشبهات</title>
+    <desc lang="en">Yusra; Sherine Reeda. Eps 3; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 3؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  </programme>
+  <programme start="20201002123000 +0000" stop="20201002133000 +0000" channel="Series Channel">
+    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
+    <title lang="ar">فوق مستوى الشبهات</title>
+    <desc lang="en">Yusra; Sherine Reeda. Eps 4; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 4؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  </programme>
+  <programme start="20201002133000 +0000" stop="20201002143000 +0000" channel="Series Channel">
+    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
+    <title lang="ar">فوق مستوى الشبهات</title>
+    <desc lang="en">Yusra; Sherine Reeda. Eps 5; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 5؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  </programme>
+  <programme start="20201002143000 +0000" stop="20201002153000 +0000" channel="Series Channel">
+    <title lang="en">Fawqa Mustawaa Al Shubuhaat</title>
+    <title lang="ar">فوق مستوى الشبهات</title>
+    <desc lang="en">Yusra; Sherine Reeda. Eps 6; Loubna suffers a lot after being accused of killing her husband and sister. Proving her innocence is hard after she enters a psychotherapeutic clinic. (R3). يسرا؛ شيرين رضا.الحلقة 6؛ بعيدة عن الشبهات تتلاعب رحمة بأفكار من حولها في المجتمع المصري وتوقعهم في فخها وتتلذذ بإلحاق الأذى بهم بطريقة خفية ومبسطة (R3).</desc>
+  </programme>
+  <programme start="20201002153000 +0000" stop="20201002163000 +0000" channel="Series Channel">
+    <title lang="en">Ikhtifaa'</title>
+    <title lang="ar">إختفاء</title>
+    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 2; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 2؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
+  </programme>
+  <programme start="20201002163000 +0000" stop="20201002173000 +0000" channel="Series Channel">
+    <title lang="en">Ikhtifaa'</title>
+    <title lang="ar">إختفاء</title>
+    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 3; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 3؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
+  </programme>
+  <programme start="20201002173000 +0000" stop="20201002183000 +0000" channel="Series Channel">
+    <title lang="en">Ikhtifaa'</title>
+    <title lang="ar">إختفاء</title>
+    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 4; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 4؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
+  </programme>
+  <programme start="20201002183000 +0000" stop="20201002193000 +0000" channel="Series Channel">
+    <title lang="en">Ikhtifaa'</title>
+    <title lang="ar">إختفاء</title>
+    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 5; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 5؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
+  </programme>
+  <programme start="20201002193000 +0000" stop="20201002203000 +0000" channel="Series Channel">
+    <title lang="en">Ikhtifaa'</title>
+    <title lang="ar">إختفاء</title>
+    <desc lang="en">Nelly Karim, Hisham Sleem. Eps 6; After travelling to Russia, Sara returns to Egypt to look for her missing husband who disappeared in a mysterious way. (R3). نيللي كريم؛ محمد ممدوح.الحلقة 6؛ سارة امرأة متزوجة تسافر الى روسيا يختفي زوجها دون مقدمات فتعود الى مصر للبحث عنه (R3).</desc>
   </programme>
   <programme start="20201001010000 +0000" stop="20201001030000 +0000" channel="Cinema 1">
     <title lang="en">Al Yaqathah</title>
@@ -380,70 +554,65 @@
     <title lang="ar">بصمات فوق الماء</title>
     <desc lang="en">Mervat Ameen, Farouq Al-Fishawi Baseema appears to her brother Ramzi and his wife after her suicide in a phantom sort of way opening a door ajar for calamities and dormant intricacies to surface (R3). ميرفت أمين،فاروق الفيشاوي يرفض رمزي إعطاء أخته بسيمة نصيبها في الميراث بسبب زواجها من عامل بسيط بعد صدمته بنبأ انتحارها، يظهر له ولزوجته سلوى طيف يعتقدان أنه شبح بسيمة، وتتوالى الكوارث عليهما بعدها (R3).</desc>
   </programme>
-  <programme start="20200930000000 +0000" stop="20200930020000 +0000" channel="Cinema 2">
-    <title lang="en">Rajol Bila Qalb</title>
-    <title lang="ar">رجل بلا قلب</title>
-    <desc lang="en">Hind Rostom, Yehya Shaheen. Lord Feudal falls in love with one of his maids. The girl has shockingly disguised herself as a servant in order to revenge her sister, who is one of Lord Feudal`s victims. (R3). يحيى شاهين، هند رستم.يقع ‎إقطاعي في غرام خادمته، وقد سبق لابنه أن وعدها بالزواج، يتضح أن الخادمة لم تكن إلا شقيقة لإحدى ضحاياه، وقد جاءت لتنتقم منه، تهرب الخادمة مع ابنه فيطاردها ليقتلهما (R3).</desc>
+  <programme start="20201001190000 +0000" stop="20201001210000 +0000" channel="Cinema 1">
+    <title lang="en">Iskindiriyya New York</title>
+    <title lang="ar">إسكندرية نيويورك</title>
+    <desc lang="en">Mahmoud Himaida, Yusra Forty years after making love pledges, Yeyha encounters Ginger while being celebrated at a film festival in New York Along with the meeting arises a life changing surprise (R3). محمود حميدة، يسرا مضت 40 سنة على فراق يحيى وحبيبته الأمريكية جنجر وإذ بهما يلتقيان ثانية في نيويورك خلال مهرجان سينمائي لم يكن اللقاء مفاجأة فحسب، بل طرأ على حياة يحيى ما غيّر كل شيء فيها (R3).</desc>
   </programme>
-  <programme start="20200930020000 +0000" stop="20200930040000 +0000" channel="Cinema 2">
-    <title lang="en">Min Ghair Mee'ad</title>
-    <title lang="ar">من غير ميعاد</title>
-    <desc lang="en">Su`ad Husni, Nadia Lutfi. Love laces the lives of two sisters and two friends where each falls for whom has feelings for someone else in the quartet. The knot untangles somehow and has everyone content. (R3). سعاد حسني، ناديا لطفي.تتشابك حياة الشقيقتين سلوى وناديا مع الصديقين وحيد وكمال حين يقع كل واحد في حب من يكن المشاعر لشخص آخر من الرباعيتحلّ العقدة بمرور الوقت وتتضح المشاعر ليحظى الجميع بقلب من يحب (R3).</desc>
+  <programme start="20201001210000 +0000" stop="20201001230000 +0000" channel="Cinema 1">
+    <title lang="en">Al Makhtouf</title>
+    <title lang="ar">المخطوف</title>
+    <desc lang="en">Ahmad Al-Zien, Ibrahim Mara`shli During the civil war in Lebanon, Yousef is preparing  his marriage with Hiam, suddenly he is kidnapped by armed militia, Hiam decides to revenge (R3). أحمد الزين، ابراهيم مرعشلي تدور احداث الفيلم اثناء الحرب الاهلية اللبنانية، يوسف يستعد للزواج من هيام لكنه يخطف من قبل المليشيات المسلحة، فيشاع في القرية انه قتل فتصاب هيام بصدمة وتقررالانتقام (R3).</desc>
   </programme>
-  <programme start="20200930040000 +0000" stop="20200930060000 +0000" channel="Cinema 2">
-    <title lang="en">Sira'a Fil Mina</title>
-    <title lang="ar">صراع في الميناء</title>
-    <desc lang="en">Faten Hamamah, Omar Al-Shareef. A sailor returns home after he has been away for several years and discovers that his girlfriend has not been faithful to him, which fills him with jealousy.. BandW (R3). فاتن حمامة، عمر الشريف.دراما تروي قصة بحار شاب يعود إلى الإسكندرية بعد عدة سنوات ليجد إبنة خالته على علاقة مع صديق عزيز له يشعر البحار بالغيرة ويثور عليها (R3).</desc>
+  <programme start="20201001230000 +0000" stop="20201002010000 +0000" channel="Cinema 1">
+    <title lang="en">Al-Layl Al-Taweel</title>
+    <title lang="ar">الليل الطويل</title>
+    <desc lang="en">Khaled Taja, Amal Arafa Long was the last night behind prison walls when 20 years of detainment came to an end setting a threshold to a new scary unknown for three inmates and their families alike (R3). خالد تاجا، أمل عرفة طال الانتظار في ليلة الاعتقال الأخيرة التي كانت خاتمة لسنوات السجن الطوال عاشها ثلاثة معتقلون سياسيون في قهر خرجوا إلى الحياة من جديد ليحيوها مع ذويهم رغم اختلاف شكلها وملامحها (R3).</desc>
   </programme>
-  <programme start="20200930060000 +0000" stop="20200930080000 +0000" channel="Cinema 2">
-    <title lang="en">Bayt Al-Ashbaah</title>
-    <title lang="ar">بيت الأشباح</title>
-    <desc lang="en">Ismail Yaseen, Kamal Al-Shinnawi. Heirs of a hefty fortune are forced to stay at a remote palace which they are made to believe is haunted to run for their lives and leave the inheritance behind. (R3). إسماعيل ياسين، كمال الشناوي.يترك رجل ثروة كبيرة فيخطط وكيل أعماله للاستيلاء عليها يجبر الورثة على البقاء في قصر لمدة شهر كشرط وارد في الوصية يشيع أن القصر تسكنه أشباح لكن خادماً أخرساً يكشف لعبته (R3).</desc>
+  <programme start="20201002010000 +0000" stop="20201002030000 +0000" channel="Cinema 1">
+    <title lang="en">Jameelah</title>
+    <title lang="ar">جميلة</title>
+    <desc lang="en">Mahmoud Al Jondi, Zizi Mustafa A girl falls into a state of depression as a result of mysterious circumstances surrounding her father`s death As the police investigate his death, they are surprised (R3). محمود الجندي، زيزي مصطفى رجل ثري يذهب ضحية جريمة قتل تبدو على أنها حادث عرضي تصاب ابنة الرجل بصدمة نفسية تفقدها حواسها ويحاول رجال البوليس حل اللغز الذي يكشف عن مفاجأة غير متوقعة للجميع (R3).</desc>
   </programme>
-  <programme start="20200930080000 +0000" stop="20200930100000 +0000" channel="Cinema 2">
-    <title lang="en">Hasan Wa Na'eema</title>
-    <title lang="ar">حسن ونعيمة</title>
-    <desc lang="en">Su`ad Husni, Muharram Fou`ad. Na`eema`s love for Hasan disgraces her father who hinders their marriage at all costs and has her confined to marry someone else, but Hasan`s fierce defence bears fruit. (R3). سعاد حسني، محرم فؤاد.يرفض الحاج متولي زواج ابنته نعيمة من المغنواتي حسن وينوي تزويجها من عطوة تهرب نعيمة إلى حسن لإتمام زواجهما لكن أباها يلحق بها ويحبسها يصطدم حسن وعطوة وتنتهي المعركة بفوز حسن (R3).</desc>
+  <programme start="20201002030000 +0000" stop="20201002050000 +0000" channel="Cinema 1">
+    <title lang="en">Imra'ah Sayyi'at Al-Sum'ah</title>
+    <title lang="ar">إمرأة سيئة السمعة</title>
+    <desc lang="en">Shams Al Baroudi, Mahmoud Yassine A man uses his beautiful wife as a means to reach top positions in his company all for his own interests Eventually, he gets promoted as sales manager (R3). شمس البارودي، محمود ياسين تكتشف هناء أن زوجها كمال شاب وصولي، ولذلك فهو يدفعها للخطيئة، حتى يحقق طموحاته، والذي دفعها للأستسلام لرئيس الشركة سعفان الذي كافئ كمال بتعيينه مديرًا للمبيعات (R3).</desc>
   </programme>
-  <programme start="20200930100000 +0000" stop="20200930120000 +0000" channel="Cinema 2">
-    <title lang="en">4 Banat Wa Dabet</title>
-    <title lang="ar">4 بنات وضابط</title>
-    <desc lang="en">Anwar Wajdi, Na`eema Aakef. Officer Waheed pursues 4 female juveniles who flee reformatory. He surprisingly comes across them at his aunt`s place where one pretends to be the aunt`s missing daughter. (R3). نعيمة عاكف، أنور وجدي.يلاحق الضابط وحيد أربع فتيات هربن من الإصلاحية بزعامة نعيمة يجدهن صدفة في بيت عمته حيث تمثل نعيمة دور ابنة عمته التي اختفت منذ زمن تعلم العمة الحقيقة لكنها تتمسك بأربعتهن (R3).</desc>
+  <programme start="20201002050000 +0000" stop="20201002070000 +0000" channel="Cinema 1">
+    <title lang="en">Basamaat Fawq Al-Maa'</title>
+    <title lang="ar">بصمات فوق الماء</title>
+    <desc lang="en">Mervat Ameen, Farouq Al-Fishawi Baseema appears to her brother Ramzi and his wife after her suicide in a phantom sort of way opening a door ajar for calamities and dormant intricacies to surface (R3). ميرفت أمين،فاروق الفيشاوي يرفض رمزي إعطاء أخته بسيمة نصيبها في الميراث بسبب زواجها من عامل بسيط بعد صدمته بنبأ انتحارها، يظهر له ولزوجته سلوى طيف يعتقدان أنه شبح بسيمة، وتتوالى الكوارث عليهما بعدها (R3).</desc>
   </programme>
-  <programme start="20200930120000 +0000" stop="20200930140000 +0000" channel="Cinema 2">
-    <title lang="en">Share‘ Mohammad ‘ali</title>
-    <title lang="ar">شارع محمد علي</title>
-    <desc lang="en">Abed Al Ghani Al Sayed. Naima was forced by her step mother to leave her loverand marry a rich guy who abused her. She then loses all her fans after breaking her leg and goes back to Mohamad Ali`s street (R3). عبد الغني السيد.نعيمة راقصة تعيش مع زوجة ابيها التي تجبرها على ترك حبيبها والزواج من رجل ثري يسيئ معاملتها تكسر رجلها مما يمنعها من الحركة لمدة طويلة،فانفض عنها المعجبون لتعود إلى شارع محمد علي (R3).</desc>
+  <programme start="20201002070000 +0000" stop="20201002090000 +0000" channel="Cinema 1">
+    <title lang="en">Al Makhtouf</title>
+    <title lang="ar">المخطوف</title>
+    <desc lang="en">Ahmad Al-Zien, Ibrahim Mara`shli During the civil war in Lebanon, Yousef is preparing  his marriage with Hiam, suddenly he is kidnapped by armed militia, Hiam decides to revenge (R3). أحمد الزين، ابراهيم مرعشلي تدور احداث الفيلم اثناء الحرب الاهلية اللبنانية، يوسف يستعد للزواج من هيام لكنه يخطف من قبل المليشيات المسلحة، فيشاع في القرية انه قتل فتصاب هيام بصدمة وتقررالانتقام (R3).</desc>
   </programme>
-  <programme start="20200930140000 +0000" stop="20200930160000 +0000" channel="Cinema 2">
-    <title lang="en">Hayati Hiya Al Thaman</title>
-    <title lang="ar">حياتي هي الثمن</title>
-    <desc lang="en">Hoda Sultan; Ahmad Mazhar. An old rich man made several attempts to get closer to a doctor`s wife. His attempts led to the couple`s divorce until the truth was finally revealed. (R3). هدى سلطان؛ أحمد مظهر.يقوم احد الأثرياء الكبار في السن بعدة محاولات للتقرب من امرأة طبيب ليصل به الأمر الى جعلهما ينفصلان جراء اعماله الى حين ظهور الحقيقة في النهاية (R3).</desc>
+  <programme start="20201002090000 +0000" stop="20201002110000 +0000" channel="Cinema 1">
+    <title lang="en">Al-Layl Al-Taweel</title>
+    <title lang="ar">الليل الطويل</title>
+    <desc lang="en">Khaled Taja, Amal Arafa Long was the last night behind prison walls when 20 years of detainment came to an end setting a threshold to a new scary unknown for three inmates and their families alike (R3). خالد تاجا، أمل عرفة طال الانتظار في ليلة الاعتقال الأخيرة التي كانت خاتمة لسنوات السجن الطوال عاشها ثلاثة معتقلون سياسيون في قهر خرجوا إلى الحياة من جديد ليحيوها مع ذويهم رغم اختلاف شكلها وملامحها (R3).</desc>
   </programme>
-  <programme start="20200930160000 +0000" stop="20200930180000 +0000" channel="Cinema 2">
-    <title lang="en">Yawm Bila Ghad</title>
-    <title lang="ar">يوم بلا غد</title>
-    <desc lang="en">Fareed Al-Atrash, Mariam Fakhr Al-Deen. Laila`s love to Mamdouh gives her the strength to overcome her paralysis. Her stepfather, whose intentions aren`t fatherly, stands in the way of her love and life (R3). فريد الأطرش،مريم فخر الدين.تتواصل ليلى مع المطرب ممدوح ويمنحها حبها له القوة للتغلب على الشلل الذي أصيبت به منذ الصغر، فبدأت تمشي وتتنقل لكن زوج أمها الذي يحمل له مشاعر حب يحرص على هدم حياتها وحبها (R3).</desc>
+  <programme start="20201002110000 +0000" stop="20201002130000 +0000" channel="Cinema 1">
+    <title lang="en">Iskindiriyya New York</title>
+    <title lang="ar">إسكندرية نيويورك</title>
+    <desc lang="en">Mahmoud Himaida, Yusra Forty years after making love pledges, Yeyha encounters Ginger while being celebrated at a film festival in New York Along with the meeting arises a life changing surprise (R3). محمود حميدة، يسرا مضت 40 سنة على فراق يحيى وحبيبته الأمريكية جنجر وإذ بهما يلتقيان ثانية في نيويورك خلال مهرجان سينمائي لم يكن اللقاء مفاجأة فحسب، بل طرأ على حياة يحيى ما غيّر كل شيء فيها (R3).</desc>
   </programme>
-  <programme start="20200930180000 +0000" stop="20200930200000 +0000" channel="Cinema 2">
-    <title lang="en">Al-Qasr Al-Mal'oun</title>
-    <title lang="ar">القصر الملعون</title>
-    <desc lang="en">Mariam Fakhr Al-Deen, Salah Thul Faqar. Yusriyya`s delusions are mistaken by her father for insanity. Attorney Hasan digs deep in events and causes to discover that the father`s twin is behind it all. (R3). مريم فخر الدين، صلاح ذو الفقار.تعاني الشابة يسرية من اضطرابات نفسية، فيحاول حسن محامي والدها البحث عن الأسباب وتتجه الشكوك نحو عمتها والخادم تتضح الأمور عندما يكتشف حسن أن عمها توأم أبيها هو السبب (R3).</desc>
+  <programme start="20201002130000 +0000" stop="20201002150000 +0000" channel="Cinema 1">
+    <title lang="en">Al-Bahr Biyidhak Laih</title>
+    <title lang="ar">البحر بيضحك ليه</title>
+    <desc lang="en">Hanan Shawqi, Mahmoud Abdel Aziz A respected worker decides to abandon his life and family, looking for a different way of life; he marries a street musician and becomes involved in her world (R3). محمود عبد العزيز، حنان شوقي يقررحسين أن يتخلى عن عمله وأسرته يتعرف على نعيمة التي تعمل حاوية في إحدى الفرق الجوالة بالشوارع ويتزوجها ويحيى حياة جديدة تفضح العالم المزيف (R3).</desc>
   </programme>
-  <programme start="20200930200000 +0000" stop="20200930200000 +0000" channel="Cinema 2">
-    <title lang="en">Bahiya</title>
-    <title lang="ar">بهية</title>
-    <desc lang="en">Loubna Abd`el Aziz; Rushdi Abaza. A feudal lord was faced by Yassin when he kills Bahiya`s father and try to rape her. (R3). لبنى عبد العزيز؛ رشدي اباظة.اقطاعي يحرق محاصيل الفلاحين وأراضيهم حتى يعجزوا عن الوفاء بديونهم يتصدى له والد بهية فيقتله الإقطاعي ويحاول اغتصابها الا ان ياسين ينقذها (R3).</desc>
+  <programme start="20201002150000 +0000" stop="20201002170000 +0000" channel="Cinema 1">
+    <title lang="en">Iskindiriyya New York</title>
+    <title lang="ar">إسكندرية نيويورك</title>
+    <desc lang="en">Mahmoud Himaida, Yusra Forty years after making love pledges, Yeyha encounters Ginger while being celebrated at a film festival in New York Along with the meeting arises a life changing surprise (R3). محمود حميدة، يسرا مضت 40 سنة على فراق يحيى وحبيبته الأمريكية جنجر وإذ بهما يلتقيان ثانية في نيويورك خلال مهرجان سينمائي لم يكن اللقاء مفاجأة فحسب، بل طرأ على حياة يحيى ما غيّر كل شيء فيها (R3).</desc>
   </programme>
-  <programme start="20200930200000 +0000" stop="20200930220000 +0000" channel="Cinema 2">
-    <title lang="en">Bahiya</title>
-    <title lang="ar">بهية</title>
-    <desc lang="en">Loubna Abd`el Aziz; Rushdi Abaza. A feudal lord was faced by Yassin when he kills Bahiya`s father and try to rape her. (R3). لبنى عبد العزيز؛ رشدي اباظة.اقطاعي يحرق محاصيل الفلاحين وأراضيهم حتى يعجزوا عن الوفاء بديونهم يتصدى له والد بهية فيقتله الإقطاعي ويحاول اغتصابها الا ان ياسين ينقذها (R3).</desc>
-  </programme>
-  <programme start="20200930220000 +0000" stop="20201001000000 +0000" channel="Cinema 2">
-    <title lang="en">Al-Natthara Al-Sawda'</title>
-    <title lang="ar">النظارة السوداء</title>
-    <desc lang="en">Ahmad Math`har, Nadia Lutfi. Madeeha is an aimless aristocrat but evolves profoundly after meeting Omar who instills a sense of purpose in her. She gets the chance to do the same for him later on. (R3). أحمد مظهر، ناديا لطفي.يحيط الطامعون بمديحة كونها ثرية والاستهتار طبعها يحدث تحول جذري في حياتها حين تلتقي عمر الذي يدفعها لإيجاد هدف تعيش من أجله يأتي الوقت وتفعل هي الشيء ذاته وتعيد إليه التوازن (R3).</desc>
+  <programme start="20201002170000 +0000" stop="20201002190000 +0000" channel="Cinema 1">
+    <title lang="en">Al Toot Wal Naboot</title>
+    <title lang="ar">التوت والنبوت</title>
+    <desc lang="en">Izzat Al A`layli; Samir Sabri The events of this movie focuses on the last part of the Harafish where the writer Najib Mahfouz fights injustice (R3). عزت العلايلي، سمير صبري ترتكز احداث الفيلم على الجزء الأخير من رواية الحرافيش للأديب نجيب محفوظ في منطقة القاهرة القديمة وفي عصر الفتوات والحرافيش يقف عاشور في مواجهة الظلم (R3).</desc>
   </programme>
   <programme start="20201001000000 +0000" stop="20201001020000 +0000" channel="Cinema 2">
     <title lang="en">Share‘ Mohammad ‘ali</title>
@@ -495,110 +664,70 @@
     <title lang="ar">سكرتير ماما</title>
     <desc lang="en">Nadia Lutfi, Fareed Shawqi. Shalabi becomes indispensable in Camellia`s life as he comes with happiness to her orphaned daughter and exposes a plot to seize her fortune. He`s paid back by marrying her (R3). ناديا لطفي، فريد شوقي.تتعلق ابنة الأرملة الثرية ناديا بالبائع المتجول شلبي للشبه الكبير بينه وبين أبيها الراحل.يمنح شلبي الطفلة السعادة ويحمي أمها من مؤامرة لسلبها ممتلكاتها، فتكافئه ناديا بالزواج (R3).</desc>
   </programme>
-  <programme start="20200930003000 +0000" stop="20200930013000 +0000" channel="Al Yawm">
-    <title lang="en">Ahl Al Madina</title>
-    <title lang="ar">أهل المدينة</title>
-    <desc lang="en">Firas Ibrahim, Salim Sabri. Eps 26; A depiction of important changes in Arab society from political, economical and social points of view through the eyes of wealthy families. (R3). فراس إبراهيم، سليم صبري.الحلقة 26؛يستعرض المسلسل آلية عمل السوق من خلال عائلتي الحاج "ربيع المنصوري" والحاج "زهير" اللتين تقدمان نموذجاً لعائلات حاولت التأقلم مع جميع المتغيرات الاقتصادية والاجتماعية (R3).</desc>
+  <programme start="20201001200000 +0000" stop="20201001200000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Anisa Hanafi</title>
+    <title lang="ar">الآنسة حنفي</title>
+    <desc lang="en">Ismail Yaseen, Majida. Katkout forces his son Hanafi to marry his step-daughter Nawa`em. On their wedding night, Hanafi gets sick, goes to hospital for surgery and comes out as a female called Fifi. (R3). إسماعيل ياسين، ماجدة.يزوّج المعلم كتكوت ابنه الوحيد حنفي لابنة زوجته رغم أنها تحب حسن تشاء الظروف أن يصاب حنفي بمغص ليلة زفافه، فينقل إلى المستشفى حيث تجرى له عملية جراحية ينقلب بعدها إلى امرأة (R3).</desc>
   </programme>
-  <programme start="20200930013000 +0000" stop="20200930033000 +0000" channel="Al Yawm">
-    <title lang="en">Sharraftoonaa 2020</title>
-    <title lang="ar">شرفتونا 2020</title>
-    <desc lang="en">A daily live program that brings beneficial information to Arab unit families through specialized guests and live interactive audience. It also brings the latest news on scientific research andother fields (R3). برنامج يومي مباشر يتوجه بمواضيعه للأسرة العربية، عبر ضيوف متخصصين يتناول آخر المستجدات والإنجازات العلمية والحياتية وبمختلف الميادين، تحقيقات مصورة وبمشاركة المشاهدين تقديم تمار أفاكيان وحبيبة طراب (R3).</desc>
+  <programme start="20201001200000 +0000" stop="20201001220000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Anisa Hanafi</title>
+    <title lang="ar">الآنسة حنفي</title>
+    <desc lang="en">Ismail Yaseen, Majida. Katkout forces his son Hanafi to marry his step-daughter Nawa`em. On their wedding night, Hanafi gets sick, goes to hospital for surgery and comes out as a female called Fifi. (R3). إسماعيل ياسين، ماجدة.يزوّج المعلم كتكوت ابنه الوحيد حنفي لابنة زوجته رغم أنها تحب حسن تشاء الظروف أن يصاب حنفي بمغص ليلة زفافه، فينقل إلى المستشفى حيث تجرى له عملية جراحية ينقلب بعدها إلى امرأة (R3).</desc>
   </programme>
-  <programme start="20200930033000 +0000" stop="20200930040000 +0000" channel="Al Yawm">
-    <title lang="en">Video Clips</title>
-    <title lang="ar">فيديو كليب</title>
-    <desc lang="en">Video Clip (R3). مجموعة مختارة من الأغاني المصورة (R3).</desc>
+  <programme start="20201001220000 +0000" stop="20201002000000 +0000" channel="Cinema 2">
+    <title lang="en">Bayt Al-Ashbaah</title>
+    <title lang="ar">بيت الأشباح</title>
+    <desc lang="en">Ismail Yaseen, Kamal Al-Shinnawi. Heirs of a hefty fortune are forced to stay at a remote palace which they are made to believe is haunted to run for their lives and leave the inheritance behind. (R3). إسماعيل ياسين، كمال الشناوي.يترك رجل ثروة كبيرة فيخطط وكيل أعماله للاستيلاء عليها يجبر الورثة على البقاء في قصر لمدة شهر كشرط وارد في الوصية يشيع أن القصر تسكنه أشباح لكن خادماً أخرساً يكشف لعبته (R3).</desc>
   </programme>
-  <programme start="20200930040000 +0000" stop="20200930050000 +0000" channel="Al Yawm">
-    <title lang="en">Ahl Al Madina</title>
-    <title lang="ar">أهل المدينة</title>
-    <desc lang="en">Firas Ibrahim, Salim Sabri. Eps 27; A depiction of important changes in Arab society from political, economical and social points of view through the eyes of wealthy families. (R3). فراس إبراهيم، سليم صبري.الحلقة 27؛يستعرض المسلسل آلية عمل السوق من خلال عائلتي الحاج "ربيع المنصوري" والحاج "زهير" اللتين تقدمان نموذجاً لعائلات حاولت التأقلم مع جميع المتغيرات الاقتصادية والاجتماعية (R3).</desc>
+  <programme start="20201002000000 +0000" stop="20201002020000 +0000" channel="Cinema 2">
+    <title lang="en">Jaheem Al-Gheera</title>
+    <title lang="ar">جحيم الغيرة</title>
+    <desc lang="en">Ameera Ameer, Kamal Al-Shinnawi. Nabil hurls into a calamity following an affair with Thurayya and ends up in jall. Subsequent events make an outscast of him until his daughter brings him back to life. (R3). أميرة أمير، كمال الشناوي.يلقي نبيل بنفسه إلى التهلكة عندما يهمل زوجته وابنته ويتورط في علاقة مع الراقصة ثريا تسوقه إلى السجن يتنكر له الجميع عند خروجه فيعود إلى أحضان ثريا لكن ابنته تعيده إلى أسرته (R3).</desc>
   </programme>
-  <programme start="20200930050000 +0000" stop="20200930060000 +0000" channel="Al Yawm">
-    <title lang="en">Be Basaatah Part 2</title>
-    <title lang="ar">ببساطة الجزء الثاني</title>
-    <desc lang="en">Bassem Yakhour; Jenny Esper. Eps 9; Dramatic topics tackling social backwardness, hot paradoxes of life, and deep meditation around people behaviors in a comic setting. (R3). باسم ياخور؛ جيني اسبر.الحلقة 9؛عمل درامي يتناول مواضيع إجتماعية تطرح على الشاشة من خلال قالب كوميدي يعتمد على السخرية من مظاهر التخلف الإجتماعي والكذب والمفارقات الحياتية الساخنة وعلى التأمل العميق في سلوك الناس (R3).</desc>
+  <programme start="20201002020000 +0000" stop="20201002040000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Mushaghiboun</title>
+    <title lang="ar">المشاغبون</title>
+    <desc lang="en">Rushdi Abatha, Najwa Fou`ad. Following Yousef`s advice, Ameen curries favour with Nadia to get his share of the gang`s loot. Falling for her, Ameen discovers Yousef`s evil plot and denounces the gang. (R3). رشدي أباظة، نجوى فؤاد.فور خروجه من السجن، يتوجه أمين إلى يوسف زعيم العصابة ليطالب بنصيبه في العملية الأخيرة يوهمه أن النقود بحوزة ناديا، فيتودد أمين إليها ويكتشف الحقيقة ويبلغ الشرطة عن العصابة (R3).</desc>
   </programme>
-  <programme start="20200930060000 +0000" stop="20200930070000 +0000" channel="Al Yawm">
-    <title lang="en">Li A‘la Se‘r</title>
-    <title lang="ar">لإعلى سعر</title>
-    <desc lang="en">Nelly Karim, Ahmad Majdi. Eps 3; The series illustrates the story of two girls working in a ballet institute. Their friendship was affected by one of the guys who enter their lives. (R3). نيللي كريم؛ أحمد مجدي.الحلقة 3؛ تدور أحداث المسلسل حول صديقتين تعملان في معهد البالية، لكن صداقتهما تتعرض لبعض الأزمات الحادة بسبب تدخل احد الرجال بينهما (R3).</desc>
+  <programme start="20201002040000 +0000" stop="20201002060000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Abeet</title>
+    <title lang="ar">العبيط</title>
+    <desc lang="en">Fareed Shawqi, Nahed Sherif. Misehli turns a blind eye to the corruption commanding the firm. His colleagues incite Laila to infer his real intentions using her charm, but the scheme ends differently. (R3). فريد شوقي.لا يحرك مصيلحي ساكناً حيال الفساد المتفشي في الشركة التي يعمل بها يشك به زملاؤه المرتشون فيحرضون ليلى على تمثيل الحب عليه حتى تكتشف أمره تقع ليلى في حبه فعلاً ويعملان معاً على إصلاح الوضع (R3).</desc>
   </programme>
-  <programme start="20200930070000 +0000" stop="20200930073000 +0000" channel="Al Yawm">
-    <title lang="en">Shakhsiyat Fi Hayati</title>
-    <title lang="ar">شخصيات في حياتي</title>
-    <desc lang="en">Eps 16; Each Episode talks about an important personality from the different fields of arts, literature, history, journalism and politics (R3). الحلقة 16؛ كل حلقة تتناول أحد أعلام التاريخ الفن أو السياسة أو الأدب الذين لهم تأثير كبير في عالمهم ومجتمعاتهم (R3).</desc>
+  <programme start="20201002060000 +0000" stop="20201002080000 +0000" channel="Cinema 2">
+    <title lang="en">Secretaire Mama</title>
+    <title lang="ar">سكرتير ماما</title>
+    <desc lang="en">Nadia Lutfi, Fareed Shawqi. Shalabi becomes indispensable in Camellia`s life as he comes with happiness to her orphaned daughter and exposes a plot to seize her fortune. He`s paid back by marrying her (R3). ناديا لطفي، فريد شوقي.تتعلق ابنة الأرملة الثرية ناديا بالبائع المتجول شلبي للشبه الكبير بينه وبين أبيها الراحل.يمنح شلبي الطفلة السعادة ويحمي أمها من مؤامرة لسلبها ممتلكاتها، فتكافئه ناديا بالزواج (R3).</desc>
   </programme>
-  <programme start="20200930073000 +0000" stop="20200930103000 +0000" channel="Al Yawm">
-    <title lang="en">Al Qahira Al Yawm 2020</title>
-    <title lang="ar">القاهرة اليوم 2020</title>
-    <desc lang="en">Live general entertainment, current affairs quick and modern to fulfill the aspirations of the elite Arabic viewer. Topics varies from social to arts, happenings to culture. (R3). برنامج حواري ترفيهي في حلة جديدة، يتميز بمتابعة شاملة لأهم الأخبار والأحداث اليومية من قلب العاصمة المصرية يسلط الضوء على قضايا موضوعية تهم المشاهد عبر الوطن العربي (R3).</desc>
+  <programme start="20201002080000 +0000" stop="20201002100000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Anisa Hanafi</title>
+    <title lang="ar">الآنسة حنفي</title>
+    <desc lang="en">Ismail Yaseen, Majida. Katkout forces his son Hanafi to marry his step-daughter Nawa`em. On their wedding night, Hanafi gets sick, goes to hospital for surgery and comes out as a female called Fifi. (R3). إسماعيل ياسين، ماجدة.يزوّج المعلم كتكوت ابنه الوحيد حنفي لابنة زوجته رغم أنها تحب حسن تشاء الظروف أن يصاب حنفي بمغص ليلة زفافه، فينقل إلى المستشفى حيث تجرى له عملية جراحية ينقلب بعدها إلى امرأة (R3).</desc>
   </programme>
-  <programme start="20200930103000 +0000" stop="20200930113000 +0000" channel="Al Yawm">
-    <title lang="en">Be Basaatah Part 2</title>
-    <title lang="ar">ببساطة الجزء الثاني</title>
-    <desc lang="en">Bassem Yakhour; Jenny Esper. Eps 9; Dramatic topics tackling social backwardness, hot paradoxes of life, and deep meditation around people behaviors in a comic setting. (R3). باسم ياخور؛ جيني اسبر.الحلقة 9؛عمل درامي يتناول مواضيع إجتماعية تطرح على الشاشة من خلال قالب كوميدي يعتمد على السخرية من مظاهر التخلف الإجتماعي والكذب والمفارقات الحياتية الساخنة وعلى التأمل العميق في سلوك الناس (R3).</desc>
+  <programme start="20201002100000 +0000" stop="20201002120000 +0000" channel="Cinema 2">
+    <title lang="en">Bayt Al-Ashbaah</title>
+    <title lang="ar">بيت الأشباح</title>
+    <desc lang="en">Ismail Yaseen, Kamal Al-Shinnawi. Heirs of a hefty fortune are forced to stay at a remote palace which they are made to believe is haunted to run for their lives and leave the inheritance behind. (R3). إسماعيل ياسين، كمال الشناوي.يترك رجل ثروة كبيرة فيخطط وكيل أعماله للاستيلاء عليها يجبر الورثة على البقاء في قصر لمدة شهر كشرط وارد في الوصية يشيع أن القصر تسكنه أشباح لكن خادماً أخرساً يكشف لعبته (R3).</desc>
   </programme>
-  <programme start="20200930113000 +0000" stop="20200930123000 +0000" channel="Al Yawm">
-    <title lang="en">Video Clips</title>
-    <title lang="ar">فيديو كليب</title>
-    <desc lang="en">Video Clip (R3). مجموعة مختارة من الأغاني المصورة (R3).</desc>
+  <programme start="20201002120000 +0000" stop="20201002140000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Thulm Haraam</title>
+    <title lang="ar">الظلم حرام</title>
+    <desc lang="en">Shadia, Majida, Imad Hamdi. Samira falls prey to Fareed`s blackmail who makes use of her husband`s wealth. He sends his notes to her friend Huda rousing her spouse`s doubts, to end it Samira kills him (R3). شادية، ماجدة، عماد حمدي.تقع سميرة فريسة لفريد الذي يستغل ثروة زوجها ويبتزها لأنها كانت على علاقة به ويرسل تهديداته إلى صديقتها هدى مثيراً شكوك زوجها تتفاقم المشكلة فتعترف سميرة بالحقيقة وتقتل فريد (R3).</desc>
   </programme>
-  <programme start="20200930123000 +0000" stop="20200930130000 +0000" channel="Al Yawm">
-    <title lang="en">Shakhsiyat Fi Hayati</title>
-    <title lang="ar">شخصيات في حياتي</title>
-    <desc lang="en">Eps 16; Each Episode talks about an important personality from the different fields of arts, literature, history, journalism and politics (R3). الحلقة 16؛ كل حلقة تتناول أحد أعلام التاريخ الفن أو السياسة أو الأدب الذين لهم تأثير كبير في عالمهم ومجتمعاتهم (R3).</desc>
+  <programme start="20201002140000 +0000" stop="20201002160000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Haqed</title>
+    <title lang="ar">الحاقد</title>
+    <desc lang="en">Fareed Shawqi, Samira Ahmad. Hamed`s resentment and malice are changed to tranquility when he meets Samia and marries her. His shameful past comes back to haunt him but the good in him is triumphs. (R3). فريد شوقي، سميرة أحمد.حامد مجرم ناقم على المجتمع ولكن عندما يقابل سامية ويقع في حبها، يقرر الاستقامة من أجل الزواج منها وعيش حياة شريفة يعود ماضيه ليؤرقه من خلال عصابته السابقة، لكنه ينتصر عليها (R3).</desc>
   </programme>
-  <programme start="20200930130000 +0000" stop="20200930140000 +0000" channel="Al Yawm">
-    <title lang="en">Li A‘la Se‘r</title>
-    <title lang="ar">لإعلى سعر</title>
-    <desc lang="en">Nelly Karim, Ahmad Majdi. Eps 2; The series illustrates the story of two girls working in a ballet institute. Their friendship was affected by one of the guys who enter their lives. (R3). نيللي كريم؛ أحمد مجدي.الحلقة 2؛ تدور أحداث المسلسل حول صديقتين تعملان في معهد البالية، لكن صداقتهما تتعرض لبعض الأزمات الحادة بسبب تدخل احد الرجال بينهما (R3).</desc>
+  <programme start="20201002160000 +0000" stop="20201002180000 +0000" channel="Cinema 2">
+    <title lang="en">A'azz Al Habayeb</title>
+    <title lang="ar">اعز الحبايب</title>
+    <desc lang="en">Amina Rizk; Zaki Rustom. A family split when the first son goes to jail instead of his father for drug smuggling while the other son marries a bad foul woman. (R3). امينة رزق؛ زكي رستم.عائلة تتفرق مسارات حياة افرادها حيث يدخل الإبن السجن بدلاً من ابيه بتهمة الإتجار في المخدرات اما الإبن الآخر فيتزوج من امرأة سيئة الطباع (R3).</desc>
   </programme>
-  <programme start="20200930140000 +0000" stop="20200930160000 +0000" channel="Al Yawm">
-    <title lang="en">Sharraftoonaa 2020</title>
-    <title lang="ar">شرفتونا 2020</title>
-    <desc lang="en">A daily live program that brings beneficial information to Arab unit families through specialized guests and live interactive audience. It also brings the latest news on scientific research andother fields (R3). برنامج يومي مباشر يتوجه بمواضيعه للأسرة العربية، عبر ضيوف متخصصين يتناول آخر المستجدات والإنجازات العلمية والحياتية وبمختلف الميادين، تحقيقات مصورة وبمشاركة المشاهدين تقديم تمار أفاكيان وحبيبة طراب (R3).</desc>
-  </programme>
-  <programme start="20200930160000 +0000" stop="20200930170000 +0000" channel="Al Yawm">
-    <title lang="en">Al Prince</title>
-    <title lang="ar">البرنس</title>
-    <desc lang="en">Mohammad Ramadan; Noor. Eps 9; Radwan, takes over the family responsibilities after his father`s death, and faces the multiple disputes between them. (R3). محمد رمضان؛ نور.الحلقة 9؛تدور احداث المسلسل حول عائلة "البرنس"، بعد وفاة الأب يجد رضوان الإبن المميز لدى والده انه مسؤول عن الجميع في العائلة ويدير شؤونهم لتبدأ الخلافات العائلية في إطار درامي اجتماعي (R3).</desc>
-  </programme>
-  <programme start="20200930170000 +0000" stop="20200930180000 +0000" channel="Al Yawm">
-    <title lang="en">Be Basaatah Part 2</title>
-    <title lang="ar">ببساطة الجزء الثاني</title>
-    <desc lang="en">Bassem Yakhour; Jenny Esper. Eps 10; Dramatic topics tackling social backwardness, hot paradoxes of life, and deep meditation around people behaviors in a comic setting. (R3). باسم ياخور؛ جيني اسبر.الحلقة 10؛عمل درامي يتناول مواضيع إجتماعية تطرح على الشاشة من خلال قالب كوميدي يعتمد على السخرية من مظاهر التخلف الإجتماعي والكذب والمفارقات الحياتية الساخنة وعلى التأمل العميق في سلوك الناس (R3).</desc>
-  </programme>
-  <programme start="20200930180000 +0000" stop="20200930190000 +0000" channel="Al Yawm">
-    <title lang="en">Li A‘la Se‘r</title>
-    <title lang="ar">لإعلى سعر</title>
-    <desc lang="en">Nelly Karim, Ahmad Majdi. Eps 4; The series illustrates the story of two girls working in a ballet institute. Their friendship was affected by one of the guys who enter their lives. (R3). نيللي كريم؛ أحمد مجدي.الحلقة 4؛ تدور أحداث المسلسل حول صديقتين تعملان في معهد البالية، لكن صداقتهما تتعرض لبعض الأزمات الحادة بسبب تدخل احد الرجال بينهما (R3).</desc>
-  </programme>
-  <programme start="20200930190000 +0000" stop="20200930193000 +0000" channel="Al Yawm">
-    <title lang="en">Shakhsiyat Fi Hayati</title>
-    <title lang="ar">شخصيات في حياتي</title>
-    <desc lang="en">Eps 17; Each Episode talks about an important personality from the different fields of arts, literature, history, journalism and politics (R3). الحلقة 17؛ كل حلقة تتناول أحد أعلام التاريخ الفن أو السياسة أو الأدب الذين لهم تأثير كبير في عالمهم ومجتمعاتهم (R3).</desc>
-  </programme>
-  <programme start="20200930193000 +0000" stop="20200930193000 +0000" channel="Al Yawm">
-    <title lang="en">Al Qahira Al Yawm 2020</title>
-    <title lang="ar">القاهرة اليوم 2020</title>
-    <desc lang="en">Live general entertainment, current affairs quick and modern to fulfill the aspirations of the elite Arabic viewer. Topics varies from social to arts, happenings to culture. (R3). برنامج حواري ترفيهي في حلة جديدة، يتميز بمتابعة شاملة لأهم الأخبار والأحداث اليومية من قلب العاصمة المصرية يسلط الضوء على قضايا موضوعية تهم المشاهد عبر الوطن العربي (R3).</desc>
-  </programme>
-  <programme start="20200930193000 +0000" stop="20200930223000 +0000" channel="Al Yawm">
-    <title lang="en">Al Qahira Al Yawm 2020</title>
-    <title lang="ar">القاهرة اليوم 2020</title>
-    <desc lang="en">Live general entertainment, current affairs quick and modern to fulfill the aspirations of the elite Arabic viewer. Topics varies from social to arts, happenings to culture. (R3). برنامج حواري ترفيهي في حلة جديدة، يتميز بمتابعة شاملة لأهم الأخبار والأحداث اليومية من قلب العاصمة المصرية يسلط الضوء على قضايا موضوعية تهم المشاهد عبر الوطن العربي (R3).</desc>
-  </programme>
-  <programme start="20200930223000 +0000" stop="20200930233000 +0000" channel="Al Yawm">
-    <title lang="en">Video Clips</title>
-    <title lang="ar">فيديو كليب</title>
-    <desc lang="en">Video Clip (R3). مجموعة مختارة من الأغاني المصورة (R3).</desc>
-  </programme>
-  <programme start="20200930233000 +0000" stop="20201001003000 +0000" channel="Al Yawm">
-    <title lang="en">Al Prince</title>
-    <title lang="ar">البرنس</title>
-    <desc lang="en">Mohammad Ramadan; Noor. Eps 9; Radwan, takes over the family responsibilities after his father`s death, and faces the multiple disputes between them. (R3). محمد رمضان؛ نور.الحلقة 9؛تدور احداث المسلسل حول عائلة "البرنس"، بعد وفاة الأب يجد رضوان الإبن المميز لدى والده انه مسؤول عن الجميع في العائلة ويدير شؤونهم لتبدأ الخلافات العائلية في إطار درامي اجتماعي (R3).</desc>
+  <programme start="20201002180000 +0000" stop="20201002200000 +0000" channel="Cinema 2">
+    <title lang="en">Al Mar'ah Kull Shay'</title>
+    <title lang="ar">المرأة كل شيء</title>
+    <desc lang="en">Leila Fawzi; Muhsin Sarhan. A mother invests in her daughter as a belly dancer while her husband and son are musicians. (R3). ليلى فوزي؛ محسن سرحان.اسرة مكونة من اب عازف قانون، الإبن طبال والإبنة راقصة اما الأم فتتطلع الى الثراء بأقصر طريق لذا تحب ابنتها لأنها الوحيدة القادرة على امدادها بالمال المطلوب  (R3).</desc>
   </programme>
   <programme start="20201001003000 +0000" stop="20201001013000 +0000" channel="Al Yawm">
     <title lang="en">Ahl Al Madina</title>
@@ -685,175 +814,110 @@
     <title lang="ar">شخصيات في حياتي</title>
     <desc lang="en">Eps 18; Each Episode talks about an important personality from the different fields of arts, literature, history, journalism and politics (R3). الحلقة 18؛ كل حلقة تتناول أحد أعلام التاريخ الفن أو السياسة أو الأدب الذين لهم تأثير كبير في عالمهم ومجتمعاتهم (R3).</desc>
   </programme>
-  <programme start="20200930000000 +0000" stop="20200930010000 +0000" channel="Al Safwa">
-    <title lang="en">Kunouz Mafqouda</title>
-    <title lang="ar">كنوز مفقودة</title>
-    <desc lang="en">Eps 15; A voyage of discovery across lost cities, ancient palaces and temples of antiquity which are brought back to life through expert commentary and analysis of leading historians. (R3). الحلقة 15؛ رحلة لاكتشاف الحضارات عبر القرون تبيّن كيفية بناء عجائب العالم القديم وكيف تم تشييد هذه المنشآت المذهلة وبهذه الدرجة من الدقة ومدى أهميتها (R3).</desc>
+  <programme start="20201001193000 +0000" stop="20201001193000 +0000" channel="Al Yawm">
+    <title lang="en">Al Qahira Al Yawm 2020</title>
+    <title lang="ar">القاهرة اليوم 2020</title>
+    <desc lang="en">Live general entertainment, current affairs quick and modern to fulfill the aspirations of the elite Arabic viewer. Topics varies from social to arts, happenings to culture. (R3). برنامج حواري ترفيهي في حلة جديدة، يتميز بمتابعة شاملة لأهم الأخبار والأحداث اليومية من قلب العاصمة المصرية يسلط الضوء على قضايا موضوعية تهم المشاهد عبر الوطن العربي (R3).</desc>
   </programme>
-  <programme start="20200930010000 +0000" stop="20200930013500 +0000" channel="Al Safwa">
-    <title lang="en">Allamahu Al-Bayan</title>
-    <title lang="ar">علّمه البيان</title>
-    <desc lang="en">Eps 7; The programme links verses of the Holy Quran with modern-day science and technology, thus pointing out the Qur`an`s inimitabiltiy. (R3). الحلقة 7؛ برنامج علمي يتحدث عن إعجاز الخالق سبحانه وتعالى ويقدم بعضاً من ملامح الإعجاز العلمي في عصر العلم والتكنولوجيا وكيف أن القرآن يحوي آيات تعبر عن أحدث النظريات العلمية المكتشفة (R3).</desc>
+  <programme start="20201001193000 +0000" stop="20201001223000 +0000" channel="Al Yawm">
+    <title lang="en">Al Qahira Al Yawm 2020</title>
+    <title lang="ar">القاهرة اليوم 2020</title>
+    <desc lang="en">Live general entertainment, current affairs quick and modern to fulfill the aspirations of the elite Arabic viewer. Topics varies from social to arts, happenings to culture. (R3). برنامج حواري ترفيهي في حلة جديدة، يتميز بمتابعة شاملة لأهم الأخبار والأحداث اليومية من قلب العاصمة المصرية يسلط الضوء على قضايا موضوعية تهم المشاهد عبر الوطن العربي (R3).</desc>
   </programme>
-  <programme start="20200930013500 +0000" stop="20200930015300 +0000" channel="Al Safwa">
-    <title lang="en">Asma'uhu Al-Husna</title>
-    <title lang="ar">أسماؤه الحسنى</title>
-    <desc lang="en">Eps 16; ``Call upon God or call upon The Merciful, whichsoever you call upon, to Him belong the most beautiful names``... an enumeration of names of Allah extraced from the Holy Qur`an and Al-Sunnah. (R3). الحلقة 16؛ يتناول البرنامج مجموعة من أسماء الله الحسنى مرتكزاً على أحدث ما توصل إليه العلم من حقائق، ومتكئاً على خلفية دينية قوامها العقيدة الإسلامية المستمدة من القرآن الكريم والسنة الشريفة (R3).</desc>
+  <programme start="20201001223000 +0000" stop="20201001233000 +0000" channel="Al Yawm">
+    <title lang="en">Video Clips</title>
+    <title lang="ar">فيديو كليب</title>
+    <desc lang="en">Video Clip (R3). مجموعة مختارة من الأغاني المصورة (R3).</desc>
   </programme>
-  <programme start="20200930015300 +0000" stop="20200930023500 +0000" channel="Al Safwa">
-    <title lang="en">Prayers For Safwa Channel</title>
-    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
-    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
+  <programme start="20201001233000 +0000" stop="20201002003000 +0000" channel="Al Yawm">
+    <title lang="en">Al Prince</title>
+    <title lang="ar">البرنس</title>
+    <desc lang="en">Mohammad Ramadan; Noor. Eps 10; Radwan, takes over the family responsibilities after his father`s death, and faces the multiple disputes between them. (R3). محمد رمضان؛ نور.الحلقة 10؛تدور احداث المسلسل حول عائلة "البرنس"، بعد وفاة الأب يجد رضوان الإبن المميز لدى والده انه مسؤول عن الجميع في العائلة ويدير شؤونهم لتبدأ الخلافات العائلية في إطار درامي اجتماعي (R3).</desc>
   </programme>
-  <programme start="20200930023500 +0000" stop="20200930031000 +0000" channel="Al Safwa">
-    <title lang="en">Al-Qur'an Al-Kareem Fi Hidayateh Wa Irshadeh</title>
-    <title lang="ar">القرآن الكريم في هدايته وإرشاده</title>
-    <desc lang="en">A commentary by Sheikh Mohammad Ali Al-Sabouni who uncovers meanings of Qur`anic verses aiming to grasp the true spirit of the holy Qur`an and understand the real object of its revelation. (R3). تفسير كامل لجميع سور القرآن الكريم لفضيلة الشيخ محمد على الصابوني بأسلوب سهل وميسر (R3).</desc>
+  <programme start="20201002003000 +0000" stop="20201002013000 +0000" channel="Al Yawm">
+    <title lang="en">Ahl Al Madina</title>
+    <title lang="ar">أهل المدينة</title>
+    <desc lang="en">Firas Ibrahim, Salim Sabri. Eps 28; A depiction of important changes in Arab society from political, economical and social points of view through the eyes of wealthy families. (R3). فراس إبراهيم، سليم صبري.الحلقة 28؛يستعرض المسلسل آلية عمل السوق من خلال عائلتي الحاج "ربيع المنصوري" والحاج "زهير" اللتين تقدمان نموذجاً لعائلات حاولت التأقلم مع جميع المتغيرات الاقتصادية والاجتماعية (R3).</desc>
   </programme>
-  <programme start="20200930031000 +0000" stop="20200930040500 +0000" channel="Al Safwa">
-    <title lang="en">Shajarat Al-Durr</title>
-    <title lang="ar">شجرة الدر</title>
-    <desc lang="en">Nidal Al-Ashqar. Eps 24; Epic events of Shajarat Al-Durr`s life who rose from a mere bondmaid to Sutlana marking the start of the Mamlouk reign in Egypt during which she played a key role. (R3). نضال الأشقر، محمد حسن الجندي.الحلقة 24؛ قصة حياة شجرة الدر التي حكمت مصر في عهد المماليك وعرفت باستبدادها وسيطرتها على الذين عاصروها وتآمرها على على أقرب المقربين ومنهم زوجها ومستشارها (R3).</desc>
+  <programme start="20201002013000 +0000" stop="20201002033000 +0000" channel="Al Yawm">
+    <title lang="en">Sharraftoonaa 2020</title>
+    <title lang="ar">شرفتونا 2020</title>
+    <desc lang="en">A daily live program that brings beneficial information to Arab unit families through specialized guests and live interactive audience. It also brings the latest news on scientific research andother fields (R3). برنامج يومي مباشر يتوجه بمواضيعه للأسرة العربية، عبر ضيوف متخصصين يتناول آخر المستجدات والإنجازات العلمية والحياتية وبمختلف الميادين، تحقيقات مصورة وبمشاركة المشاهدين تقديم تمار أفاكيان وحبيبة طراب (R3).</desc>
   </programme>
-  <programme start="20200930040500 +0000" stop="20200930050500 +0000" channel="Al Safwa">
-    <title lang="en">Al-Aalam Min Hawlina (Part 6)</title>
-    <title lang="ar">العالم من حولنا (الجزء السادس)</title>
-    <desc lang="en">Eps 11; An overview of global issues that spreads awareness to better understand today`s world issues from a global perspective and aims to solve some of yesterday`s puzzles. (R3). الحلقة 11؛ سلسلة وثائقية تتعرض لشتى أنواع القضايا المعاصرة التي تحظى باهتمام شريحة كبيرة من الناس، كما تحاول حل بعض ألغاز وأسرار الماضي (R3).</desc>
+  <programme start="20201002033000 +0000" stop="20201002040000 +0000" channel="Al Yawm">
+    <title lang="en">Video Clips</title>
+    <title lang="ar">فيديو كليب</title>
+    <desc lang="en">Video Clip (R3). مجموعة مختارة من الأغاني المصورة (R3).</desc>
   </programme>
-  <programme start="20200930050500 +0000" stop="20200930060000 +0000" channel="Al Safwa">
-    <title lang="en">Sihr Al-Sharq</title>
-    <title lang="ar">سحر الشرق</title>
-    <desc lang="en">Jamal Suleiman, Amal Arafa. Eps 15; Lady Jane Digby`s enchantment with the East materialised via her love interest in the bedouin stud Mijwel converting her from a British aristocrat to a mere nomad. (R3). جمال سليمان، أمل عرفة.الحلقة 15؛ كانت زيارة الليدي جين دغبي إلى سوريا لأسباب عديدة، منها ولعها بالشرق وغموضه الذي تأصل لديها أكثر عند لقائها بالشاب البدوي مجول فأصبحت زوجة له وتحولت إلى بدوية بيضاء (R3).</desc>
+  <programme start="20201002040000 +0000" stop="20201002050000 +0000" channel="Al Yawm">
+    <title lang="en">Ahl Al Madina</title>
+    <title lang="ar">أهل المدينة</title>
+    <desc lang="en">Firas Ibrahim, Salim Sabri. Eps 29; A depiction of important changes in Arab society from political, economical and social points of view through the eyes of wealthy families. (R3). فراس إبراهيم، سليم صبري.الحلقة 29؛يستعرض المسلسل آلية عمل السوق من خلال عائلتي الحاج "ربيع المنصوري" والحاج "زهير" اللتين تقدمان نموذجاً لعائلات حاولت التأقلم مع جميع المتغيرات الاقتصادية والاجتماعية (R3).</desc>
   </programme>
-  <programme start="20200930060000 +0000" stop="20200930070000 +0000" channel="Al Safwa">
-    <title lang="en">Shajarat Al-Durr</title>
-    <title lang="ar">شجرة الدر</title>
-    <desc lang="en">Nidal Al-Ashqar. Eps 25; Epic events of Shajarat Al-Durr`s life who rose from a mere bondmaid to Sutlana marking the start of the Mamlouk reign in Egypt during which she played a key role. (R3). نضال الأشقر، محمد حسن الجندي.الحلقة 25؛ قصة حياة شجرة الدر التي حكمت مصر في عهد المماليك وعرفت باستبدادها وسيطرتها على الذين عاصروها وتآمرها على على أقرب المقربين ومنهم زوجها ومستشارها (R3).</desc>
+  <programme start="20201002050000 +0000" stop="20201002060000 +0000" channel="Al Yawm">
+    <title lang="en">Be Basaatah Part 2</title>
+    <title lang="ar">ببساطة الجزء الثاني</title>
+    <desc lang="en">Bassem Yakhour; Jenny Esper. Eps 11; Dramatic topics tackling social backwardness, hot paradoxes of life, and deep meditation around people behaviors in a comic setting. (R3). باسم ياخور؛ جيني اسبر.الحلقة 11؛عمل درامي يتناول مواضيع إجتماعية تطرح على الشاشة من خلال قالب كوميدي يعتمد على السخرية من مظاهر التخلف الإجتماعي والكذب والمفارقات الحياتية الساخنة وعلى التأمل العميق في سلوك الناس (R3).</desc>
   </programme>
-  <programme start="20200930070000 +0000" stop="20200930081500 +0000" channel="Al Safwa">
-    <title lang="en">Abu Kamel (Part 2)</title>
-    <title lang="ar">أبو كامل - الجزء الثاني</title>
-    <desc lang="en">As`ad Fedha, Fadia Khattab. Eps 24; Inspector Adel investigates the death of Abu Kamel and puts everyone under suspicion while Wisal plots to kill Kamel, the son of Fatma. (R3). أسعد فضة - فاديا خطاب.الحلقة 24؛ بعد مقتل أبو كامل تنقلب الحارة رأساً على عقب ويتولَى المحقق عادل الصارم التحقيق لكشف القاتل فيما تخطط وصال وهي ارملة لها ثأر قديم مع أبو كامل لقتل كامل إبنه (R3).</desc>
+  <programme start="20201002060000 +0000" stop="20201002070000 +0000" channel="Al Yawm">
+    <title lang="en">Relax</title>
+    <title lang="ar">ريلاكس</title>
+    <desc lang="en">Eps 3;Found in an ambiance perfect for placid encounters, vocalists and composers engage in hearty chit chats and converse in the most casual manner focusing on their inner essence rather than their fam (R3). الحلقة 3؛ في أجواء تسودها العفوية، تلتقي تمار مطربين وملحنين في حوارات سلسة ومتناغمة حيث تستأثر التلقائية بجانب كبير من الحديث وتبرز الجوهر الذي تنبع منه إبداعاتهم (R3).</desc>
   </programme>
-  <programme start="20200930081500 +0000" stop="20200930091000 +0000" channel="Al Safwa">
-    <title lang="en">Sihr Al-Sharq</title>
-    <title lang="ar">سحر الشرق</title>
-    <desc lang="en">Jamal Suleiman, Amal Arafa. Eps 16; Lady Jane Digby`s enchantment with the East materialised via her love interest in the bedouin stud Mijwel converting her from a British aristocrat to a mere nomad. (R3). جمال سليمان، أمل عرفة.الحلقة 16؛ كانت زيارة الليدي جين دغبي إلى سوريا لأسباب عديدة، منها ولعها بالشرق وغموضه الذي تأصل لديها أكثر عند لقائها بالشاب البدوي مجول فأصبحت زوجة له وتحولت إلى بدوية بيضاء (R3).</desc>
+  <programme start="20201002070000 +0000" stop="20201002073000 +0000" channel="Al Yawm">
+    <title lang="en">Shakhsiyat Fi Hayati</title>
+    <title lang="ar">شخصيات في حياتي</title>
+    <desc lang="en">Eps 18; Each Episode talks about an important personality from the different fields of arts, literature, history, journalism and politics (R3). الحلقة 18؛ كل حلقة تتناول أحد أعلام التاريخ الفن أو السياسة أو الأدب الذين لهم تأثير كبير في عالمهم ومجتمعاتهم (R3).</desc>
   </programme>
-  <programme start="20200930091000 +0000" stop="20200930092500 +0000" channel="Al Safwa">
-    <title lang="en">Prayers For Safwa Channel</title>
-    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
-    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
+  <programme start="20201002073000 +0000" stop="20201002103000 +0000" channel="Al Yawm">
+    <title lang="en">Al Qahira Al Yawm 2020</title>
+    <title lang="ar">القاهرة اليوم 2020</title>
+    <desc lang="en">Live general entertainment, current affairs quick and modern to fulfill the aspirations of the elite Arabic viewer. Topics varies from social to arts, happenings to culture. (R3). برنامج حواري ترفيهي في حلة جديدة، يتميز بمتابعة شاملة لأهم الأخبار والأحداث اليومية من قلب العاصمة المصرية يسلط الضوء على قضايا موضوعية تهم المشاهد عبر الوطن العربي (R3).</desc>
   </programme>
-  <programme start="20200930092500 +0000" stop="20200930100000 +0000" channel="Al Safwa">
-    <title lang="en">Sikkat Hadeed Al-Hijaz</title>
-    <title lang="ar">سكة حديد الحجاز</title>
-    <desc lang="en">Eps 12; An anatomy of the Hijaz railway highlighting the political circumstances entailing its foundation, attempts to abort it and cultural aspcects of pass-through spots. (R3). الحلقة 12؛ يتناول البرنامج البداية لتأسيس الخط الحجازي والظروف السياسية التي دعت إليه ومحاولة الدول الاستعمارية آنذاك لإحباطه، كما يتحدث عن القرى والحضارات التي يمر بها (R3).</desc>
+  <programme start="20201002103000 +0000" stop="20201002113000 +0000" channel="Al Yawm">
+    <title lang="en">Be Basaatah Part 2</title>
+    <title lang="ar">ببساطة الجزء الثاني</title>
+    <desc lang="en">Bassem Yakhour; Jenny Esper. Eps 11; Dramatic topics tackling social backwardness, hot paradoxes of life, and deep meditation around people behaviors in a comic setting. (R3). باسم ياخور؛ جيني اسبر.الحلقة 11؛عمل درامي يتناول مواضيع إجتماعية تطرح على الشاشة من خلال قالب كوميدي يعتمد على السخرية من مظاهر التخلف الإجتماعي والكذب والمفارقات الحياتية الساخنة وعلى التأمل العميق في سلوك الناس (R3).</desc>
   </programme>
-  <programme start="20200930100000 +0000" stop="20200930110000 +0000" channel="Al Safwa">
-    <title lang="en">Shajarat Al-Durr</title>
-    <title lang="ar">شجرة الدر</title>
-    <desc lang="en">Nidal Al-Ashqar. Eps 25; Epic events of Shajarat Al-Durr`s life who rose from a mere bondmaid to Sutlana marking the start of the Mamlouk reign in Egypt during which she played a key role. (R3). نضال الأشقر، محمد حسن الجندي.الحلقة 25؛ قصة حياة شجرة الدر التي حكمت مصر في عهد المماليك وعرفت باستبدادها وسيطرتها على الذين عاصروها وتآمرها على على أقرب المقربين ومنهم زوجها ومستشارها (R3).</desc>
+  <programme start="20201002113000 +0000" stop="20201002123000 +0000" channel="Al Yawm">
+    <title lang="en">Video Clips</title>
+    <title lang="ar">فيديو كليب</title>
+    <desc lang="en">Video Clip (R3). مجموعة مختارة من الأغاني المصورة (R3).</desc>
   </programme>
-  <programme start="20200930110000 +0000" stop="20200930120500 +0000" channel="Al Safwa">
-    <title lang="en">Abu Kamel (Part 2)</title>
-    <title lang="ar">أبو كامل - الجزء الثاني</title>
-    <desc lang="en">As`ad Fedha, Fadia Khattab. Eps 24; Inspector Adel investigates the death of Abu Kamel and puts everyone under suspicion while Wisal plots to kill Kamel, the son of Fatma. (R3). أسعد فضة - فاديا خطاب.الحلقة 24؛ بعد مقتل أبو كامل تنقلب الحارة رأساً على عقب ويتولَى المحقق عادل الصارم التحقيق لكشف القاتل فيما تخطط وصال وهي ارملة لها ثأر قديم مع أبو كامل لقتل كامل إبنه (R3).</desc>
+  <programme start="20201002123000 +0000" stop="20201002130000 +0000" channel="Al Yawm">
+    <title lang="en">Shakhsiyat Fi Hayati</title>
+    <title lang="ar">شخصيات في حياتي</title>
+    <desc lang="en">Eps 18; Each Episode talks about an important personality from the different fields of arts, literature, history, journalism and politics (R3). الحلقة 18؛ كل حلقة تتناول أحد أعلام التاريخ الفن أو السياسة أو الأدب الذين لهم تأثير كبير في عالمهم ومجتمعاتهم (R3).</desc>
   </programme>
-  <programme start="20200930120500 +0000" stop="20200930123400 +0000" channel="Al Safwa">
-    <title lang="en">Hikayaat Al-Khuyoul</title>
-    <title lang="ar">حكايات الخيول</title>
-    <desc lang="en">Eps 10; Through gentle persuasion and trust, breeds of horses are trained to modify their behaviour and establish new ones to obtain a specific response to certain tasks and stimuli. (R3). الحلقة 10؛ يستعرض البرنامج وسائل ترويض بعد أنواع الجياد وإعدادها وتدريبها لاستخدامها في السباقات العالمية، عروض السيرك، الرياضات المختلفة وحتى في عالم السينما (R3).</desc>
+  <programme start="20201002130000 +0000" stop="20201002140000 +0000" channel="Al Yawm">
+    <title lang="en">Li A‘la Se‘r</title>
+    <title lang="ar">لإعلى سعر</title>
+    <desc lang="en">Nelly Karim, Ahmad Majdi. Eps 1; The series illustrates the story of two girls working in a ballet institute. Their friendship was affected by one of the guys who enter their lives. (R3). نيللي كريم؛ أحمد مجدي.الحلقة 1؛ تدور أحداث المسلسل حول صديقتين تعملان في معهد البالية، لكن صداقتهما تتعرض لبعض الأزمات الحادة بسبب تدخل احد الرجال بينهما (R3).</desc>
   </programme>
-  <programme start="20200930123400 +0000" stop="20200930124500 +0000" channel="Al Safwa">
-    <title lang="en">Prayers For Safwa Channel</title>
-    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
-    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
+  <programme start="20201002140000 +0000" stop="20201002160000 +0000" channel="Al Yawm">
+    <title lang="en">Sharraftoonaa 2020</title>
+    <title lang="ar">شرفتونا 2020</title>
+    <desc lang="en">A daily live program that brings beneficial information to Arab unit families through specialized guests and live interactive audience. It also brings the latest news on scientific research andother fields (R3). برنامج يومي مباشر يتوجه بمواضيعه للأسرة العربية، عبر ضيوف متخصصين يتناول آخر المستجدات والإنجازات العلمية والحياتية وبمختلف الميادين، تحقيقات مصورة وبمشاركة المشاهدين تقديم تمار أفاكيان وحبيبة طراب (R3).</desc>
   </programme>
-  <programme start="20200930124500 +0000" stop="20200930134500 +0000" channel="Al Safwa">
-    <title lang="en">Sihr Al-Sharq</title>
-    <title lang="ar">سحر الشرق</title>
-    <desc lang="en">Jamal Suleiman, Amal Arafa. Eps 16; Lady Jane Digby`s enchantment with the East materialised via her love interest in the bedouin stud Mijwel converting her from a British aristocrat to a mere nomad. (R3). جمال سليمان، أمل عرفة.الحلقة 16؛ كانت زيارة الليدي جين دغبي إلى سوريا لأسباب عديدة، منها ولعها بالشرق وغموضه الذي تأصل لديها أكثر عند لقائها بالشاب البدوي مجول فأصبحت زوجة له وتحولت إلى بدوية بيضاء (R3).</desc>
+  <programme start="20201002160000 +0000" stop="20201002170000 +0000" channel="Al Yawm">
+    <title lang="en">Al Prince</title>
+    <title lang="ar">البرنس</title>
+    <desc lang="en">Mohammad Ramadan; Noor. Eps 11; Radwan, takes over the family responsibilities after his father`s death, and faces the multiple disputes between them. (R3). محمد رمضان؛ نور.الحلقة 11؛تدور احداث المسلسل حول عائلة "البرنس"، بعد وفاة الأب يجد رضوان الإبن المميز لدى والده انه مسؤول عن الجميع في العائلة ويدير شؤونهم لتبدأ الخلافات العائلية في إطار درامي اجتماعي (R3).</desc>
   </programme>
-  <programme start="20200930134500 +0000" stop="20200930144500 +0000" channel="Al Safwa">
-    <title lang="en">Quraish</title>
-    <title lang="ar">قريش</title>
-    <desc lang="en">Mahmoud Sa`eed. Eps 24; A résumé of ``Qusai Ibn Kilab`` who assembled Quraish from tribal groupings by diplomacy five generations before Prophet Mohammad and enjoyed adulation like no other descendant. (R3). محمود سعيد، مرح جبر.الحلقة 24؛ قصة حياة "قصي بن كلاب" الجد الخامس للرسول عليه الصلاة والسلام والذي جمع قريش ووحّدها من خلال تعاونه مع القبائل الأخرى دون عنف أو إكراه وأدار شبابها المتفرق بحكمته (R3).</desc>
+  <programme start="20201002170000 +0000" stop="20201002180000 +0000" channel="Al Yawm">
+    <title lang="en">Be Basaatah Part 2</title>
+    <title lang="ar">ببساطة الجزء الثاني</title>
+    <desc lang="en">Bassem Yakhour; Jenny Esper. Eps 12; Dramatic topics tackling social backwardness, hot paradoxes of life, and deep meditation around people behaviors in a comic setting. (R3). باسم ياخور؛ جيني اسبر.الحلقة 12؛عمل درامي يتناول مواضيع إجتماعية تطرح على الشاشة من خلال قالب كوميدي يعتمد على السخرية من مظاهر التخلف الإجتماعي والكذب والمفارقات الحياتية الساخنة وعلى التأمل العميق في سلوك الناس (R3).</desc>
   </programme>
-  <programme start="20200930144500 +0000" stop="20200930151000 +0000" channel="Al Safwa">
-    <title lang="en">Wasaya</title>
-    <title lang="ar">وصايا</title>
-    <desc lang="en">Eps 1; An advocacy of some Islamic commandments and teachings that order all aspects of a Muslim`s life. (R3). الحلقة 1؛ وصايا خالدة وقيّمة تشمل مواضيع مختلفة في العبادات والمعاملات والأخلاق وغير ذلك من شؤون الحياة، وبها يسعد المسلم في الدنيا والآخرة (R3).</desc>
+  <programme start="20201002180000 +0000" stop="20201002190000 +0000" channel="Al Yawm">
+    <title lang="en">Inside Look</title>
+    <title lang="ar">إنسايد لوك</title>
+    <desc lang="en">Eps 11; A furtive peek inside the narrow apertures and concealed interiors of Lebanese celebrities attempting to reveal clues of what they segregate from the public. (R3). الحلقة 11؛ نسترق النظر داخل بيوت المشاهير لنعرف من أسرارهم ما لم يعلنوه بعد ولنطّلع على تفاصيل حياتهم الخاصة علّنا نعرف كيف يعيشونها بعيداً عن أضواء الشهرة (R3).</desc>
   </programme>
-  <programme start="20200930151000 +0000" stop="20200930155000 +0000" channel="Al Safwa">
-    <title lang="en">Prayers For Safwa Channel</title>
-    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
-    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
-  </programme>
-  <programme start="20200930155000 +0000" stop="20200930161000 +0000" channel="Al Safwa">
-    <title lang="en">Al Safwa</title>
-    <title lang="ar">الصفوة</title>
-    <desc lang="en">Eps 1; A religious program presented by Sheikh Ali Ben Abed`Aziz Al shebel. (R3). الحلقة 1؛ نتعرف على الأنبياء والمرسلين الذين اصطفاهم الله تعالى وعلى الصحابة الذين وفقهم الله تعالى لمصحابة المصطفى صلى الله عليه (R3).</desc>
-  </programme>
-  <programme start="20200930161000 +0000" stop="20200930164000 +0000" channel="Al Safwa">
-    <title lang="en">Mat'haf Al-Sina'aat</title>
-    <title lang="ar">متحف الصناعات</title>
-    <desc lang="en">An illustration of consumer products and services where the roots and origins of each commodity are discovered right at their fascinating locations. (R3). تستعرض السلسلة خمسين نوعاً من الصناعات والمنتجات التي باتت جزءاً لا يتجزأ من حياتنا اليومية حيث تتناول الحاجة المؤدية إلى نشأة كل صناعة وتطورها عبر الزمن (R3).</desc>
-  </programme>
-  <programme start="20200930164000 +0000" stop="20200930171500 +0000" channel="Al Safwa">
-    <title lang="en">Prayers For Safwa Channel</title>
-    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
-    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
-  </programme>
-  <programme start="20200930171500 +0000" stop="20200930173000 +0000" channel="Al Safwa">
-    <title lang="en">Al-Qur'an Wa Al-Naas</title>
-    <title lang="ar">القرآن والناس</title>
-    <desc lang="en">Eps 7; A detailed explanation of the Holy Qur`an`s unique terminology in compliance with interpretations of ``Lisan Al-Arab`` lexicon. (R3). الحلقة 7؛ برنامج ثقافي ديني يعرض مفردات منتقاة من القرآن الكريم وتشرح لغوياً من قبل عالم متخصص وكما وردت في "لسان العرب" (R3).</desc>
-  </programme>
-  <programme start="20200930173000 +0000" stop="20200930180000 +0000" channel="Al Safwa">
-    <title lang="en">Fadouhu Biha</title>
-    <title lang="ar">فادعوه بها</title>
-    <desc lang="en">Eps 30; Definitions which feature a selection of the names of Allah as mentioned in Qur`anic verses and outline their meaning and benefits, and strengthen one`s relationship with God. (R3). الحلقة 30؛ وسعت كل شئ رحمة وعلماً.جولة إيمانية تتناول بعضاً من أسماء الله الحسنى وأثرها الإيماني والسلوكي على الإنسان ومعنى كل اسم وكيف يستشعرها المؤمن عند الدعاء ويتدبر بها (R3).</desc>
-  </programme>
-  <programme start="20200930180000 +0000" stop="20200930190000 +0000" channel="Al Safwa">
-    <title lang="en">Hadaraat Sadat Walaken!!</title>
-    <title lang="ar">حضارات سادت ولكن!!</title>
-    <desc lang="en">A discovery of ancient civilizations and communities that dwell in remote regions of the globe and were forced into seclusion either by modern civilization or ethnic cleansing. (R3). يكشف البرنامج عن حضارات قديمة لشعوب تعيش في مناطق نائية وشبه منسية فرضت عوامل الحضارة المعاصرة العزلة على شعوبها واندثار حضارتها إما نتيجة الحروب أو العوامل الطبيعية (R3).</desc>
-  </programme>
-  <programme start="20200930190000 +0000" stop="20200930193000 +0000" channel="Al Safwa">
-    <title lang="en">Ahl Al Thekr</title>
-    <title lang="ar">أهل الذكر</title>
-    <desc lang="en">Eps 8; Reviews that point out the meaning, site and time of the Hajj rites. (R3). الحلقة 8؛ برنامج ديني يسعى لتوعية المشاهدين في كل ما يخص فريضة الحج وشعائرها وأحكامها (R3).</desc>
-  </programme>
-  <programme start="20200930193000 +0000" stop="20200930200000 +0000" channel="Al Safwa">
-    <title lang="en">Tanbeehaat</title>
-    <title lang="ar">تنبيهات</title>
-    <desc lang="en">Eps 4; The program presents a number of subjects related to faith, beliefs, behavior and many other important issues which people needs to pay attention  to. (R3). الحلقة 4؛ يتناول فضيلة الدكتور عمر بن عبدالله المقبل في برنامجه عدة مواضيع تتعلق بالإيمان، المعتقد، الأخلاق، السلوك والأفعال وبعض الجوانب المهمة التي تحتاج الى تنبيه (R3).</desc>
-  </programme>
-  <programme start="20200930200000 +0000" stop="20200930210000 +0000" channel="Al Safwa">
-    <title lang="en">Quraish</title>
-    <title lang="ar">قريش</title>
-    <desc lang="en">Mahmoud Sa`eed. Eps 24; A résumé of ``Qusai Ibn Kilab`` who assembled Quraish from tribal groupings by diplomacy five generations before Prophet Mohammad and enjoyed adulation like no other descendant. (R3). محمود سعيد، مرح جبر.الحلقة 24؛ قصة حياة "قصي بن كلاب" الجد الخامس للرسول عليه الصلاة والسلام والذي جمع قريش ووحّدها من خلال تعاونه مع القبائل الأخرى دون عنف أو إكراه وأدار شبابها المتفرق بحكمته (R3).</desc>
-  </programme>
-  <programme start="20200930210000 +0000" stop="20200930220000 +0000" channel="Al Safwa">
-    <title lang="en">Kunouz Mafqouda</title>
-    <title lang="ar">كنوز مفقودة</title>
-    <desc lang="en">Eps 16; A voyage of discovery across lost cities, ancient palaces and temples of antiquity which are brought back to life through expert commentary and analysis of leading historians. (R3). الحلقة 16؛ رحلة لاكتشاف الحضارات عبر القرون تبيّن كيفية بناء عجائب العالم القديم وكيف تم تشييد هذه المنشآت المذهلة وبهذه الدرجة من الدقة ومدى أهميتها (R3).</desc>
-  </programme>
-  <programme start="20200930220000 +0000" stop="20200930223000 +0000" channel="Al Safwa">
-    <title lang="en">Ahl Al Thekr</title>
-    <title lang="ar">أهل الذكر</title>
-    <desc lang="en">Eps 8; Reviews that point out the meaning, site and time of the Hajj rites. (R3). الحلقة 8؛ برنامج ديني يسعى لتوعية المشاهدين في كل ما يخص فريضة الحج وشعائرها وأحكامها (R3).</desc>
-  </programme>
-  <programme start="20200930223000 +0000" stop="20200930230000 +0000" channel="Al Safwa">
-    <title lang="en">Tanbeehaat</title>
-    <title lang="ar">تنبيهات</title>
-    <desc lang="en">Eps 4; The program presents a number of subjects related to faith, beliefs, behavior and many other important issues which people needs to pay attention  to. (R3). الحلقة 4؛ يتناول فضيلة الدكتور عمر بن عبدالله المقبل في برنامجه عدة مواضيع تتعلق بالإيمان، المعتقد، الأخلاق، السلوك والأفعال وبعض الجوانب المهمة التي تحتاج الى تنبيه (R3).</desc>
-  </programme>
-  <programme start="20200930230000 +0000" stop="20201001000000 +0000" channel="Al Safwa">
-    <title lang="en">Hadaraat Sadat Walaken!!</title>
-    <title lang="ar">حضارات سادت ولكن!!</title>
-    <desc lang="en">A discovery of ancient civilizations and communities that dwell in remote regions of the globe and were forced into seclusion either by modern civilization or ethnic cleansing. (R3). يكشف البرنامج عن حضارات قديمة لشعوب تعيش في مناطق نائية وشبه منسية فرضت عوامل الحضارة المعاصرة العزلة على شعوبها واندثار حضارتها إما نتيجة الحروب أو العوامل الطبيعية (R3).</desc>
+  <programme start="20201002190000 +0000" stop="20201002193000 +0000" channel="Al Yawm">
+    <title lang="en">Shakhsiyat Fi Hayati</title>
+    <title lang="ar">شخصيات في حياتي</title>
+    <desc lang="en">Eps 19; Each Episode talks about an important personality from the different fields of arts, literature, history, journalism and politics (R3). الحلقة 19؛ كل حلقة تتناول أحد أعلام التاريخ الفن أو السياسة أو الأدب الذين لهم تأثير كبير في عالمهم ومجتمعاتهم (R3).</desc>
   </programme>
   <programme start="20201001000000 +0000" stop="20201001010000 +0000" channel="Al Safwa">
     <title lang="en">Kunouz Mafqouda</title>
@@ -995,60 +1059,165 @@
     <title lang="ar">تنبيهات</title>
     <desc lang="en">Eps 5; The program presents a number of subjects related to faith, beliefs, behavior and many other important issues which people needs to pay attention  to. (R3). الحلقة 5؛ يتناول فضيلة الدكتور عمر بن عبدالله المقبل في برنامجه عدة مواضيع تتعلق بالإيمان، المعتقد، الأخلاق، السلوك والأفعال وبعض الجوانب المهمة التي تحتاج الى تنبيه (R3).</desc>
   </programme>
-  <programme start="20200930000000 +0000" stop="20200930010000 +0000" channel="Fann">
-    <title lang="en">Recital Excerpts - Mohammad Abdo</title>
-    <title lang="ar">مقتطفات من حفلات محمد عبدو</title>
-    <desc lang="en">Excerpts of concerts by the acclaimed Mohammad Abdo. أغاني مختارة من حفلات الفنان المخضرم محمد عبدو.</desc>
+  <programme start="20201001200000 +0000" stop="20201001210000 +0000" channel="Al Safwa">
+    <title lang="en">Quraish</title>
+    <title lang="ar">قريش</title>
+    <desc lang="en">Mahmoud Sa`eed. Eps 25; A résumé of ``Qusai Ibn Kilab`` who assembled Quraish from tribal groupings by diplomacy five generations before Prophet Mohammad and enjoyed adulation like no other descendant. (R3). محمود سعيد، مرح جبر.الحلقة 25؛ قصة حياة "قصي بن كلاب" الجد الخامس للرسول عليه الصلاة والسلام والذي جمع قريش ووحّدها من خلال تعاونه مع القبائل الأخرى دون عنف أو إكراه وأدار شبابها المتفرق بحكمته (R3).</desc>
   </programme>
-  <programme start="20200930010000 +0000" stop="20200930030000 +0000" channel="Fann">
-    <title lang="en">Arabic Soft Songs</title>
-    <title lang="ar">منوعات عربية</title>
-    <desc lang="en">A melange of soft Arabic songs. أغاني عربية هادئة.</desc>
+  <programme start="20201001210000 +0000" stop="20201001220000 +0000" channel="Al Safwa">
+    <title lang="en">Kunouz Mafqouda</title>
+    <title lang="ar">كنوز مفقودة</title>
+    <desc lang="en">Eps 17; A voyage of discovery across lost cities, ancient palaces and temples of antiquity which are brought back to life through expert commentary and analysis of leading historians. (R3). الحلقة 17؛ رحلة لاكتشاف الحضارات عبر القرون تبيّن كيفية بناء عجائب العالم القديم وكيف تم تشييد هذه المنشآت المذهلة وبهذه الدرجة من الدقة ومدى أهميتها (R3).</desc>
   </programme>
-  <programme start="20200930030000 +0000" stop="20200930040000 +0000" channel="Fann">
-    <title lang="en">Min Aghaneehem</title>
-    <title lang="ar">من أغانيهم</title>
-    <desc lang="en">Vocal repertoires of solo performances and ensembles selected from classic and modern-day masterpieces of Arabic musical motion pictures. نخبة من أغاني الأفلام التي أضافت إلى الموسيقى العربية نكهة جديدة عبر عقود من الإنتاج السينمائي.</desc>
+  <programme start="20201001220000 +0000" stop="20201001223000 +0000" channel="Al Safwa">
+    <title lang="en">Ahl Al Thekr</title>
+    <title lang="ar">أهل الذكر</title>
+    <desc lang="en">Eps 9; Reviews that point out the meaning, site and time of the Hajj rites. (R3). الحلقة 9؛ برنامج ديني يسعى لتوعية المشاهدين في كل ما يخص فريضة الحج وشعائرها وأحكامها (R3).</desc>
   </programme>
-  <programme start="20200930040000 +0000" stop="20200930090000 +0000" channel="Fann">
-    <title lang="en">Arabic Songs</title>
-    <title lang="ar">أغاني عربية</title>
-    <desc lang="en">A fusion of Arabic songs varying in tempo, rhythm and style. أغاني عربية.</desc>
+  <programme start="20201001223000 +0000" stop="20201001230000 +0000" channel="Al Safwa">
+    <title lang="en">Tanbeehaat</title>
+    <title lang="ar">تنبيهات</title>
+    <desc lang="en">Eps 5; The program presents a number of subjects related to faith, beliefs, behavior and many other important issues which people needs to pay attention  to. (R3). الحلقة 5؛ يتناول فضيلة الدكتور عمر بن عبدالله المقبل في برنامجه عدة مواضيع تتعلق بالإيمان، المعتقد، الأخلاق، السلوك والأفعال وبعض الجوانب المهمة التي تحتاج الى تنبيه (R3).</desc>
   </programme>
-  <programme start="20200930090000 +0000" stop="20200930100000 +0000" channel="Fann">
-    <title lang="en">Min Aghaneehem</title>
-    <title lang="ar">من أغانيهم</title>
-    <desc lang="en">Vocal repertoires of solo performances and ensembles selected from classic and modern-day masterpieces of Arabic musical motion pictures. نخبة من أغاني الأفلام التي أضافت إلى الموسيقى العربية نكهة جديدة عبر عقود من الإنتاج السينمائي.</desc>
+  <programme start="20201001230000 +0000" stop="20201002000000 +0000" channel="Al Safwa">
+    <title lang="en">Hadaraat Sadat Walaken!!</title>
+    <title lang="ar">حضارات سادت ولكن!!</title>
+    <desc lang="en">A discovery of ancient civilizations and communities that dwell in remote regions of the globe and were forced into seclusion either by modern civilization or ethnic cleansing. (R3). يكشف البرنامج عن حضارات قديمة لشعوب تعيش في مناطق نائية وشبه منسية فرضت عوامل الحضارة المعاصرة العزلة على شعوبها واندثار حضارتها إما نتيجة الحروب أو العوامل الطبيعية (R3).</desc>
   </programme>
-  <programme start="20200930100000 +0000" stop="20200930123000 +0000" channel="Fann">
-    <title lang="en">Songs From The Arabian Gulf</title>
-    <title lang="ar">أغاني من الخليج العربي</title>
-    <desc lang="en">Songs with a flavour of the Arabian Gulf. منوعات غنائية بنكهة الخليج العربي.</desc>
+  <programme start="20201002000000 +0000" stop="20201002010000 +0000" channel="Al Safwa">
+    <title lang="en">Kunouz Mafqouda</title>
+    <title lang="ar">كنوز مفقودة</title>
+    <desc lang="en">Eps 17; A voyage of discovery across lost cities, ancient palaces and temples of antiquity which are brought back to life through expert commentary and analysis of leading historians. (R3). الحلقة 17؛ رحلة لاكتشاف الحضارات عبر القرون تبيّن كيفية بناء عجائب العالم القديم وكيف تم تشييد هذه المنشآت المذهلة وبهذه الدرجة من الدقة ومدى أهميتها (R3).</desc>
   </programme>
-  <programme start="20200930123000 +0000" stop="20200930143000 +0000" channel="Fann">
-    <title lang="en">Arabic Songs</title>
-    <title lang="ar">أغاني عربية</title>
-    <desc lang="en">A fusion of Arabic songs varying in tempo, rhythm and style. أغاني عربية.</desc>
+  <programme start="20201002010000 +0000" stop="20201002015200 +0000" channel="Al Safwa">
+    <title lang="en">Allamahu Al-Bayan</title>
+    <title lang="ar">علّمه البيان</title>
+    <desc lang="en">Eps 12; The programme links verses of the Holy Quran with modern-day science and technology, thus pointing out the Qur`an`s inimitabiltiy. (R3). الحلقة 12؛ برنامج علمي يتحدث عن إعجاز الخالق سبحانه وتعالى ويقدم بعضاً من ملامح الإعجاز العلمي في عصر العلم والتكنولوجيا وكيف أن القرآن يحوي آيات تعبر عن أحدث النظريات العلمية المكتشفة (R3).</desc>
   </programme>
-  <programme start="20200930143000 +0000" stop="20200930170000 +0000" channel="Fann">
-    <title lang="en">Recitals</title>
-    <title lang="ar">مختارات من حفلات موسيقية</title>
-    <desc lang="en">An assortment of recitals perfromed at live concerts. مجموعة من الأغاني العربية المنتقاة من الحفلات الموسيقية.</desc>
+  <programme start="20201002015200 +0000" stop="20201002023500 +0000" channel="Al Safwa">
+    <title lang="en">Prayers For Safwa Channel</title>
+    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
+    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
   </programme>
-  <programme start="20200930170000 +0000" stop="20200930190000 +0000" channel="Fann">
-    <title lang="en">Arabic Songs</title>
-    <title lang="ar">أغاني عربية</title>
-    <desc lang="en">A fusion of Arabic songs varying in tempo, rhythm and style. أغاني عربية.</desc>
+  <programme start="20201002023500 +0000" stop="20201002031000 +0000" channel="Al Safwa">
+    <title lang="en">Al-Qur'an Al-Kareem Fi Hidayateh Wa Irshadeh</title>
+    <title lang="ar">القرآن الكريم في هدايته وإرشاده</title>
+    <desc lang="en">A commentary by Sheikh Mohammad Ali Al-Sabouni who uncovers meanings of Qur`anic verses aiming to grasp the true spirit of the holy Qur`an and understand the real object of its revelation. (R3). تفسير كامل لجميع سور القرآن الكريم لفضيلة الشيخ محمد على الصابوني بأسلوب سهل وميسر (R3).</desc>
   </programme>
-  <programme start="20200930190000 +0000" stop="20200930210000 +0000" channel="Fann">
-    <title lang="en">Songs From The Arabian Gulf</title>
-    <title lang="ar">أغاني من الخليج العربي</title>
-    <desc lang="en">Songs with a flavour of the Arabian Gulf. منوعات غنائية بنكهة الخليج العربي.</desc>
+  <programme start="20201002031000 +0000" stop="20201002040500 +0000" channel="Al Safwa">
+    <title lang="en">Shajarat Al-Durr</title>
+    <title lang="ar">شجرة الدر</title>
+    <desc lang="en">Nidal Al-Ashqar. Eps 26; Epic events of Shajarat Al-Durr`s life who rose from a mere bondmaid to Sutlana marking the start of the Mamlouk reign in Egypt during which she played a key role. (R3). نضال الأشقر، محمد حسن الجندي.الحلقة 26؛ قصة حياة شجرة الدر التي حكمت مصر في عهد المماليك وعرفت باستبدادها وسيطرتها على الذين عاصروها وتآمرها على على أقرب المقربين ومنهم زوجها ومستشارها (R3).</desc>
   </programme>
-  <programme start="20200930210000 +0000" stop="20201001000000 +0000" channel="Fann">
-    <title lang="en">Aghani Tarabiyya</title>
-    <title lang="ar">أغاني طربية</title>
-    <desc lang="en">A mix of Arabic classical songs. أغاني طربية.</desc>
+  <programme start="20201002040500 +0000" stop="20201002050500 +0000" channel="Al Safwa">
+    <title lang="en">Al-Aalam Min Hawlina (Part 6)</title>
+    <title lang="ar">العالم من حولنا (الجزء السادس)</title>
+    <desc lang="en">Eps 13; An overview of global issues that spreads awareness to better understand today`s world issues from a global perspective and aims to solve some of yesterday`s puzzles. (R3). الحلقة 13؛ سلسلة وثائقية تتعرض لشتى أنواع القضايا المعاصرة التي تحظى باهتمام شريحة كبيرة من الناس، كما تحاول حل بعض ألغاز وأسرار الماضي (R3).</desc>
+  </programme>
+  <programme start="20201002050500 +0000" stop="20201002060000 +0000" channel="Al Safwa">
+    <title lang="en">Sihr Al Sharq</title>
+    <title lang="ar">سحر الشرق</title>
+    <desc lang="en">Jamal Suleiman, Amal Arafa. Eps 17; Lady Jane Digby`s enchantment with the East materialised via her love interest in the bedouin stud Mijwel converting her from a British aristocrat to a mere nomad. (R3). جمال سليمان، أمل عرفة.الحلقة 17؛ كانت زيارة الليدي جين دغبي إلى سوريا لأسباب عديدة، منها ولعها بالشرق وغموضه الذي تأصل لديها أكثر عند لقائها بالشاب البدوي مجول فأصبحت زوجة له وتحولت إلى بدوية بيضاء (R3).</desc>
+  </programme>
+  <programme start="20201002060000 +0000" stop="20201002070000 +0000" channel="Al Safwa">
+    <title lang="en">Shajarat Al-Durr</title>
+    <title lang="ar">شجرة الدر</title>
+    <desc lang="en">Nidal Al-Ashqar. Eps 27; Epic events of Shajarat Al-Durr`s life who rose from a mere bondmaid to Sutlana marking the start of the Mamlouk reign in Egypt during which she played a key role. (R3). نضال الأشقر، محمد حسن الجندي.الحلقة 27؛ قصة حياة شجرة الدر التي حكمت مصر في عهد المماليك وعرفت باستبدادها وسيطرتها على الذين عاصروها وتآمرها على على أقرب المقربين ومنهم زوجها ومستشارها (R3).</desc>
+  </programme>
+  <programme start="20201002070000 +0000" stop="20201002081000 +0000" channel="Al Safwa">
+    <title lang="en">Abu Kamel (Part 2)</title>
+    <title lang="ar">أبو كامل - الجزء الثاني</title>
+    <desc lang="en">As`ad Fedha, Fadia Khattab. Eps 26; Inspector Adel investigates the death of Abu Kamel and puts everyone under suspicion while Wisal plots to kill Kamel, the son of Fatma. (R3). أسعد فضة - فاديا خطاب.الحلقة 26؛ بعد مقتل أبو كامل تنقلب الحارة رأساً على عقب ويتولَى المحقق عادل الصارم التحقيق لكشف القاتل فيما تخطط وصال وهي ارملة لها ثأر قديم مع أبو كامل لقتل كامل إبنه (R3).</desc>
+  </programme>
+  <programme start="20201002081000 +0000" stop="20201002090700 +0000" channel="Al Safwa">
+    <title lang="en">Sihr Al Sharq</title>
+    <title lang="ar">سحر الشرق</title>
+    <desc lang="en">Jamal Suleiman, Amal Arafa. Eps 18; Lady Jane Digby`s enchantment with the East materialised via her love interest in the bedouin stud Mijwel converting her from a British aristocrat to a mere nomad. (R3). جمال سليمان، أمل عرفة.الحلقة 18؛ كانت زيارة الليدي جين دغبي إلى سوريا لأسباب عديدة، منها ولعها بالشرق وغموضه الذي تأصل لديها أكثر عند لقائها بالشاب البدوي مجول فأصبحت زوجة له وتحولت إلى بدوية بيضاء (R3).</desc>
+  </programme>
+  <programme start="20201002090700 +0000" stop="20201002095000 +0000" channel="Al Safwa">
+    <title lang="en">Prayers For Safwa Channel</title>
+    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
+    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
+  </programme>
+  <programme start="20201002095000 +0000" stop="20201002105000 +0000" channel="Al Safwa">
+    <title lang="en">Shajarat Al-Durr</title>
+    <title lang="ar">شجرة الدر</title>
+    <desc lang="en">Nidal Al-Ashqar. Eps 27; Epic events of Shajarat Al-Durr`s life who rose from a mere bondmaid to Sutlana marking the start of the Mamlouk reign in Egypt during which she played a key role. (R3). نضال الأشقر، محمد حسن الجندي.الحلقة 27؛ قصة حياة شجرة الدر التي حكمت مصر في عهد المماليك وعرفت باستبدادها وسيطرتها على الذين عاصروها وتآمرها على على أقرب المقربين ومنهم زوجها ومستشارها (R3).</desc>
+  </programme>
+  <programme start="20201002105000 +0000" stop="20201002115500 +0000" channel="Al Safwa">
+    <title lang="en">Abu Kamel (Part 2)</title>
+    <title lang="ar">أبو كامل - الجزء الثاني</title>
+    <desc lang="en">As`ad Fedha, Fadia Khattab. Eps 26; Inspector Adel investigates the death of Abu Kamel and puts everyone under suspicion while Wisal plots to kill Kamel, the son of Fatma. (R3). أسعد فضة - فاديا خطاب.الحلقة 26؛ بعد مقتل أبو كامل تنقلب الحارة رأساً على عقب ويتولَى المحقق عادل الصارم التحقيق لكشف القاتل فيما تخطط وصال وهي ارملة لها ثأر قديم مع أبو كامل لقتل كامل إبنه (R3).</desc>
+  </programme>
+  <programme start="20201002115500 +0000" stop="20201002122700 +0000" channel="Al Safwa">
+    <title lang="en">Hikayaat Al-Khuyoul</title>
+    <title lang="ar">حكايات الخيول</title>
+    <desc lang="en">Eps 12; Through gentle persuasion and trust, breeds of horses are trained to modify their behaviour and establish new ones to obtain a specific response to certain tasks and stimuli. (R3). الحلقة 12؛ يستعرض البرنامج وسائل ترويض بعد أنواع الجياد وإعدادها وتدريبها لاستخدامها في السباقات العالمية، عروض السيرك، الرياضات المختلفة وحتى في عالم السينما (R3).</desc>
+  </programme>
+  <programme start="20201002122700 +0000" stop="20201002123500 +0000" channel="Al Safwa">
+    <title lang="en">Prayers For Safwa Channel</title>
+    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
+    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
+  </programme>
+  <programme start="20201002123500 +0000" stop="20201002130000 +0000" channel="Al Safwa">
+    <title lang="en">Wasaya</title>
+    <title lang="ar">وصايا</title>
+    <desc lang="en">Eps 3; An advocacy of some Islamic commandments and teachings that order all aspects of a Muslim`s life. (R3). الحلقة 3؛ وصايا خالدة وقيّمة تشمل مواضيع مختلفة في العبادات والمعاملات والأخلاق وغير ذلك من شؤون الحياة، وبها يسعد المسلم في الدنيا والآخرة (R3).</desc>
+  </programme>
+  <programme start="20201002130000 +0000" stop="20201002140000 +0000" channel="Al Safwa">
+    <title lang="en">Sihr Al Sharq</title>
+    <title lang="ar">سحر الشرق</title>
+    <desc lang="en">Jamal Suleiman, Amal Arafa. Eps 18; Lady Jane Digby`s enchantment with the East materialised via her love interest in the bedouin stud Mijwel converting her from a British aristocrat to a mere nomad. (R3). جمال سليمان، أمل عرفة.الحلقة 18؛ كانت زيارة الليدي جين دغبي إلى سوريا لأسباب عديدة، منها ولعها بالشرق وغموضه الذي تأصل لديها أكثر عند لقائها بالشاب البدوي مجول فأصبحت زوجة له وتحولت إلى بدوية بيضاء (R3).</desc>
+  </programme>
+  <programme start="20201002140000 +0000" stop="20201002150700 +0000" channel="Al Safwa">
+    <title lang="en">Quraish</title>
+    <title lang="ar">قريش</title>
+    <desc lang="en">Mahmoud Sa`eed. Eps 26; A résumé of ``Qusai Ibn Kilab`` who assembled Quraish from tribal groupings by diplomacy five generations before Prophet Mohammad and enjoyed adulation like no other descendant. (R3). محمود سعيد، مرح جبر.الحلقة 26؛ قصة حياة "قصي بن كلاب" الجد الخامس للرسول عليه الصلاة والسلام والذي جمع قريش ووحّدها من خلال تعاونه مع القبائل الأخرى دون عنف أو إكراه وأدار شبابها المتفرق بحكمته (R3).</desc>
+  </programme>
+  <programme start="20201002150700 +0000" stop="20201002154000 +0000" channel="Al Safwa">
+    <title lang="en">Prayers For Safwa Channel</title>
+    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
+    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
+  </programme>
+  <programme start="20201002154000 +0000" stop="20201002160000 +0000" channel="Al Safwa">
+    <title lang="en">Al Safwa</title>
+    <title lang="ar">الصفوة</title>
+    <desc lang="en">Eps 3; A religious program presented by Sheikh Ali Ben Abed`Aziz Al shebel. (R3). الحلقة 3؛ نتعرف على الأنبياء والمرسلين الذين اصطفاهم الله تعالى وعلى الصحابة الذين وفقهم الله تعالى لمصحابة المصطفى صلى الله عليه (R3).</desc>
+  </programme>
+  <programme start="20201002160000 +0000" stop="20201002163700 +0000" channel="Al Safwa">
+    <title lang="en">LA Li Al-Nifayaat</title>
+    <title lang="ar">لا للنفايات</title>
+    <desc lang="en">An enlightening programme that best promotes the principle of recycling and decrease of consumption. Each episode deals with a kind of waste that`s recycled and eventually used as a new object. (R3). سلسلة تثقيفية تعتمد مبدأ تخفيض الاستهلاك والتدوير وإعادة التصنيع، بحيث تتضمن كل حلقة نوعاً معيناً من المخلفات يمكن تدويرها ومعالجتها لتصبح مادة جديدة يمكن استخدامها بشكل مختلف (R3).</desc>
+  </programme>
+  <programme start="20201002163700 +0000" stop="20201002171000 +0000" channel="Al Safwa">
+    <title lang="en">Prayers For Safwa Channel</title>
+    <title lang="ar">نقل مباشر للصلاة خاص لقناة الصفوة</title>
+    <desc lang="en">Live Prayers from Mecca  for Safwa Channel. (R3). نقل مباشر للصلاة من مكة المكرمة خاص لقناة الصفوة (R3).</desc>
+  </programme>
+  <programme start="20201002171000 +0000" stop="20201002173000 +0000" channel="Al Safwa">
+    <title lang="en">Asma'uhu Al-Husna</title>
+    <title lang="ar">أسماؤه الحسنى</title>
+    <desc lang="en">Eps 14; ``Call upon God or call upon The Merciful, whichsoever you call upon, to Him belong the most beautiful names``... an enumeration of names of Allah extraced from the Holy Qur`an and Al-Sunnah. (R3). الحلقة 14؛ يتناول البرنامج مجموعة من أسماء الله الحسنى مرتكزاً على أحدث ما توصل إليه العلم من حقائق، ومتكئاً على خلفية دينية قوامها العقيدة الإسلامية المستمدة من القرآن الكريم والسنة الشريفة (R3).</desc>
+  </programme>
+  <programme start="20201002173000 +0000" stop="20201002180000 +0000" channel="Al Safwa">
+    <title lang="en">Fa'ad'ooh Bihaa</title>
+    <title lang="ar">فادعوه بها</title>
+    <desc lang="en">Eps 2; His Virtue Dr Khaled Bin Abed Al-Aziz Al-Musleh explains in his program ``Asma`a Allah Al Husna`` that was mentioned in ``Al Hadith Al Sahih``. (R3). الحلقة 2؛ يتناول فضيلة الدكتور خالد بن عبدالله المسطح في برنامجه اسماء الله الحسنى التي وردت في الحديث الصحيح مرتكزاً على ما توصل اليه العلم من حقائق (R3).</desc>
+  </programme>
+  <programme start="20201002180000 +0000" stop="20201002190000 +0000" channel="Al Safwa">
+    <title lang="en">Hadaraat Sadat Walaken!!</title>
+    <title lang="ar">حضارات سادت ولكن!!</title>
+    <desc lang="en">Eps 19; A discovery of ancient civilizations and communities that dwell in remote regions of the globe and were forced into seclusion either by modern civilization or ethnic cleansing. (R3). الحلقة 19؛ يكشف البرنامج عن حضارات قديمة لشعوب تعيش في مناطق نائية وشبه منسية فرضت عوامل الحضارة المعاصرة العزلة على شعوبها واندثار حضارتها إما نتيجة الحروب أو العوامل الطبيعية (R3).</desc>
+  </programme>
+  <programme start="20201002190000 +0000" stop="20201002193000 +0000" channel="Al Safwa">
+    <title lang="en">Ahl Al Thekr</title>
+    <title lang="ar">أهل الذكر</title>
+    <desc lang="en">Eps 10; Reviews that point out the meaning, site and time of the Hajj rites. (R3). الحلقة 10؛ برنامج ديني يسعى لتوعية المشاهدين في كل ما يخص فريضة الحج وشعائرها وأحكامها (R3).</desc>
+  </programme>
+  <programme start="20201002193000 +0000" stop="20201002200000 +0000" channel="Al Safwa">
+    <title lang="en">Tanbeehaat</title>
+    <title lang="ar">تنبيهات</title>
+    <desc lang="en">Eps 6; The program presents a number of subjects related to faith, beliefs, behavior and many other important issues which people needs to pay attention  to. (R3). الحلقة 6؛ يتناول فضيلة الدكتور عمر بن عبدالله المقبل في برنامجه عدة مواضيع تتعلق بالإيمان، المعتقد، الأخلاق، السلوك والأفعال وبعض الجوانب المهمة التي تحتاج الى تنبيه (R3).</desc>
   </programme>
   <programme start="20201001000000 +0000" stop="20201001010000 +0000" channel="Fann">
     <title lang="en">Recital Excerpts - Mohammad Abdo</title>
@@ -1095,50 +1264,65 @@
     <title lang="ar">منوعات عربية</title>
     <desc lang="en">A fusion of Arabic songs varying in tempo, rhythm and style. أغاني عربية.</desc>
   </programme>
-  <programme start="20200930000000 +0000" stop="20200930040000 +0000" channel="Music Now">
-    <title lang="en">Arabesque</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">A rhythmic linear pattern synthesizing Arabic songs of all genres, beats and vocal melodies into a beautiful Arabesque scene offering something for everyone. (R3). أغاني عربية متنوعة تجمع بين القديم والحديث لترضي جميع الأذواق (R3).</desc>
+  <programme start="20201001190000 +0000" stop="20201001210000 +0000" channel="Fann">
+    <title lang="en">Songs From The Arabian Gulf</title>
+    <title lang="ar">أغاني من الخليج العربي</title>
+    <desc lang="en">Songs with a flavour of the Arabian Gulf. منوعات غنائية بنكهة الخليج العربي.</desc>
   </programme>
-  <programme start="20200930040000 +0000" stop="20200930060000 +0000" channel="Music Now">
-    <title lang="en">Sabaho</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">Softly as in a morning sunrise do our songs flow to soothe the soul before the sun burns its way through the day. (R3). دعوة للاستمتاع بأغاني الفترة الصباحية مع إشراقة كل يوم جديد تبث في النفس روح الأمل والتفاؤل (R3).</desc>
+  <programme start="20201001210000 +0000" stop="20201001223000 +0000" channel="Fann">
+    <title lang="en">Aghani Tarabiyya</title>
+    <title lang="ar">أغاني طربية</title>
+    <desc lang="en">A mix of Arabic classical songs. أغاني طربية.</desc>
   </programme>
-  <programme start="20200930060000 +0000" stop="20200930090000 +0000" channel="Music Now">
-    <title lang="en">Mazaj</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">A distinctively emotional round of mood-enhancing songs. (R3). حناجر ذهبية تؤدي أجمل الأغنيات التي تناسب كل الأذواق والأمزجة (R3).</desc>
+  <programme start="20201001223000 +0000" stop="20201002000000 +0000" channel="Fann">
+    <title lang="en">Recital - Abdel Haleem Hafeth</title>
+    <title lang="ar">حفلة موسيقية - عبد الحليم حافظ</title>
+    <desc lang="en">Selected pieces of concerts by Abdel Haleem Hafeth. مختارات من حفلات العندليب الأسمر عبد الحليم حافظ.</desc>
   </programme>
-  <programme start="20200930090000 +0000" stop="20200930150000 +0000" channel="Music Now">
-    <title lang="en">Arabesque</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">A rhythmic linear pattern synthesizing Arabic songs of all genres, beats and vocal melodies into a beautiful Arabesque scene offering something for everyone. (R3). أغاني عربية متنوعة تجمع بين القديم والحديث لترضي جميع الأذواق (R3).</desc>
+  <programme start="20201002000000 +0000" stop="20201002010000 +0000" channel="Fann">
+    <title lang="en">Recital Excerpts - Mohammad Abdo</title>
+    <title lang="ar">مقتطفات من حفلات محمد عبدو</title>
+    <desc lang="en">Excerpts of concerts by the acclaimed Mohammad Abdo. أغاني مختارة من حفلات الفنان المخضرم محمد عبدو.</desc>
   </programme>
-  <programme start="20200930150000 +0000" stop="20200930180000 +0000" channel="Music Now">
-    <title lang="en">Awtar</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">Arabic hits that simply strike the right note for a fulfilling musical experience. (R3). أشهر الأغاني العربية المصورة التي تناسب جميع الأذواق وتلعب على أوتار القلب فتارة يذوب حناناً ورقة، وطوراً تتسارع دقاته مع الإيقاع فيفيض حيوية وبهجة (R3).</desc>
+  <programme start="20201002010000 +0000" stop="20201002030000 +0000" channel="Fann">
+    <title lang="en">Arabic Soft Songs</title>
+    <title lang="ar">منوعات عربية</title>
+    <desc lang="en">A melange of soft Arabic songs. أغاني عربية هادئة.</desc>
   </programme>
-  <programme start="20200930180000 +0000" stop="20200930190000 +0000" channel="Music Now">
-    <title lang="en">Albi Wa Daqqaato</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">A perfect synthesis of romantic tunes which have been central throughout ages of Arabic music. (R3). أجمل الأغاني العاطفية التي تفيض بالتعابير العذبة وطالما كانت محور الموسيقى العربية (R3).</desc>
+  <programme start="20201002030000 +0000" stop="20201002040000 +0000" channel="Fann">
+    <title lang="en">Min Aghaneehem</title>
+    <title lang="ar">من أغانيهم</title>
+    <desc lang="en">Vocal repertoires of solo performances and ensembles selected from classic and modern-day masterpieces of Arabic musical motion pictures. نخبة من أغاني الأفلام التي أضافت إلى الموسيقى العربية نكهة جديدة عبر عقود من الإنتاج السينمائي.</desc>
   </programme>
-  <programme start="20200930190000 +0000" stop="20200930210000 +0000" channel="Music Now">
-    <title lang="en">Aghani Khaleejiyya</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">A treat for lovers of the jovial music and lyrics of the Arabian Gulf to enjoy clips of their favourite Gulf singers. (R3). دعوة لمحبي الموسيقى الخليجية للاستمتاع بأداء مطربيهم المفضلين وهم يشدون أجمل ما كتب ولحّن بإيقاعات خليجية (R3).</desc>
+  <programme start="20201002040000 +0000" stop="20201002090000 +0000" channel="Fann">
+    <title lang="en">Arabic Songs</title>
+    <title lang="ar">منوعات عربية</title>
+    <desc lang="en">A fusion of Arabic songs varying in tempo, rhythm and style. أغاني عربية.</desc>
   </programme>
-  <programme start="20200930210000 +0000" stop="20200930220000 +0000" channel="Music Now">
-    <title lang="en">Arabesque</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">A rhythmic linear pattern synthesizing Arabic songs of all genres, beats and vocal melodies into a beautiful Arabesque scene offering something for everyone. (R3). أغاني عربية متنوعة تجمع بين القديم والحديث لترضي جميع الأذواق (R3).</desc>
+  <programme start="20201002090000 +0000" stop="20201002100000 +0000" channel="Fann">
+    <title lang="en">Min Aghaneehem</title>
+    <title lang="ar">من أغانيهم</title>
+    <desc lang="en">Vocal repertoires of solo performances and ensembles selected from classic and modern-day masterpieces of Arabic musical motion pictures. نخبة من أغاني الأفلام التي أضافت إلى الموسيقى العربية نكهة جديدة عبر عقود من الإنتاج السينمائي.</desc>
   </programme>
-  <programme start="20200930220000 +0000" stop="20201001000000 +0000" channel="Music Now">
-    <title lang="en">Mazaj</title>
-    <title lang="ar">Alfa Music Now</title>
-    <desc lang="en">A distinctively emotional round of mood-enhancing songs. (R3). حناجر ذهبية تؤدي أجمل الأغنيات التي تناسب كل الأذواق والأمزجة (R3).</desc>
+  <programme start="20201002100000 +0000" stop="20201002123000 +0000" channel="Fann">
+    <title lang="en">Songs From The Arabian Gulf</title>
+    <title lang="ar">أغاني من الخليج العربي</title>
+    <desc lang="en">Songs with a flavour of the Arabian Gulf. منوعات غنائية بنكهة الخليج العربي.</desc>
+  </programme>
+  <programme start="20201002123000 +0000" stop="20201002143000 +0000" channel="Fann">
+    <title lang="en">Arabic Songs</title>
+    <title lang="ar">منوعات عربية</title>
+    <desc lang="en">A fusion of Arabic songs varying in tempo, rhythm and style. أغاني عربية.</desc>
+  </programme>
+  <programme start="20201002143000 +0000" stop="20201002170000 +0000" channel="Fann">
+    <title lang="en">Recitals</title>
+    <title lang="ar">مختارات من حفلات موسيقية</title>
+    <desc lang="en">An assortment of recitals perfromed at live concerts. مجموعة من الأغاني العربية المنتقاة من الحفلات الموسيقية.</desc>
+  </programme>
+  <programme start="20201002170000 +0000" stop="20201002190000 +0000" channel="Fann">
+    <title lang="en">Arabic Songs</title>
+    <title lang="ar">منوعات عربية</title>
+    <desc lang="en">A fusion of Arabic songs varying in tempo, rhythm and style. أغاني عربية.</desc>
   </programme>
   <programme start="20201001000000 +0000" stop="20201001040000 +0000" channel="Music Now">
     <title lang="en">Arabesque</title>
@@ -1171,6 +1355,61 @@
     <desc lang="en">Distinguished songs that brought two brilliant vocalists together in a double-treat performance. (R3). مختارات من ثنائيات غنائية (R3).</desc>
   </programme>
   <programme start="20201001180000 +0000" stop="20201001190000 +0000" channel="Music Now">
+    <title lang="en">Albi Wa Daqqaato</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">A perfect synthesis of romantic tunes which have been central throughout ages of Arabic music. (R3). أجمل الأغاني العاطفية التي تفيض بالتعابير العذبة وطالما كانت محور الموسيقى العربية (R3).</desc>
+  </programme>
+  <programme start="20201001190000 +0000" stop="20201001210000 +0000" channel="Music Now">
+    <title lang="en">Aghani Khaleejiyya</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">A treat for lovers of the jovial music and lyrics of the Arabian Gulf to enjoy clips of their favourite Gulf singers. (R3). دعوة لمحبي الموسيقى الخليجية للاستمتاع بأداء مطربيهم المفضلين وهم يشدون أجمل ما كتب ولحّن بإيقاعات خليجية (R3).</desc>
+  </programme>
+  <programme start="20201001210000 +0000" stop="20201001220000 +0000" channel="Music Now">
+    <title lang="en">Arabesque</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">A rhythmic linear pattern synthesizing Arabic songs of all genres, beats and vocal melodies into a beautiful Arabesque scene offering something for everyone. (R3). أغاني عربية متنوعة تجمع بين القديم والحديث لترضي جميع الأذواق (R3).</desc>
+  </programme>
+  <programme start="20201001220000 +0000" stop="20201002000000 +0000" channel="Music Now">
+    <title lang="en">Party Time</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">Songs of a tempo so compelling that makes hearts throb with vitality... (R3). ساعتان من الأنغام الراقصة والإيقاعات الشرقية (R3).</desc>
+  </programme>
+  <programme start="20201002000000 +0000" stop="20201002020000 +0000" channel="Music Now">
+    <title lang="en">Party Time</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">Songs of a tempo so compelling that makes hearts throb with vitality... (R3). ساعتان من الأنغام الراقصة والإيقاعات الشرقية (R3).</desc>
+  </programme>
+  <programme start="20201002020000 +0000" stop="20201002040000 +0000" channel="Music Now">
+    <title lang="en">Arabesque</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">A rhythmic linear pattern synthesizing Arabic songs of all genres, beats and vocal melodies into a beautiful Arabesque scene offering something for everyone. (R3). أغاني عربية متنوعة تجمع بين القديم والحديث لترضي جميع الأذواق (R3).</desc>
+  </programme>
+  <programme start="20201002040000 +0000" stop="20201002060000 +0000" channel="Music Now">
+    <title lang="en">Sabaho</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">Softly as in a morning sunrise do our songs flow to soothe the soul before the sun burns its way through the day. (R3). دعوة للاستمتاع بأغاني الفترة الصباحية مع إشراقة كل يوم جديد تبث في النفس روح الأمل والتفاؤل (R3).</desc>
+  </programme>
+  <programme start="20201002060000 +0000" stop="20201002090000 +0000" channel="Music Now">
+    <title lang="en">Mazaj</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">A distinctively emotional round of mood-enhancing songs. (R3). حناجر ذهبية تؤدي أجمل الأغنيات التي تناسب كل الأذواق والأمزجة (R3).</desc>
+  </programme>
+  <programme start="20201002090000 +0000" stop="20201002150000 +0000" channel="Music Now">
+    <title lang="en">Arabesque</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">A rhythmic linear pattern synthesizing Arabic songs of all genres, beats and vocal melodies into a beautiful Arabesque scene offering something for everyone. (R3). أغاني عربية متنوعة تجمع بين القديم والحديث لترضي جميع الأذواق (R3).</desc>
+  </programme>
+  <programme start="20201002150000 +0000" stop="20201002173000 +0000" channel="Music Now">
+    <title lang="en">Awtar</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">Arabic hits that simply strike the right note for a fulfilling musical experience. (R3). أشهر الأغاني العربية المصورة التي تناسب جميع الأذواق وتلعب على أوتار القلب فتارة يذوب حناناً ورقة، وطوراً تتسارع دقاته مع الإيقاع فيفيض حيوية وبهجة (R3).</desc>
+  </programme>
+  <programme start="20201002173000 +0000" stop="20201002180000 +0000" channel="Music Now">
+    <title lang="en">Best Of ...</title>
+    <title lang="ar">Alfa Music Now</title>
+    <desc lang="en">A weekly tribute dedicated to finesse the infinite works of one of the most notable talents who thrived as great vocalists across the Arab World. (R3). برنامج أسبوعي يكرّس حلقاته لتكريم أحد المطربين العرب بعرض أجمل أغانيه وإبداعاته الفنية (R3).</desc>
+  </programme>
+  <programme start="20201002180000 +0000" stop="20201002190000 +0000" channel="Music Now">
     <title lang="en">Albi Wa Daqqaato</title>
     <title lang="ar">Alfa Music Now</title>
     <desc lang="en">A perfect synthesis of romantic tunes which have been central throughout ages of Arabic music. (R3). أجمل الأغاني العاطفية التي تفيض بالتعابير العذبة وطالما كانت محور الموسيقى العربية (R3).</desc>
