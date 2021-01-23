@@ -1,0 +1,2734 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HD1 English">
+    <display-name lang="en">HD1 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD1.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2 English">
+    <display-name lang="en">HD2 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD2.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD3 English">
+    <display-name lang="en">HD3 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD3.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4 English">
+    <display-name lang="en">HD4 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD4.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD5 English">
+    <display-name lang="en">HD5 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD5.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD6 English">
+    <display-name lang="en">HD6 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD6.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD7 English">
+    <display-name lang="en">HD7 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD7.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD8 English">
+    <display-name lang="en">HD8 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD8.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD9 English">
+    <display-name lang="en">HD9 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD9.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD10 English">
+    <display-name lang="en">HD10 English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD10.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BEIN SPORTS 1">
+    <display-name lang="fr">BEIN SPORTS 1</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS 2">
+    <display-name lang="fr">BEIN SPORTS 2</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS 3">
+    <display-name lang="fr">BEIN SPORTS 3</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS MAX 4">
+    <display-name lang="fr">BEIN SPORTS MAX 4</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS MAX 5">
+    <display-name lang="fr">BEIN SPORTS MAX 5</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS MAX 6">
+    <display-name lang="fr">BEIN SPORTS MAX 6</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS MAX 7">
+    <display-name lang="fr">BEIN SPORTS MAX 7</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS MAX 8">
+    <display-name lang="fr">BEIN SPORTS MAX 8</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS MAX 9">
+    <display-name lang="fr">BEIN SPORTS MAX 9</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="BEIN SPORTS MAX 10">
+    <display-name lang="fr">BEIN SPORTS MAX 10</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="RMC SPORT 1">
+    <display-name lang="fr">RMC SPORT 1</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="RMC SPORT 2">
+    <display-name lang="fr">RMC SPORT 2</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="RMC SPORT 3">
+    <display-name lang="fr">RMC SPORT 3</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <channel id="RMC SPORT 4">
+    <display-name lang="fr">RMC SPORT 4</display-name>
+    <url>http://www.canalplus.com</url>
+  </channel>
+  <programme start="20210122000000 +0000" stop="20210122003000 +0000" channel="HD1 English">
+    <title lang="en">EPL World  2020/2021 Ep.21</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122003000 +0000" stop="20210122010000 +0000" channel="HD1 English">
+    <title lang="en">La Liga World 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122010000 +0000" stop="20210122034700 +0000" channel="HD1 English">
+    <title lang="en">Liverpool vs Burnley - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122034700 +0000" stop="20210122040100 +0000" channel="HD1 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122040100 +0000" stop="20210122050000 +0000" channel="HD1 English">
+    <title lang="en">LaLiga Talking Football  2020/2021 Ep.4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122064500 +0000" channel="HD1 English">
+    <title lang="en">Leicester vs Chelsea - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122064500 +0000" stop="20210122083000 +0000" channel="HD1 English">
+    <title lang="en">Manchester City vs Aston Villa - English Premier League 2020/2021 Week 1</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122083000 +0000" stop="20210122084500 +0000" channel="HD1 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122084500 +0000" stop="20210122090000 +0000" channel="HD1 English">
+    <title lang="en">Tactical Series - Argentina</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122090000 +0000" stop="20210122093000 +0000" channel="HD1 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122093000 +0000" stop="20210122100000 +0000" channel="HD1 English">
+    <title lang="en">EPL World  2020/2021 Ep.21</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122100000 +0000" stop="20210122103000 +0000" channel="HD1 English">
+    <title lang="en">La Liga World 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122103000 +0000" stop="20210122121600 +0000" channel="HD1 English">
+    <title lang="en">Valencia vs Osasuna - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122121600 +0000" stop="20210122140000 +0000" channel="HD1 English">
+    <title lang="en">Eibar vs Atletico Madrid - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122140000 +0000" stop="20210122141500 +0000" channel="HD1 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122141500 +0000" stop="20210122143000 +0000" channel="HD1 English">
+    <title lang="en">Tactical Series - Argentina</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122143000 +0000" stop="20210122161500 +0000" channel="HD1 English">
+    <title lang="en">Liverpool vs Burnley - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122161500 +0000" stop="20210122180000 +0000" channel="HD1 English">
+    <title lang="en">Leicester vs Chelsea - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122180000 +0000" stop="20210122183000 +0000" channel="HD1 English">
+    <title lang="en">La Liga Show 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122183000 +0000" stop="20210122190000 +0000" channel="HD1 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122193000 +0000" channel="HD1 English">
+    <title lang="en">Ligue 1 Preview - 2020/2021 EP 21</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122193000 +0000" stop="20210122221500 +0000" channel="HD1 English">
+    <title lang="en">Paris Saint-Germain vs Montpellier - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122221500 +0000" stop="20210122223000 +0000" channel="HD1 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122223000 +0000" stop="20210122233000 +0000" channel="HD1 English">
+    <title lang="en">Karate Combat  Episode 8</title>
+    <sub-title lang="en">Karate</sub-title>
+  </programme>
+  <programme start="20210122233000 +0000" stop="20210123000000 +0000" channel="HD1 English">
+    <title lang="en">La Liga Show 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123000000 +0000" stop="20210123003000 +0000" channel="HD1 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123003000 +0000" stop="20210123010000 +0000" channel="HD1 English">
+    <title lang="en">Ligue 1 Preview - 2020/2021 EP 21</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123010000 +0000" stop="20210123034500 +0000" channel="HD1 English">
+    <title lang="en">Paris Saint-Germain vs Montpellier - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123034500 +0000" stop="20210123040000 +0000" channel="HD1 English">
+    <title lang="en">Tactical Series - Argentina</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123050000 +0000" channel="HD1 English">
+    <title lang="en">Ons Jabeur 2020.. The story of the champion</title>
+    <category lang="en">Tennis - WTA</category>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123053000 +0000" channel="HD1 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123053000 +0000" stop="20210123071500 +0000" channel="HD1 English">
+    <title lang="en">Liverpool vs Burnley - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210123071500 +0000" stop="20210123090000 +0000" channel="HD1 English">
+    <title lang="en">Leicester vs Chelsea - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210123090000 +0000" stop="20210123093000 +0000" channel="HD1 English">
+    <title lang="en">EPL World  2020/2021 Ep.21</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123093000 +0000" stop="20210123100000 +0000" channel="HD1 English">
+    <title lang="en">La Liga Show 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123100000 +0000" stop="20210123103000 +0000" channel="HD1 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123103000 +0000" stop="20210123110000 +0000" channel="HD1 English">
+    <title lang="en">Ligue 1 Preview - 2020/2021 EP 21</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123111500 +0000" channel="HD1 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123111500 +0000" stop="20210123130000 +0000" channel="HD1 English">
+    <title lang="en">Angers vs Paris Saint-Germain - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123130000 +0000" stop="20210123133000 +0000" channel="HD1 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123133000 +0000" stop="20210123165800 +0000" channel="HD1 English">
+    <title lang="en">Roma vs Spezia - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123165800 +0000" stop="20210123195800 +0000" channel="HD1 English">
+    <title lang="en">Milan vs Atalanta - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123195800 +0000" stop="20210123221500 +0000" channel="HD1 English">
+    <title lang="en">Deportivo Alavés vs Real Madrid - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123221500 +0000" stop="20210123231500 +0000" channel="HD1 English">
+    <title lang="en">This Evening</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123231500 +0000" stop="20210123234500 +0000" channel="HD1 English">
+    <title lang="en">UEFA UCL Magazine 2020/2021 - Program Special</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123234500 +0000" stop="20210124000000 +0000" channel="HD1 English">
+    <title lang="en">Tactical Series - Argentina</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122001500 +0000" stop="20210122020000 +0000" channel="HD2 English">
+    <title lang="en">West Ham vs West Brom - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122020000 +0000" stop="20210122023000 +0000" channel="HD2 English">
+    <title lang="en">EPL World 100 - Ian Wright</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122023000 +0000" stop="20210122041500 +0000" channel="HD2 English">
+    <title lang="en">Leicester vs Chelsea - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122041500 +0000" stop="20210122060000 +0000" channel="HD2 English">
+    <title lang="en">Liverpool vs Burnley - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122060000 +0000" stop="20210122070000 +0000" channel="HD2 English">
+    <title lang="en">UEFA Series – Man In the Middle EP4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122073000 +0000" channel="HD2 English">
+    <title lang="en">EPL - My Season - Mo Salah: 2017/18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122073000 +0000" stop="20210122091500 +0000" channel="HD2 English">
+    <title lang="en">Southampton vs Shrewsbury Town - Emirates FA Cup - 2020/21 Round 3</title>
+    <sub-title lang="en">FA Cup</sub-title>
+  </programme>
+  <programme start="20210122091500 +0000" stop="20210122110000 +0000" channel="HD2 English">
+    <title lang="en">Manchester City vs Aston Villa - English Premier League 2020/2021 Week 1</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122120000 +0000" channel="HD2 English">
+    <title lang="en">EPL Greatest Goals - Chelsea</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122120000 +0000" stop="20210122130000 +0000" channel="HD2 English">
+    <title lang="en">Europa League 2020/2021 Magazine - Group Stage Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122130000 +0000" stop="20210122140000 +0000" channel="HD2 English">
+    <title lang="en">EPL World  2020/2021 Ep.18</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122140000 +0000" stop="20210122154500 +0000" channel="HD2 English">
+    <title lang="en">Leicester vs Chelsea - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122154500 +0000" stop="20210122161500 +0000" channel="HD2 English">
+    <title lang="en">EPL - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122161500 +0000" stop="20210122180000 +0000" channel="HD2 English">
+    <title lang="en">Liverpool vs Burnley - English Premier League 2020/2021 Week 18</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210122180000 +0000" stop="20210122183000 +0000" channel="HD2 English">
+    <title lang="en">EPL World  2020/2021 Ep.21</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122183000 +0000" stop="20210122185100 +0000" channel="HD2 English">
+    <title lang="en">MAN UTD - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122185100 +0000" stop="20210122191200 +0000" channel="HD2 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123190000 +0000" stop="20210123191500 +0000" channel="HD2 English">
+    <title lang="en">Do You Know? Ep.9</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122004500 +0000" stop="20210122023000 +0000" channel="HD3 English">
+    <title lang="en">Villarreal vs Granada - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122023000 +0000" stop="20210122030000 +0000" channel="HD3 English">
+    <title lang="en">LaLiga Top Moments  2020/2021 Ep.3</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122030000 +0000" stop="20210122045000 +0000" channel="HD3 English">
+    <title lang="en">Valencia vs Osasuna - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122045000 +0000" stop="20210122063500 +0000" channel="HD3 English">
+    <title lang="en">Eibar vs Atletico Madrid - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122063500 +0000" stop="20210122070000 +0000" channel="HD3 English">
+    <title lang="en">BARCELONA - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122073000 +0000" channel="HD3 English">
+    <title lang="en">La Liga World 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122073000 +0000" stop="20210122091700 +0000" channel="HD3 English">
+    <title lang="en">Real Madrid vs Athletic Bilbao - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122091700 +0000" stop="20210122110000 +0000" channel="HD3 English">
+    <title lang="en">Barcelona vs Real Sociedad - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122113100 +0000" channel="HD3 English">
+    <title lang="en">La Liga Nation 2019/2020 - Africa</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122113100 +0000" stop="20210122131500 +0000" channel="HD3 English">
+    <title lang="en">Real Betis vs Celta Vigo - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122131500 +0000" stop="20210122150000 +0000" channel="HD3 English">
+    <title lang="en">Real Valladolid vs Elche - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122150000 +0000" stop="20210122152900 +0000" channel="HD3 English">
+    <title lang="en">La Liga World 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122152900 +0000" stop="20210122171500 +0000" channel="HD3 English">
+    <title lang="en">Valencia vs Osasuna - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122171500 +0000" stop="20210122190000 +0000" channel="HD3 English">
+    <title lang="en">Eibar vs Atletico Madrid - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122192800 +0000" channel="HD3 English">
+    <title lang="en">La Liga World 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122192800 +0000" stop="20210122195800 +0000" channel="HD3 English">
+    <title lang="en">La Liga Show 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122195800 +0000" stop="20210122220000 +0000" channel="HD3 English">
+    <title lang="en">Levante vs Real Valladolid - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122220000 +0000" stop="20210122223000 +0000" channel="HD3 English">
+    <title lang="en">LA LIGA - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122223000 +0000" stop="20210123001500 +0000" channel="HD3 English">
+    <title lang="en">Villarreal vs Granada - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123001500 +0000" stop="20210123020000 +0000" channel="HD3 English">
+    <title lang="en">Deportivo Alavés vs Sevilla - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123030000 +0000" channel="HD3 English">
+    <title lang="en">LaLiga Talking Football  2020/2021 Ep.4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123030000 +0000" stop="20210123044500 +0000" channel="HD3 English">
+    <title lang="en">Levante vs Real Valladolid - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123044500 +0000" stop="20210123063000 +0000" channel="HD3 English">
+    <title lang="en">Valencia vs Osasuna - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123063000 +0000" stop="20210123070000 +0000" channel="HD3 English">
+    <title lang="en">La Liga Show 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123070000 +0000" stop="20210123084500 +0000" channel="HD3 English">
+    <title lang="en">Eibar vs Atletico Madrid - Spanish La Liga 2020/2021 Week 19</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123084500 +0000" stop="20210123103000 +0000" channel="HD3 English">
+    <title lang="en">Levante vs Real Valladolid - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123103000 +0000" stop="20210123110000 +0000" channel="HD3 English">
+    <title lang="en">La Liga World 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123120000 +0000" channel="HD3 English">
+    <title lang="en">LaLiga Talking Football  2020/2021 Ep.4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123120000 +0000" stop="20210123123000 +0000" channel="HD3 English">
+    <title lang="en">La Liga Nation 2019/2020 - Africa</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123123000 +0000" stop="20210123130000 +0000" channel="HD3 English">
+    <title lang="en">La Liga Show 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123130000 +0000" stop="20210123151500 +0000" channel="HD3 English">
+    <title lang="en">Huesca vs Villarreal - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123151500 +0000" stop="20210123173000 +0000" channel="HD3 English">
+    <title lang="en">Sevilla vs Cádiz - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123173000 +0000" stop="20210123193000 +0000" channel="HD3 English">
+    <title lang="en">Real Sociedad vs Real Betis - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123193000 +0000" stop="20210123200000 +0000" channel="HD3 English">
+    <title lang="en">RL MD - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123220500 +0000" channel="HD3 English">
+    <title lang="en">Deportivo Alavés vs Real Madrid - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123220500 +0000" stop="20210123223500 +0000" channel="HD3 English">
+    <title lang="en">La Liga World 2020/2021 Ep.20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210123223500 +0000" stop="20210124002000 +0000" channel="HD3 English">
+    <title lang="en">Huesca vs Villarreal - Spanish La Liga 2020/2021 Week 20</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210122001200 +0000" stop="20210122020000 +0000" channel="HD4 English">
+    <title lang="en">Udinese vs Atalanta - Italian Serie A 2020/2021 Week 10</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122020000 +0000" stop="20210122023000 +0000" channel="HD4 English">
+    <title lang="en">UEFA Euro Archive Show - Episode 4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122023000 +0000" stop="20210122041500 +0000" channel="HD4 English">
+    <title lang="en">Sassuolo vs Parma - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122041500 +0000" stop="20210122060000 +0000" channel="HD4 English">
+    <title lang="en">Napoli vs Fiorentina - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122060000 +0000" stop="20210122070000 +0000" channel="HD4 English">
+    <title lang="en">Key of Success : Dr. Nebojsa Popovic</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122084800 +0000" channel="HD4 English">
+    <title lang="en">Udinese vs Atalanta - Italian Serie A 2020/2021 Week 10</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122084800 +0000" stop="20210122103000 +0000" channel="HD4 English">
+    <title lang="en">Internazionale vs Juventus - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122103000 +0000" stop="20210122110000 +0000" channel="HD4 English">
+    <title lang="en">Cagliari vs Milan - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122124500 +0000" channel="HD4 English">
+    <title lang="en">Bologna vs Hellas Verona - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122124500 +0000" stop="20210122143000 +0000" channel="HD4 English">
+    <title lang="en">Torino vs Spezia - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122143000 +0000" stop="20210122150000 +0000" channel="HD4 English">
+    <title lang="en">UEFA Euro Archive Show - Episode 4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122150000 +0000" stop="20210122153000 +0000" channel="HD4 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122153000 +0000" stop="20210122171000 +0000" channel="HD4 English">
+    <title lang="en">Internazionale vs Juventus - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122171000 +0000" stop="20210122190000 +0000" channel="HD4 English">
+    <title lang="en">Udinese vs Atalanta - Italian Serie A 2020/2021 Week 10</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122194000 +0000" channel="HD4 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122194000 +0000" stop="20210122214500 +0000" channel="HD4 English">
+    <title lang="en">Benevento vs Torino - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122214500 +0000" stop="20210122220000 +0000" channel="HD4 English">
+    <title lang="en">Do You Know? Ep.9</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122220000 +0000" stop="20210122223000 +0000" channel="HD4 English">
+    <title lang="en">Football's Greatest - Marcel Desailly</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122223000 +0000" stop="20210122230000 +0000" channel="HD4 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210122233000 +0000" channel="HD4 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122233000 +0000" stop="20210123002500 +0000" channel="HD4 English">
+    <title lang="en">Key of Success : Dr. Nebojsa Popovic</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123002500 +0000" stop="20210123021500 +0000" channel="HD4 English">
+    <title lang="en">Udinese vs Atalanta - Italian Serie A 2020/2021 Week 10</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123021500 +0000" stop="20210123040000 +0000" channel="HD4 English">
+    <title lang="en">Benevento vs Torino - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123043000 +0000" channel="HD4 English">
+    <title lang="en">UEFA UCL Magazine 2020/2021 - Program Special</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123043000 +0000" stop="20210123050000 +0000" channel="HD4 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123064500 +0000" channel="HD4 English">
+    <title lang="en">Sassuolo vs Parma - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123064500 +0000" stop="20210123083000 +0000" channel="HD4 English">
+    <title lang="en">Napoli vs Fiorentina - Italian Serie A 2020/2021 Week 18</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123083000 +0000" stop="20210123085500 +0000" channel="HD4 English">
+    <title lang="en">Serie A - Full Impact Ep.18</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123085500 +0000" stop="20210123092500 +0000" channel="HD4 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123092500 +0000" stop="20210123095500 +0000" channel="HD4 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123095500 +0000" stop="20210123114500 +0000" channel="HD4 English">
+    <title lang="en">Udinese vs Atalanta - Italian Serie A 2020/2021 Week 10</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123114500 +0000" stop="20210123133000 +0000" channel="HD4 English">
+    <title lang="en">Benevento vs Torino - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123133000 +0000" stop="20210123140000 +0000" channel="HD4 English">
+    <title lang="en">Inside Serie A Ep.19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123140000 +0000" stop="20210123160000 +0000" channel="HD4 English">
+    <title lang="en">Roma vs Spezia - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123160000 +0000" stop="20210123161500 +0000" channel="HD4 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123161500 +0000" stop="20210123163000 +0000" channel="HD4 English">
+    <title lang="en">Do You Know? Ep.9</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123170000 +0000" channel="HD4 English">
+    <title lang="en">Javier Zanetti, Inter Milan’s Captain Incredible</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123190000 +0000" channel="HD4 English">
+    <title lang="en">Udinese vs Internazionale - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123190000 +0000" stop="20210123194500 +0000" channel="HD4 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123194500 +0000" stop="20210123214500 +0000" channel="HD4 English">
+    <title lang="en">Fiorentina vs Crotone - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123214500 +0000" stop="20210123220000 +0000" channel="HD4 English">
+    <title lang="en">What You Missed  Ep.18</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210123230000 +0000" channel="HD4 English">
+    <title lang="en">UEFA UCL Magazine 2020/2021 -Group Stage Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210124004500 +0000" channel="HD4 English">
+    <title lang="en">Roma vs Spezia - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210122013000 +0000" stop="20210122020000 +0000" channel="HD5 English">
+    <title lang="en">Temples of Sport –  Wembley</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122020000 +0000" stop="20210122023000 +0000" channel="HD5 English">
+    <title lang="en">My Sporting Moments -Frampton and Hoy</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122023000 +0000" stop="20210122030000 +0000" channel="HD5 English">
+    <title lang="en">La Gloria Eterna - Flamengo’s victory  Ep.6</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122030000 +0000" stop="20210122033000 +0000" channel="HD5 English">
+    <title lang="en">Sporting Countdowns -Comebacks</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122033000 +0000" stop="20210122051000 +0000" channel="HD5 English">
+    <title lang="en">Norwich City vs Bristol City - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210122051000 +0000" stop="20210122065500 +0000" channel="HD5 English">
+    <title lang="en">Derby County vs Bournemouth - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210122065500 +0000" stop="20210122072500 +0000" channel="HD5 English">
+    <title lang="en">Ali Bennaceur : The Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122072500 +0000" stop="20210122075500 +0000" channel="HD5 English">
+    <title lang="en">250 Great Goals - Ep.5</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122075500 +0000" stop="20210122094000 +0000" channel="HD5 English">
+    <title lang="en">Santos FC (BRA) vs Boca Juniors (ARG) - Copa Libertadores 2020 - Semi Finals- 2nd Leg</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210122094000 +0000" stop="20210122113000 +0000" channel="HD5 English">
+    <title lang="en">Palmeiras (BRA) vs River Plate (ARG) -Copa Libertadores 2020 - Semi Finals- 2nd Leg</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210122113000 +0000" stop="20210122120000 +0000" channel="HD5 English">
+    <title lang="en">Sporting Countdowns -Comebacks</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122120000 +0000" stop="20210122134500 +0000" channel="HD5 English">
+    <title lang="en">Norwich City vs Bristol City - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210122134500 +0000" stop="20210122153000 +0000" channel="HD5 English">
+    <title lang="en">Derby County vs Bournemouth - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210122153000 +0000" stop="20210122163000 +0000" channel="HD5 English">
+    <title lang="en">UEFA Series – Man In the Middle EP4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122163000 +0000" stop="20210122170000 +0000" channel="HD5 English">
+    <title lang="en">Ali Bennaceur : The Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122170000 +0000" stop="20210122184500 +0000" channel="HD5 English">
+    <title lang="en">Lanus (ARG) vs Velez Sarsfield(ARG) - Copa Sudamericana 2020 - Semi Finals - 2nd Leg</title>
+    <sub-title lang="en">Copa Sudamericana</sub-title>
+  </programme>
+  <programme start="20210122184500 +0000" stop="20210122203000 +0000" channel="HD5 English">
+    <title lang="en">Defensa y Justicia (ARG) vs Coquimbo Unido (CHI) - Copa Sudamericana 2020 - Semi Finals - 2nd Leg</title>
+    <sub-title lang="en">Copa Sudamericana</sub-title>
+  </programme>
+  <programme start="20210122203000 +0000" stop="20210122210000 +0000" channel="HD5 English">
+    <title lang="en">Temples of Sport –  Wembley</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122210000 +0000" stop="20210122213000 +0000" channel="HD5 English">
+    <title lang="en">CAF CL - Al Ahly .. The 9th Stars</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122213000 +0000" stop="20210122215800 +0000" channel="HD5 English">
+    <title lang="en">Ali Bennaceur : The Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122215800 +0000" stop="20210122223000 +0000" channel="HD5 English">
+    <title lang="en">beIN Exclusive: President of the Olympic Council of Asia</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122223000 +0000" stop="20210122230000 +0000" channel="HD5 English">
+    <title lang="en">EPL Legends - Paolo Di Canio</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210122233000 +0000" channel="HD5 English">
+    <title lang="en">Sporting Countdowns  -Dominance</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122233000 +0000" stop="20210123011500 +0000" channel="HD5 English">
+    <title lang="en">İstanbul Başakşehir vs Demir Grup Sivasspor - Turkish Super League 2020/2021</title>
+    <sub-title lang="en">Turkish Cup</sub-title>
+  </programme>
+  <programme start="20210123011500 +0000" stop="20210123030000 +0000" channel="HD5 English">
+    <title lang="en">Beşiktaş vs Galatasaray S.K. - Turkish Super League 2020/2021</title>
+    <sub-title lang="en">Turkish Cup</sub-title>
+  </programme>
+  <programme start="20210123030000 +0000" stop="20210123033100 +0000" channel="HD5 English">
+    <title lang="en">beIN Exclusive: President of the Olympic Council of Asia</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123033100 +0000" stop="20210123051400 +0000" channel="HD5 English">
+    <title lang="en">Santos FC (BRA) vs Boca Juniors (ARG) - Copa Libertadores 2020 - Semi Finals- 2nd Leg</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210123051400 +0000" stop="20210123070500 +0000" channel="HD5 English">
+    <title lang="en">Palmeiras (BRA) vs River Plate (ARG) -Copa Libertadores 2020 - Semi Finals- 2nd Leg</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210123070500 +0000" stop="20210123073300 +0000" channel="HD5 English">
+    <title lang="en">Sporting Countdowns  -Dominance</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123073300 +0000" stop="20210123091700 +0000" channel="HD5 English">
+    <title lang="en">Lanus (ARG) vs Velez Sarsfield(ARG) - Copa Sudamericana 2020 - Semi Finals - 2nd Leg</title>
+    <sub-title lang="en">Copa Sudamericana</sub-title>
+  </programme>
+  <programme start="20210123091700 +0000" stop="20210123105800 +0000" channel="HD5 English">
+    <title lang="en">Defensa y Justicia (ARG) vs Coquimbo Unido (CHI) - Copa Sudamericana 2020 - Semi Finals - 2nd Leg</title>
+    <sub-title lang="en">Copa Sudamericana</sub-title>
+  </programme>
+  <programme start="20210123105800 +0000" stop="20210123112900 +0000" channel="HD5 English">
+    <title lang="en">beIN Exclusive: President of the Olympic Council of Asia</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123112900 +0000" stop="20210123122000 +0000" channel="HD5 English">
+    <title lang="en">UEFA Series – Man In the Middle EP4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123122000 +0000" stop="20210123125000 +0000" channel="HD5 English">
+    <title lang="en">Behind the Scenes Wael Goma and Haitham Farouk</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123125000 +0000" stop="20210123145500 +0000" channel="HD5 English">
+    <title lang="en">Gençlerbirliği vs Trabzonspor - Turkish Super League 2020/2021 Highlights Ep.17</title>
+    <sub-title lang="en">Turkish Cup</sub-title>
+  </programme>
+  <programme start="20210123145500 +0000" stop="20210123165500 +0000" channel="HD5 English">
+    <title lang="en">Swansea City vs Nottingham Forest - Emirates FA Cup - 2020/21 Round 4</title>
+    <sub-title lang="en">FA Cup</sub-title>
+  </programme>
+  <programme start="20210123165500 +0000" stop="20210123185800 +0000" channel="HD5 English">
+    <title lang="en">Milan vs Atalanta - Italian Serie A 2020/2021 Week 19</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210123185800 +0000" stop="20210123192700 +0000" channel="HD5 English">
+    <title lang="en">AFC CL – 2019 vs 2020 ULSAN Hyundai .. THE CHAMPION</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123192700 +0000" stop="20210123195500 +0000" channel="HD5 English">
+    <title lang="en">Ali Bennaceur : The Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123195500 +0000" stop="20210123220000 +0000" channel="HD5 English">
+    <title lang="en">Lanús (ARG) vs Defensa y Justicia (ARG) - Copa Sudamericana 2020 Final</title>
+    <sub-title lang="en">Copa Sudamericana</sub-title>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210123230000 +0000" channel="HD5 English">
+    <title lang="en">UEFA Series – Man In the Middle EP4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210123233000 +0000" channel="HD5 English">
+    <title lang="en">Sporting Countdowns -Controversies</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123233000 +0000" stop="20210124011500 +0000" channel="HD5 English">
+    <title lang="en">Brighton &amp; Hove Albion vs Blackpool - Emirates FA Cup - 2020/21 Round 4</title>
+    <sub-title lang="en">FA Cup</sub-title>
+  </programme>
+  <programme start="20210122004500 +0000" stop="20210122023000 +0000" channel="HD6 English">
+    <title lang="en">Marseille vs Lens - French Ligue 1 2020/2021 Week 9</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122023000 +0000" stop="20210122030000 +0000" channel="HD6 English">
+    <title lang="en">Best of Mbappe 2020 - ligue 1 - Special Documentary Ligue 1 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122030000 +0000" stop="20210122044500 +0000" channel="HD6 English">
+    <title lang="en">Montpellier vs Monaco - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122044500 +0000" stop="20210122063000 +0000" channel="HD6 English">
+    <title lang="en">Lille vs Reims - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122063000 +0000" stop="20210122070000 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 16</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122084500 +0000" channel="HD6 English">
+    <title lang="en">Brest vs Rennais - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122084500 +0000" stop="20210122103000 +0000" channel="HD6 English">
+    <title lang="en">Marseille sv Nimes - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122103000 +0000" stop="20210122113000 +0000" channel="HD6 English">
+    <title lang="en">Ligue 1 Highlights  2020/2021 - EP 20</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122113000 +0000" stop="20210122131500 +0000" channel="HD6 English">
+    <title lang="en">Nice vs Bordeaux - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122131500 +0000" stop="20210122150000 +0000" channel="HD6 English">
+    <title lang="en">Strasbourg vs Saint-Étienne - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122150000 +0000" stop="20210122153000 +0000" channel="HD6 English">
+    <title lang="en">Best of Neymar 2020 - Ligue 1 - Special Documentary Ligue 1 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122153000 +0000" stop="20210122171000 +0000" channel="HD6 English">
+    <title lang="en">Lille vs Reims - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122171000 +0000" stop="20210122185800 +0000" channel="HD6 English">
+    <title lang="en">Lyon vs Metz - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122185800 +0000" stop="20210122192600 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 16</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122192600 +0000" stop="20210122195500 +0000" channel="HD6 English">
+    <title lang="en">Ligue 1 Preview - 2020/2021 EP 21</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122195500 +0000" stop="20210122220000 +0000" channel="HD6 English">
+    <title lang="en">Paris Saint-Germain vs Montpellier - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122220000 +0000" stop="20210122230000 +0000" channel="HD6 English">
+    <title lang="en">Europa League 2020/2021 Magazine - Group Stage Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123004500 +0000" channel="HD6 English">
+    <title lang="en">Nice vs Bordeaux - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123004500 +0000" stop="20210123023000 +0000" channel="HD6 English">
+    <title lang="en">Strasbourg vs Saint-Étienne - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123023000 +0000" stop="20210123030000 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 16</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123030000 +0000" stop="20210123033000 +0000" channel="HD6 English">
+    <title lang="en">Ligue 1 Preview - 2020/2021 EP 21</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123033000 +0000" stop="20210123040000 +0000" channel="HD6 English">
+    <title lang="en">PSG - Best Goals 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123043000 +0000" channel="HD6 English">
+    <title lang="en">Demba Ba, PSG v Istanbul Basaksehir, Exclusive</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123043000 +0000" stop="20210123061500 +0000" channel="HD6 English">
+    <title lang="en">Paris Saint-Germain vs Montpellier - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123061500 +0000" stop="20210123080000 +0000" channel="HD6 English">
+    <title lang="en">Marseille vs Lens - French Ligue 1 2020/2021 Week 9</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123080000 +0000" stop="20210123083000 +0000" channel="HD6 English">
+    <title lang="en">Best of Mbappe 2020 - ligue 1 - Special Documentary Ligue 1 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123083000 +0000" stop="20210123103000 +0000" channel="HD6 English">
+    <title lang="en">PSG vs Marseille - Trophée Des Champions 2020/21</title>
+    <sub-title lang="en">French Super Cup</sub-title>
+  </programme>
+  <programme start="20210123103000 +0000" stop="20210123110000 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 16</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123112900 +0000" channel="HD6 English">
+    <title lang="en">Ligue 1 Preview - 2020/2021 EP 21</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123112900 +0000" stop="20210123131500 +0000" channel="HD6 English">
+    <title lang="en">Lyon vs Metz - French Ligue 1 2020/2021 Week 20</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123131500 +0000" stop="20210123150000 +0000" channel="HD6 English">
+    <title lang="en">Paris Saint-Germain vs Montpellier - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123150000 +0000" stop="20210123153000 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 16</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123153000 +0000" stop="20210123155500 +0000" channel="HD6 English">
+    <title lang="en">Ligue 1 Preview - 2020/2021 EP 21</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123155500 +0000" stop="20210123180000 +0000" channel="HD6 English">
+    <title lang="en">Lens vs Nice - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123180000 +0000" stop="20210123183000 +0000" channel="HD6 English">
+    <title lang="en">Best of Neymar 2020 - Ligue 1 - Special Documentary Ligue 1 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123183000 +0000" stop="20210123190000 +0000" channel="HD6 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123190000 +0000" stop="20210123192800 +0000" channel="HD6 English">
+    <title lang="en">UEFA UCL Magazine 2020/2021 - Program Special</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123192800 +0000" stop="20210123195500 +0000" channel="HD6 English">
+    <title lang="en">PSG vs Montpellier - Mini Match - French Ligue 1 2020/2021</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210123195500 +0000" stop="20210123220000 +0000" channel="HD6 English">
+    <title lang="en">Monaco vs Marseille - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210123230000 +0000" channel="HD6 English">
+    <title lang="en">Key of Success : Dr. Nebojsa Popovic</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210124004500 +0000" channel="HD6 English">
+    <title lang="en">Lens vs Nice - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210122003000 +0000" stop="20210122033000 +0000" channel="HD7 English">
+    <title lang="en">Libya vs Dr Congo - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210122033000 +0000" stop="20210122053000 +0000" channel="HD7 English">
+    <title lang="en">Congo vs Niger - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210122053000 +0000" stop="20210122060000 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Togo - Mini Matches CHAN 2020</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210122060000 +0000" stop="20210122080000 +0000" channel="HD7 English">
+    <title lang="en">Cameroon vs Mali - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210122080000 +0000" stop="20210122100000 +0000" channel="HD7 English">
+    <title lang="en">Burkina Faso vs Zimbabwe - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210122100000 +0000" stop="20210122103000 +0000" channel="HD7 English">
+    <title lang="en">Hamadi Agrebi - The Magician</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122103000 +0000" stop="20210122123000 +0000" channel="HD7 English">
+    <title lang="en">Libya vs Dr Congo - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210122123000 +0000" stop="20210122143000 +0000" channel="HD7 English">
+    <title lang="en">Congo vs Niger - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210122143000 +0000" stop="20210122150000 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Nigeria CHAN 2018 Final</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210122150000 +0000" stop="20210122153000 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Togo - Mini Matches CHAN 2020</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210122153000 +0000" stop="20210122185000 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Rwanda - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210123183000 +0000" stop="20210123190000 +0000" channel="HD7 English">
+    <title lang="en">Libya vs Niger - Mini Matches CHAN 2020</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210122000000 +0000" stop="20210122003000 +0000" channel="HD8 English">
+    <title lang="en">Serie A - Full Impact Ep.18</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122003000 +0000" stop="20210122030000 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Milwaukee - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210122030000 +0000" stop="20210122033000 +0000" channel="HD8 English">
+    <title lang="en">Top 100 Dunks Last Decade (2010 – 2019)</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122033000 +0000" stop="20210122053000 +0000" channel="HD8 English">
+    <title lang="en">Miami vs Toronto - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210122053000 +0000" stop="20210122063000 +0000" channel="HD8 English">
+    <title lang="en">NBA - Steven Adams  The Kiwi Way - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122063000 +0000" stop="20210122083000 +0000" channel="HD8 English">
+    <title lang="en">San Antonio vs Golden State - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210122083000 +0000" stop="20210122103000 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Milwaukee - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210122103000 +0000" stop="20210122110000 +0000" channel="HD8 English">
+    <title lang="en">NBA - 3- Point Revolution - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122125900 +0000" channel="HD8 English">
+    <title lang="en">Dallas vs Indiana - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210122125900 +0000" stop="20210122150000 +0000" channel="HD8 English">
+    <title lang="en">San Antonio vs Golden State - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210123130000 +0000" stop="20210123150000 +0000" channel="HD8 English">
+    <title lang="en">Miami vs Toronto - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210123150000 +0000" stop="20210123160000 +0000" channel="HD8 English">
+    <title lang="en">Deandre Ayton vs Devin Booker (FINAL - G2) - NBA 2K Tournament</title>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20210123160000 +0000" stop="20210123180000 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Milwaukee - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210123180000 +0000" stop="20210123200000 +0000" channel="HD8 English">
+    <title lang="en">Miami vs Toronto - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123210000 +0000" channel="HD8 English">
+    <title lang="en">NBA Journey  Kevin Garnett - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123210000 +0000" stop="20210123213000 +0000" channel="HD8 English">
+    <title lang="en">NBA Action 2020/2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123213000 +0000" stop="20210123233000 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Milwaukee - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210123233000 +0000" stop="20210124000000 +0000" channel="HD8 English">
+    <title lang="en">NBA - The City Game New York NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122000000 +0000" stop="20210122003000 +0000" channel="HD9 English">
+    <title lang="en">WTA All Access Magazine Show</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122003000 +0000" stop="20210122033000 +0000" channel="HD9 English">
+    <title lang="en">Simona Halep vs Caroline Wozniacki -Women’s Singles Final</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122033000 +0000" stop="20210122073000 +0000" channel="HD9 English">
+    <title lang="en">Roger Federer vs Marin Cilic - Men's Singles Final  - AO 2018 - Rod Laver Arena -  Day 14</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122073000 +0000" stop="20210122090000 +0000" channel="HD9 English">
+    <title lang="en">Aryna Sabalenka (BLR) vs Veronika Kudermetova (RUS) - Tennis WTA 500 - Final -  Abu Dhabi WTA</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122090000 +0000" stop="20210122100000 +0000" channel="HD9 English">
+    <title lang="en">Ons Jabeur 2020.. The story of the champion</title>
+    <category lang="en">Tennis - WTA</category>
+  </programme>
+  <programme start="20210122100000 +0000" stop="20210122110000 +0000" channel="HD9 English">
+    <title lang="en">Best Of Australian Open 2020</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122123000 +0000" channel="HD9 English">
+    <title lang="en">Hubert Hurkacz (POL) vs Sebastian Korda (USA)  - ATP 250 Delray Beach Open 2021 - Final</title>
+    <category lang="en">Tennis - ATP 250</category>
+  </programme>
+  <programme start="20210122123000 +0000" stop="20210122133000 +0000" channel="HD9 English">
+    <title lang="en">ATP Masters 1000 Season Review Show</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122133000 +0000" stop="20210122150000 +0000" channel="HD9 English">
+    <title lang="en">Aryna Sabalenka (BLR) vs Veronika Kudermetova (RUS) - Tennis WTA 500 - Final -  Abu Dhabi WTA</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122150000 +0000" stop="20210122153000 +0000" channel="HD9 English">
+    <title lang="en">Sports Clinic -Hand Injuries</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122153000 +0000" stop="20210122181500 +0000" channel="HD9 English">
+    <title lang="en">Naomi Osaka vs Petra Kvitova -Women's Singles Final -  Australian Open 2019 - Rod Laver Arena - DAY</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122181500 +0000" stop="20210122211000 +0000" channel="HD9 English">
+    <title lang="en">Novak Djokovic vs Rafael Nadal - Australian Open 2019  - Men's Singles Final</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122211000 +0000" stop="20210122222500 +0000" channel="HD9 English">
+    <title lang="en">Aryna Sabalenka (BLR) vs Veronika Kudermetova (RUS) - Tennis WTA 500 - Final -  Abu Dhabi WTA</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122222500 +0000" stop="20210123000000 +0000" channel="HD9 English">
+    <title lang="en">Hubert Hurkacz (POL) vs Sebastian Korda (USA)  - ATP 250 Delray Beach Open 2021 - Final</title>
+    <category lang="en">Tennis - ATP 250</category>
+  </programme>
+  <programme start="20210123000000 +0000" stop="20210123011500 +0000" channel="HD9 English">
+    <title lang="en">Mayar Sherif (EGY) vs Aleksandra Krunic (SRB) - Australian Open Qualifying - 2021</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210123011500 +0000" stop="20210123021500 +0000" channel="HD9 English">
+    <title lang="en">Best Of Australian Open 2020</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210123021500 +0000" stop="20210123053000 +0000" channel="HD9 English">
+    <title lang="en">Daniil Medvedev (RUS) vs Dominic Thiem (AUT) - Nitto ATP Finals 2020 - London - Final</title>
+    <category lang="en">Tennis - ATP World Tour</category>
+  </programme>
+  <programme start="20210123053000 +0000" stop="20210123063000 +0000" channel="HD9 English">
+    <title lang="en">Ons Jabeur 2020.. The story of the champion</title>
+    <category lang="en">Tennis - WTA</category>
+  </programme>
+  <programme start="20210123063000 +0000" stop="20210123083000 +0000" channel="HD9 English">
+    <title lang="en">Dušan Lajović vs Roberto Bautista Agut - Serbia vs Spain  - Final - ATP CUP 2020 Match 1</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210123083000 +0000" stop="20210123104500 +0000" channel="HD9 English">
+    <title lang="en">Novak Djokovic vs Rafael Nadal - Serbia vs Spain  - Final - ATP CUP 2020 Match 2</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210123104500 +0000" stop="20210123124500 +0000" channel="HD9 English">
+    <title lang="en">N.Djokovic vs V.Troicki (SRB)  vs P.Carreno Busta/ F.Lopez (ESP) - Serbia vs Spain - Final - ATP CUP</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210123124500 +0000" stop="20210123140000 +0000" channel="HD9 English">
+    <title lang="en">Mayar Sherif (EGY) vs Aleksandra Krunic (SRB) - Australian Open Qualifying - 2021</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210123140000 +0000" stop="20210123143000 +0000" channel="HD9 English">
+    <title lang="en">Sports Clinic -Hand Injuries</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123143000 +0000" stop="20210123150000 +0000" channel="HD9 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123150000 +0000" stop="20210123170000 +0000" channel="HD9 English">
+    <title lang="en">Barnsley vs Norwich City - Emirates FA Cup - 2020/21 Round 4</title>
+    <sub-title lang="en">FA Cup</sub-title>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123182500 +0000" channel="HD9 English">
+    <title lang="en">Aryna Sabalenka (BLR) vs Veronika Kudermetova (RUS) - Tennis WTA 500 - Final -  Abu Dhabi WTA</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210123182500 +0000" stop="20210123200000 +0000" channel="HD9 English">
+    <title lang="en">Hubert Hurkacz (POL) vs Sebastian Korda (USA)  - ATP 250 Delray Beach Open 2021 - Final</title>
+    <category lang="en">Tennis - ATP 250</category>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123211500 +0000" channel="HD9 English">
+    <title lang="en">Mayar Sherif (EGY) vs Aleksandra Krunic (SRB) - Australian Open Qualifying - 2021</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210123211500 +0000" stop="20210123230000 +0000" channel="HD9 English">
+    <title lang="en">Barnsley vs Norwich City - Emirates FA Cup - 2020/21 Round 4</title>
+    <sub-title lang="en">FA Cup</sub-title>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210124014500 +0000" channel="HD9 English">
+    <title lang="en">Naomi Osaka vs Petra Kvitova -Women's Singles Final -  Australian Open 2019 - Rod Laver Arena - DAY</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210122002000 +0000" stop="20210122010000 +0000" channel="HD10 English">
+    <title lang="en">Legends Live On: Nadia Comaneci</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122010000 +0000" stop="20210122013000 +0000" channel="HD10 English">
+    <title lang="en">Land of Legends - Behind Chinas Absolute Dominance in Table Tennis</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122013000 +0000" stop="20210122020000 +0000" channel="HD10 English">
+    <title lang="en">Gold Medal Entourage Ep.04</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122020000 +0000" stop="20210122040000 +0000" channel="HD10 English">
+    <title lang="en">Cycling Santos Tour Down Under 2019 Stage4</title>
+    <sub-title lang="en">Cycling</sub-title>
+  </programme>
+  <programme start="20210122040000 +0000" stop="20210122043000 +0000" channel="HD10 English">
+    <title lang="en">Flame Catchers: Sydney's Olympic legacy through the eyes of Aaron Royle and Loudy Wiggins</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122043000 +0000" stop="20210122050000 +0000" channel="HD10 English">
+    <title lang="en">Anatomy of an Ice Hockey Player and a Steeplechaser</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122060000 +0000" channel="HD10 English">
+    <title lang="en">Camps to Champs: Linear Camps To Champs 4 Olympians in 4 refugees</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122060000 +0000" stop="20210122070000 +0000" channel="HD10 English">
+    <title lang="en">The Z Team: Mount Kenya University Field Hockey Team</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122073000 +0000" channel="HD10 English">
+    <title lang="en">The Power of One - How Benjamin Boukpeti returned home and won Togo’s only Olympic medal</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122073000 +0000" stop="20210122080000 +0000" channel="HD10 English">
+    <title lang="en">Land of Legends - Behind Chinas Absolute Dominance in Table Tennis</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122080000 +0000" stop="20210122100000 +0000" channel="HD10 English">
+    <title lang="en">Cycling Santos Tour Down Under 2019 Stage4</title>
+    <sub-title lang="en">Cycling</sub-title>
+  </programme>
+  <programme start="20210122100000 +0000" stop="20210122110000 +0000" channel="HD10 English">
+    <title lang="en">Road to Glory Athletics -The Sprinters</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122113000 +0000" channel="HD10 English">
+    <title lang="en">Gold Medal Entourage Ep.04</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122113000 +0000" stop="20210122130500 +0000" channel="HD10 English">
+    <title lang="en">Netherlands vs Turkey - FIBA EuroBasket 2022 Qualifiers</title>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20210122130500 +0000" stop="20210122150000 +0000" channel="HD10 English">
+    <title lang="en">Bulgaria vs Greece - FIBA EuroBasket 2022 Qualifiers</title>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20210122150000 +0000" stop="20210122160000 +0000" channel="HD10 English">
+    <title lang="en">The Z Team: Mount Kenya University Field Hockey Team</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122160000 +0000" stop="20210122180000 +0000" channel="HD10 English">
+    <title lang="en">Cycling Santos Tour Down Under 2019 Stage4</title>
+    <sub-title lang="en">Cycling</sub-title>
+  </programme>
+  <programme start="20210122180000 +0000" stop="20210122183000 +0000" channel="HD10 English">
+    <title lang="en">The Power of One - How Guatemala’s Olympic medal inspired a generation of racewalkers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122183000 +0000" stop="20210122190000 +0000" channel="HD10 English">
+    <title lang="en">The Tech Race: The Tech Race 2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122193000 +0000" channel="HD10 English">
+    <title lang="en">Far From Home - How Malaysia’s first Olympic figure skater made history in PyeongChang</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122193000 +0000" stop="20210122200000 +0000" channel="HD10 English">
+    <title lang="en">The Power of One - How Benjamin Boukpeti returned home and won Togo’s only Olympic medal</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122200000 +0000" stop="20210122203000 +0000" channel="HD10 English">
+    <title lang="en">Land of Legends - Behind Chinas Absolute Dominance in Table Tennis</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122203000 +0000" stop="20210122210000 +0000" channel="HD10 English">
+    <title lang="en">Gold Medal Entourage Ep.04</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122210000 +0000" stop="20210122233000 +0000" channel="HD10 English">
+    <title lang="en">Opening Ceremony Of Asian Games 2014</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122233000 +0000" stop="20210123010500 +0000" channel="HD10 English">
+    <title lang="en">Asian Games - Incheon 2014 - Basketball (QAT x PHI)</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123010500 +0000" stop="20210123020000 +0000" channel="HD10 English">
+    <title lang="en">Asian Games - Incheon 2014 - Sync. Swimming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123030000 +0000" channel="HD10 English">
+    <title lang="en">Best Moments of Asian Games Incheon 2014</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123030000 +0000" stop="20210123053000 +0000" channel="HD10 English">
+    <title lang="en">Asian Games - Incheon 2014 - Football (IRQ x KOR)</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123053000 +0000" stop="20210123073000 +0000" channel="HD10 English">
+    <title lang="en">Asian Games - Incheon 2014 - Taekwondo</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123073000 +0000" stop="20210123080000 +0000" channel="HD10 English">
+    <title lang="en">History of the Asian Games</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123080000 +0000" stop="20210123100000 +0000" channel="HD10 English">
+    <title lang="en">Asian Games - Incheon 2014 - Volleyball (QAT x CHN)</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123100000 +0000" stop="20210123113000 +0000" channel="HD10 English">
+    <title lang="en">Asian Games - Incheon 2014 - Swimming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123113000 +0000" stop="20210123120000 +0000" channel="HD10 English">
+    <title lang="en">Traditional Sports in the Asian Games</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123120000 +0000" stop="20210123141500 +0000" channel="HD10 English">
+    <title lang="en">Asian Games - Incheon 2014 - Boxing</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123141500 +0000" stop="20210123150000 +0000" channel="HD10 English">
+    <title lang="en">Special Sports in Olympics - Olympic Channel Tokyo 2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123150000 +0000" stop="20210123170000 +0000" channel="HD10 English">
+    <title lang="en">Millwall vs Bristol City - Emirates FA Cup - 2020/21 Round 4</title>
+    <sub-title lang="en">FA Cup</sub-title>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123173000 +0000" channel="HD10 English">
+    <title lang="en">The Tech Race: The Tech Race 7</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123173000 +0000" stop="20210123183000 +0000" channel="HD10 English">
+    <title lang="en">Best Moments of Asian Games Incheon 2014</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123183000 +0000" stop="20210123193000 +0000" channel="HD10 English">
+    <title lang="en">FIBA Basketball World Cup China - Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123193000 +0000" stop="20210123210000 +0000" channel="HD10 English">
+    <title lang="en">Five Rings Film - The People's Fighter</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123210000 +0000" stop="20210123213000 +0000" channel="HD10 English">
+    <title lang="en">Land of Legends - Behind Chinas Absolute Dominance in Table Tennis</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123213000 +0000" stop="20210123220000 +0000" channel="HD10 English">
+    <title lang="en">Flame Catchers 10</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210123230000 +0000" channel="HD10 English">
+    <title lang="en">Camps to Champs: Linear Camps To Champs 4 Olympians in 4 refugees</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210123233000 +0000" channel="HD10 English">
+    <title lang="en">Far From Home Season 01 - Meet the ice hockey goalie of the first ever unified Korean team</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210123233000 +0000" stop="20210124000000 +0000" channel="HD10 English">
+    <title lang="en">Flame Catchers: Beijing's 2008 legacy lives on in new generation of boxers and shuttlers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122060000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Salon VIP</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Claire Arnoux vous propose un magazine d’information et de divertissement en compagnie d’un invité (sportif ou people) qui revient sur sa relation au sport et réagit à l’actualité.</desc>
+  </programme>
+  <programme start="20210122060000 +0000" stop="20210122080000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Eibar / Atlético Madrid</title>
+    <sub-title lang="fr">Liga - 19e journée</sub-title>
+  </programme>
+  <programme start="20210122080000 +0000" stop="20210122081500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122081500 +0000" stop="20210122100000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Toronto Raptors / Miami Heat</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+  </programme>
+  <programme start="20210122100000 +0000" stop="20210122114500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Milwaukee Bucks / Los Angeles Lakers</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+    <desc lang="fr">Revivez le match NBA.</desc>
+  </programme>
+  <programme start="20210122114500 +0000" stop="20210122123000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">NBA Extra</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+    <desc lang="fr">Lors de chaque émission, retrouvez tous les résumés des matchs de la nuit passée, le Top 10 de la nuit, les statistiques marquantes commentées par les consultants beIN SPORTS.</desc>
+  </programme>
+  <programme start="20210122123000 +0000" stop="20210122124500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122124500 +0000" stop="20210122143000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Handball Espagne / Allemagne</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210122143000 +0000" stop="20210122161500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Handball Suisse / Portugal</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210122161500 +0000" stop="20210122170000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Handball avant-match</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+    <desc lang="fr">Revivez le match du Mondial masculin de handball 2021.</desc>
+  </programme>
+  <programme start="20210122170000 +0000" stop="20210122190000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Handball Islande / France</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+    <desc lang="fr">Revivez le match du Mondial masculin de handball 2021.</desc>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122191500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Après-match Handball</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+    <desc lang="fr">Revivez le match du Mondial masculin de handball 2021.</desc>
+  </programme>
+  <programme start="20210122191500 +0000" stop="20210122210000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Handball Slovénie / Suède</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210122210000 +0000" stop="20210122211500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Après-match Handball</title>
+    <sub-title lang="fr">Mag. Handball</sub-title>
+  </programme>
+  <programme start="20210122211500 +0000" stop="20210122221500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Label Boxe</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122221500 +0000" stop="20210122223000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122223000 +0000" stop="20210122230000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">This is Paris</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210122231500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210122231500 +0000" stop="20210122234500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">beIN eFoot</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Tous les mardis, retrouvez Bruce et Brak pour une nouvelle ém...</desc>
+  </programme>
+  <programme start="20210122234500 +0000" stop="20210123003000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">NBA Extra</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+    <desc lang="fr">Lors de chaque émission, retrouvez tous les résumés des matchs de la nuit passée, le Top 10 de la nuit, les statistiques marquantes commentées par les consultants beIN SPORTS.</desc>
+  </programme>
+  <programme start="20210123003000 +0000" stop="20210123031500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Philadelphia 76ers / Boston Celtics</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+  </programme>
+  <programme start="20210123031500 +0000" stop="20210123033000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123033000 +0000" stop="20210123034500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123034500 +0000" stop="20210123040000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123050000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Salon VIP</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Claire Arnoux vous propose un magazine d’information et de divertissement en compagnie d’un invité (sportif ou people) qui revient sur sa relation au sport et réagit à l’actualité.</desc>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123063000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Football Show</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+    <desc lang="fr">Florian Genton et les consultants de la chaîne analysent les rencontres des championnats de football français et européens diffusés chaque week-end sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20210123063000 +0000" stop="20210123070000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">beIN eSports</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Présenté par Pierre-Alexis \"Domingo\" Bizot et Kévin \"Tweekz\" Remy, ils reviendront sur toutes les compétitions eSports en cours, dévoilent les résultats, proposent des reportages et accueillent un grand invité chaque semaine .</desc>
+  </programme>
+  <programme start="20210123070000 +0000" stop="20210123071500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123071500 +0000" stop="20210123081500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Label Boxe</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123081500 +0000" stop="20210123100000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Philadelphia 76ers / Boston Celtics</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+  </programme>
+  <programme start="20210123100000 +0000" stop="20210123114500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Toronto Raptors / Miami Heat</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+  </programme>
+  <programme start="20210123114500 +0000" stop="20210123120000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123120000 +0000" stop="20210123121500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123121500 +0000" stop="20210123141500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Southampton / Arsenal</title>
+    <sub-title lang="fr">Coupe d'Angleterre - 4e tour</sub-title>
+  </programme>
+  <programme start="20210123141500 +0000" stop="20210123143000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123143000 +0000" stop="20210123163000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Bayer Leverkusen / Wolfsburg</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123170000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Champions Arena</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123190000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Milan AC / Atalanta Bergame</title>
+    <sub-title lang="fr">Serie A - 19e journée</sub-title>
+  </programme>
+  <programme start="20210123190000 +0000" stop="20210123200000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Champions Arena</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123214500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Deportivo Alavés / Real Madrid</title>
+    <sub-title lang="fr">Liga - 20e journée</sub-title>
+  </programme>
+  <programme start="20210123214500 +0000" stop="20210123220000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Champions Arena</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210123234500 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Southampton / Arsenal</title>
+    <sub-title lang="fr">Coupe d'Angleterre - 4e tour</sub-title>
+  </programme>
+  <programme start="20210123234500 +0000" stop="20210124000000 +0000" channel="BEIN SPORTS 1">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122070000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Bayer Leverkusen / Borussia Dortmund</title>
+    <sub-title lang="fr">Bundesliga - 17e journée</sub-title>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122080000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Salon VIP</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Claire Arnoux vous propose un magazine d’information et de divertissement en compagnie d’un invité (sportif ou people) qui revient sur sa relation au sport et réagit à l’actualité.</desc>
+  </programme>
+  <programme start="20210122080000 +0000" stop="20210122083000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">beIN eSports</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Présenté par Pierre-Alexis \"Domingo\" Bizot et Kévin \"Tweekz\" Remy, ils reviendront sur toutes les compétitions eSports en cours, dévoilent les résultats, proposent des reportages et accueillent un grand invité chaque semaine .</desc>
+  </programme>
+  <programme start="20210122083000 +0000" stop="20210122090000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">beIN eFoot</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Tous les mardis, retrouvez Bruce et Brak pour une nouvelle ém...</desc>
+  </programme>
+  <programme start="20210122090000 +0000" stop="20210122091500 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122091500 +0000" stop="20210122093000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122093000 +0000" stop="20210122113000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Augsbourg / Bayern Munich</title>
+    <sub-title lang="fr">Bundesliga - 17e journée</sub-title>
+  </programme>
+  <programme start="20210122113000 +0000" stop="20210122133000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Inter Milan / Juventus Turin</title>
+    <sub-title lang="fr">Serie A - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122133000 +0000" stop="20210122140000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">beIN eSports</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Présenté par Pierre-Alexis \"Domingo\" Bizot et Kévin \"Tweekz\" Remy, ils reviendront sur toutes les compétitions eSports en cours, dévoilent les résultats, proposent des reportages et accueillent un grand invité chaque semaine .</desc>
+  </programme>
+  <programme start="20210122140000 +0000" stop="20210122160000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Cagliari / Milan AC</title>
+    <sub-title lang="fr">Serie A - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122160000 +0000" stop="20210122163000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">This is Paris</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122163000 +0000" stop="20210122173000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Salon VIP</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Claire Arnoux vous propose un magazine d’information et de divertissement en compagnie d’un invité (sportif ou people) qui revient sur sa relation au sport et réagit à l’actualité.</desc>
+  </programme>
+  <programme start="20210122173000 +0000" stop="20210122190000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Football Show</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+    <desc lang="fr">Florian Genton et les consultants de la chaîne analysent les ...</desc>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122193000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Avant-match</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122193000 +0000" stop="20210122213000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Mönchengladbach / Borussia Dortmund</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+    <desc lang="fr">Pour rester collé au trio de tête de la Bundesliga, le Borussia Dortmund doit l'emporter sur la pelouse du Borussia Mönchengladbach.</desc>
+  </programme>
+  <programme start="20210122213000 +0000" stop="20210122233000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Maroc / Rwanda</title>
+    <sub-title lang="fr">Championnat d'Afrique des Nation..</sub-title>
+  </programme>
+  <programme start="20210122233000 +0000" stop="20210123013000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Eibar / Atlético Madrid</title>
+    <sub-title lang="fr">Liga - 19e journée</sub-title>
+  </programme>
+  <programme start="20210123013000 +0000" stop="20210123050000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123070000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Eibar / Atlético Madrid</title>
+    <sub-title lang="fr">Liga - 19e journée</sub-title>
+  </programme>
+  <programme start="20210123070000 +0000" stop="20210123071500 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123071500 +0000" stop="20210123073000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123073000 +0000" stop="20210123093000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Maroc / Rwanda</title>
+    <sub-title lang="fr">Championnat d'Afrique des Nation..</sub-title>
+  </programme>
+  <programme start="20210123093000 +0000" stop="20210123110000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Football Show</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+    <desc lang="fr">Florian Genton et les consultants de la chaîne analysent les rencontres des championnats de football français et européens diffusés chaque week-end sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123130000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Mönchengladbach / Borussia Dortmund</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123130000 +0000" stop="20210123133000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">This is Paris</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123133000 +0000" stop="20210123140000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Avant-match Ligue 2</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+  </programme>
+  <programme start="20210123140000 +0000" stop="20210123160000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Clermont Foot / Auxerre</title>
+    <sub-title lang="fr">Ligue 2 BKT - 21e journée</sub-title>
+  </programme>
+  <programme start="20210123160000 +0000" stop="20210123161500 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Après-match Ligue 2</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+  </programme>
+  <programme start="20210123161500 +0000" stop="20210123163000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123170000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">beIN eFoot</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Tous les mardis, retrouvez Bruce et Brak pour une nouvelle ém...</desc>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123190000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Udinese / Inter Milan</title>
+    <sub-title lang="fr">Serie A - 19e journée</sub-title>
+  </programme>
+  <programme start="20210123190000 +0000" stop="20210123191500 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123191500 +0000" stop="20210123211500 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Handball Japon / Danemark</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210123211500 +0000" stop="20210123213000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123213000 +0000" stop="20210123233000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Clermont Foot / Auxerre</title>
+    <sub-title lang="fr">Ligue 2 BKT - 21e journée</sub-title>
+  </programme>
+  <programme start="20210123233000 +0000" stop="20210124013000 +0000" channel="BEIN SPORTS 2">
+    <title lang="fr">Mönchengladbach / Borussia Dortmund</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122060000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122060000 +0000" stop="20210122080000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Montpellier / Leinster</title>
+    <sub-title lang="fr">Champions Cup 2020/2021 - 1re jo..</sub-title>
+  </programme>
+  <programme start="20210122080000 +0000" stop="20210122081500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122081500 +0000" stop="20210122100000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Handball Championnat du monde</title>
+  </programme>
+  <programme start="20210122100000 +0000" stop="20210122121500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Sport Green Bay Packers / Los Angeles Rams</title>
+    <sub-title lang="fr">NFL 2020/2021 - NFC Divisional P..</sub-title>
+  </programme>
+  <programme start="20210122121500 +0000" stop="20210122123000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122123000 +0000" stop="20210122133000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Salon VIP</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+    <desc lang="fr">Claire Arnoux vous propose un magazine d’information et de divertissement en compagnie d’un invité (sportif ou people) qui revient sur sa relation au sport et réagit à l’actualité.</desc>
+  </programme>
+  <programme start="20210122133000 +0000" stop="20210122151500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Milwaukee Bucks / Los Angeles Lakers</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+  </programme>
+  <programme start="20210122151500 +0000" stop="20210122160000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">NBA Extra</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+    <desc lang="fr">Lors de chaque émission, retrouvez tous les résumés des matchs de la nuit passée, le Top 10 de la nuit, les statistiques marquantes commentées par les consultants beIN SPORTS.</desc>
+  </programme>
+  <programme start="20210122160000 +0000" stop="20210122180000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Maroc / Rwanda</title>
+    <sub-title lang="fr">Championnat d'Afrique des Nation..</sub-title>
+  </programme>
+  <programme start="20210122180000 +0000" stop="20210122181500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122181500 +0000" stop="20210122183000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122183000 +0000" stop="20210122191500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">NBA Extra</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+    <desc lang="fr">Lors de chaque émission, retrouvez tous les résumés des matchs de la nuit passée, le Top 10 de la nuit, les statistiques marquantes commentées par les consultants beIN SPORTS.</desc>
+  </programme>
+  <programme start="20210122191500 +0000" stop="20210122211500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Handball Norvège / Algérie</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+    <desc lang="fr">Quelles nations de handball se sera qualifiée pour le Tour principal de la compétition ? La finale de ce Championnat du monde est programmée le 31 janvier.</desc>
+  </programme>
+  <programme start="20210122211500 +0000" stop="20210122230000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Handball Islande / France</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123011500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Sport Kansas City Chiefs / Cleveland Browns</title>
+    <sub-title lang="fr">NFL 2020/2021 - AFC Divisional P..</sub-title>
+  </programme>
+  <programme start="20210123011500 +0000" stop="20210123050000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123060000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123060000 +0000" stop="20210123080000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Toulon / Sale Sharks</title>
+    <sub-title lang="fr">Champions Cup 2020/2021 - 1re jo..</sub-title>
+  </programme>
+  <programme start="20210123080000 +0000" stop="20210123081500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123081500 +0000" stop="20210123100000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Handball Islande / France</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210123100000 +0000" stop="20210123121500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Sport Buffalo Bills / Baltimore Ravens</title>
+    <sub-title lang="fr">NFL 2020/2021 - AFC Divisional P..</sub-title>
+  </programme>
+  <programme start="20210123121500 +0000" stop="20210123123000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123123000 +0000" stop="20210123141500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Handball Islande / France</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210123141500 +0000" stop="20210123143000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123143000 +0000" stop="20210123163000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Handball Uruguay / Espagne</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123164500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123164500 +0000" stop="20210123170000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123190000 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Handball Pologne / Hongrie</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210123190000 +0000" stop="20210123191500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123191500 +0000" stop="20210123211500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Southampton / Arsenal</title>
+    <sub-title lang="fr">Coupe d'Angleterre - 4e tour</sub-title>
+  </programme>
+  <programme start="20210123211500 +0000" stop="20210123231500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Montpellier / Leinster</title>
+    <sub-title lang="fr">Champions Cup 2020/2021 - 1re jo..</sub-title>
+  </programme>
+  <programme start="20210123231500 +0000" stop="20210124011500 +0000" channel="BEIN SPORTS 3">
+    <title lang="fr">Bristol Bears / Clermont-Auvergne</title>
+    <sub-title lang="fr">Champions Cup 2020/2021 - 1re jo..</sub-title>
+  </programme>
+  <programme start="20210122080000 +0000" stop="20210122120000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122120000 +0000" stop="20210122175500 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122175500 +0000" stop="20210122194000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122194000 +0000" stop="20210122214000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">Benevento / Torino</title>
+    <sub-title lang="fr">Serie A - 19e journée</sub-title>
+  </programme>
+  <programme start="20210122214000 +0000" stop="20210123000000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123000000 +0000" stop="20210123003000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123003000 +0000" stop="20210123030000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">Toronto Raptors / Miami Heat</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+  </programme>
+  <programme start="20210123030000 +0000" stop="20210123054500 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">Sacramento Kings / New York Knicks</title>
+    <sub-title lang="fr">NBA 2020/2021 - Saison régulière</sub-title>
+  </programme>
+  <programme start="20210123054500 +0000" stop="20210123080000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123080000 +0000" stop="20210123120000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123120000 +0000" stop="20210123135500 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123135500 +0000" stop="20210123155500 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">AS Roma / Spezia</title>
+    <sub-title lang="fr">Serie A - 19e journée</sub-title>
+  </programme>
+  <programme start="20210123155500 +0000" stop="20210123172500 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123172500 +0000" stop="20210123192500 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">Cheltenham Town / Man City</title>
+    <sub-title lang="fr">Coupe d'Angleterre - 4e tour</sub-title>
+  </programme>
+  <programme start="20210123192500 +0000" stop="20210123194000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123194000 +0000" stop="20210123214000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">Fiorentina / Crotone</title>
+    <sub-title lang="fr">Serie A - 19e journée</sub-title>
+  </programme>
+  <programme start="20210123214000 +0000" stop="20210124020000 +0000" channel="BEIN SPORTS MAX 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122170000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122170000 +0000" stop="20210122193000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122193000 +0000" stop="20210122195500 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122195500 +0000" stop="20210122220000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">Levante / Real Valladolid</title>
+    <sub-title lang="fr">Liga - 20e journée</sub-title>
+  </programme>
+  <programme start="20210122220000 +0000" stop="20210123020000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123040000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123110000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123142500 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123142500 +0000" stop="20210123163000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">Mayence / Leipzig</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123172500 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123172500 +0000" stop="20210123193000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">Hertha Berlin / Werder Brême</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123193000 +0000" stop="20210123230000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210124020000 +0000" channel="BEIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122163000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122163000 +0000" stop="20210122194000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122194000 +0000" stop="20210122214000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">Chorley / Wolverhampton</title>
+    <sub-title lang="fr">Coupe d'Angleterre - 4e tour</sub-title>
+  </programme>
+  <programme start="20210122214000 +0000" stop="20210122230000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123020000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123040000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123110000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123142500 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123142500 +0000" stop="20210123163000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">Fribourg / Stuttgart</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123165000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123165000 +0000" stop="20210123190000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">Handball Argentine / Croatie</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210123190000 +0000" stop="20210123192000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123192000 +0000" stop="20210123213000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">Handball Japon / Danemark</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210123213000 +0000" stop="20210124020000 +0000" channel="BEIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122142000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122142000 +0000" stop="20210122165000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">Handball Macédoine / Russie</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210122165000 +0000" stop="20210122190000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">Handball Egypte / Biélorussie</title>
+    <sub-title lang="fr">Championnat du monde 2021 - Tour..</sub-title>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122230000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123020000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123040000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123110000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123142500 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123142500 +0000" stop="20210123163000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">Augsbourg / FC Union Berlin</title>
+    <sub-title lang="fr">Bundesliga - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123213000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123213000 +0000" stop="20210123220000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210124020000 +0000" channel="BEIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122170000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122170000 +0000" stop="20210122194000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122194000 +0000" stop="20210122214000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">Stoke City / Watford</title>
+    <sub-title lang="fr">Championship - 26e journée</sub-title>
+  </programme>
+  <programme start="20210122214000 +0000" stop="20210122230000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123020000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123040000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123110000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123125500 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123125500 +0000" stop="20210123151000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">Huesca / Villarreal</title>
+    <sub-title lang="fr">Liga - 20e journée</sub-title>
+  </programme>
+  <programme start="20210123151000 +0000" stop="20210123171000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">FC Séville / Cadix</title>
+    <sub-title lang="fr">Liga - 20e journée</sub-title>
+  </programme>
+  <programme start="20210123171000 +0000" stop="20210123172500 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123172500 +0000" stop="20210123193000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">Real Sociedad / Betis Séville</title>
+    <sub-title lang="fr">Liga - 20e journée</sub-title>
+  </programme>
+  <programme start="20210123193000 +0000" stop="20210123230000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210124020000 +0000" channel="BEIN SPORTS MAX 8">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122170000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122170000 +0000" stop="20210122210000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122210000 +0000" stop="20210122230000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123020000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123040000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123110000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123122500 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123122500 +0000" stop="20210123143000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">Preston North End / Reading</title>
+    <sub-title lang="fr">Championship - 26e journée</sub-title>
+  </programme>
+  <programme start="20210123143000 +0000" stop="20210123145500 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123145500 +0000" stop="20210123170000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">West Ham / Doncaster Rovers</title>
+    <sub-title lang="fr">Coupe d'Angleterre - 4e tour</sub-title>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123230000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210124020000 +0000" channel="BEIN SPORTS MAX 9">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122170000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122170000 +0000" stop="20210122210000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122210000 +0000" stop="20210122230000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123020000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123020000 +0000" stop="20210123040000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123040000 +0000" stop="20210123110000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123110000 +0000" stop="20210123145500 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123145500 +0000" stop="20210123170000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">Brighton &amp; Hove Albion / Blackpool</title>
+    <sub-title lang="fr">Coupe d'Angleterre - 4e tour</sub-title>
+  </programme>
+  <programme start="20210123170000 +0000" stop="20210123210000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123210000 +0000" stop="20210123230000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123230000 +0000" stop="20210124020000 +0000" channel="BEIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122051500 +0000" stop="20210122053000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122053000 +0000" stop="20210122071500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Liverpool / Burnley</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122071500 +0000" stop="20210122074500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Premier League World</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122074500 +0000" stop="20210122091500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 19 oct</sub-title>
+    <desc lang="fr">A jamais les premiers. Après son documentaire exceptionnel su...</desc>
+  </programme>
+  <programme start="20210122091500 +0000" stop="20210122110000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Leicester / Chelsea</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122110000 +0000" stop="20210122124500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Liverpool / Burnley</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122124500 +0000" stop="20210122130000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122130000 +0000" stop="20210122143000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 14 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122143000 +0000" stop="20210122150000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Premier League World</title>
+    <sub-title lang="fr">Du 22 janv</sub-title>
+  </programme>
+  <programme start="20210122150000 +0000" stop="20210122151500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122151500 +0000" stop="20210122170000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Fulham / Manchester United</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122170000 +0000" stop="20210122190000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">CSKA Moscou / Fenerbahçe</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210122190000 +0000" stop="20210122200000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Outraged : Football Tackles Discrimination</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122200000 +0000" stop="20210122220000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Vitoria / Alba Berlin</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+    <desc lang="fr">Que ça soit Vitoria, avec l'Américain Alec Peters, ou l'Alba Berlin, les deux clubs ont besoin de points lors de cette 21e journée d'Euroleague. En milieu de classement, les formations espèrent un sursaut. Les locaux vont-ils l'emporter dans leur salle de la Fernando Buesa Arena ?</desc>
+  </programme>
+  <programme start="20210122220000 +0000" stop="20210122230000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Countdown to UFC</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210122234500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Arts martiaux Michael Chiesa / Neil Magny</title>
+    <sub-title lang="fr">MMA : Ultimate Fighting Champion..</sub-title>
+  </programme>
+  <programme start="20210122234500 +0000" stop="20210123013000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Manchester City / Aston Villa</title>
+    <sub-title lang="fr">Premier League - 1re journée</sub-title>
+  </programme>
+  <programme start="20210123013000 +0000" stop="20210123031500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Fulham / Manchester United</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123031500 +0000" stop="20210123050000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Leicester / Chelsea</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123053000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Premier League World</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123053000 +0000" stop="20210123071500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">West Ham / West Bromwich Albion</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123071500 +0000" stop="20210123090000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Fulham / Manchester United</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123090000 +0000" stop="20210123104500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Arsenal / Newcastle</title>
+    <sub-title lang="fr">Premier League - 19e journée</sub-title>
+  </programme>
+  <programme start="20210123104500 +0000" stop="20210123123000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Leicester / Chelsea</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123123000 +0000" stop="20210123133000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Outraged : Football Tackles Discrimination</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210123133000 +0000" stop="20210123140000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Champions Weekly</title>
+    <sub-title lang="fr">Mag. Football</sub-title>
+  </programme>
+  <programme start="20210123140000 +0000" stop="20210123151500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 30 nov</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210123151500 +0000" stop="20210123163000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 07 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210123163000 +0000" stop="20210123180000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 14 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210123180000 +0000" stop="20210123194500 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Leicester / Chelsea</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123194500 +0000" stop="20210123200000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123220000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Aston Villa / Newcastle</title>
+    <sub-title lang="fr">Premier League - 11e journée</sub-title>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210124013000 +0000" channel="RMC SPORT 1">
+    <title lang="fr">Soirée spéciale</title>
+    <sub-title lang="fr">Mag. Arts martiaux</sub-title>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122051500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122051500 +0000" stop="20210122070000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Olimpia Milan / Bayern Munich</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122071500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122071500 +0000" stop="20210122091500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Villeurbanne / Valence</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210122091500 +0000" stop="20210122111500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Monaco / Malaga</title>
+    <sub-title lang="fr">Eurocoupe masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210122111500 +0000" stop="20210122130000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Sporting Club Portugal / Rio Ave</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210122130000 +0000" stop="20210122144500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">FC Porto / Benfica Lisbonne</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210122144500 +0000" stop="20210122160000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 14 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122160000 +0000" stop="20210122180000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Olimpia Milan / Bayern Munich</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210122180000 +0000" stop="20210122200000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Villeurbanne / Valence</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210122200000 +0000" stop="20210122210000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Countdown to UFC</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210122210000 +0000" stop="20210122230000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">CSKA Moscou / Fenerbahçe</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210122230000 +0000" stop="20210123010000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Vitoria / Alba Berlin</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210123010000 +0000" stop="20210123024500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">FC Porto / Benfica Lisbonne</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210123024500 +0000" stop="20210123034500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Countdown to UFC</title>
+    <sub-title lang="fr">Mag. Sport</sub-title>
+  </programme>
+  <programme start="20210123034500 +0000" stop="20210123050000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 05 oct</sub-title>
+    <desc lang="fr">El Loco comme vous ne l'avez jamais vu. Critiqué par certains...</desc>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123051500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210123051500 +0000" stop="20210123070000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">CSKA Moscou / Fenerbahçe</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210123070000 +0000" stop="20210123071500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210123071500 +0000" stop="20210123090000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Vitoria / Alba Berlin</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210123090000 +0000" stop="20210123104500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Sporting Club Portugal / Rio Ave</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210123104500 +0000" stop="20210123123000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">FC Porto / Benfica Lisbonne</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210123123000 +0000" stop="20210123141500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Olimpia Milan / Bayern Munich</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210123141500 +0000" stop="20210123160000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Villeurbanne / Valence</title>
+    <sub-title lang="fr">Euroligue masculine 2020/2021 - ..</sub-title>
+  </programme>
+  <programme start="20210123160000 +0000" stop="20210123171500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 21 sept</sub-title>
+    <desc lang="fr">Une nouvelle saison qui démarre fort. Pour sa grande rentrée,...</desc>
+  </programme>
+  <programme start="20210123171500 +0000" stop="20210123181500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Outraged : Football Tackles Discrimination</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210123181500 +0000" stop="20210123200000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">FC Porto / Benfica Lisbonne</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123214500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Sporting Club Portugal / Rio Ave</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210123214500 +0000" stop="20210123220000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210123220000 +0000" stop="20210123231500 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 30 nov</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210123231500 +0000" stop="20210124003000 +0000" channel="RMC SPORT 2">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 07 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122051500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122051500 +0000" stop="20210122070000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">West Ham / West Bromwich Albion</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122070000 +0000" stop="20210122084500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Fulham / Manchester United</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122084500 +0000" stop="20210122100000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 07 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122100000 +0000" stop="20210122111500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 14 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122111500 +0000" stop="20210122130000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">FC Porto / Benfica Lisbonne</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210122130000 +0000" stop="20210122144500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Fulham / Manchester United</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122144500 +0000" stop="20210122163000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Liverpool / Burnley</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122163000 +0000" stop="20210122181500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Arsenal / Newcastle</title>
+    <sub-title lang="fr">Premier League - 19e journée</sub-title>
+  </programme>
+  <programme start="20210122181500 +0000" stop="20210122200000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Liverpool / Burnley</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210122200000 +0000" stop="20210122211500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 30 nov</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122211500 +0000" stop="20210122223000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 07 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122223000 +0000" stop="20210122234500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 14 déc</sub-title>
+    <desc lang="fr">Ils sont autant énervants que fascinants. Capables de faire b...</desc>
+  </programme>
+  <programme start="20210122234500 +0000" stop="20210123013000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Liverpool / Burnley</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123013000 +0000" stop="20210123031500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">West Ham / West Bromwich Albion</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123031500 +0000" stop="20210123050000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Manchester City / Aston Villa</title>
+    <sub-title lang="fr">Premier League - 1re journée</sub-title>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123063000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 12 oct</sub-title>
+    <desc lang="fr">A jamais les premiers. Après son documentaire exceptionnel su...</desc>
+  </programme>
+  <programme start="20210123063000 +0000" stop="20210123081500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">FC Porto / Benfica Lisbonne</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210123081500 +0000" stop="20210123100000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Exeter Chiefs / Bristol Bears</title>
+    <sub-title lang="fr">Championnat d'Angleterre Premier..</sub-title>
+  </programme>
+  <programme start="20210123100000 +0000" stop="20210123114500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Liverpool / Burnley</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+  </programme>
+  <programme start="20210123114500 +0000" stop="20210123133000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Manchester City / Aston Villa</title>
+    <sub-title lang="fr">Premier League - 1re journée</sub-title>
+  </programme>
+  <programme start="20210123133000 +0000" stop="20210123151500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Exeter Chiefs / Bristol Bears</title>
+    <sub-title lang="fr">Championnat d'Angleterre Premier..</sub-title>
+  </programme>
+  <programme start="20210123151500 +0000" stop="20210123153000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210123153000 +0000" stop="20210123171500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">FC Porto / Benfica Lisbonne</title>
+    <sub-title lang="fr">Championnat du Portugal - 14e jo..</sub-title>
+  </programme>
+  <programme start="20210123171500 +0000" stop="20210123184500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 12 oct</sub-title>
+    <desc lang="fr">A jamais les premiers. Après son documentaire exceptionnel su...</desc>
+  </programme>
+  <programme start="20210123184500 +0000" stop="20210123200000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Transversales</title>
+    <sub-title lang="fr">Du 13 oct</sub-title>
+    <desc lang="fr">A jamais les premiers. Après son documentaire exceptionnel su...</desc>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123214500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Liverpool / Burnley</title>
+    <sub-title lang="fr">Premier League - 18e journée</sub-title>
+    <desc lang="fr">Fin de la 18e journée de Premier League avec le leader, les Reds de Liverpool, qui affronte Burnley, une formation de bas de classement. Les trois points sont indispensables pour Mohamed Salah et ses coéquipiers afin de poursuivre sur leur belle lancée.</desc>
+  </programme>
+  <programme start="20210123214500 +0000" stop="20210123221500 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Premier League World</title>
+    <sub-title lang="fr">Du 23 janv</sub-title>
+  </programme>
+  <programme start="20210123221500 +0000" stop="20210124000000 +0000" channel="RMC SPORT 3">
+    <title lang="fr">Aston Villa / Newcastle</title>
+    <sub-title lang="fr">Premier League - 11e journée</sub-title>
+  </programme>
+  <programme start="20210122050000 +0000" stop="20210122080000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Errol Spence Jr / Danny Garcia Poids welters</title>
+    <sub-title lang="fr">Championnat du monde 2020</sub-title>
+  </programme>
+  <programme start="20210122080000 +0000" stop="20210122081500 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Pépite RMC Sport</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+  </programme>
+  <programme start="20210122081500 +0000" stop="20210122111500 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Chris Colbert / Jaime Arboleda Poids super-plumes</title>
+    <sub-title lang="fr">Premier Boxing Champions 2020</sub-title>
+  </programme>
+  <programme start="20210122111500 +0000" stop="20210122143000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Episode XIV No Limit</title>
+    <sub-title lang="fr">Soirée No Limit 2020</sub-title>
+  </programme>
+  <programme start="20210122143000 +0000" stop="20210122193000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">J. "Hitman" Charlo S. Derevyanchenko et poids super-welters Poids moyens</title>
+    <sub-title lang="fr">Championnat du monde 2020</sub-title>
+  </programme>
+  <programme start="20210122193000 +0000" stop="20210122223000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Errol Spence Jr / Danny Garcia Poids welters</title>
+    <sub-title lang="fr">Championnat du monde 2020</sub-title>
+    <desc lang="fr">Le combat très attendu pour les titres unifiés des poids mi-moyens entre les Américains Errol Spence Jr. (26-0-0, 21 KO) et Danny Garcia (36-2-0, 21 KO) s'est déroulé le 5 décembre dernier à Arlington, au Texas. Le combat était mis sur pied par la firme Premier Boxing Champions (PBC).</desc>
+  </programme>
+  <programme start="20210122223000 +0000" stop="20210123013000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Emmanuel Rodriguez / Reymart Gaballo Poids coq</title>
+    <sub-title lang="fr">Premier Boxing Champions 2020</sub-title>
+  </programme>
+  <programme start="20210123013000 +0000" stop="20210123050000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Chris Colbert / Jaime Arboleda Poids super-plumes</title>
+    <sub-title lang="fr">Premier Boxing Champions 2020</sub-title>
+  </programme>
+  <programme start="20210123050000 +0000" stop="20210123093000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Errol Spence Jr / Shawn Porter Poids welters</title>
+    <sub-title lang="fr">Championnat du monde 2019</sub-title>
+  </programme>
+  <programme start="20210123093000 +0000" stop="20210123123000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Errol Spence Jr / Danny Garcia Poids welters</title>
+    <sub-title lang="fr">Championnat du monde 2020</sub-title>
+  </programme>
+  <programme start="20210123123000 +0000" stop="20210123150000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">David Morrell Jr / Mike Gavronski Poids super-moyens</title>
+    <sub-title lang="fr">Premier Boxing Champions 2020</sub-title>
+  </programme>
+  <programme start="20210123150000 +0000" stop="20210123200000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">J. "Hitman" Charlo S. Derevyanchenko et poids super-welters Poids moyens</title>
+    <sub-title lang="fr">Championnat du monde 2020</sub-title>
+  </programme>
+  <programme start="20210123200000 +0000" stop="20210123223000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Chris Colbert / Jaime Arboleda Poids super-plumes</title>
+    <sub-title lang="fr">Premier Boxing Champions 2020</sub-title>
+    <desc lang="fr">Chris Colbert, champion intérimaire des super-plumes de la WBA, défend son titre contre Jaime Arboleda dans un combat de 12 rounds. La réunion, prévue deux semaines plus tôt, a été reportée au 12 décembre, à Uncasville.</desc>
+  </programme>
+  <programme start="20210123223000 +0000" stop="20210124003000 +0000" channel="RMC SPORT 4">
+    <title lang="fr">Luis Ortiz / Alexander Flores Poids lourds</title>
+    <sub-title lang="fr">Premier Boxing Champions 2020</sub-title>
+  </programme>
+</tv>
