@@ -2,7 +2,6 @@
 <settings>
    
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-  <license wg-username="zantac75" registered-email="waellotfy77@gmail.com" password="b8da6f00"></license>
   <filename>guide.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">rex</postprocess>

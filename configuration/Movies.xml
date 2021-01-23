@@ -7,7 +7,6 @@
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <timespan>6</timespan>
-  <license wg-username="zantac75" registered-email="waellotfy77@gmail.com" password="b8da6f00"></license>
   <update>f</update>
   
     <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
