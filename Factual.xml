@@ -37,10 +37,12 @@
   </channel>
   <channel id="Nat Geo Wild HD">
     <display-name lang="en">Nat Geo Wild HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NHD.png" />
     <url>http://www.osn.com</url>
   </channel>
   <channel id="Nat Geo People HD">
     <display-name lang="en">Nat Geo People HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/NAH.png" />
     <url>http://www.osn.com</url>
   </channel>
   <programme start="20210125002000 +0000" stop="20210125010500 +0000" channel="Discovery HD">
@@ -3004,5 +3006,796 @@
     <desc lang="en">We've scoured the record books to find the most extreme weather in history. Travel through time as we countdown the Top Ten Worst Weather Years. تعرض قناة ناشونال جيوغرافيك أهم البرامج وتسترشد بأهم العلماء وبأهم صانعي الأفلام في العالم، حيث تنقل القناة مشاهديها إلى أجمل المناطق في العالم بتقنية عالية الوضوح.</desc>
     <icon src="http://content.osn.com/bob/745x419/NGO.jpg" />
     <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20210125003000 +0000" stop="20210125013000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Land Of The Far North</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">The film transports the viewer to the magical world of polar night in northern Scandinavia. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210125013000 +0000" stop="20210125023000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of The Zoo Compilations</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">A 15-year-old rat snake develops a concerning lump. A 26-year-old bonobo has a bloating issue and vet's check-up on an older female serval with a bad leg. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20210125023000 +0000" stop="20210125033000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Return Of The Spider Monkeys</title>
+    <title lang="ar">رتيرن اوف ذا سبايدر مانكيز</title>
+    <desc lang="en">A spider monkey named Infinity was stolen from the forest as a baby. تمت سرقة القرد متسلق الأشجار والذي يُدعى انفينيتي من الغابة عندما كان صغيرا.</desc>
+    <icon src="http://content.osn.com/bob/745x419/returnofthespidermonkey_20170514030101.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210125033000 +0000" stop="20210125043000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Pristine Seas: The Power Of Protection</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">Follow National Geographic Explorer, Enric Sala, and his Pristine Seas project as they travel the globe to save our oceans. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210125043000 +0000" stop="20210125053000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Shark Men</title>
+    <title lang="ar">شارك مين</title>
+    <desc lang="en">With eleven sharks successfully caught, tagged and released, it's time for Dr. Domeier to put his technology to the test. تم اصطياد 11 سمكة قرش بنجاح، حيث سيتم إطلاق سراحها بعد إلصاق بطاقة تعريف بها، حان الوقت ليختبر الدكتور دوميير تقنيته هذه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Shark-Men-l.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210125053000 +0000" stop="20210125063000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">The desire to find a mate drives a lot of ape behavior, and we're no exception. We will explore mating strategies of apes and our similarities. الرغبة في العثور على السبب الأصلي وراء سلوك القردة، ولكن رغم ملايين السنين من التطور لا نختلف كثيرا عنها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210125063000 +0000" stop="20210125073000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">When it comes to getting into groups, humans are no different than apes. You'll probably start wondering if we are all the same. إن التواجد ضمن مجموعة اجتماعية هو مفتاح للنجاة، ولهذا تقوم القردة بفعل كل ما باستطاعتها لتتجنب التعرض للاستبعاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210125073000 +0000" stop="20210125083000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Dead By Dawn</title>
+    <title lang="ar">داد باي داون</title>
+    <desc lang="en">The forests of India play host to nightly battle of life or death before dawn. في مستنقعات أمريكا الشمالية توجد حيوانات مفترسة تُفضل العيش في المناطق الضحلة، غابات السرو القاحلة والأماكن الموحلة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210125083000 +0000" stop="20210125093000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Shark Men</title>
+    <title lang="ar">شارك مين</title>
+    <desc lang="en">With eleven sharks successfully caught, tagged and released, it's time for Dr. Domeier to put his technology to the test. تم اصطياد 11 سمكة قرش بنجاح، حيث سيتم إطلاق سراحها بعد إلصاق بطاقة تعريف بها، حان الوقت ليختبر الدكتور دوميير تقنيته هذه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Shark-Men-l.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210125093000 +0000" stop="20210125103000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">The desire to find a mate drives a lot of ape behavior, and we're no exception. We will explore mating strategies of apes and our similarities. الرغبة في العثور على السبب الأصلي وراء سلوك القردة، ولكن رغم ملايين السنين من التطور لا نختلف كثيرا عنها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210125103000 +0000" stop="20210125113000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">When it comes to getting into groups, humans are no different than apes. You'll probably start wondering if we are all the same. إن التواجد ضمن مجموعة اجتماعية هو مفتاح للنجاة، ولهذا تقوم القردة بفعل كل ما باستطاعتها لتتجنب التعرض للاستبعاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210125113000 +0000" stop="20210125123000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Dead By Dawn</title>
+    <title lang="ar">داد باي داون</title>
+    <desc lang="en">The forests of India play host to nightly battle of life or death before dawn. في مستنقعات أمريكا الشمالية توجد حيوانات مفترسة تُفضل العيش في المناطق الضحلة، غابات السرو القاحلة والأماكن الموحلة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210125123000 +0000" stop="20210125133000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Dead By Dawn</title>
+    <title lang="ar">داد باي داون</title>
+    <desc lang="en">In the swamps of North America, predators lurk in the murky shallows, the barren cypress forests and the muddy flats. في مستنقعات أمريكا الشمالية توجد حيوانات مفترسة تُفضل العيش في المناطق الضحلة، غابات السرو القاحلة والأماكن الموحلة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210125133000 +0000" stop="20210125143000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Swamp Men</title>
+    <title lang="ar">سوامب مين</title>
+    <desc lang="en">After Matt gets a crash course on how to survive the water buffalo, Ed gets a call about a Florida panther in distress. بعد أن حصل مات على دورة تدريبية منهكة عن كيفية مواجهة الوحوش التي تزن 2500 طن والنجاة منها، يتلقى إيد اتصالاً بشأن نمر في فلوريدا يحتاج للمساعدة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Swamp-Men-l.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210125143000 +0000" stop="20210125153000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Orca Killing School</title>
+    <title lang="ar">أوركا كيلينغ سكوول</title>
+    <desc lang="en">Orcas have special hunting strategies in the sea as they target even the three-times larger elephant seals in Valdez Bay. لدى دلافين الأوكرا استراتيجية صيد بحرية... حتى أنها تهدف إلى صيد فقمات الفيلة التي تكبرها بثلاث مرات في خليج فالديز.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Orca-Killing-School-l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210125153000 +0000" stop="20210125163000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">When it comes to getting into groups, humans are no different than apes. You'll probably start wondering if we are all the same. إن التواجد ضمن مجموعة اجتماعية هو مفتاح للنجاة، ولهذا تقوم القردة بفعل كل ما باستطاعتها لتتجنب التعرض للاستبعاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210125163000 +0000" stop="20210125173000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Jade Eyed Leopard</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">Jade Eyed Leopard follows a leopard, Toto, throughout the first three years of her life. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210125173000 +0000" stop="20210125183000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Stranger Than Nature: Unhinged</title>
+    <title lang="ar">سترينجر ذان نيتشر: أنهينجد</title>
+    <desc lang="en">The much-anticipated monsoons in Kerala, in southern India, bring blood-red rains instead. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210125183000 +0000" stop="20210125193000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Stranger Than Nature: Unhinged</title>
+    <title lang="ar">سترينجر ذان نيتشر: أنهينجد</title>
+    <desc lang="en">Something is killing Fairy Penguins, in a colony where they are supposed to be protected, in the Sydney suburb of Manly. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210125193000 +0000" stop="20210125203000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Dangerous Encounters With Brady Barr</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">As the water in the dam rises, the habitat of the Nile Croc in South Afirica is on the verge of being wiped out. Watch Brady and team help them. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20210125203000 +0000" stop="20210125203000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">When it comes to getting into groups, humans are no different than apes. You'll probably start wondering if we are all the same. إن التواجد ضمن مجموعة اجتماعية هو مفتاح للنجاة، ولهذا تقوم القردة بفعل كل ما باستطاعتها لتتجنب التعرض للاستبعاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210125203000 +0000" stop="20210125213000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">When it comes to getting into groups, humans are no different than apes. You'll probably start wondering if we are all the same. إن التواجد ضمن مجموعة اجتماعية هو مفتاح للنجاة، ولهذا تقوم القردة بفعل كل ما باستطاعتها لتتجنب التعرض للاستبعاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210125213000 +0000" stop="20210125223000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Jade Eyed Leopard</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">Jade Eyed Leopard follows a leopard, Toto, throughout the first three years of her life. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210125223000 +0000" stop="20210125233000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Stranger Than Nature: Unhinged</title>
+    <title lang="ar">سترينجر ذان نيتشر: أنهينجد</title>
+    <desc lang="en">The much-anticipated monsoons in Kerala, in southern India, bring blood-red rains instead. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210125233000 +0000" stop="20210126003000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Stranger Than Nature: Unhinged</title>
+    <title lang="ar">سترينجر ذان نيتشر: أنهينجد</title>
+    <desc lang="en">Something is killing Fairy Penguins, in a colony where they are supposed to be protected, in the Sydney suburb of Manly. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210126003000 +0000" stop="20210126013000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Dangerous Encounters With Brady Barr</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">As the water in the dam rises, the habitat of the Nile Croc in South Afirica is on the verge of being wiped out. Watch Brady and team help them. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20210126013000 +0000" stop="20210126023000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Orca Killing School</title>
+    <title lang="ar">أوركا كيلينغ سكوول</title>
+    <desc lang="en">Orcas have special hunting strategies in the sea as they target even the three-times larger elephant seals in Valdez Bay. لدى دلافين الأوكرا استراتيجية صيد بحرية... حتى أنها تهدف إلى صيد فقمات الفيلة التي تكبرها بثلاث مرات في خليج فالديز.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Orca-Killing-School-l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126023000 +0000" stop="20210126033000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Ape Man</title>
+    <title lang="ar">آيب مان</title>
+    <desc lang="en">When it comes to getting into groups, humans are no different than apes. You'll probably start wondering if we are all the same. إن التواجد ضمن مجموعة اجتماعية هو مفتاح للنجاة، ولهذا تقوم القردة بفعل كل ما باستطاعتها لتتجنب التعرض للاستبعاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Ape-Man-l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210126033000 +0000" stop="20210126043000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Jade Eyed Leopard</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">Jade Eyed Leopard follows a leopard, Toto, throughout the first three years of her life. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126043000 +0000" stop="20210126053000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Shark Men</title>
+    <title lang="ar">شارك مين</title>
+    <desc lang="en">The expedition team continues their mission, but a faulty engine, rapidly spoiling bait and approaching storms threaten their science and safety. مصاعب عدة تواجه الفريق أثناء اقترابهم من أسماك القرش: محرك معطل، طعوم تفسد بسرعة وعاصفة تقترب منهم، كل هذا يهدد أبحاثهم العلمية وسلامتهم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Shark-Men-l.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210126053000 +0000" stop="20210126063000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of The Zoo Compilations</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">A beloved manatee is released back to the wild, while the zoo makes room for new, furry residents; A kangaroo named fergus gets a tough love lesson. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20210126063000 +0000" stop="20210126073000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of The Zoo Compilations</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">A 15-year-old rat snake develops a concerning lump. A 26-year-old bonobo has a bloating issue and vet's check-up on an older female serval with a bad leg. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20210126073000 +0000" stop="20210126083000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of Wild India: Kings Of The Jungle</title>
+    <title lang="ar">سيكرتس أوف وايلد إنديا: كينغس أوف ذا دجانغل</title>
+    <desc lang="en">India is an extraordinarily diverse country. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/secretsofwildindial_20180911013908.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126083000 +0000" stop="20210126093000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Shark Men</title>
+    <title lang="ar">شارك مين</title>
+    <desc lang="en">The expedition team continues their mission, but a faulty engine, rapidly spoiling bait and approaching storms threaten their science and safety. مصاعب عدة تواجه الفريق أثناء اقترابهم من أسماك القرش: محرك معطل، طعوم تفسد بسرعة وعاصفة تقترب منهم، كل هذا يهدد أبحاثهم العلمية وسلامتهم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Shark-Men-l.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210126093000 +0000" stop="20210126103000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of The Zoo Compilations</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">A beloved manatee is released back to the wild, while the zoo makes room for new, furry residents; A kangaroo named fergus gets a tough love lesson. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20210126103000 +0000" stop="20210126113000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of The Zoo Compilations</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">A 15-year-old rat snake develops a concerning lump. A 26-year-old bonobo has a bloating issue and vet's check-up on an older female serval with a bad leg. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20210126113000 +0000" stop="20210126123000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of Wild India: Kings Of The Jungle</title>
+    <title lang="ar">سيكرتس أوف وايلد إنديا: كينغس أوف ذا دجانغل</title>
+    <desc lang="en">India is an extraordinarily diverse country. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/secretsofwildindial_20180911013908.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126123000 +0000" stop="20210126133000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Wild Cambodia</title>
+    <title lang="ar">وايلد كمبوديا</title>
+    <desc lang="en">This compelling tour of Cambodia reveals an incredible diversity of wildlife and one of the most unique ecosystems on Earth created by monsoon cycle. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Wild-Cambodia-l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126133000 +0000" stop="20210126143000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Swamp Men</title>
+    <title lang="ar">سوامب مين</title>
+    <desc lang="en">As the crew in the safari prepares for the busy Memorial Day weekend, rogue gators, raccoons and bees have the guys on their toes. اقتربت عطلة الإحتفال بعيد الذكرى (ميموريال داي)، وبالنسبة لأعضاء فريق بيلي سوامب سفاري، فهذا يعني بدء عملية التنظيف لفصل الربيع.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Swamp-Men-l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126143000 +0000" stop="20210126153000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">When Sharks Attack</title>
+    <title lang="ar">وين شاركس أتاك</title>
+    <desc lang="en">Ten shark attacks in eight years leaves the town of Port St. Johns reeling. من الساحل الأمريكي إلى الشواطئ المدهشة حول العالم، ازداد عدد هجمات أسماك القرش في الخمسين عاما الماضية. تحقق (ناشونال جيوغرافيك وايلد) في حوادث الهجوم تلك لمعرفة السبب وراء ذلك.</desc>
+    <icon src="http://content.osn.com/bob/745x419/When-Sharks-Attack-l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126153000 +0000" stop="20210126163000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Secrets Of The Zoo Compilations</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">A 15-year-old rat snake develops a concerning lump. A 26-year-old bonobo has a bloating issue and vet's check-up on an older female serval with a bad leg. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20210126163000 +0000" stop="20210126173000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Frozen Kingdom Of The Snow Leopard</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">One female snow leopard's story to birth and raise her cubs in an unfamiliar valley. قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126183000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Wild Indochina</title>
+    <title lang="ar">وايلد إندوتشاينا</title>
+    <desc lang="en">Indochina; Laos, Vietnam and Cambodia, linked by one great river: the mighty Mekong. الهند الصينية، لاوس، الفييتنام وكامبوديا متصلة كلها بنهر واحد عظيم، نهر الميكونغ العظيم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126183000 +0000" stop="20210126193000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Wild Vietnam</title>
+    <title lang="ar">وايلد فيتنام</title>
+    <desc lang="en">We'll show you some of the most unique animals in Vietnam and how the nature managed to rejuvenate from a land ravished by war 40 years ago. دُمرت الفيتنام جراء الحرب ولكن تجددت الطبيعة فيها بشكل مذهل فأصبحت واحدة من أكثر الأماكن الحيوية المتنوعة على هذا الكوكب.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Wild-Vietnam-l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126193000 +0000" stop="20210126203000 +0000" channel="Nat Geo Wild HD">
+    <title lang="en">Dangerous Encounters With Brady Barr</title>
+    <title lang="ar">Nat Geo Wild HD</title>
+    <desc lang="en">The mysterious Sixgill shark that normally lives up to 8,000 feet deep is occasionally found in shallower seas. Will Brady find the answer? قناة نات جيو وايلد إتش دي، مكرسة لبرامج حياة الطبيعة والبراري، تأخذ مشاهديها برحلات ذات تجارب غنية ليعيشوها ويشاهدوا أدق تفاصيل اللقاءات الحميمة والصدامات في عوالم الحياة البرية، لم تشاهد قبلاً على أي شاشة تلفزيونية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NATGEO-WILD-new-logo.jpg" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20210125003000 +0000" stop="20210125012000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Griff's Great Australian Rail Trip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Griff tumbles into the humid tropics of Darwin before riding the iconic Ghan North to South and arriving in Australia's dry red centre. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210125012000 +0000" stop="20210125021000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Ultimate Airport Dubai</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">John Taylor drives live runways to look for potentially dangerous debris while Mustapha Bourouche struggles to get the Perth flight away on time. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20210125021000 +0000" stop="20210125023500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Route Awakening</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Join Harry to learn about the tribal life as a nomad in Daocheng and to find the true meaning of Shangri-la. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210125023500 +0000" stop="20210125030000 +0000" channel="Nat Geo People HD">
+    <title lang="en">48 Hrs Destination</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Greer catches up with New Zealand travel consultant Dani in the City of Sails. The duo hit the asphalt on a Harley Davidson tour. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210125030000 +0000" stop="20210125032500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Peter Kuruvita's Mexican Fiesta</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Having explored the beef territory of northern Mexico, it's time to head for some seafood as Peter descends 2000 metres to explore the Pacific coast. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210125032500 +0000" stop="20210125035000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Cruise Ship Diaries</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">As the ship is heading for the Arctic Circle, the new Hotel Director is enforcing a sanitation programme due to the outbreak of E-Coli in Europe. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20210125035000 +0000" stop="20210125044000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Tank Kings</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Ben and Francis head out to meet with Max, who is looking to create one of the largest residential tanks of its kind in Southern Florida. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20210125044000 +0000" stop="20210125050500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Of The Day</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Clarke Gayford is heading to the north of New Zealand and the Bay of Islands. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20210125050500 +0000" stop="20210125053000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Late Nite Eats</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Jordan's heading to Denver to see what late night's like western style. Jordan heads to There, to try some amazing Colorado inspired appetizers, Elk Lettuce Wraps and Salmon Tostada. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20210125053000 +0000" stop="20210125062000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Gok's Chinese Takeaway</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Gok's journey begins with Elizabeth Chong, a local food guru and an author who traces back to her grandfather in the 1850s for family recipes. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210125062000 +0000" stop="20210125071000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Masters Of Flip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">When their latest house proves to be beyond even their flipping prowess, Dave and Kortney need to take an entirely new approach to their craft. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20210125071000 +0000" stop="20210125080000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Warrior Road Trip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Lemarti and Boniface decide to understand the modern world. They travel to New York on a voyage of discovery. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210125080000 +0000" stop="20210125082500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Route Awakening</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Join Harry to learn about the tribal life as a nomad in Daocheng and to find the true meaning of Shangri-la. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210125082500 +0000" stop="20210125085000 +0000" channel="Nat Geo People HD">
+    <title lang="en">48 Hrs Destination</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Greer catches up with New Zealand travel consultant Dani in the City of Sails. The duo hit the asphalt on a Harley Davidson tour. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210125085000 +0000" stop="20210125091500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Peter Kuruvita's Mexican Fiesta</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Having explored the beef territory of northern Mexico, it's time to head for some seafood as Peter descends 2000 metres to explore the Pacific coast. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210125091500 +0000" stop="20210125094000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Cruise Ship Diaries</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">As the ship is heading for the Arctic Circle, the new Hotel Director is enforcing a sanitation programme due to the outbreak of E-Coli in Europe. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20210125094000 +0000" stop="20210125103000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Tank Kings</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Ben and Francis head out to meet with Max, who is looking to create one of the largest residential tanks of its kind in Southern Florida. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20210125103000 +0000" stop="20210125105500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Of The Day</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Clarke Gayford is heading to the north of New Zealand and the Bay of Islands. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20210125105500 +0000" stop="20210125112000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Late Nite Eats</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Jordan's heading to Denver to see what late night's like western style. Jordan heads to There, to try some amazing Colorado inspired appetizers, Elk Lettuce Wraps and Salmon Tostada. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20210125112000 +0000" stop="20210125121000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Gok's Chinese Takeaway</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Gok's journey begins with Elizabeth Chong, a local food guru and an author who traces back to her grandfather in the 1850s for family recipes. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210125121000 +0000" stop="20210125130000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Masters Of Flip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">When their latest house proves to be beyond even their flipping prowess, Dave and Kortney need to take an entirely new approach to their craft. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20210125130000 +0000" stop="20210125135000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Warrior Road Trip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Lemarti and Boniface decide to understand the modern world. They travel to New York on a voyage of discovery. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210125135000 +0000" stop="20210125141500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Route Awakening</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Follow Harry to learn about Tibetan archery and goat skin rafting as he journeys into the Qinghai and Tibetan plateau. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20210125141500 +0000" stop="20210125144500 +0000" channel="Nat Geo People HD">
+    <title lang="en">48 Hrs Destination</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Greer's next trip takes her to glittering Dubai, where she teams up with Samiera to experience everything this larger-than-life city has to offer. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20210125144500 +0000" stop="20210125151000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Peter Kuruvita's Mexican Fiesta</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Peter arrives in his first big Mexican city Guadalajara, the starting point of this episode that will see him sample a classic slow cooked goat dish known as Birria. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210125151000 +0000" stop="20210125154000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Cruise Ship Diaries</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">The Costa Deliziosa is on her way to the fjords of Norway. Almost 24 hours of daylight has guests going crazy and staff permanently on call. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20210125154000 +0000" stop="20210125163500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Tank Kings</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Mat gets a call from a high-profile recording studio in Las Vegas with a tank that has aged prematurely and is due for a major aquatic overhaul. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210125163500 +0000" stop="20210125170000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Of The Day</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">From here he heads north-west to Manta Ray Island in the Yasawas where he will attempt to catch a Spanish Mackerel on line and spear one as well. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20210125170000 +0000" stop="20210125173000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Late Nite Eats</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Jordan's late night adventure through Milwaukee couldn't be cheesier. It wouldn't be Milwaukee without some beer cheese, and Jordan's getting his loaded on a Wisco burger smothered in pulled bacon. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20210125173000 +0000" stop="20210125182500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Gok's Chinese Takeaway</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Gok Wan's journey begins in the capital of Malaysia, Kuala Lumpur, where he learns the art of making Roti Jala, a Malay-style pancake. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210125182500 +0000" stop="20210125192000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Masters Of Flip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Dave and Kortney have to contend with city traffic on their newest project, but a demo doesn't go quite as Kortney planned. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20210125192000 +0000" stop="20210125201500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Warrior Road Trip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Maasai warriors Lemarti and Boni take on the beef belt of Texas to check on their cows and learn a few tricks of the trade. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210125201500 +0000" stop="20210125204000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Route Awakening</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Follow Harry to learn about Tibetan archery and goat skin rafting as he journeys into the Qinghai and Tibetan plateau. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20210125204000 +0000" stop="20210125204000 +0000" channel="Nat Geo People HD">
+    <title lang="en">48 Hrs Destination</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Greer's next trip takes her to glittering Dubai, where she teams up with Samiera to experience everything this larger-than-life city has to offer. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20210125204000 +0000" stop="20210125211000 +0000" channel="Nat Geo People HD">
+    <title lang="en">48 Hrs Destination</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Greer's next trip takes her to glittering Dubai, where she teams up with Samiera to experience everything this larger-than-life city has to offer. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20210125211000 +0000" stop="20210125213500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Peter Kuruvita's Mexican Fiesta</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Peter arrives in his first big Mexican city Guadalajara, the starting point of this episode that will see him sample a classic slow cooked goat dish known as Birria. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210125213500 +0000" stop="20210125220000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Cruise Ship Diaries</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">The Costa Deliziosa is on her way to the fjords of Norway. Almost 24 hours of daylight has guests going crazy and staff permanently on call. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20210125220000 +0000" stop="20210125225000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Tank Kings</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Mat gets a call from a high-profile recording studio in Las Vegas with a tank that has aged prematurely and is due for a major aquatic overhaul. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210125225000 +0000" stop="20210125231500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Of The Day</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">From here he heads north-west to Manta Ray Island in the Yasawas where he will attempt to catch a Spanish Mackerel on line and spear one as well. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20210125231500 +0000" stop="20210125234000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Late Nite Eats</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Jordan's late night adventure through Milwaukee couldn't be cheesier. It wouldn't be Milwaukee without some beer cheese, and Jordan's getting his loaded on a Wisco burger smothered in pulled bacon. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20210125234000 +0000" stop="20210126003000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Gok's Chinese Takeaway</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Gok Wan's journey begins in the capital of Malaysia, Kuala Lumpur, where he learns the art of making Roti Jala, a Malay-style pancake. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210126003000 +0000" stop="20210126012000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Masters Of Flip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Dave and Kortney have to contend with city traffic on their newest project, but a demo doesn't go quite as Kortney planned. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20210126012000 +0000" stop="20210126021000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Warrior Road Trip</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Maasai warriors Lemarti and Boni take on the beef belt of Texas to check on their cows and learn a few tricks of the trade. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210126021000 +0000" stop="20210126023500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Pizza In Parma</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">The boys head to Rome to visit one of the hottest pizzerias in the capital and then on to Napoli, the home of pizza making. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20210126023500 +0000" stop="20210126030000 +0000" channel="Nat Geo People HD">
+    <title lang="en">David Rocco's Dolce Vita</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Nicola's business is a combination of a farm, a cheese factory and a deli. What's more, his place turns into a full-fledged disco at night! تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20210126030000 +0000" stop="20210126035000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Log Cabin Fever</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">A ramshackle barn in Piney Flats holds a secret within its poison oak covered boards: an original two-story log cabin the owner would like to reclaim. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20210126035000 +0000" stop="20210126044000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Impossible Builds</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">While on holiday in the Outer Hebrides, Ruth Hamilton and John Henry fell in love with the rugged and isolated wilderness of the Isle of Harris. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210126044000 +0000" stop="20210126053000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Tank Kings</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Mat gets a call from a high-profile recording studio in Las Vegas with a tank that has aged prematurely and is due for a major aquatic overhaul. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210126053000 +0000" stop="20210126062000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Confucius Was A Foodie</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Chef Christine visits the Malaysian island of Penang, a location historically important to the story of spice trade for a fun and fact filled visit. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20210126062000 +0000" stop="20210126071000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Airport Below Zero</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">30,000 feet in the air a European flight gets diverted with a medical emergency on board: a critically ill passenger's life is on the line! تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20210126071000 +0000" stop="20210126080000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Inside Turkish Airlines</title>
+    <title lang="ar">انسايد تيركش إيرلاينز</title>
+    <desc lang="en">Take a behind-the-scenes look at a busy summer day for Turkey's biggest airline as we follow their staff both in the air and on the ground. نظرة من وراء الكواليس على شركة الخطوط الجوية التركية في يوم صيفي حافل.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126080000 +0000" stop="20210126082500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Pizza In Parma</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">The boys head to Rome to visit one of the hottest pizzerias in the capital and then on to Napoli, the home of pizza making. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20210126082500 +0000" stop="20210126085000 +0000" channel="Nat Geo People HD">
+    <title lang="en">David Rocco's Dolce Vita</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Nicola's business is a combination of a farm, a cheese factory and a deli. What's more, his place turns into a full-fledged disco at night! تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20210126085000 +0000" stop="20210126094000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Log Cabin Fever</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">A ramshackle barn in Piney Flats holds a secret within its poison oak covered boards: an original two-story log cabin the owner would like to reclaim. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20210126094000 +0000" stop="20210126103000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Impossible Builds</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">While on holiday in the Outer Hebrides, Ruth Hamilton and John Henry fell in love with the rugged and isolated wilderness of the Isle of Harris. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210126103000 +0000" stop="20210126112000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Tank Kings</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Mat gets a call from a high-profile recording studio in Las Vegas with a tank that has aged prematurely and is due for a major aquatic overhaul. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210126112000 +0000" stop="20210126121000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Confucius Was A Foodie</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Chef Christine visits the Malaysian island of Penang, a location historically important to the story of spice trade for a fun and fact filled visit. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20210126121000 +0000" stop="20210126130000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Airport Below Zero</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">30,000 feet in the air a European flight gets diverted with a medical emergency on board: a critically ill passenger's life is on the line! تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20210126130000 +0000" stop="20210126135000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Inside Turkish Airlines</title>
+    <title lang="ar">انسايد تيركش إيرلاينز</title>
+    <desc lang="en">Take a behind-the-scenes look at a busy summer day for Turkey's biggest airline as we follow their staff both in the air and on the ground. نظرة من وراء الكواليس على شركة الخطوط الجوية التركية في يوم صيفي حافل.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126135000 +0000" stop="20210126141500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Pizza In Parma</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">The boys meet more of the city's best pizzaiolos in Napoli and, with the competition nearing, try to find the best local ingredients. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20210126141500 +0000" stop="20210126144500 +0000" channel="Nat Geo People HD">
+    <title lang="en">David Rocco's Dolce Vita</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">David decides to spend time with his kids in the camp run by his sister. He prepares fresh and exotic ingredients to grill in open-air for campers. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  <programme start="20210126144500 +0000" stop="20210126154000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Log Cabin Fever</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Charlie and the crew are taking a trip into the mountains of Banner Elk, North Carolina in order to retrofit a modern home with a rustic timber frame interior. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20210126154000 +0000" stop="20210126163500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Impossible Builds</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">Scott, Lisa and their 12-year-old son Archie live in a rented house in the suburbs of Inverness. But they are determined to move into a new place. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20210126163500 +0000" stop="20210126173000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Fish Tank Kings</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">The Living Color team has to be on their A-game to accomplish the challenging job given by the head of biology for the Rainforest Cafe. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20210126173000 +0000" stop="20210126182500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Confucius Was A Foodie</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">A bit of a mystery and yet at the heart of all Chinese cuisines the real flavor of Xian is fresh and inviting. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20210126182500 +0000" stop="20210126192000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Airport Below Zero</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">At Canadian North, a woman returning from her brother's funeral might miss a flight.and will not board without her bucket of chicken. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210126192000 +0000" stop="20210126201500 +0000" channel="Nat Geo People HD">
+    <title lang="en">Inside T4: Terminal Of Tomorrow</title>
+    <title lang="ar">إنسايد تي4: ترمينال أوف تومورو</title>
+    <desc lang="en">The countdown to opening Changi Airport's newest terminal begins, as we explore innovative design and technological solutions developed. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210126201500 +0000" stop="20210126204000 +0000" channel="Nat Geo People HD">
+    <title lang="en">Pizza In Parma</title>
+    <title lang="ar">Nat Geo People HD</title>
+    <desc lang="en">The boys meet more of the city's best pizzaiolos in Napoli and, with the competition nearing, try to find the best local ingredients. تضفي القناة المزيد من الحياة على التجارب الإنسانية وتوفر لنا مدخلا إلى العالم الغامض والحميمي لأشخاص حقيقيين من جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/NAH.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
 </tv>
