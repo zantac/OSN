@@ -1,0 +1,1361 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HD1 English">
+    <display-name lang="en">beIN sports 1</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD1.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2 English">
+    <display-name lang="en">beIN sports Z</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD2.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD3 English">
+    <display-name lang="en">beIN sports 3</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD3.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4 English">
+    <display-name lang="en">beIN sports 4</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD4.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD5 English">
+    <display-name lang="en">beIN sports 5</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD5.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD6 English">
+    <display-name lang="en">beIN sports 6</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD6.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD7 English">
+    <display-name lang="en">beIN sports 7</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD7.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD8 English">
+    <display-name lang="en">beIN sports 8</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD8.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD9 English">
+    <display-name lang="en">beIN sports 9</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD9.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD10 English">
+    <display-name lang="en">beIN sports 10</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD10.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20210131021100 +0000" stop="20210131051100 +0000" channel="HD1 English">
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131051100 +0000" stop="20210131072900 +0000" channel="HD1 English">
+    <title>Arsenal vs Manchester United - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131072900 +0000" stop="20210131100000 +0000" channel="HD1 English">
+    <title lang="en">Internazionale vs Benevento - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131100000 +0000" stop="20210131110000 +0000" channel="HD1 English">
+    <title lang="en">This Evening</title>
+    <title lang="ar">هذا المساء</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131110000 +0000" stop="20210131111500 +0000" channel="HD1 English">
+    <title lang="en">What You Missed  Ep.19</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210131111500 +0000" stop="20210131113000 +0000" channel="HD1 English">
+    <title lang="en">Do You Know? Ep.9</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131113000 +0000" stop="20210131135800 +0000" channel="HD1 English">
+    <title lang="en">Chelsea vs Burnley - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131135800 +0000" stop="20210131162800 +0000" channel="HD1 English">
+    <title lang="en">Lorient vs Paris Saint-Germain - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131162800 +0000" stop="20210131195800 +0000" channel="HD1 English">
+    <title lang="en">West Ham vs Liverpool - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131195800 +0000" stop="20210131221500 +0000" channel="HD1 English">
+    <title lang="en">Barcelona vs Athletic Bilbao - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131221500 +0000" stop="20210131231500 +0000" channel="HD1 English">
+    <title lang="en">This Evening</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131231500 +0000" stop="20210131234500 +0000" channel="HD1 English">
+    <title lang="en">CAF CL - Al Ahly .. The 9th Stars</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131234500 +0000" stop="20210201021500 +0000" channel="HD1 English">
+    <title lang="en">Chelsea vs Burnley - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201021500 +0000" stop="20210201044500 +0000" channel="HD1 English">
+    <title lang="en">Lorient vs Paris Saint-Germain - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210201044500 +0000" stop="20210201081500 +0000" channel="HD1 English">
+    <title lang="en">West Ham vs Liverpool - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201081500 +0000" stop="20210201103000 +0000" channel="HD1 English">
+    <title lang="en">Barcelona vs Athletic Bilbao - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201103000 +0000" stop="20210201113000 +0000" channel="HD1 English">
+    <title lang="en">This Evening</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201113000 +0000" stop="20210201133000 +0000" channel="HD1 English">
+    <title lang="en">Palmeiras (BRA) vs Santos (BRA) - Copa Libertadores 2020 Final</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210201133000 +0000" stop="20210201140000 +0000" channel="HD1 English">
+    <title lang="en">AFC CL – 2019 vs 2020 ULSAN Hyundai .. THE CHAMPION</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201140000 +0000" stop="20210201154500 +0000" channel="HD1 English">
+    <title lang="en">Arsenal vs Manchester United - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201154500 +0000" stop="20210201173000 +0000" channel="HD1 English">
+    <title lang="en">West Ham vs Liverpool - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201173000 +0000" stop="20210201183000 +0000" channel="HD1 English">
+    <title lang="en">Rally Dakar - Review Season 2021</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210201183000 +0000" stop="20210201203000 +0000" channel="HD1 English">
+    <title lang="en">Palmeiras (BRA) vs Santos (BRA) - Copa Libertadores 2020 Final</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210201203000 +0000" stop="20210201210000 +0000" channel="HD1 English">
+    <title lang="en">UEFA UCL Magazine 2020/2021 -Program Special</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201210000 +0000" stop="20210201213000 +0000" channel="HD1 English">
+    <title lang="en">Duhail, Road to FIFA Clubs World Cup</title>
+    <sub-title lang="en">FIFA Club World Cup</sub-title>
+  </programme>
+  <programme start="20210201213000 +0000" stop="20210201220000 +0000" channel="HD1 English">
+    <title lang="en">AFC CL – 2019 vs 2020 ULSAN Hyundai .. THE CHAMPION</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201220000 +0000" stop="20210201221500 +0000" channel="HD1 English">
+    <title lang="en">Tactical Series - Guardiola</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201221500 +0000" stop="20210201231500 +0000" channel="HD1 English">
+    <title lang="en">This Evening</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201231500 +0000" stop="20210202000000 +0000" channel="HD1 English">
+    <title lang="en">UEFA Documentary -Outraged Football Tackles Discrimination</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131001500 +0000" stop="20210131020000 +0000" channel="HD2 English">
+    <title lang="en">Manchester City vs Sheffield Utd - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131020000 +0000" stop="20210131023000 +0000" channel="HD2 English">
+    <title lang="en">UEFA Documentary -Outraged Football Tackles Discrimination</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131023000 +0000" stop="20210131041500 +0000" channel="HD2 English">
+    <title lang="en">Everton vs Newcastle - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131041500 +0000" stop="20210131060000 +0000" channel="HD2 English">
+    <title lang="en">Southampton vs Aston Villa - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131060000 +0000" stop="20210131070000 +0000" channel="HD2 English">
+    <title lang="en">This Evening</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131070000 +0000" stop="20210131073000 +0000" channel="HD2 English">
+    <title lang="en">EPL My Season - Eden Hazard  2014/15</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131073000 +0000" stop="20210131091500 +0000" channel="HD2 English">
+    <title lang="en">West Brom vs Fulham - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131091500 +0000" stop="20210131110000 +0000" channel="HD2 English">
+    <title lang="en">Manchester City vs Sheffield Utd - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131110000 +0000" stop="20210131112700 +0000" channel="HD2 English">
+    <title lang="en">EPL World 100 Teddy Sheringham</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131112700 +0000" stop="20210131115500 +0000" channel="HD2 English">
+    <title lang="en">Arsenal vs Man Utd - English Premier League 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131115500 +0000" stop="20210131135700 +0000" channel="HD2 English">
+    <title lang="en">Chelsea vs Burnley - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131135700 +0000" stop="20210131155700 +0000" channel="HD2 English">
+    <title lang="en">Leicester vs Leeds - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131155700 +0000" stop="20210131162500 +0000" channel="HD2 English">
+    <title lang="en">Man City vs Sheffield Utd - English Premier League 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131162500 +0000" stop="20210131182900 +0000" channel="HD2 English">
+    <title lang="en">West Ham vs Liverpool - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131182900 +0000" stop="20210131184300 +0000" channel="HD2 English">
+    <title lang="en">What You Missed  Ep.19</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210131184300 +0000" stop="20210131191200 +0000" channel="HD2 English">
+    <title lang="en">Arsenal vs Man Utd - English Premier League 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131191200 +0000" stop="20210131211500 +0000" channel="HD2 English">
+    <title lang="en">Brighton vs Tottenham - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131211500 +0000" stop="20210131213000 +0000" channel="HD2 English">
+    <title lang="en">Tactical Series - Guardiola</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131213000 +0000" stop="20210131223000 +0000" channel="HD2 English">
+    <title lang="en">EPL World  2020/2021 Ep.18</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131223000 +0000" stop="20210201001500 +0000" channel="HD2 English">
+    <title lang="en">Arsenal vs Manchester United - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201001500 +0000" stop="20210201020000 +0000" channel="HD2 English">
+    <title lang="en">Southampton vs Aston Villa - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201020000 +0000" stop="20210201023000 +0000" channel="HD2 English">
+    <title lang="en">EPL World 100 Ryan Giggs</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201023000 +0000" stop="20210201041500 +0000" channel="HD2 English">
+    <title lang="en">Everton vs Newcastle - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201041500 +0000" stop="20210201060000 +0000" channel="HD2 English">
+    <title lang="en">Manchester City vs Sheffield Utd - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201060000 +0000" stop="20210201070000 +0000" channel="HD2 English">
+    <title lang="en">This Evening</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201070000 +0000" stop="20210201073000 +0000" channel="HD2 English">
+    <title lang="en">EPL My Season - Luis Suarez 2013/14</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201073000 +0000" stop="20210201091500 +0000" channel="HD2 English">
+    <title lang="en">Chelsea vs Burnley - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201091500 +0000" stop="20210201110000 +0000" channel="HD2 English">
+    <title lang="en">Leicester vs Leeds - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201110000 +0000" stop="20210201120000 +0000" channel="HD2 English">
+    <title lang="en">UEFA UCL Magazine 2020/2021 -Group Stage Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201120000 +0000" stop="20210201130000 +0000" channel="HD2 English">
+    <title lang="en">This Evening</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201130000 +0000" stop="20210201133000 +0000" channel="HD2 English">
+    <title lang="en">Arsenal vs Man Utd - English Premier League 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201133000 +0000" stop="20210201151500 +0000" channel="HD2 English">
+    <title lang="en">West Ham vs Liverpool - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201151500 +0000" stop="20210201170000 +0000" channel="HD2 English">
+    <title lang="en">Brighton vs Tottenham - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201170000 +0000" stop="20210201180000 +0000" channel="HD2 English">
+    <title lang="en">EPL Greatest Goals - Chelsea</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210201180000 +0000" stop="20210201183000 +0000" channel="HD2 English">
+    <title lang="en">Man City vs Sheffield Utd - English Premier League 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201183000 +0000" stop="20210201190000 +0000" channel="HD2 English">
+    <title lang="en">Arsenal vs Man Utd - English Premier League 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201190000 +0000" stop="20210201193000 +0000" channel="HD2 English">
+    <title lang="en">West Ham vs Liverpool - English Premier League 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201193000 +0000" stop="20210201194500 +0000" channel="HD2 English">
+    <title lang="en">Do You Know? Ep.9</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201194500 +0000" stop="20210201214500 +0000" channel="HD2 English">
+    <title lang="en">Watford vs QPR - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210201214500 +0000" stop="20210201220000 +0000" channel="HD2 English">
+    <title lang="en">What You Missed  Ep.19</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210201220000 +0000" stop="20210201223000 +0000" channel="HD2 English">
+    <title lang="en">Gary Neville's Soccerbox - Matt Le Tissier</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201223000 +0000" stop="20210202001500 +0000" channel="HD2 English">
+    <title lang="en">Chelsea vs Burnley - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131001900 +0000" stop="20210131020300 +0000" channel="HD3 English">
+    <title lang="en">Real Madrid vs Levante - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131020300 +0000" stop="20210131025800 +0000" channel="HD3 English">
+    <title lang="en">La Liga Top Goals 2020/2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131025800 +0000" stop="20210131044500 +0000" channel="HD3 English">
+    <title lang="en">Valencia vs Elche - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131044500 +0000" stop="20210131063000 +0000" channel="HD3 English">
+    <title lang="en">Villarreal vs Real Sociedad - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131063000 +0000" stop="20210131065900 +0000" channel="HD3 English">
+    <title lang="en">La Liga Chronicles 2020/2021 Ep.16</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131065900 +0000" stop="20210131084700 +0000" channel="HD3 English">
+    <title lang="en">Eibar vs Sevilla - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131084700 +0000" stop="20210131103100 +0000" channel="HD3 English">
+    <title lang="en">Real Madrid vs Levante - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131103100 +0000" stop="20210131121500 +0000" channel="HD3 English">
+    <title lang="en">Villarreal vs Real Sociedad - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131121500 +0000" stop="20210131123800 +0000" channel="HD3 English">
+    <title lang="en">AT MD - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131123800 +0000" stop="20210131125500 +0000" channel="HD3 English">
+    <title lang="en">What You Missed  Ep.19</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210131125500 +0000" stop="20210131151000 +0000" channel="HD3 English">
+    <title lang="en">Getafe vs Deportivo Alavés - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131151000 +0000" stop="20210131172500 +0000" channel="HD3 English">
+    <title lang="en">Cádiz vs Atletico Madrid - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131172500 +0000" stop="20210131193000 +0000" channel="HD3 English">
+    <title lang="en">Granada vs Celta Vigo - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131193000 +0000" stop="20210131195600 +0000" channel="HD3 English">
+    <title lang="en">BARCELONA - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131195600 +0000" stop="20210131220000 +0000" channel="HD3 English">
+    <title lang="en">Barcelona vs Athletic Bilbao - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131220000 +0000" stop="20210131223000 +0000" channel="HD3 English">
+    <title lang="en">LaLiga Top Moments  2020/2021 Ep.4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131223000 +0000" stop="20210201001500 +0000" channel="HD3 English">
+    <title lang="en">Getafe vs Deportivo Alavés - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201001500 +0000" stop="20210201020000 +0000" channel="HD3 English">
+    <title lang="en">Cádiz vs Atletico Madrid - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201020000 +0000" stop="20210201030000 +0000" channel="HD3 English">
+    <title lang="en">LaLiga Talking Football  2020/2021 Ep.4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201030000 +0000" stop="20210201044500 +0000" channel="HD3 English">
+    <title lang="en">Granada vs Celta Vigo - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201044500 +0000" stop="20210201063000 +0000" channel="HD3 English">
+    <title lang="en">Barcelona vs Athletic Bilbao - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201063000 +0000" stop="20210201070000 +0000" channel="HD3 English">
+    <title lang="en">LA LIGA - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201070000 +0000" stop="20210201084500 +0000" channel="HD3 English">
+    <title lang="en">Getafe vs Deportivo Alavés - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201084500 +0000" stop="20210201103000 +0000" channel="HD3 English">
+    <title lang="en">Cádiz vs Atletico Madrid - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201103000 +0000" stop="20210201113000 +0000" channel="HD3 English">
+    <title lang="en">Europa League 2020/2021 Magazine - Group Stage Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201113000 +0000" stop="20210201131500 +0000" channel="HD3 English">
+    <title lang="en">Granada vs Celta Vigo - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201131500 +0000" stop="20210201150000 +0000" channel="HD3 English">
+    <title lang="en">Barcelona vs Athletic Bilbao - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201150000 +0000" stop="20210201153000 +0000" channel="HD3 English">
+    <title lang="en">RL MD - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201153000 +0000" stop="20210201172000 +0000" channel="HD3 English">
+    <title lang="en">Eibar vs Sevilla - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201172000 +0000" stop="20210201190000 +0000" channel="HD3 English">
+    <title lang="en">Real Madrid vs Levante - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201190000 +0000" stop="20210201193000 +0000" channel="HD3 English">
+    <title lang="en">Cadiz vs Atletico Madrid - Mini Match - Spanish La Liga 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201193000 +0000" stop="20210201200000 +0000" channel="HD3 English">
+    <title lang="en">Barcelona vs Athletic Bilbao - Mini Match - Spanish La Liga 2020/21 Mini Match</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201200000 +0000" stop="20210201220000 +0000" channel="HD3 English">
+    <title lang="en">Real Betis vs Osasuna - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210201220000 +0000" stop="20210201223000 +0000" channel="HD3 English">
+    <title lang="en">BARCELONA - BEST GOALS 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201223000 +0000" stop="20210202001500 +0000" channel="HD3 English">
+    <title lang="en">Valencia vs Elche - Spanish La Liga 2020/2021 Week 21</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
+  </programme>
+  <programme start="20210131001400 +0000" stop="20210131020000 +0000" channel="HD4 English">
+    <title lang="en">Sampdoria vs Juventus - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131020000 +0000" stop="20210131023000 +0000" channel="HD4 English">
+    <title lang="en">La Gloria Eterna - Flamengo’s victory Ep.1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131023000 +0000" stop="20210131041600 +0000" channel="HD4 English">
+    <title lang="en">Internazionale vs Benevento - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131041600 +0000" stop="20210131060000 +0000" channel="HD4 English">
+    <title lang="en">Bologna vs Milan - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131060000 +0000" stop="20210131070000 +0000" channel="HD4 English">
+    <title lang="en">UEFA Series – Man In the Middle EP4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131070000 +0000" stop="20210131084500 +0000" channel="HD4 English">
+    <title lang="en">Sampdoria vs Juventus - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131084500 +0000" stop="20210131102700 +0000" channel="HD4 English">
+    <title lang="en">Torino vs Fiorentina - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131102700 +0000" stop="20210131105400 +0000" channel="HD4 English">
+    <title lang="en">UEFA UCL Magazine 2020/2021 -Program Special</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131105400 +0000" stop="20210131110900 +0000" channel="HD4 English">
+    <title lang="en">Tactical Series - Guardiola</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131110900 +0000" stop="20210131112500 +0000" channel="HD4 English">
+    <title lang="en">What You Missed  Ep.19</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210131112500 +0000" stop="20210131133000 +0000" channel="HD4 English">
+    <title lang="en">Spezia vs Udinese - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131133000 +0000" stop="20210131140000 +0000" channel="HD4 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131140000 +0000" stop="20210131160000 +0000" channel="HD4 English">
+    <title lang="en">Atalanta vs Lazio - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131160000 +0000" stop="20210131162800 +0000" channel="HD4 English">
+    <title lang="en">Bologna vs Milan - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131162800 +0000" stop="20210131165700 +0000" channel="HD4 English">
+    <title lang="en">Sampdoria vs Juventus - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131165700 +0000" stop="20210131190000 +0000" channel="HD4 English">
+    <title lang="en">Napoli vs Parma - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131190000 +0000" stop="20210131192800 +0000" channel="HD4 English">
+    <title lang="en">Inter vs Benevento - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131192800 +0000" stop="20210131194500 +0000" channel="HD4 English">
+    <title lang="en">Do You Know? Ep.9</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131194500 +0000" stop="20210131214500 +0000" channel="HD4 English">
+    <title lang="en">Roma vs Hellas Verona - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131214500 +0000" stop="20210131220000 +0000" channel="HD4 English">
+    <title lang="en">Do You Know? Ep.9</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131220000 +0000" stop="20210131223000 +0000" channel="HD4 English">
+    <title lang="en">UEFA Documentary -Outraged Football Tackles Discrimination</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131223000 +0000" stop="20210201001500 +0000" channel="HD4 English">
+    <title lang="en">Spezia vs Udinese - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201001500 +0000" stop="20210201020000 +0000" channel="HD4 English">
+    <title lang="en">Atalanta vs Lazio - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201020000 +0000" stop="20210201023000 +0000" channel="HD4 English">
+    <title lang="en">La Gloria Eterna - Flamengo’s victory  Ep.2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201023000 +0000" stop="20210201041500 +0000" channel="HD4 English">
+    <title lang="en">Napoli vs Parma - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201041500 +0000" stop="20210201060000 +0000" channel="HD4 English">
+    <title lang="en">Roma vs Hellas Verona - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201060000 +0000" stop="20210201063000 +0000" channel="HD4 English">
+    <title lang="en">Football's Greatest - Marcel Desailly</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201063000 +0000" stop="20210201070000 +0000" channel="HD4 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201070000 +0000" stop="20210201084500 +0000" channel="HD4 English">
+    <title lang="en">Spezia vs Udinese - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201084500 +0000" stop="20210201103000 +0000" channel="HD4 English">
+    <title lang="en">Atalanta vs Lazio - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201103000 +0000" stop="20210201110000 +0000" channel="HD4 English">
+    <title lang="en">Bologna vs Milan - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201110000 +0000" stop="20210201124500 +0000" channel="HD4 English">
+    <title lang="en">Napoli vs Parma - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201124500 +0000" stop="20210201143000 +0000" channel="HD4 English">
+    <title lang="en">Roma vs Hellas Verona - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201143000 +0000" stop="20210201153000 +0000" channel="HD4 English">
+    <title lang="en">EURO 2020 QUALIFIERS  - Highlights (PO FINAL)</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201153000 +0000" stop="20210201171500 +0000" channel="HD4 English">
+    <title lang="en">Internazionale vs Benevento - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201171500 +0000" stop="20210201190000 +0000" channel="HD4 English">
+    <title lang="en">Bologna vs Milan - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201190000 +0000" stop="20210201193000 +0000" channel="HD4 English">
+    <title lang="en">Atalanta vs Lazio - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201193000 +0000" stop="20210201200000 +0000" channel="HD4 English">
+    <title lang="en">Sampdoria vs Juventus - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201200000 +0000" stop="20210201203000 +0000" channel="HD4 English">
+    <title lang="en">Euro Additional Programming</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201203000 +0000" stop="20210201210000 +0000" channel="HD4 English">
+    <title lang="en">UEFA Documentary -Outraged Football Tackles Discrimination</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201210000 +0000" stop="20210201220000 +0000" channel="HD4 English">
+    <title lang="en">UEFA Series – Man In the Middle EP4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201220000 +0000" stop="20210201223000 +0000" channel="HD4 English">
+    <title lang="en">Bologna vs Milan - Mini Match Italian Serie A 2020/21</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201223000 +0000" stop="20210202001500 +0000" channel="HD4 English">
+    <title lang="en">Sampdoria vs Juventus - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131011500 +0000" stop="20210131030000 +0000" channel="HD5 English">
+    <title lang="en">Sheffield Wednesday vs  Preston North End - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210131030000 +0000" stop="20210131033000 +0000" channel="HD5 English">
+    <title lang="en">Sporting Countdowns -Controversies</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131033000 +0000" stop="20210131035800 +0000" channel="HD5 English">
+    <title lang="en">Ali Bennaceur : The Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131035800 +0000" stop="20210131070300 +0000" channel="HD5 English">
+    <title lang="en">Palmeiras (BRA) vs Santos (BRA) - Copa Libertadores 2020 Final</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210131070300 +0000" stop="20210131073000 +0000" channel="HD5 English">
+    <title lang="en">250 Great Goals - Ep.1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131073000 +0000" stop="20210131091500 +0000" channel="HD5 English">
+    <title lang="en">Norwich City vs Middlesbrough - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210131091500 +0000" stop="20210131110000 +0000" channel="HD5 English">
+    <title lang="en">Sheffield Wednesday vs  Preston North End - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210131110000 +0000" stop="20210131113000 +0000" channel="HD5 English">
+    <title lang="en">AFC CL – 2019 vs 2020 ULSAN Hyundai .. THE CHAMPION</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131113000 +0000" stop="20210131132800 +0000" channel="HD5 English">
+    <title lang="en">Lanús (ARG) vs Defensa y Justicia (ARG) - Copa Sudamericana 2020 Final</title>
+    <sub-title lang="en">Copa Sudamericana</sub-title>
+  </programme>
+  <programme start="20210131132800 +0000" stop="20210131135500 +0000" channel="HD5 English">
+    <title lang="en">Duhail, Road to FIFA Clubs World Cup</title>
+    <sub-title lang="en">FIFA Club World Cup</sub-title>
+  </programme>
+  <programme start="20210131135500 +0000" stop="20210131160000 +0000" channel="HD5 English">
+    <title lang="en">Cagliari vs Sassuolo - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210131160000 +0000" stop="20210131163000 +0000" channel="HD5 English">
+    <title lang="en">CAF CL - Al Ahly .. The 9th Stars</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131163000 +0000" stop="20210131183000 +0000" channel="HD5 English">
+    <title lang="en">Pyramids (EGY) vs RS Berkane (MOR) -  CAF Confederation Cup 2019/2020 - Final</title>
+    <sub-title lang="en">CAF Confederation Cup</sub-title>
+  </programme>
+  <programme start="20210131183000 +0000" stop="20210131190000 +0000" channel="HD5 English">
+    <title lang="en">250 Great Goals - Ep.1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131190000 +0000" stop="20210131210000 +0000" channel="HD5 English">
+    <title lang="en">Palmeiras (BRA) vs Santos (BRA) - Copa Libertadores 2020 Final</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210131210000 +0000" stop="20210131230000 +0000" channel="HD5 English">
+    <title lang="en">Zamalek (EGY) vs Al Ahly (EGY) -CAF Champions League 2019/20 - Final</title>
+    <sub-title lang="en">CAF Champions league</sub-title>
+  </programme>
+  <programme start="20210131230000 +0000" stop="20210131233000 +0000" channel="HD5 English">
+    <title lang="en">Lanús (ARG) vs Defensa y Justicia (ARG) - Mini Match - Copa Sudamerica 2020</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131233000 +0000" stop="20210201011500 +0000" channel="HD5 English">
+    <title lang="en">Cagliari vs Sassuolo - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201011500 +0000" stop="20210201030000 +0000" channel="HD5 English">
+    <title lang="en">Medipol Başakşehir vs  Atakaş Hatayspor - Turkish Super League 2020/2021 Highlights Ep.19</title>
+    <sub-title lang="en">Turkish Cup</sub-title>
+  </programme>
+  <programme start="20210201030000 +0000" stop="20210201033000 +0000" channel="HD5 English">
+    <title lang="en">Sporting Countdowns -Pioneers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201033000 +0000" stop="20210201053000 +0000" channel="HD5 English">
+    <title lang="en">Persepolis (IRN) vs Ulsan Hyundai (KOR) - AFC Champions League 2020 - Final</title>
+    <sub-title lang="en">AFC Champions League</sub-title>
+  </programme>
+  <programme start="20210201053000 +0000" stop="20210201073000 +0000" channel="HD5 English">
+    <title lang="en">Zamalek (EGY) vs Al Ahly (EGY) -CAF Champions League 2019/20 - Final</title>
+    <sub-title lang="en">CAF Champions league</sub-title>
+  </programme>
+  <programme start="20210201073000 +0000" stop="20210201080000 +0000" channel="HD5 English">
+    <title lang="en">250 Great Goals - Ep.2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201080000 +0000" stop="20210201094500 +0000" channel="HD5 English">
+    <title lang="en">Cagliari vs Sassuolo - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201094500 +0000" stop="20210201113000 +0000" channel="HD5 English">
+    <title lang="en">Crotone vs Genoa - Italian Serie A 2020/2021 Week 20</title>
+    <sub-title lang="en">Italian League - Serie A</sub-title>
+  </programme>
+  <programme start="20210201113000 +0000" stop="20210201120000 +0000" channel="HD5 English">
+    <title lang="en">Temple of Sport - Anfield</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201120000 +0000" stop="20210201140000 +0000" channel="HD5 English">
+    <title lang="en">Lanús (ARG) vs Defensa y Justicia (ARG) - Copa Sudamericana 2020 Final</title>
+    <sub-title lang="en">Copa Sudamericana</sub-title>
+  </programme>
+  <programme start="20210201140000 +0000" stop="20210201143000 +0000" channel="HD5 English">
+    <title lang="en">Ali Bennaceur : The Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201143000 +0000" stop="20210201163000 +0000" channel="HD5 English">
+    <title lang="en">Palmeiras (BRA) vs Santos (BRA) - Copa Libertadores 2020 Final</title>
+    <sub-title lang="en">Copa Libertadores</sub-title>
+  </programme>
+  <programme start="20210201163000 +0000" stop="20210201170000 +0000" channel="HD5 English">
+    <title lang="en">250 Great Goals - Ep.2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201170000 +0000" stop="20210201184500 +0000" channel="HD5 English">
+    <title lang="en">Norwich City vs Middlesbrough - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210201184500 +0000" stop="20210201203000 +0000" channel="HD5 English">
+    <title lang="en">Sheffield Wednesday vs  Preston North End - EFL-English Football League - Championship 2020/21</title>
+    <sub-title lang="en">English League - Championship</sub-title>
+  </programme>
+  <programme start="20210201203000 +0000" stop="20210201210000 +0000" channel="HD5 English">
+    <title lang="en">AFC CL – 2019 vs 2020 ULSAN Hyundai .. THE CHAMPION</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201210000 +0000" stop="20210201213000 +0000" channel="HD5 English">
+    <title lang="en">CAF CL - Al Ahly .. The 9th Stars</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201213000 +0000" stop="20210201220000 +0000" channel="HD5 English">
+    <title lang="en">The Best Football Funnies 2020 Ep.1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201220000 +0000" stop="20210202000000 +0000" channel="HD5 English">
+    <title lang="en">Pyramids (EGY) vs RS Berkane (MOR) -  CAF Confederation Cup 2019/2020 - Final</title>
+    <sub-title lang="en">CAF Confederation Cup</sub-title>
+  </programme>
+  <programme start="20210131011500 +0000" stop="20210131030000 +0000" channel="HD6 English">
+    <title lang="en">Rennais vs Lille - French Ligue 1 2020/2021 Week 21</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131030000 +0000" stop="20210131033000 +0000" channel="HD6 English">
+    <title lang="en">Best of Mbappe 2020 - ligue 1 - Special Documentary Ligue 1 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131033000 +0000" stop="20210131051500 +0000" channel="HD6 English">
+    <title lang="en">Troyes vs Auxerre - French Ligue 2 - 2020/2021</title>
+    <sub-title lang="en">French League - Ligue 2</sub-title>
+  </programme>
+  <programme start="20210131051500 +0000" stop="20210131070000 +0000" channel="HD6 English">
+    <title lang="en">Lyon vs Bordeaux - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131070000 +0000" stop="20210131073000 +0000" channel="HD6 English">
+    <title lang="en">Duhail, Road to FIFA Clubs World Cup</title>
+    <sub-title lang="en">FIFA Club World Cup</sub-title>
+  </programme>
+  <programme start="20210131073000 +0000" stop="20210131091500 +0000" channel="HD6 English">
+    <title lang="en">Montpellier vs Lens - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131091500 +0000" stop="20210131110000 +0000" channel="HD6 English">
+    <title lang="en">Troyes vs Auxerre - French Ligue 2 - 2020/2021</title>
+    <sub-title lang="en">French League - Ligue 2</sub-title>
+  </programme>
+  <programme start="20210131110000 +0000" stop="20210131112500 +0000" channel="HD6 English">
+    <title lang="en">PSG - Best Goals 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131112500 +0000" stop="20210131115500 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 17</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131115500 +0000" stop="20210131135000 +0000" channel="HD6 English">
+    <title lang="en">Nice vs Saint-Étienne - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131135000 +0000" stop="20210131155500 +0000" channel="HD6 English">
+    <title lang="en">Brest vs Metz - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131155500 +0000" stop="20210131180000 +0000" channel="HD6 English">
+    <title lang="en">Lille vs Dijon - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131180000 +0000" stop="20210131183000 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 17</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131183000 +0000" stop="20210131190000 +0000" channel="HD6 English">
+    <title lang="en">Ligue 1 - Best Goals 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131190000 +0000" stop="20210131193000 +0000" channel="HD6 English">
+    <title lang="en">Lyon vs Bordeaux - Mini Match - French Ligue 1 2020/2021</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131193000 +0000" stop="20210131195500 +0000" channel="HD6 English">
+    <title lang="en">Marseille vs Rennes - Mini Match - French Ligue 1 2020/2021</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131195500 +0000" stop="20210131220000 +0000" channel="HD6 English">
+    <title lang="en">Nantes vs Monaco - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131220000 +0000" stop="20210131223000 +0000" channel="HD6 English">
+    <title lang="en">AFC CL – 2019 vs 2020 ULSAN Hyundai .. THE CHAMPION</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131223000 +0000" stop="20210131233000 +0000" channel="HD6 English">
+    <title lang="en">Paradou Academy…. BAREFOOT</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131233000 +0000" stop="20210201011500 +0000" channel="HD6 English">
+    <title lang="en">Nice vs Saint-Étienne - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210201135500 +0000" stop="20210201155500 +0000" channel="HD6 English">
+    <title lang="en">Lorient vs Paris Saint-Germain - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210201155500 +0000" stop="20210201180000 +0000" channel="HD6 English">
+    <title lang="en">Lille vs Dijon - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210201180000 +0000" stop="20210201183000 +0000" channel="HD6 English">
+    <title lang="en">This Is Paris 2020/2021 - EP 17</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201183000 +0000" stop="20210201185700 +0000" channel="HD6 English">
+    <title lang="en">Ligue 1 - Best Goals 2020 /2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201185700 +0000" stop="20210201192500 +0000" channel="HD6 English">
+    <title lang="en">Duhail, Road to FIFA Clubs World Cup</title>
+    <sub-title lang="en">FIFA Club World Cup</sub-title>
+  </programme>
+  <programme start="20210201192500 +0000" stop="20210201195500 +0000" channel="HD6 English">
+    <title lang="en">Lyon vs Bordeaux - Mini Match - French Ligue 1 2020/2021</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131000000 +0000" stop="20210131010000 +0000" channel="HD7 English">
+    <title lang="en">Key of Success : Dr. Nebojsa Popovic</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131010000 +0000" stop="20210131013000 +0000" channel="HD7 English">
+    <title lang="en">Football's Greatest -Samuel Eto'o</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131013000 +0000" stop="20210131020000 +0000" channel="HD7 English">
+    <title lang="en">NBA - Art of the Triple Double - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131020000 +0000" stop="20210131043000 +0000" channel="HD7 English">
+    <title lang="en">Phoenix vs Dallas - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210131043000 +0000" stop="20210131061600 +0000" channel="HD7 English">
+    <title lang="en">DR Congo vs Cameroon - QF 2 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131061600 +0000" stop="20210131064600 +0000" channel="HD7 English">
+    <title lang="en">beIN Exclusive: President of the Olympic Council of Asia</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131064600 +0000" stop="20210131091900 +0000" channel="HD7 English">
+    <title lang="en">Mali vs Congo - QF1 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131091900 +0000" stop="20210131110800 +0000" channel="HD7 English">
+    <title lang="en">Phoenix vs Dallas - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210131110800 +0000" stop="20210131125500 +0000" channel="HD7 English">
+    <title lang="en">DR Congo vs Cameroon - QF 2 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131125500 +0000" stop="20210131153000 +0000" channel="HD7 English">
+    <title lang="en">Mali vs Congo - QF1 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131153000 +0000" stop="20210131183000 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Zambia - QF 3 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131183000 +0000" stop="20210131185500 +0000" channel="HD7 English">
+    <title lang="en">Mali vs Congo - Quarter Final - Mini Matches CHAN 2020</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210131185500 +0000" stop="20210131210000 +0000" channel="HD7 English">
+    <title lang="en">Guinea vs Rwanda - QF 4 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131210000 +0000" stop="20210131213000 +0000" channel="HD7 English">
+    <title lang="en">ALL Goal's - African Nations Championship 2020 – CHAN</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131213000 +0000" stop="20210131223000 +0000" channel="HD7 English">
+    <title lang="en">Game of My Life - Wael Gomaa and Mohamed Aboutrika</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131223000 +0000" stop="20210201013000 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Zambia - QF 3 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210201150000 +0000" stop="20210201153000 +0000" channel="HD7 English">
+    <title lang="en">ALL Goal's - African Nations Championship 2020 – CHAN</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210201153000 +0000" stop="20210201182500 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Zambia - QF 3 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210201182500 +0000" stop="20210201185500 +0000" channel="HD7 English">
+    <title lang="en">Mali vs Congo - Quarter Final - Mini Matches CHAN 2020</title>
+    <sub-title lang="en">Mini Matches</sub-title>
+  </programme>
+  <programme start="20210201185500 +0000" stop="20210201210000 +0000" channel="HD7 English">
+    <title lang="en">Guinea vs Rwanda - QF 4 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210201210000 +0000" stop="20210201213000 +0000" channel="HD7 English">
+    <title lang="en">ALL Goal's - African Nations Championship 2020 – CHAN</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210201213000 +0000" stop="20210201223000 +0000" channel="HD7 English">
+    <title lang="en">Game of My Life - Wael Gomaa and Mohamed Aboutrika</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201223000 +0000" stop="20210202013000 +0000" channel="HD7 English">
+    <title lang="en">Morocco vs Zambia - QF 3 - 2020 African Nations Championship (CHAN2020)</title>
+    <sub-title lang="en">African Nations Championship</sub-title>
+  </programme>
+  <programme start="20210131010000 +0000" stop="20210131013000 +0000" channel="HD8 English">
+    <title lang="en">NBA - Thierry Henry &amp; Larry Bird The Conversation - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131013000 +0000" stop="20210131040000 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Boston - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210131040000 +0000" stop="20210131043000 +0000" channel="HD8 English">
+    <title lang="en">Motor Sports - FASTZONE 20/21</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131043000 +0000" stop="20210131061500 +0000" channel="HD8 English">
+    <title lang="en">Medipol Başakşehir vs  Atakaş Hatayspor - Turkish Super League 2020/2021 Highlights Ep.19</title>
+    <sub-title lang="en">Turkish Cup</sub-title>
+  </programme>
+  <programme start="20210131061500 +0000" stop="20210131080000 +0000" channel="HD8 English">
+    <title lang="en">Crystal Palace vs Wolves - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131080000 +0000" stop="20210131100000 +0000" channel="HD8 English">
+    <title lang="en">Milwaukee vs New Orleans - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210131100000 +0000" stop="20210131114500 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Boston - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210131114500 +0000" stop="20210131135000 +0000" channel="HD8 English">
+    <title lang="en">Crystal Palace vs Wolves - English Premier League 2020/2021 Week 21</title>
+    <sub-title lang="en">English Premier League</sub-title>
+  </programme>
+  <programme start="20210131135000 +0000" stop="20210131160000 +0000" channel="HD8 English">
+    <title lang="en">Angers vs Nimes - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131160000 +0000" stop="20210131170000 +0000" channel="HD8 English">
+    <title lang="en">Rally Dakar - Review Season 2021</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210131170000 +0000" stop="20210131173000 +0000" channel="HD8 English">
+    <title lang="en">Motor Sports - FASTZONE 20/21</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131173000 +0000" stop="20210131180000 +0000" channel="HD8 English">
+    <title lang="en">NBA Action 2020/2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131180000 +0000" stop="20210131203000 +0000" channel="HD8 English">
+    <title lang="en">L.A.Clippers vs New Your Knicks - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210131203000 +0000" stop="20210131230000 +0000" channel="HD8 English">
+    <title lang="en">Utah vs Denver - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210131230000 +0000" stop="20210131233000 +0000" channel="HD8 English">
+    <title lang="en">Motor Sports - FASTZONE 20/21</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131233000 +0000" stop="20210201013000 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Boston - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201013000 +0000" stop="20210201031500 +0000" channel="HD8 English">
+    <title lang="en">Strasbourg vs Reims - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210201031500 +0000" stop="20210201050000 +0000" channel="HD8 English">
+    <title lang="en">Angers vs Nimes - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210201050000 +0000" stop="20210201070000 +0000" channel="HD8 English">
+    <title lang="en">L.A.Clippers vs New Your Knicks - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201070000 +0000" stop="20210201080000 +0000" channel="HD8 English">
+    <title lang="en">NBA - Allen Iverson_ The Answer - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201080000 +0000" stop="20210201100000 +0000" channel="HD8 English">
+    <title lang="en">Utah vs Denver - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201100000 +0000" stop="20210201120000 +0000" channel="HD8 English">
+    <title lang="en">Milwaukee vs New Orleans - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201120000 +0000" stop="20210201123000 +0000" channel="HD8 English">
+    <title lang="en">NBA - Art of the Triple Double - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201123000 +0000" stop="20210201143000 +0000" channel="HD8 English">
+    <title lang="en">L.A. Lakers vs Boston - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201143000 +0000" stop="20210201163000 +0000" channel="HD8 English">
+    <title lang="en">Milwaukee vs New Orleans - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201163000 +0000" stop="20210201170000 +0000" channel="HD8 English">
+    <title lang="en">NBA Action 2020/2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201170000 +0000" stop="20210201190000 +0000" channel="HD8 English">
+    <title lang="en">Phoenix vs Dallas - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201190000 +0000" stop="20210201210000 +0000" channel="HD8 English">
+    <title lang="en">L.A.Clippers vs New Your Knicks - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201210000 +0000" stop="20210201213000 +0000" channel="HD8 English">
+    <title lang="en">NBA Action 2020/2021</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201213000 +0000" stop="20210201233000 +0000" channel="HD8 English">
+    <title lang="en">L.A.Clippers vs New Your Knicks - NBA Regular Season 2020/2021</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20210201233000 +0000" stop="20210202003000 +0000" channel="HD8 English">
+    <title lang="en">NBA - Allen Iverson_ The Answer - NBA Original Programming 2019/2020</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131000000 +0000" stop="20210131020000 +0000" channel="HD9 English">
+    <title lang="en">RODIONOVA Arina (AUS)vs GARCIA Caroline (FRA) - Margaret Court Arena - Melbourne Summer Series WTA 5</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131020000 +0000" stop="20210131040000 +0000" channel="HD9 English">
+    <title lang="en">SHARMA Astra (AUS) vs KANEPI Kaia (EST) - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131040000 +0000" stop="20210131060000 +0000" channel="HD9 English">
+    <title lang="en">KUZMOVA Viktoria (SVK) vs GAVRILOVA Daria (AUS) - Margaret Court Arena - Melbourne Summer Series WTA</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131060000 +0000" stop="20210131080000 +0000" channel="HD9 English">
+    <title lang="en">STOSUR Samantha (AUS) vs BOUZKOVA Marie (CZE) - Margaret Court Arena - Melbourne Summer Series WTA 5</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131080000 +0000" stop="20210131100000 +0000" channel="HD9 English">
+    <title lang="en">RUS Arantxa (NED) vs WILLIAMS Venus (USA) - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131100000 +0000" stop="20210131110000 +0000" channel="HD9 English">
+    <title lang="en">Restored - Official Film Wimbledon 2001</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131110000 +0000" stop="20210131130000 +0000" channel="HD9 English">
+    <title lang="en">RODIONOVA Arina (AUS)vs GARCIA Caroline (FRA) - Margaret Court Arena - Melbourne Summer Series WTA 5</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131130000 +0000" stop="20210131135000 +0000" channel="HD9 English">
+    <title lang="en">Sports Clinic -Hand Injuries</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131135000 +0000" stop="20210131160000 +0000" channel="HD9 English">
+    <title lang="en">Strasbourg vs Reims - French Ligue 1 2020/2021 Week 22</title>
+    <sub-title lang="en">French League - Ligue 1</sub-title>
+  </programme>
+  <programme start="20210131160000 +0000" stop="20210131170000 +0000" channel="HD9 English">
+    <title lang="en">Restored - Official Film Wimbledon 2002</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131170000 +0000" stop="20210131190000 +0000" channel="HD9 English">
+    <title lang="en">SHARMA Astra (AUS) vs KANEPI Kaia (EST) - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131190000 +0000" stop="20210131210000 +0000" channel="HD9 English">
+    <title lang="en">KUZMOVA Viktoria (SVK) vs GAVRILOVA Daria (AUS) - Margaret Court Arena - Melbourne Summer Series WTA</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131210000 +0000" stop="20210131230000 +0000" channel="HD9 English">
+    <title lang="en">STOSUR Samantha (AUS) vs BOUZKOVA Marie (CZE) - Margaret Court Arena - Melbourne Summer Series WTA 5</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131230000 +0000" stop="20210201000000 +0000" channel="HD9 English">
+    <title lang="en">Best Of Australian Open 2020</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210201000000 +0000" stop="20210201020000 +0000" channel="HD9 English">
+    <title lang="en">Match 1 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201020000 +0000" stop="20210201040000 +0000" channel="HD9 English">
+    <title lang="en">Match 2 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201040000 +0000" stop="20210201060000 +0000" channel="HD9 English">
+    <title lang="en">Match 3 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201060000 +0000" stop="20210201080000 +0000" channel="HD9 English">
+    <title lang="en">Match 4 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201080000 +0000" stop="20210201090000 +0000" channel="HD9 English">
+    <title lang="en">ATP Masters 1000 Season Review Show</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201090000 +0000" stop="20210201103000 +0000" channel="HD9 English">
+    <title lang="en">Hubert Hurkacz (POL) vs Sebastian Korda (USA)  - ATP 250 Delray Beach Open 2021 - Final</title>
+    <category lang="en">Tennis - ATP 250</category>
+  </programme>
+  <programme start="20210201103000 +0000" stop="20210201120000 +0000" channel="HD9 English">
+    <title lang="en">Aryna Sabalenka (BLR) vs Veronika Kudermetova (RUS) - Tennis WTA 500 - Final -  Abu Dhabi WTA</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201120000 +0000" stop="20210201123000 +0000" channel="HD9 English">
+    <title lang="en">Sports Clinic -Hand Injuries</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201123000 +0000" stop="20210201143000 +0000" channel="HD9 English">
+    <title lang="en">Match 1 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201143000 +0000" stop="20210201163000 +0000" channel="HD9 English">
+    <title lang="en">Match 2 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201163000 +0000" stop="20210201183000 +0000" channel="HD9 English">
+    <title lang="en">Match 3 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201183000 +0000" stop="20210201203000 +0000" channel="HD9 English">
+    <title lang="en">Match 4 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201203000 +0000" stop="20210201210000 +0000" channel="HD9 English">
+    <title lang="en">Sofia Kenin (USA) vs Garbine Muguruza (ESP) -  Australian Open 2020 M2 D13 -Women's Singles Final</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210201210000 +0000" stop="20210201213000 +0000" channel="HD9 English">
+    <title lang="en">WTA All Access Magazine Show</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201213000 +0000" stop="20210201233000 +0000" channel="HD9 English">
+    <title lang="en">Match 1 - Margaret Court Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201233000 +0000" stop="20210202000000 +0000" channel="HD9 English">
+    <title lang="en">Dominic Thiem (AUT) vs Novak Djokovic (SRB) - Australian Open 2020 M2D14 Men's Singles Final</title>
+    <sub-title lang="en">Leagues Summary</sub-title>
+  </programme>
+  <programme start="20210131000000 +0000" stop="20210131020000 +0000" channel="HD10 English">
+    <title lang="en">BUZARNESCU Mihaela (ROU) vs KASATKINA Daria (RUS)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131020000 +0000" stop="20210131040000 +0000" channel="HD10 English">
+    <title lang="en">PETERSON Rebecca (SWE) vs INGLIS Maddison (AUS)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131040000 +0000" stop="20210131060000 +0000" channel="HD10 English">
+    <title lang="en">OSTAPENKO Jelena (LAT) vs ERRANI Sara (ITA) - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131060000 +0000" stop="20210131080000 +0000" channel="HD10 English">
+    <title lang="en">BIRRELL Kimberly (AUS) vs BARTHEL Mona (GER)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131080000 +0000" stop="20210131100000 +0000" channel="HD10 English">
+    <title lang="en">MLADENOVIC Kristina (FRA) vs PEGULA Jessica (USA)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131100000 +0000" stop="20210131103000 +0000" channel="HD10 English">
+    <title lang="en">The Power of One - How Majlinda Kelmendi’s historic Olympic medal put Kosovo on the map</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131103000 +0000" stop="20210131113000 +0000" channel="HD10 English">
+    <title lang="en">Classic Finals London2012  Men's Volleyball Final</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131113000 +0000" stop="20210131133000 +0000" channel="HD10 English">
+    <title lang="en">BUZARNESCU Mihaela (ROU) vs KASATKINA Daria (RUS)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131133000 +0000" stop="20210131153000 +0000" channel="HD10 English">
+    <title lang="en">PETERSON Rebecca (SWE) vs INGLIS Maddison (AUS)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131153000 +0000" stop="20210131173000 +0000" channel="HD10 English">
+    <title lang="en">OSTAPENKO Jelena (LAT) vs ERRANI Sara (ITA) - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131173000 +0000" stop="20210131193000 +0000" channel="HD10 English">
+    <title lang="en">BIRRELL Kimberly (AUS) vs BARTHEL Mona (GER)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131193000 +0000" stop="20210131213000 +0000" channel="HD10 English">
+    <title lang="en">MLADENOVIC Kristina (FRA) vs PEGULA Jessica (USA)- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210131213000 +0000" stop="20210131223000 +0000" channel="HD10 English">
+    <title lang="en">Classic Finals London2012  Men's Volleyball Final</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131223000 +0000" stop="20210131230000 +0000" channel="HD10 English">
+    <title lang="en">Hitting The Wall 2 - Fitness couple Austin Raye and Julian Daigre train like Olympians</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131230000 +0000" stop="20210131233000 +0000" channel="HD10 English">
+    <title lang="en">The Olympics On The Records</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210131233000 +0000" stop="20210201000000 +0000" channel="HD10 English">
+    <title lang="en">Against All Odds - The Santiago Lange story (extended version)</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201000000 +0000" stop="20210201020000 +0000" channel="HD10 English">
+    <title lang="en">Match 1 - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201020000 +0000" stop="20210201040000 +0000" channel="HD10 English">
+    <title lang="en">Match  2- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201040000 +0000" stop="20210201060000 +0000" channel="HD10 English">
+    <title lang="en">Match 3 - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201060000 +0000" stop="20210201080000 +0000" channel="HD10 English">
+    <title lang="en">Match 4 - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201080000 +0000" stop="20210201083000 +0000" channel="HD10 English">
+    <title lang="en">The Tech Race: The Tech Race 8</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201083000 +0000" stop="20210201093000 +0000" channel="HD10 English">
+    <title lang="en">Classical Finals Women’s Triathlon, London 2012</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201093000 +0000" stop="20210201113000 +0000" channel="HD10 English">
+    <title lang="en">Match 1 - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201113000 +0000" stop="20210201133000 +0000" channel="HD10 English">
+    <title lang="en">Match  2- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201133000 +0000" stop="20210201153000 +0000" channel="HD10 English">
+    <title lang="en">Match 3 - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201153000 +0000" stop="20210201173000 +0000" channel="HD10 English">
+    <title lang="en">Match 4 - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201173000 +0000" stop="20210201180000 +0000" channel="HD10 English">
+    <title lang="en">Anatomy of a mountain biker and a snowboarder</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201180000 +0000" stop="20210201183000 +0000" channel="HD10 English">
+    <title lang="en">Hitting The Wall - Brandon White</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201183000 +0000" stop="20210201193000 +0000" channel="HD10 English">
+    <title lang="en">Transform My Meal - Spain</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201193000 +0000" stop="20210201203000 +0000" channel="HD10 English">
+    <title lang="en">The Olympic Series -Stars of SaltLake 2002 Vol.4</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20210201203000 +0000" stop="20210201223000 +0000" channel="HD10 English">
+    <title lang="en">Match 1 - 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210201223000 +0000" stop="20210202003000 +0000" channel="HD10 English">
+    <title lang="en">Match  2- 1573 Arena - Melbourne Summer Series WTA 500</title>
+    <category lang="en">Tennis</category>
+  </programme>
+</tv>
