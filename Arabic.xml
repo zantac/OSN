@@ -45,6 +45,26 @@
     <icon src="http://content.osn.com/logo/channel/cropped/ACM.png" />
     <url>http://www.osn.com</url>
   </channel>
+  <channel id="MBC1">
+    <display-name lang="ar">MBC1</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBC Drama">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBC Egypt">
+    <display-name lang="ar">MBC Egypt</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBC Egypt 2">
+    <display-name lang="ar">MBC Egypt 2</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBC Iraq">
+    <display-name lang="ar">MBC Iraq</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
   <channel id="Cinema 1">
     <display-name lang="en">Cinema 1</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/CM1.png" />
@@ -2372,6 +2392,579 @@
     <title lang="ar">ART سينما</title>
     <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
     <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413021000 +0000" stop="20210413025900 +0000" channel="MBC1">
+    <title lang="ar">ليه لأ؟!</title>
+    <desc lang="ar">تنقلب حياة فتاة شابة رأسا على عقب عندما تقرر الهرب من كنف عائلتها والاشتراك في مسابقة تنظمها مؤسسة غربية تدعوا إلى استقلال الشابات.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413025900 +0000" stop="20210413035900 +0000" channel="MBC1">
+    <title lang="ar">صدى الملاعب</title>
+    <desc lang="ar">كن على موعد مع البرنامج الرياضي الأول في الوطن العربي الذي يغطي بطولات العالم في الشرق الأوسط وحول العالم، ويقدمه الأيقونة مصطفى الآغا.</desc>
+    <category lang="ar">رياضة</category>
+  </programme>
+  <programme start="20210413035900 +0000" stop="20210413043400 +0000" channel="MBC1">
+    <title lang="ar">لايف ستايل</title>
+    <desc lang="ar">بقالب عصري، تجتمع مجموعة من جيل الشباب من الذكور والإناث لمناقشة مواضيع متنوعة واستقبال ضيوف من صناع المستقبل.</desc>
+    <category lang="ar">أسلوب حياة</category>
+  </programme>
+  <programme start="20210413043400 +0000" stop="20210413050100 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">تقوم ليلى بمواجهة مزنة، فيما تعبر حور عن قلقها ومخاوفها لشهد. يحاول يوسف استغلال الخلاف بين عائلة الخطوان وزيد لمصلحته.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413050100 +0000" stop="20210413060000 +0000" channel="MBC1">
+    <title lang="ar">أمي دلال والعيال</title>
+    <desc lang="ar">الحلقة الأخيرة: تسترجع دلال ذكرياتها وتضحياتها مع الأولاد وهم صغار، وتنقل لاحقا إلى المستشفى. يصب سعد غضبه على إلهام بعد تكشف حقيقة ما.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413060000 +0000" stop="20210413070000 +0000" channel="MBC1">
+    <title lang="ar">ليه لأ؟!</title>
+    <desc lang="ar">تنقلب حياة فتاة شابة رأسا على عقب عندما تقرر الهرب من كنف عائلتها والاشتراك في مسابقة تنظمها مؤسسة غربية تدعوا إلى استقلال الشابات.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413070000 +0000" stop="20210413075800 +0000" channel="MBC1">
+    <title lang="ar">تحدي العائلات</title>
+    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: عائلتي الدوسري والخلافي.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210413075800 +0000" stop="20210413085800 +0000" channel="MBC1">
+    <title lang="ar">بصراحة مع</title>
+    <desc lang="ar">تجتمع كندة علوش مع صبا مبارك وتتطرقان إلى مواضيع عدة منها الأمومة والاكتئاب والجوانب الأخرى لشخصية كل منهما.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210413085800 +0000" stop="20210413092800 +0000" channel="MBC1">
+    <title lang="ar">سريع سريع</title>
+    <desc lang="ar">سكيتشات كوميدية منوعة تدور أحداثها في الزمن الماضي والحاضر والمستقبل للمملكة العربية السعودية، تشكل مزيجاً مبدعاً، واقعياً ومتخيلاً في نفس الوقت، فضلاً عن كونه ساخراً وذا أفكار لا محدودة.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413092800 +0000" stop="20210413095800 +0000" channel="MBC1">
+    <title lang="ar">سريع سريع</title>
+    <desc lang="ar">سكيتشات كوميدية منوعة تدور أحداثها في الزمن الماضي والحاضر والمستقبل للمملكة العربية السعودية، تشكل مزيجاً مبدعاً، واقعياً ومتخيلاً في نفس الوقت، فضلاً عن كونه ساخراً وذا أفكار لا محدودة.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413095800 +0000" stop="20210413112300 +0000" channel="MBC1">
+    <title lang="ar">رمضان يجمعنا</title>
+    <desc lang="ar">نقدم لكم كافة البرامج والمسلسلات المميزة التي يمكنكم متابعتها على شاشة إم بي سي، بمناسبة حلول شهر رمضان الكريم.</desc>
+    <category lang="ar">برنامج خاص</category>
+  </programme>
+  <programme start="20210413112300 +0000" stop="20210413113000 +0000" channel="MBC1">
+    <title lang="ar">فانوس حنان</title>
+    <desc lang="ar">قصص غنائية شيقة يرويها أفراد عائلة محبة للتعريف بشهر رمضان واسترجاع الذكريات التي تربطهم بالشهر الفضيل.</desc>
+    <category lang="ar">عائلي</category>
+  </programme>
+  <programme start="20210413113000 +0000" stop="20210413120000 +0000" channel="MBC1">
+    <title lang="ar">مين الشيف</title>
+    <desc lang="ar">بلمسة جديدة يأتيكم برنامج مين الشيف الذي يتنافس فيه الأزواج لإبراز أفضل ما لديهم من مهارات الطبخ بالإضافة إلى توظيف مهارات التواصل وذلك لتقديم الطبق الفائز.</desc>
+    <category lang="ar">أسلوب حياة</category>
+  </programme>
+  <programme start="20210413120000 +0000" stop="20210413130000 +0000" channel="MBC1">
+    <title lang="ar">إفطارنا غير</title>
+    <desc lang="ar">تتعاون الشيف هلا عياش مع نجوم برنامج توب شيف لإعداد أطباق تقليدية ووجبات إفطار رمضانية من بلدانهم.</desc>
+    <category lang="ar">أسلوب حياة</category>
+  </programme>
+  <programme start="20210413130000 +0000" stop="20210413133000 +0000" channel="MBC1">
+    <title lang="ar">بالتي هي أحسن</title>
+    <desc lang="ar">بأسلوب بنّاء يلامس شغاف القلوب، يناقش أمين رابطة العالم الإسلامي الدكتور محمد بن عبد الكريم العيسى مختلف المواضيع الحياتية المرتبطة بالدين.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210413133000 +0000" stop="20210413140000 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">بينما تحضر عائلة البهيتاني لاستقبال شهر رمضان، يقوم يوسف بتهديد إبراهيم ويطلب منه الابتعاد عن مريم. تحث آسيا شهد على استعادة حياتها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413140000 +0000" stop="20210413150000 +0000" channel="MBC1">
+    <title lang="ar">اللقاء من الصفر</title>
+    <desc lang="ar">بعد النجاح الذي حصده، يعود برنامج اللقاء من الصفر في موسمه السادس ليستمر في سرد قصص ملهمة عن شخصيات سعودية وعربية سارت في طريق النجاح المحفوف بالصعاب.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210413150000 +0000" stop="20210413151000 +0000" channel="MBC1">
+    <title lang="ar">مالك بالطويلة</title>
+    <desc lang="ar">بأسلوب مبسط وشيق، يهدف برنامج مالك بالطويلة إلى نشر التوعية من خلال تعريفنا على شخصيات أثرت في البشرية وأحداث تاريخية مهمة.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210413151000 +0000" stop="20210413154000 +0000" channel="MBC1">
+    <title lang="ar">سين</title>
+    <desc lang="ar">انضموا إلى الإعلامي المتميز أحمد الشقيري في برنامجه الجديد سين والذي يسعى من خلاله لتلخيص الإيجابيات التي شهدتها كافة القطاعات في السعودية بشكل بسيط ومسل.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210413154000 +0000" stop="20210413154500 +0000" channel="MBC1">
+    <title lang="ar">صلاة المغرب</title>
+    <desc lang="ar">صلاة المغرب مباشرة من الحرم المكي.</desc>
+    <category lang="ar">ديني</category>
+  </programme>
+  <programme start="20210413154500 +0000" stop="20210413155000 +0000" channel="MBC1">
+    <title lang="ar">فنانيس</title>
+    <desc lang="ar">تابعوا شخصياتكم الرمضانية المفضلة فنانيس وهم يواجهون مقالب ومشاكسات لا تنتهي بينما يضفون أجواء من البهجة خلال الشهر المبارك، عبر اسكتشات قصيرة ومعبرة.</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20210413155000 +0000" stop="20210413160000 +0000" channel="MBC1">
+    <title lang="ar">أوريم: فندق بلكونة</title>
+    <desc lang="ar">بعد أن خسر الأصدقاء أموالهم بسبب فشل مشاريعهم السابقة، يبدؤون مشروعا جديدا يرافقه تحد ليس بالسهل، فعليهم الآن تحويل فندق مهجور لفندق بثلاث نجوم.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413160000 +0000" stop="20210413170000 +0000" channel="MBC1">
+    <title lang="ar">ممنوع التجول</title>
+    <desc lang="ar">عمل كوميدي يتمحور حول الحياة الاجتماعية في السعودية بعد تداعيات جائحة كورونا التي أجبرت العالم على الإنغلاق.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413170000 +0000" stop="20210413173000 +0000" channel="MBC1">
+    <title lang="ar">ستوديو ٢١</title>
+    <desc lang="ar">يوميات طريفة يخوضها موظفون في استوديوهات قناة فضائية مفلسة ماليا بعد أن يصمم مالكها على الاستمرار رغم كل التحديات.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413173000 +0000" stop="20210413180000 +0000" channel="MBC1">
+    <title lang="ar">رامز عقله طار</title>
+    <desc lang="ar">عاد رامز! وفي جعبته مقالب جديدة لا تنتهي. في هذه الموسم، يقوم بدعوة الضيف لافتتاح مدينة ترفيهية في الرياض وتجربة لعبة جديدة ليقع في فخ يثير الذعر.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413180000 +0000" stop="20210413190000 +0000" channel="MBC1">
+    <title lang="ar">سوق الحرير</title>
+    <desc lang="ar">بعد الليلة المشؤومة التي عكرت زفاف سيف وعفيفة، والرصاصتين اللتين تخفيان سرا كبيرا، يواجه عمران تحقيقا في الحي بينما يتوارى عبد الله عن الأنظار.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413190000 +0000" stop="20210413200000 +0000" channel="MBC1">
+    <title lang="ar">نسل الأغراب</title>
+    <desc lang="ar">قصة ثأر وصراع بين رجلين من عائلة الغريب: عساف وغفران. يتأجج الصراع بينهما بعد خروج عساف من السجن، واكتشافه بأن الأخير قد ارتبط بزوجته السابقة جليلة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413210000 +0000" channel="MBC1">
+    <title lang="ar">موسى</title>
+    <desc lang="ar">بعد أن يفقد شقيقه في الحرب ضد البريطانيين، يأخذ شاب مصري يدعى موسى على نفسه عهدا بالانتقام، الأمر الذي يجعله مطلوبا من قبل جنود الإنجليز وبطلا في نفس الوقت.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413210000 +0000" stop="20210413220000 +0000" channel="MBC1">
+    <title lang="ar">مارغريت</title>
+    <desc lang="ar">بعد أن تزوجت زواج مصلحة رتبه والدها، تعود مارجريت من لندن لتبدأ رحلة جديدة في حياتها، ولكن الأمر لن يكون سهلا وسط اعتقاد الجميع بأنها ساحرة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210413230000 +0000" channel="MBC1">
+    <title lang="ar">كلنا نفوز الليلة</title>
+    <desc lang="ar">في هذا البرنامج الذي يمكن المشاهدين في المنزل من اللعب والفوز، يتوجب عن المشاركين الإجابة عن أسئلة من خلال تطبيق للحصول على مبلغ يصل إلى 2,000,000 ريال سعودي.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210413230000 +0000" stop="20210413234500 +0000" channel="MBC1">
+    <title lang="ar">ممنوع التجول</title>
+    <desc lang="ar">عمل كوميدي يتمحور حول الحياة الاجتماعية في السعودية بعد تداعيات جائحة كورونا التي أجبرت العالم على الإنغلاق.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413234500 +0000" stop="20210414001500 +0000" channel="MBC1">
+    <title lang="ar">ستوديو ٢١</title>
+    <desc lang="ar">يوميات طريفة يخوضها موظفون في استوديوهات قناة فضائية مفلسة ماليا بعد أن يصمم مالكها على الاستمرار رغم كل التحديات.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414001500 +0000" stop="20210414010000 +0000" channel="MBC1">
+    <title lang="ar">اللقاء من الصفر</title>
+    <desc lang="ar">بعد النجاح الذي حصده، يعود برنامج اللقاء من الصفر في موسمه السادس ليستمر في سرد قصص ملهمة عن شخصيات سعودية وعربية سارت في طريق النجاح المحفوف بالصعاب.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210414010000 +0000" stop="20210414013000 +0000" channel="MBC1">
+    <title lang="ar">سين</title>
+    <desc lang="ar">انضموا إلى الإعلامي المتميز أحمد الشقيري في برنامجه الجديد سين والذي يسعى من خلاله لتلخيص الإيجابيات التي شهدتها كافة القطاعات في السعودية بشكل بسيط ومسل.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210414013000 +0000" stop="20210414021500 +0000" channel="MBC1">
+    <title lang="ar">سوق الحرير</title>
+    <desc lang="ar">بعد الليلة المشؤومة التي عكرت زفاف سيف وعفيفة، والرصاصتين اللتين تخفيان سرا كبيرا، يواجه عمران تحقيقا في الحي بينما يتوارى عبد الله عن الأنظار.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414021500 +0000" stop="20210414024500 +0000" channel="MBC1">
+    <title lang="ar">بالتي هي أحسن</title>
+    <desc lang="ar">بأسلوب بنّاء يلامس شغاف القلوب، يناقش أمين رابطة العالم الإسلامي الدكتور محمد بن عبد الكريم العيسى مختلف المواضيع الحياتية المرتبطة بالدين.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210414024500 +0000" stop="20210414033000 +0000" channel="MBC1">
+    <title lang="ar">مارغريت</title>
+    <desc lang="ar">بعد أن تزوجت زواج مصلحة رتبه والدها، تعود مارجريت من لندن لتبدأ رحلة جديدة في حياتها، ولكن الأمر لن يكون سهلا وسط اعتقاد الجميع بأنها ساحرة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414033000 +0000" stop="20210414034100 +0000" channel="MBC1">
+    <title lang="ar">مالك بالطويلة</title>
+    <desc lang="ar">بأسلوب مبسط وشيق، يهدف برنامج مالك بالطويلة إلى نشر التوعية من خلال تعريفنا على شخصيات أثرت في البشرية وأحداث تاريخية مهمة.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210414034100 +0000" stop="20210414040000 +0000" channel="MBC1">
+    <title lang="ar">مين الشيف</title>
+    <desc lang="ar">بلمسة جديدة يأتيكم برنامج مين الشيف الذي يتنافس فيه الأزواج لإبراز أفضل ما لديهم من مهارات الطبخ بالإضافة إلى توظيف مهارات التواصل وذلك لتقديم الطبق الفائز.</desc>
+    <category lang="ar">أسلوب حياة</category>
+  </programme>
+  <programme start="20210414040000 +0000" stop="20210414044500 +0000" channel="MBC1">
+    <title lang="ar">إفطارنا غير</title>
+    <desc lang="ar">تتعاون الشيف هلا عياش مع نجوم برنامج توب شيف لإعداد أطباق تقليدية ووجبات إفطار رمضانية من بلدانهم.</desc>
+    <category lang="ar">أسلوب حياة</category>
+  </programme>
+  <programme start="20210414044500 +0000" stop="20210414051500 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">بينما تحضر عائلة البهيتاني لاستقبال شهر رمضان، يقوم يوسف بتهديد إبراهيم ويطلب منه الابتعاد عن مريم. تحث آسيا شهد على استعادة حياتها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414051500 +0000" stop="20210414060000 +0000" channel="MBC1">
+    <title lang="ar">نسل الأغراب</title>
+    <desc lang="ar">قصة ثأر وصراع بين رجلين من عائلة الغريب: عساف وغفران. يتأجج الصراع بينهما بعد خروج عساف من السجن، واكتشافه بأن الأخير قد ارتبط بزوجته السابقة جليلة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414060000 +0000" stop="20210414064500 +0000" channel="MBC1">
+    <title lang="ar">موسى</title>
+    <desc lang="ar">بعد أن يفقد شقيقه في الحرب ضد البريطانيين، يأخذ شاب مصري يدعى موسى على نفسه عهدا بالانتقام، الأمر الذي يجعله مطلوبا من قبل جنود الإنجليز وبطلا في نفس الوقت.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414064500 +0000" stop="20210414073000 +0000" channel="MBC1">
+    <title lang="ar">سوق الحرير</title>
+    <desc lang="ar">بعد الليلة المشؤومة التي عكرت زفاف سيف وعفيفة، والرصاصتين اللتين تخفيان سرا كبيرا، يواجه عمران تحقيقا في الحي بينما يتوارى عبد الله عن الأنظار.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414073000 +0000" stop="20210414081500 +0000" channel="MBC1">
+    <title lang="ar">مارغريت</title>
+    <desc lang="ar">بعد أن تزوجت زواج مصلحة رتبه والدها، تعود مارجريت من لندن لتبدأ رحلة جديدة في حياتها، ولكن الأمر لن يكون سهلا وسط اعتقاد الجميع بأنها ساحرة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414081500 +0000" stop="20210414084500 +0000" channel="MBC1">
+    <title lang="ar">سين</title>
+    <desc lang="ar">انضموا إلى الإعلامي المتميز أحمد الشقيري في برنامجه الجديد سين والذي يسعى من خلاله لتلخيص الإيجابيات التي شهدتها كافة القطاعات في السعودية بشكل بسيط ومسل.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210414084500 +0000" stop="20210414091500 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">بينما تحضر عائلة البهيتاني لاستقبال شهر رمضان، يقوم يوسف بتهديد إبراهيم ويطلب منه الابتعاد عن مريم. تحث آسيا شهد على استعادة حياتها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414091500 +0000" stop="20210414100000 +0000" channel="MBC1">
+    <title lang="ar">ممنوع التجول</title>
+    <desc lang="ar">عمل كوميدي يتمحور حول الحياة الاجتماعية في السعودية بعد تداعيات جائحة كورونا التي أجبرت العالم على الإنغلاق.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414100000 +0000" stop="20210414104500 +0000" channel="MBC1">
+    <title lang="ar">كلنا نفوز الليلة</title>
+    <desc lang="ar">في هذا البرنامج الذي يمكن المشاهدين في المنزل من اللعب والفوز، يتوجب عن المشاركين الإجابة عن أسئلة من خلال تطبيق للحصول على مبلغ يصل إلى 2,000,000 ريال سعودي.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210414104500 +0000" stop="20210414111500 +0000" channel="MBC1">
+    <title lang="ar">رامز عقله طار</title>
+    <desc lang="ar">عاد رامز! وفي جعبته مقالب جديدة لا تنتهي. في هذه الموسم، يقوم بدعوة الضيف لافتتاح مدينة ترفيهية في الرياض وتجربة لعبة جديدة ليقع في فخ يثير الذعر.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210414111500 +0000" stop="20210414154000 +0000" channel="MBC1">
+    <title lang="ar">أوريم: فندق بلكونة</title>
+    <desc lang="ar">بعد أن خسر الأصدقاء أموالهم بسبب فشل مشاريعهم السابقة، يبدؤون مشروعا جديدا يرافقه تحد ليس بالسهل، فعليهم الآن تحويل فندق مهجور لفندق بثلاث نجوم.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414154000 +0000" stop="20210415154000 +0000" channel="MBC1">
+    <title lang="ar">صلاة المغرب</title>
+    <desc lang="ar">صلاة المغرب مباشرة من الحرم المكي.</desc>
+    <category lang="ar">ديني</category>
+  </programme>
+  <programme start="20210413000000 +0000" stop="20210413010000 +0000" channel="MBC Drama">
+    <title lang="ar">نصيبي وقسمتك</title>
+    <desc lang="ar">كم من مشاريع حب وزواج تقتل فجأة بسبب التردد، معظم الشباب الذين يقومون بالبحث عن شريكات لحياتهم وعن الاستقرار يصابوا بالتردد عندما يصل الأمر إلى الاختيار.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413010000 +0000" stop="20210413015600 +0000" channel="MBC Drama">
+    <title lang="ar">نصيبي وقسمتك</title>
+    <desc lang="ar">كم من مشاريع حب وزواج تقتل فجأة بسبب التردد، معظم الشباب الذين يقومون بالبحث عن شريكات لحياتهم وعن الاستقرار يصابوا بالتردد عندما يصل الأمر إلى الاختيار.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413015600 +0000" stop="20210413015900 +0000" channel="MBC Drama">
+    <title lang="ar">واي فاي سكتشيز</title>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413015900 +0000" stop="20210413030000 +0000" channel="MBC Drama">
+    <title lang="ar">حكايات سداسيات: روح روحي</title>
+    <desc lang="ar">تتدهور حالة نادية وتتحول حياتها إلى جحيم فيما تزداد شكوك زوجها عزيز فيطلب إعادة فتح ملف القضية لمعرفة سبب اضطراب نادية.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413030000 +0000" stop="20210413035200 +0000" channel="MBC Drama">
+    <title lang="ar">حب خادع</title>
+    <desc lang="ar">يحاول ديب أن يتقرب من أروهي ويطلب منها مهلة 24 ساعة ليتخلص من كل مشاكله، فيما يتصل شخص مجهول بالأخيرة ويحاول تحذيرها.</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20210413035200 +0000" stop="20210413040000 +0000" channel="MBC Drama">
+    <title lang="ar">أحلى واي فاي</title>
+    <desc lang="ar">استعيدوا معنا أبرز الحلقات من المسلسل الكوميدي واي فاي.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413040000 +0000" stop="20210413045100 +0000" channel="MBC Drama">
+    <title lang="ar">هربانة منها</title>
+    <desc lang="ar">تبحث مها عن عريس وتذهب إلى زفاف إحدى صديقاتها حيث تلتقي بشاب يبحث عن عروس. من ناحية ثانية، يعود ابن خالة مها واسمه هاني من السفر ويطلب منها مساعدته في العثور على ما يريد.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413045100 +0000" stop="20210413045900 +0000" channel="MBC Drama">
+    <title lang="ar">واي فاي سكتشيز</title>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413045900 +0000" stop="20210413060000 +0000" channel="MBC Drama">
+    <title lang="ar">صلاح الدين الأيوبي</title>
+    <desc lang="ar">إعادة سرد لسيرة القائد الإسلامي ذي الشخصية الفذة صلاح الدين الأيوبي محرر القدس من الصليبيين.</desc>
+    <category lang="ar">تاريخي</category>
+  </programme>
+  <programme start="20210413060000 +0000" stop="20210413065400 +0000" channel="MBC Drama">
+    <title lang="ar">وعد</title>
+    <desc lang="ar">الحلقة الأخيرة: يتم القبض على الدكتور سعيد بتهمة قتل سليم. لاحقا، يحسم مصير علاقة يوسف ووعد.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413065400 +0000" stop="20210413075300 +0000" channel="MBC Drama">
+    <title lang="ar">سكت الورق</title>
+    <desc lang="ar">تنطلق شابة في رحلة الكشف عن سر دفين يتعلق بوالديها الذين توفيا في ظروف غامضة منذ 20 عاما، وتسعى لحل لغز يتعلق برجل غامض يقطن كهفا.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413075300 +0000" stop="20210413083000 +0000" channel="MBC Drama">
+    <title lang="ar">نصيبي وقسمتك</title>
+    <desc lang="ar">كم من مشاريع حب وزواج تقتل فجأة بسبب التردد، معظم الشباب الذين يقومون بالبحث عن شريكات لحياتهم وعن الاستقرار يصابوا بالتردد عندما يصل الأمر إلى الاختيار.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413083000 +0000" stop="20210414060000 +0000" channel="MBC Drama">
+    <title lang="ar">رمضان يجمعنا</title>
+    <desc lang="ar">نقدم لكم كافة البرامج والمسلسلات المميزة التي يمكنكم متابعتها على شاشة إم بي سي، بمناسبة حلول شهر رمضان الكريم.</desc>
+    <category lang="ar">برنامج خاص</category>
+  </programme>
+  <programme start="20210414060000 +0000" stop="20210414070000 +0000" channel="MBC Drama">
+    <title lang="ar">الناجية الوحيدة</title>
+    <desc lang="ar">بعد أن يتوفى جميع أفراد عائلتها في حريق منزلي، تبدأ الشبهات تحوم حول الناجية الوحيدة بضلوعها بالحادث، فتقرر إيهام الجميع بأنها فقدت الذاكرة كي تنفذ انتقامها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414070000 +0000" stop="20210414080000 +0000" channel="MBC Drama">
+    <title lang="ar">دفعة بيروت</title>
+    <desc lang="ar">في لبنان عام 1964، يجد مجموعة من الطلاب أنفسهم في دوامة من الأفكار والطموحات المتناقضة والعادات المختلفة... وفي شباك الحب.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414080000 +0000" stop="20210414090000 +0000" channel="MBC Drama">
+    <title lang="ar">2020</title>
+    <desc lang="ar">بعد مقتل أخيها أثناء مداهمة حي فقير في مهمة للقبض على تاجر مخدرات، تذهب سما إلى الحي متخفية بهدف الانتقام، إلا أن رحلتها ستصبح وعرة عندما يدخل الحب المعادلة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413001700 +0000" stop="20210413020500 +0000" channel="MBC Egypt">
+    <title lang="ar">مسرح مصر</title>
+    <desc lang="ar">مجموعة من الوجوه الشابة بقيادة الفنان الكبير أشرف عبد الباقي تقدم نوعاً جديداً من المسرحيات، تكون فيه كل حلقة باسم ومضمون مختلفين في إطار كوميدي ترفيهي ساخر.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413020500 +0000" stop="20210413032100 +0000" channel="MBC Egypt">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413032100 +0000" stop="20210413040600 +0000" channel="MBC Egypt">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413040600 +0000" stop="20210413050300 +0000" channel="MBC Egypt">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413050300 +0000" stop="20210413060600 +0000" channel="MBC Egypt">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413060600 +0000" stop="20210413063800 +0000" channel="MBC Egypt">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413063800 +0000" stop="20210413072900 +0000" channel="MBC Egypt">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413072900 +0000" stop="20210413095500 +0000" channel="MBC Egypt">
+    <title lang="ar">زكي شان</title>
+    <desc lang="ar">يتمكن حازم عن طريق الصدفة من الحصول على وظيفة كحارس شخصي لابنة شقية لأحد رجال الأعمال تدعى شيرين. وبينما تحاول شيرين مرارا التهرب من حازم، تجد نفسها أخيرا واقعة في غرامه.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413095500 +0000" stop="20210413105700 +0000" channel="MBC Egypt">
+    <title lang="ar">اللهم تقبل</title>
+    <desc lang="ar">برنامج ديني تقدمه الدكتورة عبلة الكحلاوي، تتناول فيه أمور الحياة وتحاول معالجتها بناءً على الأسس الدينية والقواعد الإسلامية الراسخة.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210413105700 +0000" stop="20210413120100 +0000" channel="MBC Egypt">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413120100 +0000" stop="20210413125500 +0000" channel="MBC Egypt">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413125500 +0000" stop="20210413133000 +0000" channel="MBC Egypt">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413133000 +0000" stop="20210413152200 +0000" channel="MBC Egypt">
+    <title lang="ar">ملح وسكر</title>
+    <desc lang="ar">تأخذكم الشيف ميريت في مغامرة إلى قلب المطبخ المصري حيث تقوم بتحضير حلويات وأطباق مالحة شعبية بطريقة عصرية على طريقتها الخاصة.</desc>
+    <category lang="ar">أسلوب حياة</category>
+  </programme>
+  <programme start="20210413152200 +0000" stop="20210413161300 +0000" channel="MBC Egypt">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413161300 +0000" stop="20210413162500 +0000" channel="MBC Egypt">
+    <title lang="ar">فنانيس</title>
+    <desc lang="ar">تابعوا شخصياتكم الرمضانية المفضلة فنانيس وهم يواجهون مقالب ومشاكسات لا تنتهي بينما يضفون أجواء من البهجة خلال الشهر المبارك، عبر اسكتشات قصيرة ومعبرة.</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20210413162500 +0000" stop="20210413170000 +0000" channel="MBC Egypt">
+    <title lang="ar">رامز عقله طار</title>
+    <desc lang="ar">عاد رامز! وفي جعبته مقالب جديدة لا تنتهي. في هذه الموسم، يقوم بدعوة الضيف لافتتاح مدينة ترفيهية في الرياض وتجربة لعبة جديدة ليقع في فخ يثير الذعر.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413170000 +0000" stop="20210413180000 +0000" channel="MBC Egypt">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">مسلحان بقوتهما وذكائهما، ينطلق صديقان ينتميان إلى منطقة شعبية في رحلة ملحمية ضد أحد أباطرة تجارة الشر.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413180000 +0000" stop="20210413190000 +0000" channel="MBC Egypt">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413190000 +0000" stop="20210413193000 +0000" channel="MBC Egypt">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413193000 +0000" stop="20210413203000 +0000" channel="MBC Egypt">
+    <title lang="ar">قصر النيل</title>
+    <desc lang="ar">بعد وفاة والدهم الثري أثناء رحلة علاجه في الخارج، ينتظر أبناؤه الثلاثة عودة عمهم من لندن كي يتم توزيع الميراث، إلا أن ظهور سيدة مجهولة في حياتهم سيقلب الموازين.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413203000 +0000" stop="20210413213000 +0000" channel="MBC Egypt">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413213000 +0000" stop="20210413220000 +0000" channel="MBC Egypt">
+    <title lang="ar">مهيب ورزان في رمضان</title>
+    <desc lang="ar">مسابقة رمضانية يقدمها الثنائي مهيب عبد الهادي ورزان مغربي يحصل من خلالها الفائز على جائزة مالية قدرها 200,000 جنيه مصري يذهب نصفها لصالح جهة خيرية.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210413223000 +0000" channel="MBC Egypt">
+    <title lang="ar">رامز عقله طار</title>
+    <desc lang="ar">عاد رامز! وفي جعبته مقالب جديدة لا تنتهي. في هذه الموسم، يقوم بدعوة الضيف لافتتاح مدينة ترفيهية في الرياض وتجربة لعبة جديدة ليقع في فخ يثير الذعر.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413223000 +0000" stop="20210413233000 +0000" channel="MBC Egypt">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">مسلحان بقوتهما وذكائهما، ينطلق صديقان ينتميان إلى منطقة شعبية في رحلة ملحمية ضد أحد أباطرة تجارة الشر.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413001600 +0000" stop="20210413011500 +0000" channel="MBC Egypt 2">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413011500 +0000" stop="20210413014500 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413014500 +0000" stop="20210413023600 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413023600 +0000" stop="20210413043700 +0000" channel="MBC Egypt 2">
+    <title lang="ar">صباحك مصري</title>
+    <desc lang="ar">برنامج صباحي يتم تقديمه في إطار جذاب وخفيف يهتم بكل ألوان الحياة في مصر حيث يعرض آخر الأخبار المنوعة ويسلط الضوء على السلبيات الموجودة في المجتمع المصري للمساعدة في حلها، كما يحرص أيضاً على التركيز على الإيجابيات وإبراز النماذج المؤثرة في المجتمع.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210413043700 +0000" stop="20210413053200 +0000" channel="MBC Egypt 2">
+    <title lang="ar">من القلب للقلب</title>
+    <desc lang="ar">تتحدث الحلقة عن التحضيرات والاستعدادت لشهر رمضان الكريم.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210413053200 +0000" stop="20210413060900 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413060900 +0000" stop="20210413074600 +0000" channel="MBC Egypt 2">
+    <title lang="ar">ساعة سعيدة</title>
+    <desc lang="ar">برنامج ترفيهي من تقديم الفنانين عبد الفتاح جريني وجميلة، حيث يقدمان في كل حلقة جوائز نقدية للمتصلين ويستقبلان ضيفين من أبرز مطربي العالم العربي.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210413074600 +0000" stop="20210413083400 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413083400 +0000" stop="20210413093000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413093000 +0000" stop="20210413095900 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413095900 +0000" stop="20210413110000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">صباحك مصري</title>
+    <desc lang="ar">برنامج صباحي يتم تقديمه في إطار جذاب وخفيف يهتم بكل ألوان الحياة في مصر حيث يعرض آخر الأخبار المنوعة ويسلط الضوء على السلبيات الموجودة في المجتمع المصري للمساعدة في حلها، كما يحرص أيضاً على التركيز على الإيجابيات وإبراز النماذج المؤثرة في المجتمع.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210413110000 +0000" stop="20210413130000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">كركر</title>
+    <desc lang="ar">يعيش كركر، الشاب الثري الذي عانى من صعقة كهربائية تسببت بجنونه، مصيرا مجهولا في كنف عمه عاصم وعمته اللذين اتفقا على الاحتيال عليه للحصول على أمواله.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413130000 +0000" stop="20210413140000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">من القلب للقلب</title>
+    <desc lang="ar">يقوم البرنامج بزرع حافز عمل الخير في قلوب المشاهدين. تحكي إيمان عن مواضيع متعلقة بعمل الخير وتفتح الأبواب لمشاركة المشاهدين من خلال مواقع التواصل الاجتماعي.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210413140000 +0000" stop="20210413153600 +0000" channel="MBC Egypt 2">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413153600 +0000" stop="20210413162400 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413162400 +0000" stop="20210413163000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">فنانيس</title>
+    <desc lang="ar">تابعوا شخصياتكم الرمضانية المفضلة فنانيس وهم يواجهون مقالب ومشاكسات لا تنتهي بينما يضفون أجواء من البهجة خلال الشهر المبارك، عبر اسكتشات قصيرة ومعبرة.</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20210413163000 +0000" stop="20210413173000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خلي بالك من زيزي</title>
+    <desc lang="ar">عندما تضرب شابة شديدة العصبية زوجها وتتسبب له بإصابة بالغة تعد جناية، تنطلق في رحلة لمحاولة إثبات براءتها لتحرير نفسها من عقدها وتخطي غضبها.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413173000 +0000" stop="20210413183000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">ليلة الخميس</title>
+    <desc lang="ar">برنامج من تقديم ياسمين عز حيث تستضيف أربعة نجوم في كل حلقة للغناء واللعب وتبادل أحاديث شيقة.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413183000 +0000" stop="20210413193000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">2020</title>
+    <desc lang="ar">بعد مقتل أخيها أثناء مداهمة حي فقير في مهمة للقبض على تاجر مخدرات، تذهب سما إلى الحي متخفية بهدف الانتقام، إلا أن رحلتها ستصبح وعرة عندما يدخل الحب المعادلة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413193000 +0000" stop="20210413203000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">مسلحان بقوتهما وذكائهما، ينطلق صديقان ينتميان إلى منطقة شعبية في رحلة ملحمية ضد أحد أباطرة تجارة الشر.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413203000 +0000" stop="20210413213000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">لحم غزال</title>
+    <desc lang="ar">في سعيها للبحث عن ابنها المفقود، وهربا من المشاكل التي ورطها بها زوجها السابق، تنتحل عليا شخصية بائعة تعيش في حي فقير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413213000 +0000" stop="20210413220000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">خمس نجوم</title>
+    <desc lang="ar">يتفق خمسة من المشاهير على استدراج أحد أصدقائهم الفنانين في كل حلقة إلى موقع يحدد مسبقا لتوريطه في مقلب كوميدي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210413230000 +0000" channel="MBC Egypt 2">
+    <title lang="ar">ممنوع التجول</title>
+    <desc lang="ar">عمل كوميدي يتمحور حول الحياة الاجتماعية في السعودية بعد تداعيات جائحة كورونا التي أجبرت العالم على الإنغلاق.</desc>
+    <category lang="ar">كوميدي</category>
   </programme>
   <programme start="20210413010000 +0000" stop="20210413030000 +0000" channel="Cinema 1">
     <title lang="en">Omar Wa Salma ( Part 3 )</title>

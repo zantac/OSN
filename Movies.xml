@@ -50,6 +50,18 @@
     <icon src="http://content.osn.com/logo/channel/cropped/STM.png" />
     <url>http://www.osn.com</url>
   </channel>
+  <channel id="MBC2">
+    <display-name lang="ar">MBC2</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBC Action">
+    <display-name lang="ar">MBC Action</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBC Movie Max">
+    <display-name lang="ar">MBC Movie Max</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
   <programme start="20210413004000 +0000" stop="20210413021000 +0000" channel="OSN Movies First HD">
     <title lang="en">Truly, Madly, Sweetly</title>
     <title lang="ar">ترولي، مادلي، سويتلي</title>
@@ -1566,5 +1578,640 @@
     <title lang="ar">Star Movies HD</title>
     <desc lang="en">STAR Movies offers an exciting and unique mix of the best films from around the world. تقدم قناة ستار موفيز مجموعة رائعة وفريدة من أفضل الأفلام من جميع أنحاء العالم.</desc>
     <icon src="http://content.osn.com/bob/745x419/STM.jpg" />
+  </programme>
+  <programme start="20210413005900 +0000" stop="20210413033400 +0000" channel="MBC2">
+    <title lang="ar">باتمان فيرسس سوبرمان: دون أوف جستس</title>
+    <desc lang="ar">مع احتدام الأمور بين باتمان وسوبرمان وانتهائها بقتال بعضهما البعض، يظهر تهديد جديد بشكل متسارع يضع البشرية في خطر لم يسبق له مثيل.</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20210413033400 +0000" stop="20210413035900 +0000" channel="MBC2">
+    <title lang="ar">ميكنج ذا موفيز</title>
+    <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413035900 +0000" stop="20210413062900 +0000" channel="MBC2">
+    <title lang="ar">ذا جيرل وذ ذا دراجون تاتو</title>
+    <desc lang="ar">يكتشف صحفي سيء الصيت وقرصانة شبكات غامضة أنه حتى أثرى العائلات لديها أسرار صادمة أيضاً، وذلك خلال العمل على حل لغز جريمة قتل وقعت قبل أربعين عاماً.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413062900 +0000" stop="20210413080400 +0000" channel="MBC2">
+    <title lang="ar">رش أور 3</title>
+    <desc lang="ar">من باريس هذه المرة، يتصدى كل من المخبر في شرطة لوس أنجلوس جيمس كارتر وكبير المفتشين الصينيين لي بأسلوبهما المختلفين لأحد أجنحة عائلة ترايادز الصينية المتخصصة في الجريمة المنظمة من خلال حركاتهما المثيرة والمتميزة والممزوجة بكثير من الضحك.</desc>
+    <category lang="ar">إثارة</category>
+  </programme>
+  <programme start="20210413080400 +0000" stop="20210413082900 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413082900 +0000" stop="20210413103400 +0000" channel="MBC2">
+    <title lang="ar">أوز ذا جريت آند باورفل</title>
+    <desc lang="ar">عندما ينجح الساحر قليل الخبرة أوسكار ديجز بعملية نصب وخداع أكثر من مرة، يجد نفسه وقد أصبح في أرض أوز الخيالية، حيث يجب عليه بطريقة ما تحويل نفسه إلى الساحر العظيم والقوي – وربما تحويل نفسه إلى شخص أفضل أيضاً.</desc>
+    <category lang="ar">مغامرة</category>
+  </programme>
+  <programme start="20210413103400 +0000" stop="20210413105900 +0000" channel="MBC2">
+    <title lang="ar">فيلمز &amp; ستارز</title>
+    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413105900 +0000" stop="20210413130500 +0000" channel="MBC2">
+    <title lang="ar">ماري بوبنز ريترنز</title>
+    <desc lang="ar">خلال حقبة الكساد الاقتصادي في لندن، تقوم ماري بوبنز الغامضة بزيارة جين ومايكل بانكس وأبناء الأخير الثلاثة بعد فقدان شخص عزيز.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413130500 +0000" stop="20210413133000 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413133000 +0000" stop="20210413150400 +0000" channel="MBC2">
+    <title lang="ar">ذا مارين</title>
+    <desc lang="ar">قائد سابق في القوات البحرية الخاصة يسعى جاهداً لإنقاذ زوجته بعد اختطافها على يد عصابة من سارقي الألماس لا تعرف الرحمة.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413150400 +0000" stop="20210413153000 +0000" channel="MBC2">
+    <title lang="ar">ميكنج ذا موفيز</title>
+    <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413153000 +0000" stop="20210413180000 +0000" channel="MBC2">
+    <title lang="ar">12 سترونج</title>
+    <desc lang="ar">يتم اختيار فريق من القوات الأمريكية الخاصة بعد هجمات سبتمبر 11 ليكون من أوائل الجنود الأمريكيين الذين سيتم إرسالهم إلى أفغانستان لتتنفيذ مهمة في غاية الخطورة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413180000 +0000" stop="20210413200000 +0000" channel="MBC2">
+    <title lang="ar">أوليمبس هاز فولين</title>
+    <desc lang="ar">بعد أن تقوم مجموعة إرهابية بإحكام سيطرتها على البيت الأبيض، يصبح الأمر منوطاً بعميل سابق تم تسريحه من جهاز الخدمة السرية الأمريكية ليقوم بإنقاذ الرئيس والبلاد.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413220000 +0000" channel="MBC2">
+    <title lang="ar">لندن هاز فولين</title>
+    <desc lang="ar">بعد وفاة رئيس الوزراء البريطاني في ظروف غامضة، تتحول جنازته إلى مؤامرة قاتلة.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210414020900 +0000" channel="MBC2">
+    <title lang="ar">أميريكان أساسن</title>
+    <desc lang="ar">يتم تجنيد عميل في المخابرات المركزية وجندي مخضرم شارك في الحرب الباردة للتحقيق بأمر سلسلة هجمات عشوائية استهدفت أشخاص عسكريين ومدنيين.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210414020900 +0000" stop="20210414023500 +0000" channel="MBC2">
+    <title lang="ar">فيلمز &amp; ستارز</title>
+    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414023500 +0000" stop="20210414044400 +0000" channel="MBC2">
+    <title lang="ar">سيفينج مستر بانكس</title>
+    <desc lang="ar">الفيلم مقتبس عن أحداث حقيقية تجسد القصة الاستثنائية غير المحكية للرحلة التي خاضتها رواية ماري بوبينز الكلاسيكية للظهور على الشاشة، والعلاقة المتوترة بين الأسطورة والت ديزني والمؤلفة بي إل ترافرز التي كادت أن تحرف نجاح شخصية ماري بوبنز عن مسارها.</desc>
+    <category lang="ar">سيرة ذاتية</category>
+  </programme>
+  <programme start="20210414044400 +0000" stop="20210414051000 +0000" channel="MBC2">
+    <title lang="ar">ميكنج ذا موفيز</title>
+    <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414051000 +0000" stop="20210414070000 +0000" channel="MBC2">
+    <title lang="ar">إيه رينكل إن تايم</title>
+    <desc lang="ar">بعد أن اختفى والدها العالم، يتم إرسال ميج وشقيقها وصديقها إلى الفضاء من قبل ثلاثة كائنات غريبة للعثور عليه.</desc>
+    <category lang="ar">مغامرة</category>
+  </programme>
+  <programme start="20210414070000 +0000" stop="20210414083000 +0000" channel="MBC2">
+    <title lang="ar">برين أون فاير</title>
+    <desc lang="ar">أصبحت سوزانا كاهلان، وهي مراسلة شابة تعمل لدى صحيفة نيويورك بوست، رهينة لنوبات جنونية وهلوسة وفقدان للذاكرة، وباتت تهيم من طبيب إلى آخر بحثا عن تشخيص بعيد المنال.</desc>
+    <category lang="ar">سيرة ذاتية</category>
+  </programme>
+  <programme start="20210414083000 +0000" stop="20210414090000 +0000" channel="MBC2">
+    <title lang="ar">فيلمز &amp; ستارز</title>
+    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414090000 +0000" stop="20210414110000 +0000" channel="MBC2">
+    <title lang="ar">12 سترونج</title>
+    <desc lang="ar">يتم اختيار فريق من القوات الأمريكية الخاصة بعد هجمات سبتمبر 11 ليكون من أوائل الجنود الأمريكيين الذين سيتم إرسالهم إلى أفغانستان لتتنفيذ مهمة في غاية الخطورة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414110000 +0000" stop="20210414113000 +0000" channel="MBC2">
+    <title lang="ar">ميكنج ذا موفيز</title>
+    <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414113000 +0000" stop="20210414133000 +0000" channel="MBC2">
+    <title lang="ar">ميشن تو مارس</title>
+    <desc lang="ar">بعد أن انتهت أول بعثة بشرية إلى كوكب المريخ بكارثة مفجعة وغامضة، يتم إطلاق مهمة إنقاذ للتحقيق في المأساة وإعادة الناجين، إن وجدوا.</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20210414133000 +0000" stop="20210414140000 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414140000 +0000" stop="20210414160000 +0000" channel="MBC2">
+    <title lang="ar">دولفين تيل</title>
+    <desc lang="ar">قصة تتمحور حول الصداقة بين صبي في 11 من العمر ودلفين صغير كان قد خسر ذيله في فخ مخصص لاصطياد السلطعون، وسعيه مع أصدقائه وعائلته لإنقاذه من خلال إقناع أحد الأطباء الرائدين بمساعدته ليستعيد قدرته على السباحة من جديد.</desc>
+    <category lang="ar">أطفال</category>
+  </programme>
+  <programme start="20210414160000 +0000" stop="20210414180000 +0000" channel="MBC2">
+    <title lang="ar">دولفين تيل 2</title>
+    <desc lang="ar">بعد وفاة والدة وينتر البديلة، يتوجب على الدكتور كلاي والفريق العثور على رفيقة للدلفين الحزين لإبقائه في حوض السمك.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414180000 +0000" stop="20210414193000 +0000" channel="MBC2">
+    <title lang="ar">17 أجاين</title>
+    <desc lang="ar">يستيقظ أب في منتصف العمر في يوم من الأيام ليجد أن عمره قد أصبح 17 سنة مرة أخرى، والتنقل داخل المدرسة الثانوية ليست بالأمر السهل- وخصوصاً مع وجود أولاده هناك.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414193000 +0000" stop="20210414200000 +0000" channel="MBC2">
+    <title lang="ar">أكشن زون</title>
+    <desc lang="ar">كل ما تريده من أكشن ورعب وكوميديا وأخبار وما يتعلق بالنجوم وغيره الكثير تجدونه في برنامج أكشن زون الذي يضمن بأن يبقيك متحمسا طوال الوقت.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414200000 +0000" stop="20210414220000 +0000" channel="MBC2">
+    <title lang="ar">نايت سكوول</title>
+    <desc lang="ar">عندما يؤدي تخريب مكان عمله عن طريق الخطأ إلى طرد مندوب المبيعات الناجح تيدي، لا يمكنه العثور على وظيفة أخرى لائقة مالم يحصل على شهادته الثانوية.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414220000 +0000" stop="20210414233000 +0000" channel="MBC2">
+    <title lang="ar">مايك آند ديف نيد ويدنج ديتس</title>
+    <desc lang="ar">ينشر شقيقان إعلانا على الإنترنت عن رغبتهما في العثور على فتاتين لمرافقتهما إلى حفل زفاف شقيقتهما، لكن ينتهي بهما المطاف برفقة ثنائي لا يمكن السيطرة عليه.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414233000 +0000" stop="20210414235900 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414235900 +0000" stop="20210416060000 +0000" channel="MBC2">
+    <title lang="ar">أوز ذا جريت آند باورفل</title>
+    <desc lang="ar">عندما ينجح الساحر قليل الخبرة أوسكار ديجز بعملية نصب وخداع أكثر من مرة، يجد نفسه وقد أصبح في أرض أوز الخيالية، حيث يجب عليه بطريقة ما تحويل نفسه إلى الساحر العظيم والقوي – وربما تحويل نفسه إلى شخص أفضل أيضاً.</desc>
+    <category lang="ar">مغامرة</category>
+  </programme>
+  <programme start="20210413004400 +0000" stop="20210413014400 +0000" channel="MBC Action">
+    <title lang="ar">كاش باد</title>
+    <desc lang="ar">يأخذكم فريق كاش باد في رحلة تحويل منازل عادية بإمكانيات عالية إلى شقق فندقية فاخرة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413014400 +0000" stop="20210413032900 +0000" channel="MBC Action">
+    <title lang="ar">كوب أوت</title>
+    <desc lang="ar">عندما ينطلق شريكان قديمان في شرطة نيويورك في مهمة لتقفي أثر بطاقة نادرة لرياضة البيسبول تعرضت للسرقة، ينتهي بهما المطاف في مواجهة عصابة لا ترحم مهووسة بجمع التذكارات.</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20210413032900 +0000" stop="20210413041500 +0000" channel="MBC Action">
+    <title lang="ar">دريفن</title>
+    <desc lang="ar">نقوم في حلقة اليوم بتجربة قيادة سيارات ليجند وكاديلاك 76، ونستعرض لاحقا تحدي الدريفت مع اليوتيوبر الكوميدي ناجي القاق.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413041500 +0000" stop="20210413050400 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">متلهفون للعودة إلى ذي أولد تاون للاطمئنان على ألفيس وباوتر، يقبل أعضاء فرقة كيلجويز مذكرة من الشركة الجديدة فيكسر التي تم تعيينها لإعادة الأمن إلى ويستيرلي.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413050400 +0000" stop="20210413053400 +0000" channel="MBC Action">
+    <title lang="ar">إكستراورديناري هيومنز</title>
+    <desc lang="ar">تعرفوا في كل حلقة على أشخاص استثنائيين بكل ما يحمله عالمهم من تفاصيل، بما في ذلك أسرهم وأصدقائهم، وكيف اكتشفوا قواهم المذهلة.</desc>
+    <category lang="ar">وثائقي</category>
+  </programme>
+  <programme start="20210413053400 +0000" stop="20210413060000 +0000" channel="MBC Action">
+    <title lang="ar">إكستراورديناري هيومنز</title>
+    <desc lang="ar">تعرفوا في كل حلقة على أشخاص استثنائيين بكل ما يحمله عالمهم من تفاصيل، بما في ذلك أسرهم وأصدقائهم، وكيف اكتشفوا قواهم المذهلة.</desc>
+    <category lang="ar">وثائقي</category>
+  </programme>
+  <programme start="20210413060000 +0000" stop="20210413062600 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413062600 +0000" stop="20210413064900 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413064900 +0000" stop="20210413081900 +0000" channel="MBC Action">
+    <title lang="ar">WWE راو</title>
+    <desc lang="ar">في جو مفعم بالإثارة، يقوم كبار النجوم على المستوى العالمي باستعراض مهاراتهم في المصارعة.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413081900 +0000" stop="20210413090400 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">متلهفون للعودة إلى ذي أولد تاون للاطمئنان على ألفيس وباوتر، يقبل أعضاء فرقة كيلجويز مذكرة من الشركة الجديدة فيكسر التي تم تعيينها لإعادة الأمن إلى ويستيرلي.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413090400 +0000" stop="20210413093100 +0000" channel="MBC Action">
+    <title lang="ar">تيك تويز 360</title>
+    <desc lang="ar">في هذا البرنامج الترفيهي، نسافر حول العالم بحثا عن أروع المركبات والأدوات وأحدث الاختراعات في عالم التكنولوجيا.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413093100 +0000" stop="20210413095500 +0000" channel="MBC Action">
+    <title lang="ar">تيك تويز 360</title>
+    <desc lang="ar">في هذا البرنامج الترفيهي، نسافر حول العالم بحثا عن أروع المركبات والأدوات وأحدث الاختراعات في عالم التكنولوجيا.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413095500 +0000" stop="20210413101800 +0000" channel="MBC Action">
+    <title lang="ar">تيك تويز 360</title>
+    <desc lang="ar">في هذا البرنامج الترفيهي، نسافر حول العالم بحثا عن أروع المركبات والأدوات وأحدث الاختراعات في عالم التكنولوجيا.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413101800 +0000" stop="20210413104700 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413104700 +0000" stop="20210413110900 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413110900 +0000" stop="20210413115800 +0000" channel="MBC Action">
+    <title lang="ar">جاي لينوز جاراج</title>
+    <desc lang="ar">يعود جاي لينو، المقدم السابق لبرامج تلفيزيونية حوارية ساهرة، في موسم جديد من جاي لينوز غاراج يستعرض فيه شغفه بالسيارات والدراجات النارية.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413115800 +0000" stop="20210413124300 +0000" channel="MBC Action">
+    <title lang="ar">WWE أفتربرن</title>
+    <desc lang="ar">يعرض برنامج أفتربرن أبرز أحداث سماكداون، ويقدم ملخصاً عن البرنامج، ويسلط الضوء على أبرز المنافسات، كما يوفر التحليلات والتعليقات، ويقدم أخباراً حصرية.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413124300 +0000" stop="20210413132900 +0000" channel="MBC Action">
+    <title lang="ar">دريفن</title>
+    <desc lang="ar">نقوم في حلقة اليوم بتجربة قيادة سيارات ليجند وكاديلاك 76، ونستعرض لاحقا تحدي الدريفت مع اليوتيوبر الكوميدي ناجي القاق.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413132900 +0000" stop="20210413135600 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413135600 +0000" stop="20210413141900 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413141900 +0000" stop="20210413150900 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">متلهفون للعودة إلى ذي أولد تاون للاطمئنان على ألفيس وباوتر، يقبل أعضاء فرقة كيلجويز مذكرة من الشركة الجديدة فيكسر التي تم تعيينها لإعادة الأمن إلى ويستيرلي.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413150900 +0000" stop="20210413153500 +0000" channel="MBC Action">
+    <title lang="ar">ريديكيولسنس</title>
+    <desc lang="ar">في استوديو أمام جمهور يضم معجبين وضيوفاً من المشاهير، يقوم مقدم البرنامج بعرض أجمل وأفضل ما يتم نشره عبر الإنترنت على شاشة التلفاز.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413153500 +0000" stop="20210413155800 +0000" channel="MBC Action">
+    <title lang="ar">ريديكيولسنس</title>
+    <desc lang="ar">في استوديو أمام جمهور يضم معجبين وضيوفاً من المشاهير، يقوم مقدم البرنامج بعرض أجمل وأفضل ما يتم نشره عبر الإنترنت على شاشة التلفاز.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210413155800 +0000" stop="20210413175800 +0000" channel="MBC Action">
+    <title lang="ar">ذا دارك تاور</title>
+    <desc lang="ar">يتشارك رولاند والرجل ذو الرداء الأسود في ثأر قديم، ويتوجب عليهما أن يتقاتلا حتى الموت في معركة ملحمية ستحدد مصير الكون.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413175800 +0000" stop="20210413185800 +0000" channel="MBC Action">
+    <title lang="ar">WWE أفتربرن</title>
+    <desc lang="ar">يعرض برنامج أفتربرن أبرز أحداث سماكداون، ويقدم ملخصاً عن البرنامج، ويسلط الضوء على أبرز المنافسات، كما يوفر التحليلات والتعليقات، ويقدم أخباراً حصرية.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210413185800 +0000" stop="20210413195900 +0000" channel="MBC Action">
+    <title lang="ar">إف 2: تاكلينج أوروبا</title>
+    <desc lang="ar">ينطلق لاعبا كرة قدم في رحلة استثنائية للتعرف على ثقافات وأماكن مختلفة وخلق حب لدى الناس لإتقان مهارات كرة قدم جديدة في الأسلوب الحر.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413195900 +0000" stop="20210413205800 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">يتم إرسال دتش ودي أفن مع جوني وألفيس لإنقاذ ثلاثة عناصر مفقودين من فريق كيلجويز.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413205800 +0000" stop="20210413224300 +0000" channel="MBC Action">
+    <title lang="ar">ذا دارك تاور</title>
+    <desc lang="ar">يتشارك رولاند والرجل ذو الرداء الأسود في ثأر قديم، ويتوجب عليهما أن يتقاتلا حتى الموت في معركة ملحمية ستحدد مصير الكون.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413224300 +0000" stop="20210413231000 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413231000 +0000" stop="20210413233400 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210413233400 +0000" stop="20210414001900 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">يتم إرسال دتش ودي أفن مع جوني وألفيس لإنقاذ ثلاثة عناصر مفقودين من فريق كيلجويز.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414001900 +0000" stop="20210414004600 +0000" channel="MBC Action">
+    <title lang="ar">تيك تويز 360</title>
+    <desc lang="ar">في هذا البرنامج الترفيهي، نسافر حول العالم بحثا عن أروع المركبات والأدوات وأحدث الاختراعات في عالم التكنولوجيا.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414004600 +0000" stop="20210414011200 +0000" channel="MBC Action">
+    <title lang="ar">تيك تويز 360</title>
+    <desc lang="ar">في هذا البرنامج الترفيهي، نسافر حول العالم بحثا عن أروع المركبات والأدوات وأحدث الاختراعات في عالم التكنولوجيا.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414011200 +0000" stop="20210414013800 +0000" channel="MBC Action">
+    <title lang="ar">تيك تويز 360</title>
+    <desc lang="ar">في هذا البرنامج الترفيهي، نسافر حول العالم بحثا عن أروع المركبات والأدوات وأحدث الاختراعات في عالم التكنولوجيا.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414013800 +0000" stop="20210414032900 +0000" channel="MBC Action">
+    <title lang="ar">ذا ميز رانر</title>
+    <desc lang="ar">عندما يستيقظ توماس ويجد نفسه محاصراً وسط متاهة ضخمة مع مجموعة من الصبية، ولا يتذكر أي شيء عن العالم الخارجي، يصبح أمله الوحيد في الكشف عن هدفه الحقيقي والطريقة للهروب من خلال قيامه بربط أجزاء من ماضيه مع أدلة في المتاهة.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210414032900 +0000" stop="20210414035900 +0000" channel="MBC Action">
+    <title lang="ar">ذي إنسايد لاين</title>
+    <desc lang="ar">البرنامج الوحيد المخصص بشكل كامل للفورمولا 1، حيث يقوم بتقديم نظرة عامة وتحليلاً مستقلاً عن كل سباق، وكل فريق، وكل سائق أيضاً.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210414035900 +0000" stop="20210414042900 +0000" channel="MBC Action">
+    <title lang="ar">ذا فوتبول ريفيو</title>
+    <desc lang="ar">يبقيك هذا البرنامج على اطلاع دائم على أهم النتائج والتطورات في جميع البطولات الأوروبية والدولية لكرة القدم.</desc>
+    <category lang="ar">رياضة</category>
+  </programme>
+  <programme start="20210414042900 +0000" stop="20210414051400 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">يتم إرسال دتش ودي أفن مع جوني وألفيس لإنقاذ ثلاثة عناصر مفقودين من فريق كيلجويز.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414051400 +0000" stop="20210414060000 +0000" channel="MBC Action">
+    <title lang="ar">وورلدز دمست</title>
+    <desc lang="ar">يقوم أفضل الكوميديين في يومنا هذا بترفيهنا من خلال قيامهم بعرض لقطات يضفون عليها تعليقات مضحكة للغاية حول أكثر الخارجين عن القانون حماقة في العالم، والباحثين عن الإثارة وعشاق السيارات ومحبي الحفلات والمزيد!</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414060000 +0000" stop="20210414062500 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414062500 +0000" stop="20210414065000 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414065000 +0000" stop="20210414073500 +0000" channel="MBC Action">
+    <title lang="ar">WWE أفتربرن</title>
+    <desc lang="ar">يعرض برنامج أفتربرن أبرز أحداث سماكداون، ويقدم ملخصاً عن البرنامج، ويسلط الضوء على أبرز المنافسات، كما يوفر التحليلات والتعليقات، ويقدم أخباراً حصرية.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210414073500 +0000" stop="20210414080000 +0000" channel="MBC Action">
+    <title lang="ar">إكستراورديناري هيومنز</title>
+    <desc lang="ar">تعرفوا في كل حلقة على أشخاص استثنائيين بكل ما يحمله عالمهم من تفاصيل، بما في ذلك أسرهم وأصدقائهم، وكيف اكتشفوا قواهم المذهلة.</desc>
+    <category lang="ar">وثائقي</category>
+  </programme>
+  <programme start="20210414080000 +0000" stop="20210414083000 +0000" channel="MBC Action">
+    <title lang="ar">إكستراورديناري هيومنز</title>
+    <desc lang="ar">تعرفوا في كل حلقة على أشخاص استثنائيين بكل ما يحمله عالمهم من تفاصيل، بما في ذلك أسرهم وأصدقائهم، وكيف اكتشفوا قواهم المذهلة.</desc>
+    <category lang="ar">وثائقي</category>
+  </programme>
+  <programme start="20210414083000 +0000" stop="20210414091500 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">يتم إرسال دتش ودي أفن مع جوني وألفيس لإنقاذ ثلاثة عناصر مفقودين من فريق كيلجويز.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414091500 +0000" stop="20210414093500 +0000" channel="MBC Action">
+    <title lang="ar">ريديكيولسنس</title>
+    <desc lang="ar">في استوديو أمام جمهور يضم معجبين وضيوفاً من المشاهير، يقوم مقدم البرنامج بعرض أجمل وأفضل ما يتم نشره عبر الإنترنت على شاشة التلفاز.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414093500 +0000" stop="20210414100000 +0000" channel="MBC Action">
+    <title lang="ar">ريديكيولسنس</title>
+    <desc lang="ar">في استوديو أمام جمهور يضم معجبين وضيوفاً من المشاهير، يقوم مقدم البرنامج بعرض أجمل وأفضل ما يتم نشره عبر الإنترنت على شاشة التلفاز.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414100000 +0000" stop="20210414103000 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414103000 +0000" stop="20210414110000 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414110000 +0000" stop="20210414120000 +0000" channel="MBC Action">
+    <title lang="ar">إف 2: تاكلينج أوروبا</title>
+    <desc lang="ar">ينطلق لاعبا كرة قدم في رحلة استثنائية للتعرف على ثقافات وأماكن مختلفة وخلق حب لدى الناس لإتقان مهارات كرة قدم جديدة في الأسلوب الحر.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414120000 +0000" stop="20210414124500 +0000" channel="MBC Action">
+    <title lang="ar">وورلدز دمست</title>
+    <desc lang="ar">يقوم أفضل الكوميديين في يومنا هذا بترفيهنا من خلال قيامهم بعرض لقطات يضفون عليها تعليقات مضحكة للغاية حول أكثر الخارجين عن القانون حماقة في العالم، والباحثين عن الإثارة وعشاق السيارات ومحبي الحفلات والمزيد!</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210414124500 +0000" stop="20210414130500 +0000" channel="MBC Action">
+    <title lang="ar">ذي إنسايد لاين</title>
+    <desc lang="ar">البرنامج الوحيد المخصص بشكل كامل للفورمولا 1، حيث يقوم بتقديم نظرة عامة وتحليلاً مستقلاً عن كل سباق، وكل فريق، وكل سائق أيضاً.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210414130500 +0000" stop="20210414133000 +0000" channel="MBC Action">
+    <title lang="ar">ذا فوتبول ريفيو</title>
+    <desc lang="ar">يبقيك هذا البرنامج على اطلاع دائم على أهم النتائج والتطورات في جميع البطولات الأوروبية والدولية لكرة القدم.</desc>
+    <category lang="ar">رياضة</category>
+  </programme>
+  <programme start="20210414133000 +0000" stop="20210414135500 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414135500 +0000" stop="20210414142000 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414142000 +0000" stop="20210414150500 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">يتم إرسال دتش ودي أفن مع جوني وألفيس لإنقاذ ثلاثة عناصر مفقودين من فريق كيلجويز.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414150500 +0000" stop="20210414160000 +0000" channel="MBC Action">
+    <title lang="ar">دريفن</title>
+    <desc lang="ar">نقوم في حلقة اليوم بتجربة قيادة سيارات ليجند وكاديلاك 76، ونستعرض لاحقا تحدي الدريفت مع اليوتيوبر الكوميدي ناجي القاق.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210414160000 +0000" stop="20210414180000 +0000" channel="MBC Action">
+    <title lang="ar">بلاك ماس</title>
+    <desc lang="ar">في سبعينيات القرن الماضي، يقوم محقق فيدرالي بإقناع رجل عصابة أيرلندي بالتعاون مع مكتب التحقيقات لتصفية المافيا الإيطالية والتي تعتبر عدوا مشتركا لكلا الطرفين.</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20210414180000 +0000" stop="20210414190000 +0000" channel="MBC Action">
+    <title lang="ar">ألتيميت تاج</title>
+    <desc lang="ar">انضموا الينا لكي تشاهدوا المتسابقين وهم يتنافسون في سلسلة ألعاب يتخللها مطاردات فريدة في مدرجات تاج الاستثنائية.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210414190000 +0000" stop="20210414193000 +0000" channel="MBC Action">
+    <title lang="ar">إبيك تريلز</title>
+    <desc lang="ar">برنامج ممتع وملهم يتتبع مغامر البرية إريك هانسون في رحلته لاكتشاف أفضل المسالك والمسارات في العالم.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210414193000 +0000" stop="20210414200000 +0000" channel="MBC Action">
+    <title lang="ar">إبيك تريلز</title>
+    <desc lang="ar">برنامج ممتع وملهم يتتبع مغامر البرية إريك هانسون في رحلته لاكتشاف أفضل المسالك والمسارات في العالم.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210414200000 +0000" stop="20210414210000 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">يرافق دتش مجموعة من الطلاب من سويت هيل إلى برنامج بروديجي الغامض، حيث يكتشفون أن الطلاب السابقين مفقودون.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414210000 +0000" stop="20210414230000 +0000" channel="MBC Action">
+    <title lang="ar">بلاك ماس</title>
+    <desc lang="ar">في سبعينيات القرن الماضي، يقوم محقق فيدرالي بإقناع رجل عصابة أيرلندي بالتعاون مع مكتب التحقيقات لتصفية المافيا الإيطالية والتي تعتبر عدوا مشتركا لكلا الطرفين.</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20210414230000 +0000" stop="20210414232100 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414232100 +0000" stop="20210414234500 +0000" channel="MBC Action">
+    <title lang="ar">ذا كاربونارو إيفيكت</title>
+    <desc lang="ar">مايكل كاربونارو يمتهن السحر لكنه في أعماقه عاشق للخدع والحيل. في كل حلقة، سيبهر ويسلي أناساً عاديين ليس لديهم أدنى فكرة عما يحدث، يلتقي بهم في أماكن ومواقع مختلفة.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210414234500 +0000" stop="20210415004500 +0000" channel="MBC Action">
+    <title lang="ar">كيلجويز</title>
+    <desc lang="ar">يرافق دتش مجموعة من الطلاب من سويت هيل إلى برنامج بروديجي الغامض، حيث يكتشفون أن الطلاب السابقين مفقودون.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413005900 +0000" stop="20210413023900 +0000" channel="MBC Movie Max">
+    <title lang="ar">مست لف دوجز</title>
+    <desc lang="ar">سارة هيرليهي مطلقة لم تخرج في أي موعد غرامي لعامين وتبلغ من العمر 37 عاماً، يتوجب عليها الآن مقابلة رجال أكثر بكثير مما كانت تتوقع، بعد نشرها لإعلان مواعدة عبر الإنترنت يتضمن كلمة \"يجب أن يحب الكلاب\"، على الرغم من أنها لا تملك كلباً.</desc>
+    <category lang="ar">رومانسي</category>
+  </programme>
+  <programme start="20210413023900 +0000" stop="20210413030500 +0000" channel="MBC Movie Max">
+    <title lang="ar">هوليوود باز</title>
+    <desc lang="ar">مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم بما فيها من مقابلات حصرية ولقطات من وراء الكواليس.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413030500 +0000" stop="20210413044000 +0000" channel="MBC Movie Max">
+    <title lang="ar">د. سوس ذا لوراكس</title>
+    <desc lang="ar">تيد فتى يبلغ من العمر اثني عشر عاماً وهو على استعداد لأن يفعل أي شيء مقابل العثور على شجرة تروفولا الحقيقية ليثير إعجاب فتاة أحلامه. عند شروعه في رحلته، يكتشف تيد القصة التي لا تصدق حول لوراكس، وهو مخلوق مزاجي لكنه مبهر أيضاً يتكلم على لسان الأشجار.</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20210413044000 +0000" stop="20210413063000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إراجون</title>
+    <desc lang="ar">في زمن أسطوري وبمساعدة رجل عجوز حكيم وتنينه الصغير، أصبح فتى في سن المراهقة فارساً لتنين، وحينها ينتقم الفتى من مقتل عمه، وينقذ محاربة جميلة، ويدخل في معركة ضد الملك المستبد.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413063000 +0000" stop="20210413090000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا هوبيت: ذا ديسوليشن أوف سماوج</title>
+    <desc lang="ar">تستمر مغامرات بيلبو باجينز حين ينطلق في رحلة ملحمية برفقة الساحر جاندالف وثلاثة عشر قزماً، بقيادة ثورين أوكنشيلد لاستعادة مملكة الأقزام المفقودة إيربور.</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20210413090000 +0000" stop="20210413105100 +0000" channel="MBC Movie Max">
+    <title lang="ar">بروجيكت ألماناك</title>
+    <desc lang="ar">عندما يكتشف طالب متألق في مدرسة ثانوية وأصدقاؤه مخطوطات تفصيلية لآلة يمكنها إرسالهم عبر الزمن إلى الماضي تبدو الاحتمالات أمامهم لا حصر لها. ولكن عبثهم بالماضي سيكون له نتائج كارثية من شأنها أن تهدد مستقبل عالمنا.</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20210413105100 +0000" stop="20210413112900 +0000" channel="MBC Movie Max">
+    <title lang="ar">سكووب مع ريا</title>
+    <desc lang="ar">نأخذكم في حلقة اليوم إلى كواليس فيلم مورتال كومبات، كما نجري مقابلة مع المخرجة الفلسطينية المرشحة للأوسكار فرح النابلسي لنتحدث عن فيلمها القصير ذا بريزنت.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413112900 +0000" stop="20210413133300 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا نيمسيك</title>
+    <desc lang="ar">يتمرد شاب هندي يعيش في ولاية نيو جيرسي ضد والديه التقليديين ويعيش صراعاً يتعلق بالهوية والحب.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413133300 +0000" stop="20210413153900 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا بلايند سايد</title>
+    <desc lang="ar">يتحول مراهق ضخم من طفل شارع بلا مأوى إلى نجم رياضي لامع، وذلك بفضل عطف وإحسان امرأة ديناميكية عليه والتي تقدم له بيتا مستقرا، وأسرة مهتمة ترعاه والأهم من ذلك الفرصة لتحقيق أحلامه.</desc>
+    <category lang="ar">رياضة</category>
+  </programme>
+  <programme start="20210413153900 +0000" stop="20210413160400 +0000" channel="MBC Movie Max">
+    <title lang="ar">هوليوود باز</title>
+    <desc lang="ar">مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم بما فيها من مقابلات حصرية ولقطات من وراء الكواليس.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413160400 +0000" stop="20210413182900 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جدج</title>
+    <desc lang="ar">يعود محام ناجح لوطنه ليكتشف بأن والده بات مشتبها به في جريمة قتل، فيرغب بشدة للوصول إلى الحقيقة. الآن يتحتم عليه التواصل من جديد مع عائلته التي تركها منذ سنوات.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210413182900 +0000" stop="20210413185900 +0000" channel="MBC Movie Max">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210413185900 +0000" stop="20210413205900 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا سنو مان</title>
+    <desc lang="ar">يشرع محقق في جرائم قتل بالتحقيق بملابسات اختفاء سيدة فقدت خلال فصل الشتاء، ويشتبه بوجود قاتل متسلسل يتربص بضحية جديدة في مكان ما.</desc>
+    <category lang="ar">إثارة</category>
+  </programme>
+  <programme start="20210413205900 +0000" stop="20210413232900 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا ديبارتد</title>
+    <desc lang="ar">العداء بين الشرطة وعصابة إيرلندية أمريكية يبلغ ذروته عندما يتم اختيار أحد أفراد العصابة ليتسلل بين قوات الشرطة، وقيام شرطي بالعمل متخفياً بين أفراد العصابة.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210413232900 +0000" stop="20210414005900 +0000" channel="MBC Movie Max">
+    <title lang="ar">فايس</title>
+    <desc lang="ar">فايس، هو منتجع مستقبلي يقوم فيه آليون على هيئة بشر بخدمة أشخاص أغنياء يعيشون أحلك نزواتهم. لكن حينما تدرك روبوت على هيئة فتاة تعاني من خلل تقني حقيقة ما يحدث، تنطلق في مهمة للقضاء على المنتجع ومالكه جوليان.</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20210414005900 +0000" stop="20210414033700 +0000" channel="MBC Movie Max">
+    <title lang="ar">واتشمين</title>
+    <desc lang="ar">بعد أن قتل بطل خارق سابق، يقوم شخص يسعى لتطبيق القانون يدعى رورشاك بالتحقيق في الجريمة، ولكن التحقيق يؤدي إلى نتيجة أكثر رعباً.</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20210414033700 +0000" stop="20210414060000 +0000" channel="MBC Movie Max">
+    <title lang="ar">تيرمينيتور 2: جادجمنت دي</title>
+    <desc lang="ar">ترسل سكاينيت رجلا آليا فتاكا كي يقضي على جون كونر. ولتوفير الحماية للشاب الصغير، يتم إرسال آلي آخر من المستقبل للحفاظ على آخر بصيص أمل للعرق البشري في البقاء.</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20210414060000 +0000" stop="20210414083000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جدج</title>
+    <desc lang="ar">يعود محام ناجح لوطنه ليكتشف بأن والده بات مشتبها به في جريمة قتل، فيرغب بشدة للوصول إلى الحقيقة. الآن يتحتم عليه التواصل من جديد مع عائلته التي تركها منذ سنوات.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414083000 +0000" stop="20210414103000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا بلايند سايد</title>
+    <desc lang="ar">يتحول مراهق ضخم من طفل شارع بلا مأوى إلى نجم رياضي لامع، وذلك بفضل عطف وإحسان امرأة ديناميكية عليه والتي تقدم له بيتا مستقرا، وأسرة مهتمة ترعاه والأهم من ذلك الفرصة لتحقيق أحلامه.</desc>
+    <category lang="ar">رياضة</category>
+  </programme>
+  <programme start="20210414103000 +0000" stop="20210414120000 +0000" channel="MBC Movie Max">
+    <title lang="ar">د. سوس ذا لوراكس</title>
+    <desc lang="ar">تيد فتى يبلغ من العمر اثني عشر عاماً وهو على استعداد لأن يفعل أي شيء مقابل العثور على شجرة تروفولا الحقيقية ليثير إعجاب فتاة أحلامه. عند شروعه في رحلته، يكتشف تيد القصة التي لا تصدق حول لوراكس، وهو مخلوق مزاجي لكنه مبهر أيضاً يتكلم على لسان الأشجار.</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20210414120000 +0000" stop="20210414143000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إمبير أوف ذا سن</title>
+    <desc lang="ar">دراما ملحمية تسرد نضال بالارد الرائع للبقاء على قيد الحياة في فترة طفولة مليئة بالخيانة والموت وخيبات الأمل، بينما كان محاصرا في شنغهاي أثناء الاحتلال الياباني في الحرب العالمية الثانية.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414143000 +0000" stop="20210414160000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا ينج فيكتوريا</title>
+    <desc lang="ar">قصة صعود الملكة فيكتوريا للحكم، ابتداء من المشاكل التي تعرضت لها في صراع القوى وانتهاء بوقوعها في الحب وزواجها من الأمير ألبرت.</desc>
+    <category lang="ar">سيرة ذاتية</category>
+  </programme>
+  <programme start="20210414160000 +0000" stop="20210414163000 +0000" channel="MBC Movie Max">
+    <title lang="ar">هوليوود باز</title>
+    <desc lang="ar">مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم بما فيها من مقابلات حصرية ولقطات من وراء الكواليس.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414163000 +0000" stop="20210414183000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إيه يونايتد كينجدوم</title>
+    <desc lang="ar">القصة الشيقة والملهمة لملك بوتسوانا سيريتسي خاما وكيف أدى زواجه من البريطانية البيضاء روث ويليامز إلى النهوض بالبلاد.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210414183000 +0000" stop="20210414190000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20210414190000 +0000" stop="20210414213000 +0000" channel="MBC Movie Max">
+    <title lang="ar">كينجدوم أوف هيفن</title>
+    <desc lang="ar">تلعب الحروب الصليبية والصدام بين أوروبا والشرق دوراً جوهرياً في قصة شاب فرنسي يكتشف مستقبله كفارس نبيل، ليدرك لاحقاً المعنى الحقيقي لهذا اللقب المجيد.</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20210414213000 +0000" stop="20210414233000 +0000" channel="MBC Movie Max">
+    <title lang="ar">كينج آرثر: ليجند أوف ذا سورد</title>
+    <desc lang="ar">عندما يتعرض والد آرثر للقتل ويقوم عمه بالسيطرة على مقاليد الحكم عنوة، يُسلب من آرثر حقه الطبيعي وينشأ في الأزقة الخلفية للمدينة هائما ليس لديه أي فكرة عن هويته الحقيقية. لكن سرعان ما تنقلب حياته رأسا على عقب عندما يتمكن من سحب سيف مغروز في قلب صخرة.</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20210414233000 +0000" stop="20210415013000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا سنو مان</title>
+    <desc lang="ar">يشرع محقق في جرائم قتل بالتحقيق بملابسات اختفاء سيدة فقدت خلال فصل الشتاء، ويشتبه بوجود قاتل متسلسل يتربص بضحية جديدة في مكان ما.</desc>
+    <category lang="ar">إثارة</category>
   </programme>
 </tv>
