@@ -20,6 +20,31 @@
     <icon src="http://content.osn.com/logo/channel/cropped/SER.png" />
     <url>http://www.osn.com</url>
   </channel>
+  <channel id="Hekayat">
+    <display-name lang="en">Hekayat</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/HK1.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Hekayat 2">
+    <display-name lang="en">Hekayat 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/HK2.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Aflam 1">
+    <display-name lang="en">ART Aflam 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AF1.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Aflam 2">
+    <display-name lang="en">ART Aflam 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AF2.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Cinema">
+    <display-name lang="en">ART Cinema</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ACM.png" />
+    <url>http://www.osn.com</url>
+  </channel>
   <channel id="Cinema 1">
     <display-name lang="en">Cinema 1</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/CM1.png" />
@@ -1379,6 +1404,974 @@
     <desc lang="en">Ahmad Al Ahmad; Mohammed Al Ahmad. Eps 2; The series takes us back to the 70s/80s period and its about three guys who face a lot of challenges while trying to face life difficulties. (R3). احمد الأحمد؛ محمد الأحمد.الحلقة 2؛ تدور الأحداث حول ثلاثة من الأصدقاء الشبان يسعون لتحقيق حلمهم وتحدي الزمان على الرغم من قسوته آنذاك ورغم بساطة حلمهم وقفوا ضد التحديات وصاروا ضد التيار (R3).</desc>
     <icon src="http://content.osn.com/bob/745x419/SER.jpg" />
     <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210413000000 +0000" stop="20210413010000 +0000" channel="Hekayat">
+    <title lang="en">Rayyah El Madam</title>
+    <title lang="ar">ريح المدام</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413010000 +0000" stop="20210413020000 +0000" channel="Hekayat">
+    <title lang="en">30 Youm (Edited)</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413020000 +0000" stop="20210413030000 +0000" channel="Hekayat">
+    <title lang="en">Taqet El Qadr</title>
+    <title lang="ar">طاقة القدر</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hk1745x419_20200723015603.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413030000 +0000" stop="20210413040000 +0000" channel="Hekayat">
+    <title lang="en">Layaly El Helmiya</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413040000 +0000" stop="20210413050000 +0000" channel="Hekayat">
+    <title lang="en">Qanadeel El Oshak</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413050000 +0000" stop="20210413060000 +0000" channel="Hekayat">
+    <title lang="en">Sultanet Al Mo'ez</title>
+    <title lang="ar">سلطانة المعز</title>
+    <desc lang="en">Set in a local neighbourhood, a lady runs the small liver restaurant she inherited from her father, but her life changes drastically as she falls in love. دراما من بطولة غادة عبد الرازق. تدور أحداث هذا المسلسل حول صاحبة عربة الطعام المتنقلة في شارع المعز والتي تعيش حياتها المتواضعة بين عملها وبين تربيتها لأخوانها. لكن كل هذا سيتغير عندما يحدث مالا يتوقعه الجميع.</desc>
+    <icon src="http://content.osn.com/bob/745x419/sultanatelmoazl_20200424125037.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413060000 +0000" stop="20210413070000 +0000" channel="Hekayat">
+    <title lang="en">Rayyah El Madam</title>
+    <title lang="ar">ريح المدام</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413070000 +0000" stop="20210413080000 +0000" channel="Hekayat">
+    <title lang="en">30 Youm (Edited)</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413080000 +0000" stop="20210413090000 +0000" channel="Hekayat">
+    <title lang="en">Taqet El Qadr</title>
+    <title lang="ar">طاقة القدر</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hk1745x419_20200723015603.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413090000 +0000" stop="20210413100000 +0000" channel="Hekayat">
+    <title lang="en">Layaly El Helmiya</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413100000 +0000" stop="20210413110000 +0000" channel="Hekayat">
+    <title lang="en">Qanadeel El Oshak</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413110000 +0000" stop="20210413120000 +0000" channel="Hekayat">
+    <title lang="en">Sultanet Al Mo'ez</title>
+    <title lang="ar">سلطانة المعز</title>
+    <desc lang="en">Set in a local neighbourhood, a lady runs the small liver restaurant she inherited from her father, but her life changes drastically as she falls in love. دراما من بطولة غادة عبد الرازق. تدور أحداث هذا المسلسل حول صاحبة عربة الطعام المتنقلة في شارع المعز والتي تعيش حياتها المتواضعة بين عملها وبين تربيتها لأخوانها. لكن كل هذا سيتغير عندما يحدث مالا يتوقعه الجميع.</desc>
+    <icon src="http://content.osn.com/bob/745x419/sultanatelmoazl_20200424125037.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413120000 +0000" stop="20210413130000 +0000" channel="Hekayat">
+    <title lang="en">Rayyah El Madam</title>
+    <title lang="ar">ريح المدام</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413130000 +0000" stop="20210413140000 +0000" channel="Hekayat">
+    <title lang="en">30 Youm (Edited)</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413140000 +0000" stop="20210413150000 +0000" channel="Hekayat">
+    <title lang="en">Taqet El Qadr</title>
+    <title lang="ar">طاقة القدر</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hk1745x419_20200723015603.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413150000 +0000" stop="20210413162800 +0000" channel="Hekayat">
+    <title lang="en">Layaly El Helmiya</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20210413162800 +0000" stop="20210413173000 +0000" channel="Hekayat">
+    <title lang="en">El Madah</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413173000 +0000" stop="20210413190000 +0000" channel="Hekayat">
+    <title lang="en">Nagib Zahi Zarkash</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413190000 +0000" stop="20210413200000 +0000" channel="Hekayat">
+    <title lang="en">Hagma Mortada</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413210000 +0000" channel="Hekayat">
+    <title lang="en">Mousa</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413210000 +0000" stop="20210413220000 +0000" channel="Hekayat">
+    <title lang="en">Al Ekhteyar 2</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210413230000 +0000" channel="Hekayat">
+    <title lang="en">Elle Maloush Kbeer</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413230000 +0000" stop="20210414000000 +0000" channel="Hekayat">
+    <title lang="en">Haret El Quba</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414000000 +0000" stop="20210414010000 +0000" channel="Hekayat">
+    <title lang="en">2020</title>
+    <title lang="ar">2020</title>
+    <desc lang="en">Assigned to go undercover in the drug world, Sama's code of conduct fails her when she falls in love with a gang leader named Safi. As love and justice clash, Sama finds herself conflicted, her emotions in turmoil. تعمل سما النقيب من قوى الأمن على تطبيق القانون وإرساء الأمن، لكن عندما يتم تكليفها بمهمة خطيرة باسم حياة عبدالله، تخذلها عواطفها فتقع بحب زعيم العصابة صافي الذي من المفترض أن تسلمه للعدالة، تدخل سما في صراع مع نفسها، عندما يتصارع الحب والكذب مع ضمير المهنة؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414010000 +0000" stop="20210414020000 +0000" channel="Hekayat">
+    <title lang="en">El Madah</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414020000 +0000" stop="20210414030000 +0000" channel="Hekayat">
+    <title lang="en">Nagib Zahi Zarkash</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414030000 +0000" stop="20210414040000 +0000" channel="Hekayat">
+    <title lang="en">Hagma Mortada</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414040000 +0000" stop="20210414050000 +0000" channel="Hekayat">
+    <title lang="en">Mousa</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414050000 +0000" stop="20210414060000 +0000" channel="Hekayat">
+    <title lang="en">Al Ekhteyar 2</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414060000 +0000" stop="20210414070000 +0000" channel="Hekayat">
+    <title lang="en">Elle Maloush Kbeer</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414070000 +0000" stop="20210414080000 +0000" channel="Hekayat">
+    <title lang="en">Haret El Quba</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414080000 +0000" stop="20210414090000 +0000" channel="Hekayat">
+    <title lang="en">2020</title>
+    <title lang="ar">2020</title>
+    <desc lang="en">Assigned to go undercover in the drug world, Sama's code of conduct fails her when she falls in love with a gang leader named Safi. As love and justice clash, Sama finds herself conflicted, her emotions in turmoil. تعمل سما النقيب من قوى الأمن على تطبيق القانون وإرساء الأمن، لكن عندما يتم تكليفها بمهمة خطيرة باسم حياة عبدالله، تخذلها عواطفها فتقع بحب زعيم العصابة صافي الذي من المفترض أن تسلمه للعدالة، تدخل سما في صراع مع نفسها، عندما يتصارع الحب والكذب مع ضمير المهنة؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414090000 +0000" stop="20210414100000 +0000" channel="Hekayat">
+    <title lang="en">El Madah</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414100000 +0000" stop="20210414110000 +0000" channel="Hekayat">
+    <title lang="en">Nagib Zahi Zarkash</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414110000 +0000" stop="20210414120000 +0000" channel="Hekayat">
+    <title lang="en">Hagma Mortada</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414120000 +0000" stop="20210414130000 +0000" channel="Hekayat">
+    <title lang="en">Mousa</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414130000 +0000" stop="20210414135300 +0000" channel="Hekayat">
+    <title lang="en">Al Ekhteyar 2</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414135300 +0000" stop="20210414144000 +0000" channel="Hekayat">
+    <title lang="en">Elle Maloush Kbeer</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414144000 +0000" stop="20210414152500 +0000" channel="Hekayat">
+    <title lang="en">Haret El Quba</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414152500 +0000" stop="20210414162800 +0000" channel="Hekayat">
+    <title lang="en">2020</title>
+    <title lang="ar">2020</title>
+    <desc lang="en">Assigned to go undercover in the drug world, Sama's code of conduct fails her when she falls in love with a gang leader named Safi. As love and justice clash, Sama finds herself conflicted, her emotions in turmoil. تعمل سما النقيب من قوى الأمن على تطبيق القانون وإرساء الأمن، لكن عندما يتم تكليفها بمهمة خطيرة باسم حياة عبدالله، تخذلها عواطفها فتقع بحب زعيم العصابة صافي الذي من المفترض أن تسلمه للعدالة، تدخل سما في صراع مع نفسها، عندما يتصارع الحب والكذب مع ضمير المهنة؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414162800 +0000" stop="20210414173000 +0000" channel="Hekayat">
+    <title lang="en">El Madah</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210414173000 +0000" stop="20210414190000 +0000" channel="Hekayat">
+    <title lang="en">Nagib Zahi Zarkash</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210414190000 +0000" stop="20210414200000 +0000" channel="Hekayat">
+    <title lang="en">Hagma Mortada</title>
+    <title lang="ar">حكايات 1</title>
+    <desc lang="en">Dedicated to Egyptian drama throughout the day this channel presents exclusive contemporary television series featuring the brightest and biggest stars. قناة متخصصة بالدراما المصرية على مدار اليوم والأسبوع، تعرض لك المسلسلات التلفزيونية الحديثة والحصرية لألمع وأكبر النجوم في بداية كل شهر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210413000000 +0000" stop="20210413010500 +0000" channel="Hekayat 2">
+    <title lang="en">Lan Akhda' Li Ragol</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210413010500 +0000" stop="20210413020000 +0000" channel="Hekayat 2">
+    <title lang="en">Rabee' Fi Al'asefa</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210413020000 +0000" stop="20210413030000 +0000" channel="Hekayat 2">
+    <title lang="en">Sekket Sa'd</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210413030000 +0000" stop="20210413040000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Bait Al Qadeem</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210413040000 +0000" stop="20210413050000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Madi Ya'oud Al An</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20210413050000 +0000" stop="20210413060000 +0000" channel="Hekayat 2">
+    <title lang="en">Abnaa Dahshan</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20210413060000 +0000" stop="20210413070500 +0000" channel="Hekayat 2">
+    <title lang="en">Lan Akhda' Li Ragol</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210413070500 +0000" stop="20210413080000 +0000" channel="Hekayat 2">
+    <title lang="en">Rabee' Fi Al'asefa</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210413080000 +0000" stop="20210413090000 +0000" channel="Hekayat 2">
+    <title lang="en">Sekket Sa'd</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210413090000 +0000" stop="20210413100000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Bait Al Qadeem</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210413100000 +0000" stop="20210413110000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Madi Ya'oud Al An</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20210413110000 +0000" stop="20210413120000 +0000" channel="Hekayat 2">
+    <title lang="en">Abnaa Dahshan</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20210413120000 +0000" stop="20210413130500 +0000" channel="Hekayat 2">
+    <title lang="en">Lan Akhda' Li Ragol</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210413130500 +0000" stop="20210413140000 +0000" channel="Hekayat 2">
+    <title lang="en">Rabee' Fi Al'asefa</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210413140000 +0000" stop="20210413150000 +0000" channel="Hekayat 2">
+    <title lang="en">Sekket Sa'd</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210413150000 +0000" stop="20210413162800 +0000" channel="Hekayat 2">
+    <title lang="en">Al Bait Al Qadeem</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210413162800 +0000" stop="20210413173000 +0000" channel="Hekayat 2">
+    <title lang="en">Haret El Quba</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413173000 +0000" stop="20210413190000 +0000" channel="Hekayat 2">
+    <title lang="en">Elle Maloush Kbeer</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413190000 +0000" stop="20210413200000 +0000" channel="Hekayat 2">
+    <title lang="en">2020</title>
+    <title lang="ar">2020</title>
+    <desc lang="en">Assigned to go undercover in the drug world, Sama's code of conduct fails her when she falls in love with a gang leader named Safi. As love and justice clash, Sama finds herself conflicted, her emotions in turmoil. تعمل سما النقيب من قوى الأمن على تطبيق القانون وإرساء الأمن، لكن عندما يتم تكليفها بمهمة خطيرة باسم حياة عبدالله، تخذلها عواطفها فتقع بحب زعيم العصابة صافي الذي من المفترض أن تسلمه للعدالة، تدخل سما في صراع مع نفسها، عندما يتصارع الحب والكذب مع ضمير المهنة؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413210000 +0000" channel="Hekayat 2">
+    <title lang="en">Nagib Zahi Zarkash</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413210000 +0000" stop="20210413220000 +0000" channel="Hekayat 2">
+    <title lang="en">El Madah</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210413230000 +0000" channel="Hekayat 2">
+    <title lang="en">Hagma Mortada</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210413230000 +0000" stop="20210414000000 +0000" channel="Hekayat 2">
+    <title lang="en">Mousa</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414000000 +0000" stop="20210414010000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Ekhteyar 2</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414010000 +0000" stop="20210414020000 +0000" channel="Hekayat 2">
+    <title lang="en">Haret El Quba</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414020000 +0000" stop="20210414030000 +0000" channel="Hekayat 2">
+    <title lang="en">Elle Maloush Kbeer</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414030000 +0000" stop="20210414040000 +0000" channel="Hekayat 2">
+    <title lang="en">2020</title>
+    <title lang="ar">2020</title>
+    <desc lang="en">Assigned to go undercover in the drug world, Sama's code of conduct fails her when she falls in love with a gang leader named Safi. As love and justice clash, Sama finds herself conflicted, her emotions in turmoil. تعمل سما النقيب من قوى الأمن على تطبيق القانون وإرساء الأمن، لكن عندما يتم تكليفها بمهمة خطيرة باسم حياة عبدالله، تخذلها عواطفها فتقع بحب زعيم العصابة صافي الذي من المفترض أن تسلمه للعدالة، تدخل سما في صراع مع نفسها، عندما يتصارع الحب والكذب مع ضمير المهنة؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414040000 +0000" stop="20210414050000 +0000" channel="Hekayat 2">
+    <title lang="en">Nagib Zahi Zarkash</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414050000 +0000" stop="20210414060000 +0000" channel="Hekayat 2">
+    <title lang="en">El Madah</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414060000 +0000" stop="20210414070000 +0000" channel="Hekayat 2">
+    <title lang="en">Hagma Mortada</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414070000 +0000" stop="20210414080000 +0000" channel="Hekayat 2">
+    <title lang="en">Mousa</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414080000 +0000" stop="20210414090000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Ekhteyar 2</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414090000 +0000" stop="20210414100000 +0000" channel="Hekayat 2">
+    <title lang="en">Haret El Quba</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414100000 +0000" stop="20210414110000 +0000" channel="Hekayat 2">
+    <title lang="en">Elle Maloush Kbeer</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414110000 +0000" stop="20210414120000 +0000" channel="Hekayat 2">
+    <title lang="en">2020</title>
+    <title lang="ar">2020</title>
+    <desc lang="en">Assigned to go undercover in the drug world, Sama's code of conduct fails her when she falls in love with a gang leader named Safi. As love and justice clash, Sama finds herself conflicted, her emotions in turmoil. تعمل سما النقيب من قوى الأمن على تطبيق القانون وإرساء الأمن، لكن عندما يتم تكليفها بمهمة خطيرة باسم حياة عبدالله، تخذلها عواطفها فتقع بحب زعيم العصابة صافي الذي من المفترض أن تسلمه للعدالة، تدخل سما في صراع مع نفسها، عندما يتصارع الحب والكذب مع ضمير المهنة؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414120000 +0000" stop="20210414130000 +0000" channel="Hekayat 2">
+    <title lang="en">Nagib Zahi Zarkash</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414130000 +0000" stop="20210414140000 +0000" channel="Hekayat 2">
+    <title lang="en">El Madah</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414140000 +0000" stop="20210414144000 +0000" channel="Hekayat 2">
+    <title lang="en">Hagma Mortada</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414144000 +0000" stop="20210414152500 +0000" channel="Hekayat 2">
+    <title lang="en">Mousa</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414152500 +0000" stop="20210414162800 +0000" channel="Hekayat 2">
+    <title lang="en">Al Ekhteyar 2</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210414162800 +0000" stop="20210414173000 +0000" channel="Hekayat 2">
+    <title lang="en">Haret El Quba</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210414173000 +0000" stop="20210414190000 +0000" channel="Hekayat 2">
+    <title lang="en">Elle Maloush Kbeer</title>
+    <title lang="ar">حكايات 2</title>
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210414190000 +0000" stop="20210414200000 +0000" channel="Hekayat 2">
+    <title lang="en">2020</title>
+    <title lang="ar">2020</title>
+    <desc lang="en">Assigned to go undercover in the drug world, Sama's code of conduct fails her when she falls in love with a gang leader named Safi. As love and justice clash, Sama finds herself conflicted, her emotions in turmoil. تعمل سما النقيب من قوى الأمن على تطبيق القانون وإرساء الأمن، لكن عندما يتم تكليفها بمهمة خطيرة باسم حياة عبدالله، تخذلها عواطفها فتقع بحب زعيم العصابة صافي الذي من المفترض أن تسلمه للعدالة، تدخل سما في صراع مع نفسها، عندما يتصارع الحب والكذب مع ضمير المهنة؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210413003000 +0000" stop="20210413031500 +0000" channel="ART Aflam 1">
+    <title lang="en">Alraqs Maa Alshaytan</title>
+    <title lang="ar">الرقص مع الشياطين</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200130053959.jpg" />
+  </programme>
+  <programme start="20210413031500 +0000" stop="20210413050000 +0000" channel="ART Aflam 1">
+    <title lang="en">Saidi Fel Geish</title>
+    <title lang="ar">صعيدي في الجيش</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202085702.jpg" />
+  </programme>
+  <programme start="20210413050000 +0000" stop="20210413070000 +0000" channel="ART Aflam 1">
+    <title lang="en">Ya Ana Ya Khalti</title>
+    <title lang="ar">يا أنا يا خالتي</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210413070000 +0000" stop="20210413100000 +0000" channel="ART Aflam 1">
+    <title lang="en">Forsan Akher Zaman</title>
+    <title lang="ar">فرسان آخر زمن</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210413100000 +0000" stop="20210413120000 +0000" channel="ART Aflam 1">
+    <title lang="en">Khanet El Yak</title>
+    <title lang="ar">أفلام 1</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210413120000 +0000" stop="20210413140000 +0000" channel="ART Aflam 1">
+    <title lang="en">Said Al'atifi</title>
+    <title lang="ar">سيد الأطيفي</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210413140000 +0000" stop="20210413160000 +0000" channel="ART Aflam 1">
+    <title lang="en">Kazalek Fel Zamalek</title>
+    <title lang="ar">كزالك في الزمالك</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200123043230.jpg" />
+  </programme>
+  <programme start="20210413160000 +0000" stop="20210413180000 +0000" channel="ART Aflam 1">
+    <title lang="en">Omar El Azraq</title>
+    <title lang="ar">أفلام 1</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210413180000 +0000" stop="20210413200000 +0000" channel="ART Aflam 1">
+    <title lang="en">Zaki Shan</title>
+    <title lang="ar">زكي شان</title>
+    <desc lang="en">Zaky, a lazy young man decides to work for his father's boss as a bodyguard to protect his stubborn daughter Shereen and her little brother. Soon he becomes a part of the family and a foe for Shereen's jealous boyfriend Hazem. كوميدي، يقرر الشاب الكسول زكي العمل لدى مدير والده كحارس شخصي لابنته العنيدة شيرين وشقيقها الصغير وسرعان ما يصبح جزءاً من العائلة فيؤدي ذلك الأمر إلى مشاكل مع خطيب شيرين الذي تغمره مشاعر الغيرة بسبب تقربه منها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/zakichan-l.jpg" />
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413200000 +0000" channel="ART Aflam 1">
+    <title lang="en">Al Shayateen</title>
+    <title lang="ar">الشياطين</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200203092944.jpg" />
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413220000 +0000" channel="ART Aflam 1">
+    <title lang="en">Al Shayateen</title>
+    <title lang="ar">الشياطين</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200203092944.jpg" />
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210414003000 +0000" channel="ART Aflam 1">
+    <title lang="en">Yara</title>
+    <title lang="ar">أفلام 1</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210414003000 +0000" stop="20210414031500 +0000" channel="ART Aflam 1">
+    <title lang="en">Al Ragol Al Thaleth</title>
+    <title lang="ar">الرجل الثالث</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202090142.jpg" />
+  </programme>
+  <programme start="20210414031500 +0000" stop="20210414053000 +0000" channel="ART Aflam 1">
+    <title lang="en">Moraheqoun Wa Moraheqat</title>
+    <title lang="ar">مراهقون ومراهقات</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200130053928.jpg" />
+  </programme>
+  <programme start="20210414053000 +0000" stop="20210414073000 +0000" channel="ART Aflam 1">
+    <title lang="en">Inhebek Hedi</title>
+    <title lang="ar">أفلام 1</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202090031.jpg" />
+  </programme>
+  <programme start="20210414073000 +0000" stop="20210414093000 +0000" channel="ART Aflam 1">
+    <title lang="en">Cafroun</title>
+    <title lang="ar">كفرون</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210414093000 +0000" stop="20210414113000 +0000" channel="ART Aflam 1">
+    <title lang="en">Mamno' Aliqtrab Aw Altasweer</title>
+    <title lang="ar">ممنوع الاقتراب او التصوير</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200130053850.jpg" />
+  </programme>
+  <programme start="20210414113000 +0000" stop="20210414133000 +0000" channel="ART Aflam 1">
+    <title lang="en">Zaki Shan</title>
+    <title lang="ar">زكي شان</title>
+    <desc lang="en">Zaky, a lazy young man decides to work for his father's boss as a bodyguard to protect his stubborn daughter Shereen and her little brother. Soon he becomes a part of the family and a foe for Shereen's jealous boyfriend Hazem. كوميدي، يقرر الشاب الكسول زكي العمل لدى مدير والده كحارس شخصي لابنته العنيدة شيرين وشقيقها الصغير وسرعان ما يصبح جزءاً من العائلة فيؤدي ذلك الأمر إلى مشاكل مع خطيب شيرين الذي تغمره مشاعر الغيرة بسبب تقربه منها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/zakichan-l.jpg" />
+  </programme>
+  <programme start="20210414133000 +0000" stop="20210414153000 +0000" channel="ART Aflam 1">
+    <title lang="en">Alraqs Maa Alshaytan</title>
+    <title lang="ar">الرقص مع الشياطين</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200130053959.jpg" />
+  </programme>
+  <programme start="20210414153000 +0000" stop="20210414180000 +0000" channel="ART Aflam 1">
+    <title lang="en">Kafarnahoom</title>
+    <title lang="ar">أفلام 1</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200123044251.jpg" />
+  </programme>
+  <programme start="20210414180000 +0000" stop="20210414200000 +0000" channel="ART Aflam 1">
+    <title lang="en">Sana Ola Nasb</title>
+    <title lang="ar">أفلام 1</title>
+    <desc lang="en">The largest collection of contemporary and classical Arabic movies which showcase the most beautiful stories and interesting romantic and comedy scenarios. تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  </programme>
+  <programme start="20210413003000 +0000" stop="20210413031500 +0000" channel="ART Aflam 2">
+    <title lang="en">Arousah We Gouz Ersan</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210413031500 +0000" stop="20210413053000 +0000" channel="ART Aflam 2">
+    <title lang="en">Beya Wa Nehaya</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210413053000 +0000" stop="20210413080000 +0000" channel="ART Aflam 2">
+    <title lang="en">Elmeghanawati</title>
+    <title lang="ar">المغنواتي</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210413080000 +0000" stop="20210413100000 +0000" channel="ART Aflam 2">
+    <title lang="en">Jazirat Alahlam</title>
+    <title lang="ar">جزيرة الاحلام</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203083438.jpg" />
+  </programme>
+  <programme start="20210413100000 +0000" stop="20210413120000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Daraga Al Thaltha</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200123052321.jpg" />
+  </programme>
+  <programme start="20210413120000 +0000" stop="20210413140000 +0000" channel="ART Aflam 2">
+    <title lang="en">Alshaytaan Alsagheer</title>
+    <title lang="ar">الشيطان الصغير</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210413140000 +0000" stop="20210413160000 +0000" channel="ART Aflam 2">
+    <title lang="en">Akher Alrejal Almohtarameen</title>
+    <title lang="ar">آخر الرجال المحترمين</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200130054440.jpg" />
+  </programme>
+  <programme start="20210413160000 +0000" stop="20210413180000 +0000" channel="ART Aflam 2">
+    <title lang="en">Thalathoun Youm Fel Segn</title>
+    <title lang="ar">ثلاثون يوم في السجن</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203084955.jpg" />
+  </programme>
+  <programme start="20210413180000 +0000" stop="20210413200000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Aydi Al Qazera</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413200000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Aseil</title>
+    <title lang="ar">الأصيل</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203083954.jpg" />
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413220000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Aseil</title>
+    <title lang="ar">الأصيل</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203083954.jpg" />
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210414003000 +0000" channel="ART Aflam 2">
+    <title lang="en">Al Gareeh</title>
+    <title lang="ar">الجريح</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200123043940.jpg" />
+  </programme>
+  <programme start="20210414003000 +0000" stop="20210414031500 +0000" channel="ART Aflam 2">
+    <title lang="en">Laylet Al Qabd Ala Bakeza W Zaghloul</title>
+    <title lang="ar">ليلة القبض على بكيزة و زغلول</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/af2745x419_20200203085143.jpg" />
+  </programme>
+  <programme start="20210414031500 +0000" stop="20210414053000 +0000" channel="ART Aflam 2">
+    <title lang="en">Wada'an Ya Hobb</title>
+    <title lang="ar">وداعا يا حب</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210414053000 +0000" stop="20210414073000 +0000" channel="ART Aflam 2">
+    <title lang="en">Nour Al-Eman</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210414073000 +0000" stop="20210414093000 +0000" channel="ART Aflam 2">
+    <title lang="en">Hokm Alqawee</title>
+    <title lang="ar">حكم الأقوياء</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210414093000 +0000" stop="20210414113000 +0000" channel="ART Aflam 2">
+    <title lang="en">Alaqzam Qademoun</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210414113000 +0000" stop="20210414133000 +0000" channel="ART Aflam 2">
+    <title lang="en">Alless Alshareef</title>
+    <title lang="ar">أفلام 2</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210414133000 +0000" stop="20210414160000 +0000" channel="ART Aflam 2">
+    <title lang="en">Kaydahonna Azeem</title>
+    <title lang="ar">كيدهن عظيم</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210414160000 +0000" stop="20210414180000 +0000" channel="ART Aflam 2">
+    <title lang="en">Ebn Lel Ijaar</title>
+    <title lang="ar">ابن للإيجار</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210414180000 +0000" stop="20210414200000 +0000" channel="ART Aflam 2">
+    <title lang="en">Inna Rabbak LA Belmersad</title>
+    <title lang="ar">ان ربك لبالمرصاد</title>
+    <desc lang="en">Presenting movies from the ART Aflam library and a variety of programmes including talk shows, interviews, star gossip and what goes on behind the scenes, to give a wide choice of viewing options throughout the day. تعرض أفلامها من مكتبة ايه آر تي أفلام 1 لتمنحك خيارات متنوعة في مختلف الأوقات على مدار اليوم. كما تقدم مجموعة من البرامج الخاصة الممتعة بما فيها البرامج الحوارية والمقابلات وأخبار النجوم وما يجري خلف الكواليس وغيرها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/aflam2.jpg" />
+  </programme>
+  <programme start="20210413000000 +0000" stop="20210413030000 +0000" channel="ART Cinema">
+    <title lang="en">Tala Habebti</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413030000 +0000" stop="20210413080000 +0000" channel="ART Cinema">
+    <title lang="en">Poster</title>
+    <title lang="ar">بوستر</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200123084718.jpg" />
+  </programme>
+  <programme start="20210413080000 +0000" stop="20210413100000 +0000" channel="ART Cinema">
+    <title lang="en">Tala Habebti</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413100000 +0000" stop="20210413120000 +0000" channel="ART Cinema">
+    <title lang="en">Mafkoud</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413120000 +0000" stop="20210413140000 +0000" channel="ART Cinema">
+    <title lang="en">Najmet Alsoubh</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413140000 +0000" stop="20210413160000 +0000" channel="ART Cinema">
+    <title lang="en">Tala Habebti</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413160000 +0000" stop="20210413180000 +0000" channel="ART Cinema">
+    <title lang="en">Mafkoud</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413180000 +0000" stop="20210413200000 +0000" channel="ART Cinema">
+    <title lang="en">Najmet Alsoubh</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413200000 +0000" channel="ART Cinema">
+    <title lang="en">Tala Habebti</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413200000 +0000" stop="20210413220000 +0000" channel="ART Cinema">
+    <title lang="en">Tala Habebti</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210413220000 +0000" stop="20210414000000 +0000" channel="ART Cinema">
+    <title lang="en">Mafkoud</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210414000000 +0000" stop="20210414030000 +0000" channel="ART Cinema">
+    <title lang="en">Najmet Alsoubh</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210414030000 +0000" stop="20210414080000 +0000" channel="ART Cinema">
+    <title lang="en">Poster</title>
+    <title lang="ar">بوستر</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/acm745x419_20200123084718.jpg" />
+  </programme>
+  <programme start="20210414080000 +0000" stop="20210414100000 +0000" channel="ART Cinema">
+    <title lang="en">Najmet Alsoubh</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210414100000 +0000" stop="20210414120000 +0000" channel="ART Cinema">
+    <title lang="en">Tala Habebti</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210414120000 +0000" stop="20210414140000 +0000" channel="ART Cinema">
+    <title lang="en">Mafkoud</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210414140000 +0000" stop="20210414160000 +0000" channel="ART Cinema">
+    <title lang="en">Najmet Alsoubh</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210414160000 +0000" stop="20210414180000 +0000" channel="ART Cinema">
+    <title lang="en">Tala Habebti</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
+  </programme>
+  <programme start="20210414180000 +0000" stop="20210414200000 +0000" channel="ART Cinema">
+    <title lang="en">Mafkoud</title>
+    <title lang="ar">ART سينما</title>
+    <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
   </programme>
   <programme start="20210413010000 +0000" stop="20210413030000 +0000" channel="Cinema 1">
     <title lang="en">Omar Wa Salma ( Part 3 )</title>
