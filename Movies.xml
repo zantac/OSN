@@ -146,6 +146,111 @@
     <icon src="http://content.osn.com/bob/745x419/MV012905_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
+  <programme start="20210514203500 +0000" stop="20210514203500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Driven</title>
+    <title lang="ar">دريفن</title>
+    <desc lang="en">Drama. FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking. دراما. يستقطب المخبر في مكتب التحقيقات الفدرالي جيم هوفمان قطب السيارات المضطرب جون ديلوريان إلى عصابة سرية لتهريب الكوكايين.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013584_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210514203500 +0000" stop="20210514222000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Driven</title>
+    <title lang="ar">دريفن</title>
+    <desc lang="en">Drama. FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking. دراما. يستقطب المخبر في مكتب التحقيقات الفدرالي جيم هوفمان قطب السيارات المضطرب جون ديلوريان إلى عصابة سرية لتهريب الكوكايين.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013584_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210514222000 +0000" stop="20210514235000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Beneath The Leaves</title>
+    <title lang="ar">بينيث ذا ليفز</title>
+    <desc lang="en">Four small-town boys are kidnapped by James Whitley, a warm-eyed psychopath. يختطف جيمس، الذي يعاني من مشاكل نفسية  أربعة أولاد من قرية صغيرة .</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013878_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210514235000 +0000" stop="20210515011500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Egg</title>
+    <title lang="ar">إيغ</title>
+    <desc lang="en">Two couples and a surrogate lay bare the complications, contradictions, heartbreak, and absurdities implicit in how we think about motherhood. يتحمل زوجان المضاعفات والتناقضات والحسرة والسخافات الضمنية في طريقة تفكيرنا في موضوع الأمومة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013164_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515011500 +0000" stop="20210515025000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Sonic The Hedgehog</title>
+    <title lang="ar">سونك ذا هادجهوغ</title>
+    <desc lang="en">Based on the global blockbuster videogame franchise from Sega. Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination. فيلم مستوحى من لعبة الفيديو العالمية الرائجة "سيغا". يتعاون سونك مع صديقه الجديد المُفضل للدفاع عن الكوكب من شر الدكتور العبقري، روبوتنك، وخططه للسيطرة على العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013422_LC_STB151730415.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515025000 +0000" stop="20210515042000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Winter's Dream</title>
+    <title lang="ar">وينترز دريم</title>
+    <desc lang="en">Romantic Drama. Former pro skier, Kat, is asked to coach a younger skier, named Anna, and finds love with the girl's widowed father, Ty. دراما رومانسية. تبدأ قصة حب غير متوقعة بين "كات"  متزلجة محترفة سابقة و "تاي" والد الطفلة "آنا" الأعزب عندما تم تكليف كات بتدريب ابنته.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013456_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515042000 +0000" stop="20210515054500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Rome In Love</title>
+    <title lang="ar">روم إن لاف</title>
+    <desc lang="en">Romance. An unknown actress lands the role of a lifetime in Rome. Paired with an American journalist writing a profile, she will discover surprises about love and life in the eternal city. رومانسية. تحصل ممثلة غير معروفة على فرصة العمر للتمثيل في روما. وهناك تستكشف مفاجآت حول الحب والحياة في المدينة الأبدية بصحبة صحفي أمريكي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013452_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515054500 +0000" stop="20210515072000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Secret Society Of Second Born Royals</title>
+    <title lang="ar">سيكريت سوسايتي أوف سيكند بورن رويالز</title>
+    <desc lang="en">It follows Sam's adventures at a top-secret training program for a new class of second-born royals tasked with saving the world. تتمة لمغامرات سام في برنامج تدريبي شديد السرية لصف جديد من أفراد العائلة المالكة المكلفة بإنقاذ العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013545_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515072000 +0000" stop="20210515090000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Late Night</title>
+    <title lang="ar">ليت نايت</title>
+    <desc lang="en">A legendary late-night talk show host's world is turned upside down when she hires her only female staff writer. Originally intended to smooth over diversity concerns, but her decision has unexpectedly hilarious consequences. تنقلب حياة مضيفة أحد البرامج الحوارية المسائية رأساً على عقب بعد تعيينها لكاتبة جديدة ضمن فريق العمل، أدى ذلك القرار  إلى نتائج مضحكة وغير متوقعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013151_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515090000 +0000" stop="20210515103500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Sonic The Hedgehog</title>
+    <title lang="ar">سونك ذا هادجهوغ</title>
+    <desc lang="en">Based on the global blockbuster videogame franchise from Sega. Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination. فيلم مستوحى من لعبة الفيديو العالمية الرائجة "سيغا". يتعاون سونك مع صديقه الجديد المُفضل للدفاع عن الكوكب من شر الدكتور العبقري، روبوتنك، وخططه للسيطرة على العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013422_LC_STB151730415.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515103500 +0000" stop="20210515123000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Bad Boys For Life</title>
+    <title lang="ar">باد بويز فور لايف</title>
+    <desc lang="en">Marcus and Mike are confronting new threats and career changes as they join the newly created elite team AMMO of the Miami police department to take down Armando Armas, the vicious leader of a Miami drug cartel. يواجه ماركوس ومايك تهديدات جديدة وتغييرات في المسار الوظيفي إذ ينضمان إلى فريق نخبة شرطة ميامي يُطلق عليه إسم "أمو" والذي تم إنشاؤه حديثًا للإطاحة بأرماندو أرماس، زعيم لعصابة مخدرات في ميامي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013354_LC_STB124402109.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515123000 +0000" stop="20210515141000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Godmothered</title>
+    <title lang="ar">غادماذرد</title>
+    <desc lang="en">A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. تغامر جنية عرابة وغير متمرسة بالخروج لتثبت قيمتها وذلك لتعقب فتاة صغيرة قد تم تجاهل طلبها للمساعدة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV014016_LC_STB144837620.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515141000 +0000" stop="20210515155500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Mulan</title>
+    <title lang="ar">مولان</title>
+    <desc lang="en">When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. عندما أصدر إمبراطور الصين مرسومًا يقضي بأن يخدم رجل واحد من كل أسرة في الجيش الإمبراطوري الصيني للدفاع عن البلاد ضد هونس عندها تتدخل هوا مولان الابنة الكبرى لمحارب قدير لتحل محل والدها المريض.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013469_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515155500 +0000" stop="20210515180000 +0000" channel="OSN Movies First HD">
+    <title lang="en">Little Women</title>
+    <title lang="ar">ليتل وومين</title>
+    <desc lang="en">Four sisters learn about love, life, and loss as they grow through their young womanhood against the backdrop of post-Civil War America. تتعلم أربع أخوات دروسا عن الحب، الحياة والخسارة أثناء نموهن في أمريكا في فترة ما بعد الحرب الأهلية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013361_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515180000 +0000" stop="20210515194500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Bombshell</title>
+    <title lang="ar">بومبشال</title>
+    <desc lang="en">Bombshell is a revealing look inside the most powerful and controversial media empire of all time, and the explosive story of the women who brought down the infamous man who created it. يُسلط فيلم "بومبشال" الضوء على أكثر إمبراطورية إعلامية قوة وإثارة للجدل على الإطلاق. نتابع قصة المرأة التي أسقطت الرجل المشين الذي صنعها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013548_LC_STB144119617.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
   <programme start="20210514005000 +0000" stop="20210514022500 +0000" channel="OSN Movies First HD2">
     <title lang="en">Secret Society Of Second Born Royals</title>
     <title lang="ar">سيكريت سوسايتي أوف سيكند بورن رويالز</title>
@@ -228,6 +333,111 @@
     <title lang="ar">باد بويز فور لايف</title>
     <desc lang="en">Marcus and Mike are confronting new threats and career changes as they join the newly created elite team AMMO of the Miami police department to take down Armando Armas, the vicious leader of a Miami drug cartel. يواجه ماركوس ومايك تهديدات جديدة وتغييرات في المسار الوظيفي إذ ينضمان إلى فريق نخبة شرطة ميامي يُطلق عليه إسم "أمو" والذي تم إنشاؤه حديثًا للإطاحة بأرماندو أرماس، زعيم لعصابة مخدرات في ميامي.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013354_LC_STB124402109.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210514200000 +0000" stop="20210514200000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Once Upon A Time In Hollywood</title>
+    <title lang="ar">وونس أبون أيه تايم إن هوليوود</title>
+    <desc lang="en">Follows a faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in Los Angeles. يروي قصة سعي نجما هوليوود إلى الشهرة بعد أن تضائل بريق شهرتهما ونضالهما لتحقيق النجاح في صناعة الأفلام في السنوات الأخيرة من عصر هوليوود الذهبي في لوس أنجلس.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV012905_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210514200000 +0000" stop="20210514223500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Once Upon A Time In Hollywood</title>
+    <title lang="ar">وونس أبون أيه تايم إن هوليوود</title>
+    <desc lang="en">Follows a faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in Los Angeles. يروي قصة سعي نجما هوليوود إلى الشهرة بعد أن تضائل بريق شهرتهما ونضالهما لتحقيق النجاح في صناعة الأفلام في السنوات الأخيرة من عصر هوليوود الذهبي في لوس أنجلس.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV012905_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210514223500 +0000" stop="20210515002000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Driven</title>
+    <title lang="ar">دريفن</title>
+    <desc lang="en">Drama. FBI informant Jim Hoffman lures troubled automobile magnate John DeLorean to an undercover sting for cocaine trafficking. دراما. يستقطب المخبر في مكتب التحقيقات الفدرالي جيم هوفمان قطب السيارات المضطرب جون ديلوريان إلى عصابة سرية لتهريب الكوكايين.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013584_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515002000 +0000" stop="20210515015000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Beneath The Leaves</title>
+    <title lang="ar">بينيث ذا ليفز</title>
+    <desc lang="en">Four small-town boys are kidnapped by James Whitley, a warm-eyed psychopath. يختطف جيمس، الذي يعاني من مشاكل نفسية  أربعة أولاد من قرية صغيرة .</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013878_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515015000 +0000" stop="20210515031500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Egg</title>
+    <title lang="ar">إيغ</title>
+    <desc lang="en">Two couples and a surrogate lay bare the complications, contradictions, heartbreak, and absurdities implicit in how we think about motherhood. يتحمل زوجان المضاعفات والتناقضات والحسرة والسخافات الضمنية في طريقة تفكيرنا في موضوع الأمومة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013164_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515031500 +0000" stop="20210515045000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Sonic The Hedgehog</title>
+    <title lang="ar">سونك ذا هادجهوغ</title>
+    <desc lang="en">Based on the global blockbuster videogame franchise from Sega. Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination. فيلم مستوحى من لعبة الفيديو العالمية الرائجة "سيغا". يتعاون سونك مع صديقه الجديد المُفضل للدفاع عن الكوكب من شر الدكتور العبقري، روبوتنك، وخططه للسيطرة على العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013422_LC_STB151730415.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515045000 +0000" stop="20210515062000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Winter's Dream</title>
+    <title lang="ar">وينترز دريم</title>
+    <desc lang="en">Romantic Drama. Former pro skier, Kat, is asked to coach a younger skier, named Anna, and finds love with the girl's widowed father, Ty. دراما رومانسية. تبدأ قصة حب غير متوقعة بين "كات"  متزلجة محترفة سابقة و "تاي" والد الطفلة "آنا" الأعزب عندما تم تكليف كات بتدريب ابنته.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013456_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515062000 +0000" stop="20210515074500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Rome In Love</title>
+    <title lang="ar">روم إن لاف</title>
+    <desc lang="en">Romance. An unknown actress lands the role of a lifetime in Rome. Paired with an American journalist writing a profile, she will discover surprises about love and life in the eternal city. رومانسية. تحصل ممثلة غير معروفة على فرصة العمر للتمثيل في روما. وهناك تستكشف مفاجآت حول الحب والحياة في المدينة الأبدية بصحبة صحفي أمريكي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013452_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515074500 +0000" stop="20210515092000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Secret Society Of Second Born Royals</title>
+    <title lang="ar">سيكريت سوسايتي أوف سيكند بورن رويالز</title>
+    <desc lang="en">It follows Sam's adventures at a top-secret training program for a new class of second-born royals tasked with saving the world. تتمة لمغامرات سام في برنامج تدريبي شديد السرية لصف جديد من أفراد العائلة المالكة المكلفة بإنقاذ العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013545_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515092000 +0000" stop="20210515110000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Late Night</title>
+    <title lang="ar">ليت نايت</title>
+    <desc lang="en">A legendary late-night talk show host's world is turned upside down when she hires her only female staff writer. Originally intended to smooth over diversity concerns, but her decision has unexpectedly hilarious consequences. تنقلب حياة مضيفة أحد البرامج الحوارية المسائية رأساً على عقب بعد تعيينها لكاتبة جديدة ضمن فريق العمل، أدى ذلك القرار  إلى نتائج مضحكة وغير متوقعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013151_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515110000 +0000" stop="20210515123500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Sonic The Hedgehog</title>
+    <title lang="ar">سونك ذا هادجهوغ</title>
+    <desc lang="en">Based on the global blockbuster videogame franchise from Sega. Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination. فيلم مستوحى من لعبة الفيديو العالمية الرائجة "سيغا". يتعاون سونك مع صديقه الجديد المُفضل للدفاع عن الكوكب من شر الدكتور العبقري، روبوتنك، وخططه للسيطرة على العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013422_LC_STB151730415.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515123500 +0000" stop="20210515143000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Bad Boys For Life</title>
+    <title lang="ar">باد بويز فور لايف</title>
+    <desc lang="en">Marcus and Mike are confronting new threats and career changes as they join the newly created elite team AMMO of the Miami police department to take down Armando Armas, the vicious leader of a Miami drug cartel. يواجه ماركوس ومايك تهديدات جديدة وتغييرات في المسار الوظيفي إذ ينضمان إلى فريق نخبة شرطة ميامي يُطلق عليه إسم "أمو" والذي تم إنشاؤه حديثًا للإطاحة بأرماندو أرماس، زعيم لعصابة مخدرات في ميامي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013354_LC_STB124402109.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515143000 +0000" stop="20210515161000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Godmothered</title>
+    <title lang="ar">غادماذرد</title>
+    <desc lang="en">A young and unskilled fairy godmother that ventures out on her own to prove her worth by tracking down a young girl whose request for help was ignored. تغامر جنية عرابة وغير متمرسة بالخروج لتثبت قيمتها وذلك لتعقب فتاة صغيرة قد تم تجاهل طلبها للمساعدة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV014016_LC_STB144837620.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515161000 +0000" stop="20210515175500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Mulan</title>
+    <title lang="ar">مولان</title>
+    <desc lang="en">When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. عندما أصدر إمبراطور الصين مرسومًا يقضي بأن يخدم رجل واحد من كل أسرة في الجيش الإمبراطوري الصيني للدفاع عن البلاد ضد هونس عندها تتدخل هوا مولان الابنة الكبرى لمحارب قدير لتحل محل والدها المريض.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013469_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210515175500 +0000" stop="20210515200000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Little Women</title>
+    <title lang="ar">ليتل وومين</title>
+    <desc lang="en">Four sisters learn about love, life, and loss as they grow through their young womanhood against the backdrop of post-Civil War America. تتعلم أربع أخوات دروسا عن الحب، الحياة والخسارة أثناء نموهن في أمريكا في فترة ما بعد الحرب الأهلية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013361_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210514003000 +0000" stop="20210514021500 +0000" channel="OSN Movies Action HD">
@@ -560,14 +770,18 @@
     <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210515161500 +0000" stop="20210515180000 +0000" channel="OSN Movies HD">
-    <title lang="en">Into The Blue (?)</title>
+    <title lang="en">Into The Blue</title>
     <title lang="ar">إنتو ذا بلو</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Greed turns an idyllic vacation into a nightmare in this action drama when divers discover the wreckage of a plane used to smuggle drugs and team up with a local underground entrepreneur to fence off the goods. يُحول الجشع عطلة مثالية إلى كابوس بشع عندما يكتشف مجموعة من الغواصين حطام طائرة كانت تستخدم لتهريب المخدرات ويتعاونون مع تاجر مخدرات محلي لإخراج البضاعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV006060_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210515180000 +0000" stop="20210515195000 +0000" channel="OSN Movies HD">
-    <title lang="en">The Silence Of The Lambs (?)</title>
+    <title lang="en">The Silence Of The Lambs</title>
     <title lang="ar">ذا سايلنس أوف ذا لامبس</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">To apprehend a serial killer, a young FBI cadet seeks the advice of the imprisoned and psychopathic Dr. Hannibal Lecter, but Lecter's insight comes with a price. من أجل اعتقال قاتل متسلسل، تطلب عميلة أف بي آي مستجدة نصيحة الطبيب النفسي المسجون الدكتور .هانيبال ليكتير، لكن بصيرة ليكتير لها ثمنها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/AC-0485201_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210514000000 +0000" stop="20210514020500 +0000" channel="OSN POP">
     <title lang="en">Katkout</title>
@@ -850,9 +1064,11 @@
     <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210514232000 +0000" stop="20210515005500 +0000" channel="OSN Enigma">
-    <title lang="en">Pet Sematary (?)</title>
+    <title lang="en">Pet Sematary</title>
     <title lang="ar">بيت سيمتري</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Dr. Louis and his wife relocate to Maine with their two young children. After their family cat is killed, they bury it in the mysterious local "Pet Sematary," which unleashes an unspeakable evil with horrific consequences. ينتقل الدكتور لويس وزوجته إلى منطقة مين الريفية مع طفليهما الصغيرين. بعد أن قُتلت قطة العائلة، قاموا بدفنها في "مقبرة الحيوانات" الغامضة التي تطلق العنان لروح شريرة تصدر عنها عواقب وخيمة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV012883_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210515005500 +0000" stop="20210515022000 +0000" channel="OSN Enigma">
     <title lang="en">Campfire Kiss</title>

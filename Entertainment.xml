@@ -263,9 +263,11 @@
     <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20210515001500 +0000" stop="20210515010500 +0000" channel="OSN Series First HD">
-    <title lang="en">Modus (?)</title>
+    <title lang="en">Modus</title>
     <title lang="ar">موداس</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Invar suggests he and Inger Johanne team up to track down the mole in the Swedish police force, but Warren Schifford does his best to frustrate their efforts. As evidence begins to mount, possible leads emerge in relation to President Helen Tyler's disappearance. يقترح إنفار على إنغر جوهان العمل كفريق واحد لتعقب الجاسوس في الشرطة السويدية ، لكن وارن شيفورد يبذل قصارى جهده لإحباط جهودهم. عندما تبدأ الأدلة في الظهور ، تظهر خيوط محتملة فيما يتعلق باختفاء الرئيس هيلين تايلر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077349_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
   <programme start="20210515010500 +0000" stop="20210515013500 +0000" channel="OSN Series First HD">
     <title lang="en">Room 104</title>
@@ -617,6 +619,223 @@
     <icon src="http://content.osn.com/bob/745x419/SR077339_LC_STB132107900.jpg" />
     <episode-num system="onscreen">E1</episode-num>
   </programme>
+  <programme start="20210514202000 +0000" stop="20210514202000 +0000" channel="OSN Series HD">
+    <title lang="en">Big Little Lies</title>
+    <title lang="ar">بيغ ليتل لايز</title>
+    <desc lang="en">Celeste accuses Mary Louise of overstepping boundaries with Jane. Renata endures a prying court hearing with Gordon. Jane opens up to Corey at Amabella's birthday party. Madeline continues to try to make things right with Ed. تتهم سيليست ماري لويز بتخطي الحدود مع جين. ريناتا يتحمل جلسة استماع رائعة مع جوردون. تفتح جين قلبها لـ كوري في حفل عيد ميلاد أمابيلا. تواصل مادلين محاولة وضع الأمور في نصابها الصحيح مع إد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR078787_LC_STB120937485.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210514202000 +0000" stop="20210514212000 +0000" channel="OSN Series HD">
+    <title lang="en">Big Little Lies</title>
+    <title lang="ar">بيغ ليتل لايز</title>
+    <desc lang="en">Celeste accuses Mary Louise of overstepping boundaries with Jane. Renata endures a prying court hearing with Gordon. Jane opens up to Corey at Amabella's birthday party. Madeline continues to try to make things right with Ed. تتهم سيليست ماري لويز بتخطي الحدود مع جين. ريناتا يتحمل جلسة استماع رائعة مع جوردون. تفتح جين قلبها لـ كوري في حفل عيد ميلاد أمابيلا. تواصل مادلين محاولة وضع الأمور في نصابها الصحيح مع إد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR078787_LC_STB120937485.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210514212000 +0000" stop="20210514222000 +0000" channel="OSN Series HD">
+    <title lang="en">Five Days</title>
+    <title lang="ar">فايف ديز</title>
+    <desc lang="en">Matt finds himself in a riff with Leanne's parents after he gives an interview at home with a TV crew. Later, Matt and Sarah spend the afternoon at a local fair and road race in a park, which ends with a grisly discovery - taking the family on another emotional ride. يجد مات نفسه في وضع سيء مع والدي ليان بعد تحديد موعد في المنزل مع طاقم التلفاز. ولاحقا، يقضي مات وسارة المساء في سوق محلي وسباق طرقات، والذي ينتهي باكتشاف مروع.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR044195_LC_STB170307601.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210514222000 +0000" stop="20210514231000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">With his future at York Memorial uncertain, Bash must deal with the scrutiny he's under. كون أن مستقبله في مستشفى يورك ماموريال غير مؤكد ، يجب على باش التعامل مع التدقيق الذي يخضع له.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090427_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210514231000 +0000" stop="20210515000000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When Bash's friend from Syria calls him requesting his help to treat patients, Bash must figure out how to be in two places at once. عندما اتصل به صديق باش من سوريا طالبًا مساعدته في علاج المرضى ، يجب على باش أن يكتشف كيف يكون في مكانين في وقت واحد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090428_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515000000 +0000" stop="20210515004500 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash tries to respect old family traditions while struggling to open up about his past. يحاول باش احترام تقاليد العائلة القديمة بينما يكافح من أجل الانفتاح على ماضيه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090429_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515004500 +0000" stop="20210515013000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash's past comes back to the surface in a way that impacts his work. يعود ماضي باش من جديد بطريقة تؤثر على عمله.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090430_LC_STB.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210515013000 +0000" stop="20210515021500 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash wants to make things right by Amira after their lives are turned upside down once again. يريد باش تصحيح الأمور على يد أميرة بعد أن انقلبت حياتهم رأسًا على عقب مرة أخرى.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090431_LC_STB.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210515021500 +0000" stop="20210515030000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash must help a patient make an impossible decision. يجب أن يساعد باش المريض في اتخاذ قرار مستحيل.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090432_LC_STB.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210515030000 +0000" stop="20210515043000 +0000" channel="OSN Series HD">
+    <title lang="en">Good Morning America</title>
+    <title lang="ar">Good Morning America</title>
+    <desc lang="en">ABC News' popular morning programme. Tune in to the show's award-winning combination of breaking news, hard hitting interviews, exclusive investigations, cutting-edge medical information, and financial reporting. إنه البرنامج الصباحي الشهير اي بي سي نيوز. استمع إلى الأخبار العاجلة والمقابلات القوية والتحقيقات الحصرية والمعلومات الطبية المتطورة والتقارير المالية من هذا البرنامج الحائز على جوائز عديدة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/GoodMorningAmerica-l.jpg" />
+    <episode-num system="onscreen">E162</episode-num>
+  </programme>
+  <programme start="20210515043000 +0000" stop="20210515051300 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When a friend needs medical attention, Bash must navigate how to be his doctor. عندما يحتاج صديق إلى رعاية طبية ، يجب على "باش" أن يكتشف كيف يمكن أن يكون طبيبه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090433_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515051300 +0000" stop="20210515055500 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">An explosion occurs near York Memorial hospital, putting the emergency department to the test. وقع انفجار بالقرب من مستشفى يورك ميموريال ، مما وضع قسم الطوارئ على المحك.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090434_LC_STB.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210515055500 +0000" stop="20210515063800 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">In the wake of the explosion, Bash is forced to examine his behaviour. في أعقاب الانفجار ، أجبر باش على فحص سلوكه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090435_LC_STB.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20210515063800 +0000" stop="20210515072000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When an opioid addict is injured, Bash races to discover if her deadly symptoms are caused by drugs or a mystery ailment. عندما يُصاب مدمن للمواد الأفيونية ، تسابق "باش" لاكتشاف ما إذا كانت أعراضها المميتة ناجمة عن المخدرات أو مرض غامض.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090436_LC_STB.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20210515072000 +0000" stop="20210515080500 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash tries to protect Bishop's legacy and save himself by fighting to save a patient nearly killed by a medical error. يحاول باش حماية إرث بيشوب وإنقاذ نفسه بالقتال لإنقاذ مريض كاد أن يموت بسبب خطأ طبي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090437_LC_STB.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210515080500 +0000" stop="20210515084800 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When a tragic event takes place, Bashir Hamed, a Syrian refugee who used to be a doctor in his country, can't help but use his training to save the wounded. عندما يقع حدث مأساوي ، لا يسع بشير حامد ، اللاجئ السوري الذي كان طبيباً في بلده ، إلا أن يستخدم تدريبه لإنقاذ الجرحى.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090425_LC_STB.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210515084800 +0000" stop="20210515093000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">As Bash joins the staff at York Memorial, his experience as a doctor during the war in Syria informs his unconventional approach. عندما ينضم باش إلى طاقم يورك ميموريال ، فإن تجربته كطبيب أثناء الحرب في سوريا تُظهر نهجه غير التقليدي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090426_LC_STB.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515093000 +0000" stop="20210515101300 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">With his future at York Memorial uncertain, Bash must deal with the scrutiny he's under. كون أن مستقبله في مستشفى يورك ماموريال غير مؤكد ، يجب على باش التعامل مع التدقيق الذي يخضع له.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090427_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515101300 +0000" stop="20210515105500 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When Bash's friend from Syria calls him requesting his help to treat patients, Bash must figure out how to be in two places at once. عندما اتصل به صديق باش من سوريا طالبًا مساعدته في علاج المرضى ، يجب على باش أن يكتشف كيف يكون في مكانين في وقت واحد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090428_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515105500 +0000" stop="20210515113800 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash tries to respect old family traditions while struggling to open up about his past. يحاول باش احترام تقاليد العائلة القديمة بينما يكافح من أجل الانفتاح على ماضيه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090429_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515113800 +0000" stop="20210515122000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash's past comes back to the surface in a way that impacts his work. يعود ماضي باش من جديد بطريقة تؤثر على عمله.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090430_LC_STB.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210515122000 +0000" stop="20210515130300 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash wants to make things right by Amira after their lives are turned upside down once again. يريد باش تصحيح الأمور على يد أميرة بعد أن انقلبت حياتهم رأسًا على عقب مرة أخرى.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090431_LC_STB.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20210515130300 +0000" stop="20210515134500 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash must help a patient make an impossible decision. يجب أن يساعد باش المريض في اتخاذ قرار مستحيل.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090432_LC_STB.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20210515134500 +0000" stop="20210515142800 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When a friend needs medical attention, Bash must navigate how to be his doctor. عندما يحتاج صديق إلى رعاية طبية ، يجب على "باش" أن يكتشف كيف يمكن أن يكون طبيبه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090433_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515142800 +0000" stop="20210515151000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">An explosion occurs near York Memorial hospital, putting the emergency department to the test. وقع انفجار بالقرب من مستشفى يورك ميموريال ، مما وضع قسم الطوارئ على المحك.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090434_LC_STB.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210515151000 +0000" stop="20210515155300 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">In the wake of the explosion, Bash is forced to examine his behaviour. في أعقاب الانفجار ، أجبر باش على فحص سلوكه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090435_LC_STB.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20210515155300 +0000" stop="20210515163500 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When an opioid addict is injured, Bash races to discover if her deadly symptoms are caused by drugs or a mystery ailment. عندما يُصاب مدمن للمواد الأفيونية ، تسابق "باش" لاكتشاف ما إذا كانت أعراضها المميتة ناجمة عن المخدرات أو مرض غامض.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090436_LC_STB.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20210515163500 +0000" stop="20210515172000 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">Bash tries to protect Bishop's legacy and save himself by fighting to save a patient nearly killed by a medical error. يحاول باش حماية إرث بيشوب وإنقاذ نفسه بالقتال لإنقاذ مريض كاد أن يموت بسبب خطأ طبي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090437_LC_STB.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210515172000 +0000" stop="20210515180300 +0000" channel="OSN Series HD">
+    <title lang="en">Transplant</title>
+    <title lang="ar">ترانسبلانت</title>
+    <desc lang="en">When a tragic event takes place, Bashir Hamed, a Syrian refugee who used to be a doctor in his country, can't help but use his training to save the wounded. عندما يقع حدث مأساوي ، لا يسع بشير حامد ، اللاجئ السوري الذي كان طبيباً في بلده ، إلا أن يستخدم تدريبه لإنقاذ الجرحى.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090425_LC_STB.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210515180300 +0000" stop="20210515190000 +0000" channel="OSN Series HD">
+    <title lang="en">Game Of Thrones</title>
+    <title lang="ar">غايم أوف ثرونز</title>
+    <desc lang="en">Jaime argues his case before a sceptical audience. يناقش جيمي قضيته أمام جمهور مشكك.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077340_LC_STB.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515190000 +0000" stop="20210515202500 +0000" channel="OSN Series HD">
+    <title lang="en">Game Of Thrones</title>
+    <title lang="ar">غايم أوف ثرونز</title>
+    <desc lang="en">Arya looks to prove her worth as a fighter. تتطلع آريا إلى إثبات قيمتها كمقاتلة حقيقية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077341_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
   <programme start="20210514000000 +0000" stop="20210514010000 +0000" channel="OSN Comedy HD">
     <title lang="en">Late Night With Seth Meyers</title>
     <title lang="ar">Late Night With Seth Meyers</title>
@@ -933,9 +1152,11 @@
     <episode-num system="onscreen">E6</episode-num>
   </programme>
   <programme start="20210515033000 +0000" stop="20210515040000 +0000" channel="OSN Comedy HD">
-    <title lang="en">Getting On (?)</title>
+    <title lang="en">Getting On</title>
     <title lang="ar">غيتينغ أون</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Phyllis gets the run-around as her mother's condition worsens, improves and worsens again. Meanwhile, after falling out, the staff make up and come together to perform their weekly "Caregiver Concert" for everyone in the ward. تصاب فايليس بالقلق والحيرة مع تكرار تحسن ثم تدهور حالة والدتها. وفي هذه الأثناء، بعد أن عمت الخلاف، يتصالح أفراد الطاقم مجدداً لتقديم حفلة كيرغيفر الأسبوعية للمرضى في جناح المستشفى.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR030466_LC_STB.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
   </programme>
   <programme start="20210515040000 +0000" stop="20210515043000 +0000" channel="OSN Comedy HD">
     <title lang="en">New Girl</title>
@@ -1022,14 +1243,18 @@
     <episode-num system="onscreen">E13</episode-num>
   </programme>
   <programme start="20210515111500 +0000" stop="20210515114500 +0000" channel="OSN Comedy HD">
-    <title lang="en">New Girl (?)</title>
+    <title lang="en">New Girl</title>
     <title lang="ar">نيو غيرل</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Jess is ready to paint the town purple when a chance encounter finds her and Cece invited to a once-in-a-lifetime mansion party thrown by music legend Prince. Not wanting to miss out on the fun, Nick, Schmidt, Winston and Coach are determined to crash the festivities. تشعر جيس بسعادة غامرة عندما يتم دعوتها وسيسي لحضور حفلة العمر في منزل فخم والتي يحييها المغني الشهير برينس. وهي فرصة لا ينوي نايك، شكيت، وينستون وكوتش تفويتها مما يدفعهم للتخطيط للتطفل على هذا الاحتفال.</desc>
+    <icon src="http://content.osn.com/bob/745x419/New-Girl-S3-Ep14-ls.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
   </programme>
   <programme start="20210515114500 +0000" stop="20210515121500 +0000" channel="OSN Comedy HD">
-    <title lang="en">Getting On (?)</title>
+    <title lang="en">Getting On</title>
     <title lang="ar">غيتينغ أون</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">DiDi's serene evening shift is turned upside down by the arrival of a new Swedish-speaking patient and several unwelcome inebriated visitors. تنقلب حالة نوبة العمل المسائية الهادئة لـ ديدي رأساً على عقب عند وصول مريض جديد يتحدث اللغة السويدية وعدد من الزوار المخمورين غير المرحب بهم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR030465_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20210515121500 +0000" stop="20210515124500 +0000" channel="OSN Comedy HD">
     <title lang="en">Getting On</title>
@@ -2137,6 +2362,230 @@
     <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
     <episode-num system="onscreen">E15</episode-num>
   </programme>
+  <programme start="20210514203000 +0000" stop="20210514203000 +0000" channel="TLC HD">
+    <title lang="en">My Feet Are Killing Me</title>
+    <title lang="ar">ماي فيت آر كيلينغ مي</title>
+    <desc lang="en">Patty lost most of her foot in an extreme amputation, and she needs Dr. Sarah's help. Russell visits Dr. Ebonie with feet that look like hooves. يخضع مرضى الدكتور براد شيفر والدكتورة إيبوني فينسينت لعمليات جراحية لتغيير أقدامهم بشكل جذري وتغيير حياتهم إلى الأبد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/myfeetkillingmel_20200315015657.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210514203000 +0000" stop="20210514212000 +0000" channel="TLC HD">
+    <title lang="en">My Feet Are Killing Me</title>
+    <title lang="ar">ماي فيت آر كيلينغ مي</title>
+    <desc lang="en">Patty lost most of her foot in an extreme amputation, and she needs Dr. Sarah's help. Russell visits Dr. Ebonie with feet that look like hooves. يخضع مرضى الدكتور براد شيفر والدكتورة إيبوني فينسينت لعمليات جراحية لتغيير أقدامهم بشكل جذري وتغيير حياتهم إلى الأبد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/myfeetkillingmel_20200315015657.jpg" />
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20210514212000 +0000" stop="20210514220500 +0000" channel="TLC HD">
+    <title lang="en">Dr. Pimple Popper</title>
+    <title lang="ar">د. بيمبل بروبر</title>
+    <desc lang="en">Dermatological surgeon Dr. Sandra Lee reveals her favourite types of pops, with bonus footage. Patients include Tahj, who is covered in painful boils. تعتبر د. ساندرا لي أحد أفضل أطباء الجلدية في الولايات المتحدة الأمريكية بالإضافة إلى ذلك قامت بإجراء آلاف العمليات على قناتها الخاصة في موقع يوتيوب حيث تسمى د. بيمبل بوبر.</desc>
+    <icon src="http://content.osn.com/bob/745x419/pimplepropperl_20200406112501.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210514220500 +0000" stop="20210514225000 +0000" channel="TLC HD">
+    <title lang="en">The Family Chantel</title>
+    <title lang="ar">ذا فاميلي شانتال</title>
+    <desc lang="en">Chantel's suspicions about Royal's relationship grow. Pedro plans a trip to NYC, and sibling secrets come out when tempers flare during a holiday photo shoot. حانت الفرصة لمعجبي بيدرو وشانتال للحصول على جرعة إضافية من الأحداث في هذا البرنامج الجديد المنبثق عن برنامج 90 ديه فرانشايز والذي سيتابع حياة هؤلاء الأزواج.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210514225000 +0000" stop="20210515002000 +0000" channel="TLC HD">
+    <title lang="en">90 Day Fianc?: Happily Ever After?</title>
+    <title lang="ar">90 داي فيانسي: هابيلي ايفر أفتر؟</title>
+    <desc lang="en">Larissa's transformation stuns her friends and Colt stands up to Debbie. Meanwhile, Kalani and Asuelu reach a breaking point and tragedy hits Angela's family. تستمر الحياة بعد الـ 90 يوماً بالنسبة إلى الزوجين، ولكن بينما ينظران إلى أحداث رحلة الـ 90 يوماً على كيه 1 فيزا، يدرك العروسان بأن الحياة لم تصبح أسهل مما يظنان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20210515002000 +0000" stop="20210515010500 +0000" channel="TLC HD">
+    <title lang="en">Outdaughtered: Busby Quints</title>
+    <title lang="ar">آوتدوترد: بازبي كوينتس</title>
+    <desc lang="en">It's the Quints' 1st birthday! The Busbys celebrate this momentous occasion and reflect back on the first year of raising quintuplet girls. يصور البرنامج آدم ودانييل بازبي من أمريكا، الوالدين لطفلة تبلغ من العمر 5 أعوام، بلايك لويز، وخمس فتيات توأم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515010500 +0000" stop="20210515015000 +0000" channel="TLC HD">
+    <title lang="en">The Blended Bunch</title>
+    <title lang="ar">TLC HD</title>
+    <desc lang="en">In a small Utah town, Erica and Spencer Shemwell have formed the modern day "Brady Bunch" with their 11 kids - but blending two families isn't always easy! قناة عن أنماط الحياة تعرض أفضل البرامج الواقعية والترفيه الهادف. بالإضافة إلى أجمل الفقرات من قناة أوبرا وبنفري نيتوورك.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210515015000 +0000" stop="20210515023500 +0000" channel="TLC HD">
+    <title lang="en">Outdaughtered</title>
+    <title lang="ar">آوتدوترد</title>
+    <desc lang="en">Halloween is approaching and the Busbys scramble to make the holiday spooky and safe in the pandemic. Plus, Riley refuses to sleep in her bedroom. يصور البرنامج آدم ودانييل بازبي من أمريكا، الوالدين لخمس فتيات توأم الوحيدين في أمريكيا، بالإضافة إلى طفلة تبلغ من العمر 5 أعوام، بلايك لويز،.</desc>
+    <icon src="http://content.osn.com/bob/745x419/outdoughterds4ep6_20200709082845.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515023500 +0000" stop="20210515030000 +0000" channel="TLC HD">
+    <title lang="en">Say Yes To The Dress</title>
+    <title lang="ar">ساي يس تو ذا دريس</title>
+    <desc lang="en">Aspiring country music star Whitney Duncan wants a romantic lace gown to give her some curves. Plus, a bride with a big personality seeks a matching dress. الشعور بالتوتر هو شعور طبيعي لأي عروس تريد أن تبدو جميلة ليلة زفافها. على المستشارين مساعدتهن لإيجاد الفستان الذي من شأنه أن يبرز جمالهمن، أيا كان مقاسهن.</desc>
+    <icon src="http://content.osn.com/bob/745x419/sayyestothedressl_20210216052819.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515030000 +0000" stop="20210515034500 +0000" channel="TLC HD">
+    <title lang="en">Too Ugly For Love?</title>
+    <title lang="ar">تو أغلي فور لوف؟</title>
+    <desc lang="en">Jemma has lymphedema, leaving one leg bigger than the other. How will her date go? Claire has alopecia and wants another date with ex-footballer Keiron - can she tell her secret. ترصد هذه السلسلة الوثائقية عشر حالات صحية فريدة من نوعها - أناس عاديين يعانون من ظروف صحية غير عادية ويسعون للعثور على الحب.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TooUglyForLoveS3-l.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515034500 +0000" stop="20210515043000 +0000" channel="TLC HD">
+    <title lang="en">Married By Mum And Dad</title>
+    <title lang="ar">ميرييد باي مام أند داد</title>
+    <desc lang="en">Devin's parents find him a wife - but he has a history with the wedding planner. Tensions rise for Bethany and Marissa's dad takes his date to a gun range. يوافق الرجال والنساء، الذين لم يحالفهم الحظ في الحب، على وضع حياتهم العاطفية ومستقبلهم في أيدي آبائهم وأمهاتهم ليختاروا لهم شريك الحياة المناسب لهم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/married-by-mom-and-dad-l.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515043000 +0000" stop="20210515051500 +0000" channel="TLC HD">
+    <title lang="en">My 3000-Lb Family</title>
+    <title lang="ar">ماي 3000 إل بي فاميلي</title>
+    <desc lang="en">Obese cousins Naomi, Drew, and Chitoka are eating themselves to death. "Mama" Beverly has weight loss surgery to inspire the others to do the same. بينما يعاني أبناء العموم البدناء نعومي، درو وتشيكوتا من مرض السمنة، تقوم ماما بيفرلي بالخضوع لعملية جراحية لإنقاص الوزن ولتشجيع الآخرين على فعل الشيء نفسه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/300ibfamilyl_20180227104832.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210515051500 +0000" stop="20210515054000 +0000" channel="TLC HD">
+    <title lang="en">Cake Boss</title>
+    <title lang="ar">كايك بوس</title>
+    <desc lang="en">The crew is making a cake for the Bronx Zoo's 110th birthday and a creation for the opening of the only movie theatre in Hoboken. يعد الفريق كعكة لذكرى تأسيس حديقة الحيوانات برونكس وأخرى لإفتتاح المسرح الأول بمدينة هوبوكين.</desc>
+    <icon src="http://content.osn.com/bob/745x419/cakeboss_s8_episode01l_20210216053950.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20210515054000 +0000" stop="20210515060000 +0000" channel="TLC HD">
+    <title lang="en">Cake Boss</title>
+    <title lang="ar">كايك بوس</title>
+    <desc lang="en">Buddy, Mauro and their families are in Disney World to make cannolis for the Epcot Food and Wine Festival. ذهب بودي و ماورو بصحبة العائلة إلى عالم ديزني لإعداد الكنولي لمهرجان إبسوت للأكل والمشروبات الكحولية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/cakeboss_s8_episode01l_20210216053950.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20210515060000 +0000" stop="20210515062500 +0000" channel="TLC HD">
+    <title lang="en">Cake Boss</title>
+    <title lang="ar">كايك بوس</title>
+    <desc lang="en">Buddy makes a scrummy cake for O Magazine. And Anthony wants to drive less and bake more, but first he needs to find a replacement for himself. طلب من بودي إعداد كعكة تحت إسم "ناسداك"، وكالة تبادل الأوراق المالية الأمريكية، وأخرى لمجلة "أوو" في نفس الأسبوع. ويريد ابن العم أنتوني أن يتخلى عن وظيفته كسائق وتعلم إعداد الكعك ولكن يجب عليه إيجاد بديل له.</desc>
+    <icon src="http://content.osn.com/bob/745x419/cakeboss_s8_episode01l_20210216053950.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515062500 +0000" stop="20210515075500 +0000" channel="TLC HD">
+    <title lang="en">My 600-Lb Life</title>
+    <title lang="ar">ماي 600-إل بي لايف</title>
+    <desc lang="en">Isaac helped raise his siblings after his mother suffered a stroke. While learning to cook for his family, he picked up life-changing eating habits. نتابع حياة مجموعة من الأشخاص والذين يزن كل منهم أكثر من 600 رطل، خلال رحلتهم الطويلة وصراعهم الطويل لخسارة الوزن بشكل جماعي من أجل المحافظة على صحتهم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/my600lblifel_20200709085840.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515075500 +0000" stop="20210515084000 +0000" channel="TLC HD">
+    <title lang="en">The Family Chantel</title>
+    <title lang="ar">ذا فاميلي شانتال</title>
+    <desc lang="en">Pedro's sister reveals their grandma is sick and he must visit her. When Karen hears Chantel is going too, she invites the family - but a shocking secret awaits. حانت الفرصة لمعجبي بيدرو وشانتال للحصول على جرعة إضافية من الأحداث في هذا البرنامج الجديد المنبثق عن برنامج 90 ديه فرانشايز والذي سيتابع حياة هؤلاء الأزواج.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515084000 +0000" stop="20210515092500 +0000" channel="TLC HD">
+    <title lang="en">Outdaughtered: Busby Quints</title>
+    <title lang="ar">آوتدوترد: بازبي كوينتس</title>
+    <desc lang="en">It's the Quints' 1st birthday! The Busbys celebrate this momentous occasion and reflect back on the first year of raising quintuplet girls. يصور البرنامج آدم ودانييل بازبي من أمريكا، الوالدين لطفلة تبلغ من العمر 5 أعوام، بلايك لويز، وخمس فتيات توأم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515092500 +0000" stop="20210515101000 +0000" channel="TLC HD">
+    <title lang="en">Outdaughtered</title>
+    <title lang="ar">آوتدوترد</title>
+    <desc lang="en">Halloween is approaching and the Busbys scramble to make the holiday spooky and safe in the pandemic. Plus, Riley refuses to sleep in her bedroom. يصور البرنامج آدم ودانييل بازبي من أمريكا، الوالدين لخمس فتيات توأم الوحيدين في أمريكيا، بالإضافة إلى طفلة تبلغ من العمر 5 أعوام، بلايك لويز،.</desc>
+    <icon src="http://content.osn.com/bob/745x419/outdoughterds4ep6_20200709082845.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515101000 +0000" stop="20210515105500 +0000" channel="TLC HD">
+    <title lang="en">The Blended Bunch</title>
+    <title lang="ar">TLC HD</title>
+    <desc lang="en">In a small Utah town, Erica and Spencer Shemwell have formed the modern day "Brady Bunch" with their 11 kids - but blending two families isn't always easy! قناة عن أنماط الحياة تعرض أفضل البرامج الواقعية والترفيه الهادف. بالإضافة إلى أجمل الفقرات من قناة أوبرا وبنفري نيتوورك.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210515105500 +0000" stop="20210515114500 +0000" channel="TLC HD">
+    <title lang="en">The Little Couple</title>
+    <title lang="ar">ذا ليتل كوبل</title>
+    <desc lang="en">Bill and Will spend quality guy time together preparing for the Pinewood Derby. Meanwhile, Zoey is feeling unwell so her and Jen enjoy an at-home spa day. شاهدوا حياة زوجين من صغار الحجم من خلال زواجهما وعملهما وعائلتهما.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515114500 +0000" stop="20210515123500 +0000" channel="TLC HD">
+    <title lang="en">The Little Couple</title>
+    <title lang="ar">ذا ليتل كوبل</title>
+    <desc lang="en">It's Will's 9th birthday and the anniversary of his adoption, so Bill and Jen throw him a pirate-themed party. Plus, the Klein's head to the Grand Prix races. شاهدوا حياة زوجين من صغار الحجم من خلال زواجهما وعملهما وعائلتهما.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515123500 +0000" stop="20210515130000 +0000" channel="TLC HD">
+    <title lang="en">Say Yes To The Dress</title>
+    <title lang="ar">ساي يس تو ذا دريس</title>
+    <desc lang="en">The red carpet is being rolled out for the premiere episode and with a celebrity in the salon - there is no shortage of attitude! يطغو على هذه الحلقة المميزة رونق البساط الأحمر نظرا لزيارة فنانة مشهورة المحل.</desc>
+    <icon src="http://content.osn.com/bob/745x419/sayyestothedressl_20210216052819.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210515130000 +0000" stop="20210515135000 +0000" channel="TLC HD">
+    <title lang="en">Say Yes To The Dress Lancashire</title>
+    <title lang="ar">ساي يس تو ذا دريس لانكشاير</title>
+    <desc lang="en">Confident Liz has her heart set on a sexy dress, but Gok can't find one she likes. Plus, Nikki has lost a lot of weight and is scared to see herself in a gown. يتعاون غوك وان مع بوتيك روز هاملتن ومع مستشاريها لمساعدة العرائس على إيجاد فستان أحلامهن والموافقة عليه قبل يوم الأحلام المنتظر: يوم الزفاف.</desc>
+    <icon src="http://content.osn.com/bob/745x419/yesdresslorckshirel_20200406112318.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515135000 +0000" stop="20210515144000 +0000" channel="TLC HD">
+    <title lang="en">Say Yes To The Dress</title>
+    <title lang="ar">ساي يس تو ذا دريس</title>
+    <desc lang="en">Rebekah, known as the bionic model because of her prosthetic arm, seeks Randy's help to find her dream dress. And, sibling rivalry causes drama for bride Crystal! الشعور بالتوتر هو شعور طبيعي لأي عروس تريد أن تبدو جميلة ليلة زفافها. على المستشارين مساعدتهن لإيجاد الفستان الذي من شأنه أن يبرز جمالهمن، أيا كان مقاسهن.</desc>
+    <icon src="http://content.osn.com/bob/745x419/sayyestothedressl_20210216052819.jpg" />
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20210515144000 +0000" stop="20210515153000 +0000" channel="TLC HD">
+    <title lang="en">90 Day Fianc?</title>
+    <title lang="ar">90 ديز فيانس؟</title>
+    <desc lang="en">Kirlyam gets a big opportunity. Later, Mike's mum confronts Aziza. And finally, Aya gets upset when Louis cuts corners on their wedding. يقوم ستة أفراد بالبدء برحلة تستغرق 90 يوماً عندما يقوم رفقائهم الأجانب بالحصول على تأشيرة زيارة لمدة 90 يوماً والسفر إلى الولايات المتحدة وخلال تلك الفترة عليهم الزواج أو مغادرة البلاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/90dayfiances7l_20200406110724.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515153000 +0000" stop="20210515162000 +0000" channel="TLC HD">
+    <title lang="en">90 Day Fianc?</title>
+    <title lang="ar">90 ديز فيانس؟</title>
+    <desc lang="en">Mike goes missing after his bachelor party. Meanwhile, Alan and Kirlyam rush to prepare for their wedding, and a limited budget constrains Aya's wedding plans. يقوم ستة أفراد بالبدء برحلة تستغرق 90 يوماً عندما يقوم رفقائهم الأجانب بالحصول على تأشيرة زيارة لمدة 90 يوماً والسفر إلى الولايات المتحدة وخلال تلك الفترة عليهم الزواج أو مغادرة البلاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/90dayfiances7l_20200406110724.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515162000 +0000" stop="20210515171000 +0000" channel="TLC HD">
+    <title lang="en">90 Day Fianc?</title>
+    <title lang="ar">90 ديز فيانس؟</title>
+    <desc lang="en">Nerves get to Aziza before her wedding. Plus, Aya is in doubt when Louis is late for his wedding, and it gets awkward for virgins Kirylam and Alan on their wedding night. يقوم ستة أفراد بالبدء برحلة تستغرق 90 يوماً عندما يقوم رفقائهم الأجانب بالحصول على تأشيرة زيارة لمدة 90 يوماً والسفر إلى الولايات المتحدة وخلال تلك الفترة عليهم الزواج أو مغادرة البلاد.</desc>
+    <icon src="http://content.osn.com/bob/745x419/90dayfiances7l_20200406110724.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210515171000 +0000" stop="20210515180000 +0000" channel="TLC HD">
+    <title lang="en">90 Days To Wed</title>
+    <title lang="ar">90 ديز تو ويد</title>
+    <desc lang="en">Using a Fianc? visa, six non-Americans will travel to the US to live with their overseas partners for the first time. The couples have 90 days to marry before their visas expire. هل تكفي ثلاثة أشهر لتقرر مستقبلك؟ سنتابع الأزواج حول العالم والذين استطاعوا الحصول على تأشيرات مدتها 90 يوما فقط والذين يحاولون التغلب على الحواجز الثقافية والدراما العائلية.</desc>
+    <icon src="http://content.osn.com/bob/745x419/90DaysToWed_S1_EP4_l.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210515180000 +0000" stop="20210515185000 +0000" channel="TLC HD">
+    <title lang="en">Say Yes To The Dress Lancashire</title>
+    <title lang="ar">ساي يس تو ذا دريس لانكشاير</title>
+    <desc lang="en">Former pageant queen Jodie brings her very opinionated nan along, and she isn't easily impressed. Plus, Gok helps Bwalya find a dress that shows off her curves. يتعاون غوك وان مع بوتيك روز هاملتن ومع مستشاريها لمساعدة العرائس على إيجاد فستان أحلامهن والموافقة عليه قبل يوم الأحلام المنتظر: يوم الزفاف.</desc>
+    <icon src="http://content.osn.com/bob/745x419/yesdresslorckshirel_20200406112318.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515185000 +0000" stop="20210515194000 +0000" channel="TLC HD">
+    <title lang="en">Randy To The Rescue</title>
+    <title lang="ar">راندي سينقذ الزفاف</title>
+    <desc lang="en">Randy works to rescue bride Janine from her body image issues. Plus, Bride Molly is looking for a sexy 60's style for her quickie wedding in a Las Vegas chapel. يجوب منسق الزفاف راندي فينولي الولايات المتحدة الأمريكية لتحقيق أحلام كل عروس في الحصول على طلة متميزة لحفل زفافها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/TLC.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515194000 +0000" stop="20210515203000 +0000" channel="TLC HD">
+    <title lang="en">Say Yes To The Dress</title>
+    <title lang="ar">ساي يس تو ذا دريس</title>
+    <desc lang="en">Emily needs a practical and beautiful form-fitting dress so she can help her paralysed fianc? down the aisle. Artist Tanya envisions a romantic wedding gown. الشعور بالتوتر هو شعور طبيعي لأي عروس تريد أن تبدو جميلة ليلة زفافها. على المستشارين مساعدتهن لإيجاد الفستان الذي من شأنه أن يبرز جمالهمن، أيا كان مقاسهن.</desc>
+    <icon src="http://content.osn.com/bob/745x419/sayyestothedressl_20210216052819.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
   <programme start="20210514000000 +0000" stop="20210514010000 +0000" channel="E! Entertainment HD">
     <title lang="en">Keeping Up With The Kardashians</title>
     <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
@@ -2288,6 +2737,192 @@
     <desc lang="en">Nightly Pop is the week's wildest takedown of pop culture's juiciest stories. Unfiltered, unexpected and always outrageous. يأتيكم برنامج نايتي بوب بحصاد الأسبوع من أخبار نجوم البوب كما هي دون تحريف أو تجميل وهي دائماً أخبار غير متوقعة.</desc>
     <icon src="http://content.osn.com/bob/745x419/elogol_20200406103923.jpg" />
     <episode-num system="onscreen">E74</episode-num>
+  </programme>
+  <programme start="20210514203000 +0000" stop="20210514203000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">When Scott accidentally causes some speculation that Khloe and Tristan are back together, Khloe is overwhelmed by the backlash online. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210514203000 +0000" stop="20210514213000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">When Scott accidentally causes some speculation that Khloe and Tristan are back together, Khloe is overwhelmed by the backlash online. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210514213000 +0000" stop="20210514223000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">The Kardashian girls challenge the Jenners to an obstacle course to determine once and for all which side of the family is more athletic. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210514223000 +0000" stop="20210514233000 +0000" channel="E! Entertainment HD">
+    <title lang="en">E! News: Daily Pop</title>
+    <title lang="ar">إي! نيوز: ديلي بوب</title>
+    <desc lang="en">Daily Pop is the daytime destination for live entertainment talk - the place for fun conversations about the top pop culture stories of the day. من إي! نيوز، يحتل ديلي بوب الفترة الصباحية ليصبح وجهة لعشاق الترفيه. المزيد من أخبار إي!، المزيد من المتعة، والمزيد من المرح!</desc>
+    <icon src="http://content.osn.com/bob/745x419/DailyPOPEnews-l.jpg" />
+  </programme>
+  <programme start="20210514233000 +0000" stop="20210515000000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Nightly Pop</title>
+    <title lang="ar">نايتي بوب</title>
+    <desc lang="en">Nightly Pop is the week's wildest takedown of pop culture's juiciest stories. Unfiltered, unexpected and always outrageous. يأتيكم برنامج نايتي بوب بحصاد الأسبوع من أخبار نجوم البوب كما هي دون تحريف أو تجميل وهي دائماً أخبار غير متوقعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/elogol_20200406103923.jpg" />
+    <episode-num system="onscreen">E74</episode-num>
+  </programme>
+  <programme start="20210515000000 +0000" stop="20210515010000 +0000" channel="E! Entertainment HD">
+    <title lang="en">LA Clippers Dance Squad</title>
+    <title lang="ar">أل أيه كليبرز دانس سكواد</title>
+    <desc lang="en">The new Clippers Dance Squad finally takes the court at Staples Center for a game, but Athena's actions and demeanor give Petra cause for concern. تعتلي فرقة كليبرز دانس خشبة المسرح أخيراً في مركز ستابلز سنتر خلال مباراة، ولكن تصرفات أثينا تشكل بوادر قلق لدى بيترا.</desc>
+    <icon src="http://content.osn.com/bob/745x419/LA-Clippers-Dance-Squad-l.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515010000 +0000" stop="20210515020000 +0000" channel="E! Entertainment HD">
+    <title lang="en">LA Clippers Dance Squad</title>
+    <title lang="ar">أل أيه كليبرز دانس سكواد</title>
+    <desc lang="en">Petra chooses ten dancers to take on the Clippers' trip to China, which creates discord in the team. Hannah plans a trip to see her ex-boyfriend. تختار بيترا عشرة راقصين للمشاركة في رحلة الفرقة إلى الصين، ما يؤدي إلى نشوب خلافات بين أفراد الفريق. وتخطط هانا للقيام برحلة لزيارة حبيبها السابق.</desc>
+    <icon src="http://content.osn.com/bob/745x419/LA-Clippers-Dance-Squad-l.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515020000 +0000" stop="20210515030000 +0000" channel="E! Entertainment HD">
+    <title lang="en">LA Clippers Dance Squad</title>
+    <title lang="ar">أل أيه كليبرز دانس سكواد</title>
+    <desc lang="en">After Athena receives a mysterious text in China that troubles her, Hannah, Savanna and Blair confront her. Meanwhile, Petra makes a major decision. تشعر أثينا بالقلق بعد أن تتلقى رسالة نصية غامضة خلال وجودها في الصين، كما تقوم هانا، سافانا وبلير بمواجهتها. وفي هذه الأثناء، تتخذ بيترا قراراً هاماً.</desc>
+    <icon src="http://content.osn.com/bob/745x419/LA-Clippers-Dance-Squad-l.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515030000 +0000" stop="20210515040000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Revenge Body With Khloe Kardashian</title>
+    <title lang="ar">ريفينج بودي ويذ كلوي كارديشيان</title>
+    <desc lang="en">In an attempt to save their relationship, Sam and Nicole try to lose weight together; but Sam doubts Nicole's commitment to shaping up. في محاولة منهما لإنقاذ علاقتهما، يحاول سام ونيكول خسارة وزن سوية، لكن سام يشك بالتزام نيكول.</desc>
+    <icon src="http://content.osn.com/bob/745x419/RevengebodywithKhloe.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515040000 +0000" stop="20210515050000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Revenge Body With Khloe Kardashian</title>
+    <title lang="ar">ريفينج بودي ويذ كلوي كارديشيان</title>
+    <desc lang="en">Having lost both parents as a teen, Jill has long been an emotional eater. Khloe and her hand-picked experts help Jill rediscover her true self. بعدما خسرت والديها عندما كانت مراهقة، أصبحت جيل لوقت طويل تأكل كثيرا بسبب مشاعرها السلبية. تقدم كلوي وخبراؤها المساعدة لجيل لاكتشاف نفسها على حقيقتها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/RevengebodywithKhloe.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515050000 +0000" stop="20210515055500 +0000" channel="E! Entertainment HD">
+    <title lang="en">Revenge Body With Khloe Kardashian</title>
+    <title lang="ar">ريفينج بودي ويذ كلوي كارديشيان</title>
+    <desc lang="en">Lauren suffered a traumatic loss at a young age and turned to food for comfort. Khloe and her team give her the opportunity to move on from the past. عانت لورين من خسارة مؤلمة في عمر مبكر ولجأت للطعام لتشعر بالراحة. تعطيها كلوي وفريقها الفرصة لتنسى الماضي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/RevengebodywithKhloe.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515055500 +0000" stop="20210515065000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Revenge Body With Khloe Kardashian</title>
+    <title lang="ar">ريفينج بودي ويذ كلوي كارديشيان</title>
+    <desc lang="en">Tiffany's pending divorce turns her world upside down, but Khloe and her team transform her pain into gain and help her find true love along the way. طلاق تيفاني المعلق يقلب حياتها رأسا على عقب، لكن كلوي وفريقها يقلبون فشلها إلى نجاح ويساعدونها في العثور على الحب الحقيقي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/RevengebodywithKhloe.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515065000 +0000" stop="20210515074500 +0000" channel="E! Entertainment HD">
+    <title lang="en">E! News: Daily Pop</title>
+    <title lang="ar">إي! نيوز: ديلي بوب</title>
+    <desc lang="en">Daily Pop is the daytime destination for live entertainment talk - the place for fun conversations about the top pop culture stories of the day. من إي! نيوز، يحتل ديلي بوب الفترة الصباحية ليصبح وجهة لعشاق الترفيه. المزيد من أخبار إي!، المزيد من المتعة، والمزيد من المرح!</desc>
+    <icon src="http://content.osn.com/bob/745x419/DailyPOPEnews-l.jpg" />
+  </programme>
+  <programme start="20210515074500 +0000" stop="20210515084000 +0000" channel="E! Entertainment HD">
+    <title lang="en">WAGs Atlanta</title>
+    <title lang="ar">واغز أطلانتا</title>
+    <desc lang="en">Niche gets a chance to fullfill her lifelong dream at New York Fashion Week. JJ and Kaylin decide to go their separate ways. سنتعرف على سيدات جميلات، طموحات وفصيحات يشكلن نادياً حصرياً من زوجات وحبيبات الرياضيين المحترفين.</desc>
+    <icon src="http://content.osn.com/bob/745x419/wagsatlantal_20180227120718.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515084000 +0000" stop="20210515093500 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">Khloe and Tristan run into some roadblocks, Scott faces some big decisions, and Kim prepares for a test that will determine her future as a lawyer. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210515093500 +0000" stop="20210515103000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">When Scott accidentally causes some speculation that Khloe and Tristan are back together, Khloe is overwhelmed by the backlash online. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515103000 +0000" stop="20210515112500 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">The Kardashian girls challenge the Jenners to an obstacle course to determine once and for all which side of the family is more athletic. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515112500 +0000" stop="20210515122000 +0000" channel="E! Entertainment HD">
+    <title lang="en">E! News: Daily Pop</title>
+    <title lang="ar">إي! نيوز: ديلي بوب</title>
+    <desc lang="en">Daily Pop is the daytime destination for live entertainment talk - the place for fun conversations about the top pop culture stories of the day. من إي! نيوز، يحتل ديلي بوب الفترة الصباحية ليصبح وجهة لعشاق الترفيه. المزيد من أخبار إي!، المزيد من المتعة، والمزيد من المرح!</desc>
+    <icon src="http://content.osn.com/bob/745x419/DailyPOPEnews-l.jpg" />
+  </programme>
+  <programme start="20210515122000 +0000" stop="20210515131500 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">Kim and Khloe are curious about Kourtney's new friend. Scared by the state of the world, Kim takes measures to prepare for the future. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515131500 +0000" stop="20210515141000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">Kourtney sets boundaries, Caitlyn reaches out to Kris for help, and Khloe and Tristan have an unexplainable experience while searching for aliens. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515141000 +0000" stop="20210515150500 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">Scott finally admits he's still in love with Kourtney. Khloe sets out in search of a homeless man who made a lasting impact on her years ago. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210515150500 +0000" stop="20210515160000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Botched</title>
+    <title lang="ar">بوتشيد</title>
+    <desc lang="en">Dr Dubrow helps an eating disorder survivor feel beautiful in her own skin, while Dr Nassif sends a 'dinosaur' nose back to the Jurassic era. نتابع في كل حلقة تطور عملية تصحيح أخطاء الجراحة التجميلية لدى أحد المرضى من الإجراءات المعقدة إلى فترة النقاهة وفي النهاية الكشف عن التحول الناجح.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Botched-l.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20210515160000 +0000" stop="20210515170000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Botched</title>
+    <title lang="ar">بوتشيد</title>
+    <desc lang="en">Danielle Milian visits the doctors to fix her scarred stomach, while a Brit with heart-shaped areolas wants to look like a caricature. نتابع في كل حلقة تطور عملية تصحيح أخطاء الجراحة التجميلية لدى أحد المرضى من الإجراءات المعقدة إلى فترة النقاهة وفي النهاية الكشف عن التحول الناجح.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Botched-l.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20210515170000 +0000" stop="20210515180000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Botched</title>
+    <title lang="ar">بوتشيد</title>
+    <desc lang="en">On the road in Montana the doctors take a man-cation fly fishing in the great outdoors. نتابع في كل حلقة تطور عملية تصحيح أخطاء الجراحة التجميلية لدى أحد المرضى من الإجراءات المعقدة إلى فترة النقاهة وفي النهاية الكشف عن التحول الناجح.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Botched-l.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20210515180000 +0000" stop="20210515190000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Botched</title>
+    <title lang="ar">بوتشيد</title>
+    <desc lang="en">Dr Nassif wrangles a cougar's cobra neck, while Dr Dubrow helps a desperate patient downsize her breasts. نتابع في كل حلقة تطور عملية تصحيح أخطاء الجراحة التجميلية لدى أحد المرضى من الإجراءات المعقدة إلى فترة النقاهة وفي النهاية الكشف عن التحول الناجح.</desc>
+    <icon src="http://content.osn.com/bob/745x419/Botched-l.jpg" />
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20210515190000 +0000" stop="20210515193000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Hollywood's Stories</title>
+    <title lang="ar">هوليوودز ستوريز</title>
+    <desc lang="en">Tom Cruise's private life has remained opaque over the years, but as an actor he has continued to remain relevant and adaptable in the film industry. آخر ما قيل ويقال من أخبار النجوم وتقليعات الوسط الفني مباشرة من هوليوود، عاصمة الترفيه في العالم أجمع.</desc>
+    <icon src="http://content.osn.com/bob/745x419/ETV.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20210515193000 +0000" stop="20210515203000 +0000" channel="E! Entertainment HD">
+    <title lang="en">Keeping Up With The Kardashians</title>
+    <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
+    <desc lang="en">Kim and Khloe are curious about Kourtney's new friend. Scared by the state of the world, Kim takes measures to prepare for the future. نظرة خاطفة على تفاصيل حياة عائلة كرداشيان المحظوظة، بما فيهم الشقيقات كيم، كورتني وكلوي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
   <programme start="20210514000000 +0000" stop="20210514010000 +0000" channel="OSN Living HD">
     <title lang="en">Grand Designs: The Street</title>
@@ -2456,5 +3091,201 @@
     <desc lang="en">This show pits neighbor against neighbor in a race to redecorate a room in each-other's homes. Can a friendship survive this weekend? يتبارى في هذا البرنامج الجار ضد جاره للقيام بتصميم وترتيب غرفةً واحدة في منزل الآخر. هل ستصمد الصداقة بعد ذلك السباق؟.</desc>
     <icon src="http://content.osn.com/bob/745x419/SR082550_LC_STB144549664.jpg" />
     <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210514200000 +0000" stop="20210514210000 +0000" channel="OSN Living HD">
+    <title lang="en">Secret Of The Whales</title>
+    <title lang="ar">سيكريت أوف ذا ويلز</title>
+    <desc lang="en">Powerful orca matriarchs pass down their unique hunting traditions to the next generation. تنقل أمهات الأوركا الأقوياء تقاليدهم الفريدة في الصيد إلى الجيل التالي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/OSN-Living.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210514210000 +0000" stop="20210514220000 +0000" channel="OSN Living HD">
+    <title lang="en">Expedition With Steve Backshall</title>
+    <title lang="ar">إكسبيديشن وذ ستيف باكشال</title>
+    <desc lang="en">Steve Backshall, an award-winning naturalist with a passion for living on the edge, travels the world and explores unchartered territories in search of adventurous experiences. يقوم مضيف البرنامج ستيف باكشال، عالم الطبيعة الحائزعلى جوائز والذي يهوى العيش بحرية في الطبيعة، بالسفر حول العالم واستكشاف مناطق غير مأهولة بحثًا عن تجارب المغامرة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077550_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210514220000 +0000" stop="20210514230000 +0000" channel="OSN Living HD">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <title lang="ar">أنثوني بوردين : بارتس أناون</title>
+    <desc lang="en">Join world-renowned chef, bestselling author and multiple Emmy-winning television personality Anthony Bourdain as he travels across the globe to uncover little-known destinations and diverse cultures. انضموا إلى الشيف الأكثر شهرة في العالم والمؤلف صاحب الكتب الأكثر مبيعاً والحائز على جائزة إيمي أنتوني بوردين بينما يسافر حول العالم للكشف عن الوجهات غير المعروفة والثقافات المتنوعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR073970_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210514230000 +0000" stop="20210515000000 +0000" channel="OSN Living HD">
+    <title lang="en">The Apartment</title>
+    <title lang="ar">ذا أبارتمنت</title>
+    <desc lang="en">Last week's win left the girls full of confidence with they cash they picked from the boys. ترك فوز الأسبوع الماضي الفتيات مليئات بالثقة مع النقود التي اخذنها من الشباب.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR073486_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515000000 +0000" stop="20210515003000 +0000" channel="OSN Living HD">
+    <title lang="en">Vacation Creation</title>
+    <title lang="ar">فكايشن كرييشن</title>
+    <desc lang="en">Comedian Tommy Davidson and travel expert Andrea Feczko present deserving individuals, couples, and families with custom-tailored vacations of a lifetime. يقدم كل من الكوميدي تومي ديفيدسون وخبيرة السفر آندريا فيشكو إجازات رائعة ومصصمة خصيصاً لمجموعة من الأشخاص والأزواج والعائلات التي يستحقونها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR076348_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515003000 +0000" stop="20210515010000 +0000" channel="OSN Living HD">
+    <title lang="en">Vacation Creation</title>
+    <title lang="ar">فكايشن كرييشن</title>
+    <desc lang="en">Comedian Tommy Davidson and travel expert Andrea Feczko present deserving individuals, couples, and families with custom-tailored vacations of a lifetime. يقدم كل من الكوميدي تومي ديفيدسون وخبيرة السفر آندريا فيشكو إجازات رائعة ومصصمة خصيصاً لمجموعة من الأشخاص والأزواج والعائلات التي يستحقونها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR076349_LC_STB.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210515010000 +0000" stop="20210515020000 +0000" channel="OSN Living HD">
+    <title lang="en">Trading Spaces</title>
+    <title lang="ar">تريدينغ سبيسيز</title>
+    <desc lang="en">This show pits neighbor against neighbor in a race to redecorate a room in each-other's homes. Can a friendship survive this weekend? يتبارى في هذا البرنامج الجار ضد جاره للقيام بتصميم وترتيب غرفةً واحدة في منزل الآخر. هل ستصمد الصداقة بعد ذلك السباق؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR082550_LC_STB144549664.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515020000 +0000" stop="20210515030000 +0000" channel="OSN Living HD">
+    <title lang="en">Secret Of The Whales</title>
+    <title lang="ar">سيكريت أوف ذا ويلز</title>
+    <desc lang="en">Powerful orca matriarchs pass down their unique hunting traditions to the next generation. تنقل أمهات الأوركا الأقوياء تقاليدهم الفريدة في الصيد إلى الجيل التالي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/OSN-Living.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515030000 +0000" stop="20210515040000 +0000" channel="OSN Living HD">
+    <title lang="en">Expedition With Steve Backshall</title>
+    <title lang="ar">إكسبيديشن وذ ستيف باكشال</title>
+    <desc lang="en">Steve Backshall, an award-winning naturalist with a passion for living on the edge, travels the world and explores unchartered territories in search of adventurous experiences. يقوم مضيف البرنامج ستيف باكشال، عالم الطبيعة الحائزعلى جوائز والذي يهوى العيش بحرية في الطبيعة، بالسفر حول العالم واستكشاف مناطق غير مأهولة بحثًا عن تجارب المغامرة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077550_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515040000 +0000" stop="20210515050000 +0000" channel="OSN Living HD">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <title lang="ar">أنثوني بوردين : بارتس أناون</title>
+    <desc lang="en">Join world-renowned chef, bestselling author and multiple Emmy-winning television personality Anthony Bourdain as he travels across the globe to uncover little-known destinations and diverse cultures. انضموا إلى الشيف الأكثر شهرة في العالم والمؤلف صاحب الكتب الأكثر مبيعاً والحائز على جائزة إيمي أنتوني بوردين بينما يسافر حول العالم للكشف عن الوجهات غير المعروفة والثقافات المتنوعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR073970_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515050000 +0000" stop="20210515053000 +0000" channel="OSN Living HD">
+    <title lang="en">Top Million Dollar Agent</title>
+    <title lang="ar">توب ميليون دولار إيجنت</title>
+    <desc lang="en">Reality show focusing on luxury real estate around the world. Each episode features a couple looking for a knockout property, aided by top real estate agents. After touring four multi-million dollar properties, the couple has to choose which home is the perfect fit. يتمحور هذا البرنامج الواقعي حول العقارات الفاخرة وحياة الرفاهية حول العالم. ففي كل حلقة نتابع زوجين وهما يبحثان عن عقار لامثيل له، بمساعدة أكبر وكلاء العقارات. وبعد إلقائهم نظرة على أربع عقارات تساوي ملايين الدولارات، على الزوجين اختيار الأنسب لهما للعيش فيه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR072043_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515053000 +0000" stop="20210515060000 +0000" channel="OSN Living HD">
+    <title lang="en">Top Million Dollar Agent</title>
+    <title lang="ar">توب ميليون دولار إيجنت</title>
+    <desc lang="en">Reality show focusing on luxury real estate around the world. Each episode features a couple looking for a knockout property, aided by top real estate agents. After touring four multi-million dollar properties, the couple has to choose which home is the perfect fit. يتمحور هذا البرنامج الواقعي حول العقارات الفاخرة وحياة الرفاهية حول العالم. ففي كل حلقة نتابع زوجين وهما يبحثان عن عقار لامثيل له، بمساعدة أكبر وكلاء العقارات. وبعد إلقائهم نظرة على أربع عقارات تساوي ملايين الدولارات، على الزوجين اختيار الأنسب لهما للعيش فيه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR072043_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515060000 +0000" stop="20210515070000 +0000" channel="OSN Living HD">
+    <title lang="en">Secret Of The Whales</title>
+    <title lang="ar">سيكريت أوف ذا ويلز</title>
+    <desc lang="en">Powerful orca matriarchs pass down their unique hunting traditions to the next generation. تنقل أمهات الأوركا الأقوياء تقاليدهم الفريدة في الصيد إلى الجيل التالي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/OSN-Living.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515070000 +0000" stop="20210515080000 +0000" channel="OSN Living HD">
+    <title lang="en">Expedition With Steve Backshall</title>
+    <title lang="ar">إكسبيديشن وذ ستيف باكشال</title>
+    <desc lang="en">Steve Backshall, an award-winning naturalist with a passion for living on the edge, travels the world and explores unchartered territories in search of adventurous experiences. يقوم مضيف البرنامج ستيف باكشال، عالم الطبيعة الحائزعلى جوائز والذي يهوى العيش بحرية في الطبيعة، بالسفر حول العالم واستكشاف مناطق غير مأهولة بحثًا عن تجارب المغامرة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077550_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515080000 +0000" stop="20210515090000 +0000" channel="OSN Living HD">
+    <title lang="en">Trading Spaces</title>
+    <title lang="ar">تريدينغ سبيسيز</title>
+    <desc lang="en">This show pits neighbor against neighbor in a race to redecorate a room in each-other's homes. Can a friendship survive this weekend? يتبارى في هذا البرنامج الجار ضد جاره للقيام بتصميم وترتيب غرفةً واحدة في منزل الآخر. هل ستصمد الصداقة بعد ذلك السباق؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR082550_LC_STB144549664.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515090000 +0000" stop="20210515093000 +0000" channel="OSN Living HD">
+    <title lang="en">Vacation Creation</title>
+    <title lang="ar">فكايشن كرييشن</title>
+    <desc lang="en">Comedian Tommy Davidson and travel expert Andrea Feczko present deserving individuals, couples, and families with custom-tailored vacations of a lifetime. يقدم كل من الكوميدي تومي ديفيدسون وخبيرة السفر آندريا فيشكو إجازات رائعة ومصصمة خصيصاً لمجموعة من الأشخاص والأزواج والعائلات التي يستحقونها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR076350_LC_STB.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20210515093000 +0000" stop="20210515100000 +0000" channel="OSN Living HD">
+    <title lang="en">Vacation Creation</title>
+    <title lang="ar">فكايشن كرييشن</title>
+    <desc lang="en">Comedian Tommy Davidson and travel expert Andrea Feczko present deserving individuals, couples, and families with custom-tailored vacations of a lifetime. يقدم كل من الكوميدي تومي ديفيدسون وخبيرة السفر آندريا فيشكو إجازات رائعة ومصصمة خصيصاً لمجموعة من الأشخاص والأزواج والعائلات التي يستحقونها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR076351_LC_STB.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20210515100000 +0000" stop="20210515103000 +0000" channel="OSN Living HD">
+    <title lang="en">Top Million Dollar Agent</title>
+    <title lang="ar">توب ميليون دولار إيجنت</title>
+    <desc lang="en">Reality show focusing on luxury real estate around the world. Each episode features a couple looking for a knockout property, aided by top real estate agents. After touring four multi-million dollar properties, the couple has to choose which home is the perfect fit. يتمحور هذا البرنامج الواقعي حول العقارات الفاخرة وحياة الرفاهية حول العالم. ففي كل حلقة نتابع زوجين وهما يبحثان عن عقار لامثيل له، بمساعدة أكبر وكلاء العقارات. وبعد إلقائهم نظرة على أربع عقارات تساوي ملايين الدولارات، على الزوجين اختيار الأنسب لهما للعيش فيه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR072043_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515103000 +0000" stop="20210515110000 +0000" channel="OSN Living HD">
+    <title lang="en">Top Million Dollar Agent</title>
+    <title lang="ar">توب ميليون دولار إيجنت</title>
+    <desc lang="en">Reality show focusing on luxury real estate around the world. Each episode features a couple looking for a knockout property, aided by top real estate agents. After touring four multi-million dollar properties, the couple has to choose which home is the perfect fit. يتمحور هذا البرنامج الواقعي حول العقارات الفاخرة وحياة الرفاهية حول العالم. ففي كل حلقة نتابع زوجين وهما يبحثان عن عقار لامثيل له، بمساعدة أكبر وكلاء العقارات. وبعد إلقائهم نظرة على أربع عقارات تساوي ملايين الدولارات، على الزوجين اختيار الأنسب لهما للعيش فيه.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR072043_LC_STB.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210515110000 +0000" stop="20210515120000 +0000" channel="OSN Living HD">
+    <title lang="en">The Apartment</title>
+    <title lang="ar">ذا أبارتمنت</title>
+    <desc lang="en">Malaysian Actress and singer Maya Karin arrives to present the teams with her brief for the most physically demanding 'room' in The Apartment, the exterior. وصلت الممثلة والمغنية الماليزية مايا كارين لتقدم للفرق موجزًا عن "الغرفة" الأكثر تطلبًا جسديًا في ذا ابارتمنت، التصميم الخارجي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR073487_LC_STB.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210515120000 +0000" stop="20210515130000 +0000" channel="OSN Living HD">
+    <title lang="en">Secret Of The Whales</title>
+    <title lang="ar">سيكريت أوف ذا ويلز</title>
+    <desc lang="en">Powerful orca matriarchs pass down their unique hunting traditions to the next generation. تنقل أمهات الأوركا الأقوياء تقاليدهم الفريدة في الصيد إلى الجيل التالي.</desc>
+    <icon src="http://content.osn.com/bob/745x419/OSN-Living.jpg" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210515130000 +0000" stop="20210515140000 +0000" channel="OSN Living HD">
+    <title lang="en">Expedition With Steve Backshall</title>
+    <title lang="ar">إكسبيديشن وذ ستيف باكشال</title>
+    <desc lang="en">Steve Backshall, an award-winning naturalist with a passion for living on the edge, travels the world and explores unchartered territories in search of adventurous experiences. يقوم مضيف البرنامج ستيف باكشال، عالم الطبيعة الحائزعلى جوائز والذي يهوى العيش بحرية في الطبيعة، بالسفر حول العالم واستكشاف مناطق غير مأهولة بحثًا عن تجارب المغامرة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077550_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20210515140000 +0000" stop="20210515150000 +0000" channel="OSN Living HD">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <title lang="ar">أنثوني بوردين : بارتس أناون</title>
+    <desc lang="en">Join world-renowned chef, bestselling author and multiple Emmy-winning television personality Anthony Bourdain as he travels across the globe to uncover little-known destinations and diverse cultures. انضموا إلى الشيف الأكثر شهرة في العالم والمؤلف صاحب الكتب الأكثر مبيعاً والحائز على جائزة إيمي أنتوني بوردين بينما يسافر حول العالم للكشف عن الوجهات غير المعروفة والثقافات المتنوعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR073970_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210515150000 +0000" stop="20210515160000 +0000" channel="OSN Living HD">
+    <title lang="en">Trading Spaces</title>
+    <title lang="ar">تريدينغ سبيسيز</title>
+    <desc lang="en">This show pits neighbor against neighbor in a race to redecorate a room in each-other's homes. Can a friendship survive this weekend? يتبارى في هذا البرنامج الجار ضد جاره للقيام بتصميم وترتيب غرفةً واحدة في منزل الآخر. هل ستصمد الصداقة بعد ذلك السباق؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR082551_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210515160000 +0000" stop="20210515170000 +0000" channel="OSN Living HD">
+    <title lang="en">100 Day Renovation</title>
+    <title lang="ar">100 ديه رينوفيشن</title>
+    <desc lang="en">Designer Hamish Dodd is on a mission to renovate a heritage vacation home in just 100 days. Hamish helps a family who love their house and location but are starting to outgrow the property and in need for a renovation. يبدأ المصمم المعماري هاميش دود في مهمة ترميم منزل إجازات قديم ووضع اللمسات الأخيرة فقط خلال 100 يوم. حيث يقوم هاميش بمساعدة العائلة المالكة لهذا العقار والتي تحتاج فعلاً لترميم منزل الإجازات.</desc>
+    <icon src="http://content.osn.com/bob/745x419/16755-1_LC_STB182039925.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515170000 +0000" stop="20210515180000 +0000" channel="OSN Living HD">
+    <title lang="en">Expedition With Steve Backshall</title>
+    <title lang="ar">إكسبيديشن وذ ستيف باكشال</title>
+    <desc lang="en">Steve Backshall, an award-winning naturalist with a passion for living on the edge, travels the world and explores unchartered territories in search of adventurous experiences. يقوم مضيف البرنامج ستيف باكشال، عالم الطبيعة الحائزعلى جوائز والذي يهوى العيش بحرية في الطبيعة، بالسفر حول العالم واستكشاف مناطق غير مأهولة بحثًا عن تجارب المغامرة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077551_LC_STB.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210515180000 +0000" stop="20210515190000 +0000" channel="OSN Living HD">
+    <title lang="en">Anthony Bourdain: Parts Unknown</title>
+    <title lang="ar">أنثوني بوردين : بارتس أناون</title>
+    <desc lang="en">Join world-renowned chef, bestselling author and multiple Emmy-winning television personality Anthony Bourdain as he travels across the globe to uncover little-known destinations and diverse cultures. انضموا إلى الشيف الأكثر شهرة في العالم والمؤلف صاحب الكتب الأكثر مبيعاً والحائز على جائزة إيمي أنتوني بوردين بينما يسافر حول العالم للكشف عن الوجهات غير المعروفة والثقافات المتنوعة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR073971_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20210515190000 +0000" stop="20210515200000 +0000" channel="OSN Living HD">
+    <title lang="en">Trading Spaces</title>
+    <title lang="ar">تريدينغ سبيسيز</title>
+    <desc lang="en">This show pits neighbor against neighbor in a race to redecorate a room in each-other's homes. Can a friendship survive this weekend? يتبارى في هذا البرنامج الجار ضد جاره للقيام بتصميم وترتيب غرفةً واحدة في منزل الآخر. هل ستصمد الصداقة بعد ذلك السباق؟.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR082551_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
 </tv>

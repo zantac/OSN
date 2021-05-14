@@ -4168,9 +4168,11 @@
     <episode-num system="onscreen">E33</episode-num>
   </programme>
   <programme start="20210514230000 +0000" stop="20210515000000 +0000" channel="Al Safwa">
-    <title lang="en">Akthar Al-Ahdaath Ithara (?)</title>
+    <title lang="en">Akthar Al-Ahdaath Ithara</title>
     <title lang="ar">أكثر الأحداث إثارة</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Eps 3; A reality series showcasing awesome real life footage from around the world like good times turning bad, good pets go bad and deadliest sea creatures. (R3). الحلقة 3؛ لقطات حية لأحداث حقيقية غريبة ومثيرة حدثت لأناس من مختلف بقاع الأرض كتحول حيوان أليف إلى وحش، وظهور كائنات بحرية قاتلة، ومطاردات بوليسية فاشلة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/SAF.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
   <programme start="20210515000000 +0000" stop="20210515010000 +0000" channel="Al Safwa">
     <title lang="en">Ghumoud Wa Asateer</title>
@@ -4313,9 +4315,11 @@
     <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210515124000 +0000" stop="20210515130000 +0000" channel="Al Safwa">
-    <title lang="en">Asma'uhu  Al  Husna (?)</title>
+    <title lang="en">Asma'uhu  Al  Husna</title>
     <title lang="ar">اسماؤه الحسنى</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Eps 15; ``Call upon God or call upon The Merciful, whichsoever you call upon, to Him belong the most beautiful names``... an enumeration of names of Allah extraced from the Holy Qur`an and Al-Sunnah. (R3). الحلقة 15؛ يتناول البرنامج مجموعة من أسماء الله الحسنى مرتكزاً على أحدث ما توصل إليه العلم من حقائق، ومتكئاً على خلفية دينية قوامها العقيدة الإسلامية المستمدة من القرآن الكريم والسنة الشريفة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/SAF.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
   <programme start="20210515130000 +0000" stop="20210515140000 +0000" channel="Al Safwa">
     <title lang="en">Al Ferdaawi</title>
