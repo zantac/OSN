@@ -83,84 +83,84 @@
     <icon src="http://content.osn.com/bob/745x419/MV013951_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627055000 +0000" stop="20210627072000 +0000" channel="OSN Movies First HD">
+  <programme start="20210627055000 +0000" stop="20210627072500 +0000" channel="OSN Movies First HD">
     <title lang="en">Trolls World Tour</title>
     <title lang="ar">ترولز وورلد تور</title>
     <desc lang="en">When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom. يُعرض تهديد غامض مجموعة "ترولز" بأكملها عبر الأرض للخطر، يجب على بوبي، برانش وأصدقائهما الشروع في مهمة ملحمية لخلق التناغم بين المتناحرين لتوحيدهم ضد هلاك وشيك.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV014218_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627072000 +0000" stop="20210627090000 +0000" channel="OSN Movies First HD">
+  <programme start="20210627072500 +0000" stop="20210627091000 +0000" channel="OSN Movies First HD">
     <title lang="en">Dora And The Lost City Of Gold</title>
     <title lang="ar">دورا اند ذا لوست سيتي اوف غولد</title>
     <desc lang="en">Now in high school, Dora embarks on a quest to save her parents. She is accompanied by a ragtag group of teens and Boots the monkey, while also trying to solve the seemingly impossible mystery behind a lost Incan civilization. تنطلق دورا الطالبة في المرحلة الثانوية في رحلة لإنقاذ والديها مصطحبة مجموعة من الأصدقاء بالإضافة إلى القرد بوتس. كما تحاول حل اللغز الذي يبدو مستحيلاً حول حضارة الإنكان المفقودة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013039_LC_STB130403399.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627090000 +0000" stop="20210627104500 +0000" channel="OSN Movies First HD">
+  <programme start="20210627091000 +0000" stop="20210627110000 +0000" channel="OSN Movies First HD">
     <title lang="en">Mulan</title>
     <title lang="ar">مولان</title>
     <desc lang="en">When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. عندما أصدر إمبراطور الصين مرسومًا يقضي بأن يخدم رجل واحد من كل أسرة في الجيش الإمبراطوري الصيني للدفاع عن البلاد ضد هونس عندها تتدخل هوا مولان الابنة الكبرى لمحارب قدير لتحل محل والدها المريض.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013469_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627104500 +0000" stop="20210627122000 +0000" channel="OSN Movies First HD">
+  <programme start="20210627110000 +0000" stop="20210627123500 +0000" channel="OSN Movies First HD">
     <title lang="en">Soul</title>
     <title lang="ar">سول</title>
     <desc lang="en">Joe Gardner is a middle school teacher with a love for jazz music. He suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar a center in which souls develop before being transported to a newborn child. جو غاردنر مدرس في مدرسة إعدادية ويحب موسيقى الجاز وفجأة يتعرض لحادثة حيث تنفصل روحه عن جسده وتنتقل الى ذا يوسيمنار وهي منطقة تتطور فيها الأرواح قبل أن تنتقل الى طفل حديث الولادة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013471_LC_STB175708730.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627122000 +0000" stop="20210627135500 +0000" channel="OSN Movies First HD">
+  <programme start="20210627123500 +0000" stop="20210627141500 +0000" channel="OSN Movies First HD">
     <title lang="en">Raya And The Last Dragon</title>
     <title lang="ar">رايا أند ذا لاست دراغون</title>
     <desc lang="en">Long ago, humans and dragons lived together harmoniously in the world of Kumandra. But when evil threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, lone warrior Raya must track down the legendary last dragon to stop the evil. منذ زمن بعيد  عاش البشر والتنانين معًا في وئام في عالم كوماندرا. ولكن عندما هدد الشر الأرض ضحى التنانين بأنفسهم لإنقاذ البشرية و الآن ، بعد 500 عام ، يجب على المحاربة الوحيدة رايا تعقب التنين الأسطوري الأخير لإيقاف الشر.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV014392_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627135500 +0000" stop="20210627153000 +0000" channel="OSN Movies First HD">
+  <programme start="20210627141500 +0000" stop="20210627155000 +0000" channel="OSN Movies First HD">
     <title lang="en">Brian Branks</title>
     <title lang="ar">بريان برانكس</title>
     <desc lang="en">Brian Banks, an All-American high school football star finds his life upended in 2002 when he is falsely accused of sexual assault. وجد بريان بانكس ، نجم كرة القدم في المدرسة الثانوية الأمريكية ، أن حياته انقلبت رأساً على عقب في عام 2002 عندما اتهم زوراً بالاعتداء الجنسي.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV012974_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627153000 +0000" stop="20210627173500 +0000" channel="OSN Movies First HD">
-    <title lang="en">Spider-Man: Far From Home</title>
-    <title lang="ar">سبايدر-مان: فار فروم هوم</title>
-    <desc lang="en">Peter Parker and his friends go on a summer trip to Europe. He will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent. يذهب بيتر باركر وأصدقائه في رحلة صيفية إلى أوروبا. يجب على بيتر الموافقة على مساعدة نيك فيوري على كشف سر المخلوقات التي تسبب الكوارث الطبيعية والدمار في جميع أنحاء القارة.</desc>
-    <icon src="http://content.osn.com/bob/745x419/MV012982_LC_STB.jpg" />
-    <episode-num system="onscreen">E0</episode-num>
-  </programme>
-  <programme start="20210627173500 +0000" stop="20210627194500 +0000" channel="OSN Movies First HD">
+  <programme start="20210627155000 +0000" stop="20210627180000 +0000" channel="OSN Movies First HD">
     <title lang="en">Waves</title>
     <title lang="ar">وايفز</title>
     <desc lang="en">A controlling father’s attempts to ensure that his two children succeed in high school backfire after his son experiences a career-ending sports injury. Their familial bonds are eventually placed under severe strain by an unexpected tragedy. تأتي محاولات الأب المتحكم في ضمان نجاح طفليه في المدرسة الثانوية بنتائج عكسية بعد تعرض ابنه لإصابة رياضية أنهت حياته المهنية. تتعرض الروابط العائلية في نهاية المطاف لضغوط شديدة بسبب مأساة غير متوقعة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013860_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627194500 +0000" stop="20210627194500 +0000" channel="OSN Movies First HD">
+  <programme start="20210627180000 +0000" stop="20210627193500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Zombieland: Double Tap</title>
+    <title lang="ar">زومبيلاند: دابل تاب</title>
+    <desc lang="en">Action with Zoey Deutch and Abigail Breslin. Ten years after they joined forces to survive the zombie apocalypse, the quartet travels to the American heartland to square off against other survivors and a variety of newly evolved zombies. بعد عشر سنوات من توحيد صفوفهم أثناء مواجهتم لهجوم الأموات الأحياء، الزومبي، يسافر  أربعة أشخاص إلى وسط الولايات المتحدة للتغلب على الناجين الآخرين ومجموعة مختلفة من الزومبي الذين تم تطويرهم حديثًا.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013195_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210627193500 +0000" stop="20210627193500 +0000" channel="OSN Movies First HD">
     <title lang="en">Berlin, I Love You</title>
     <title lang="ar">بيرلين، آي لوف يو</title>
     <desc lang="en">An anthology feature of 10 stories of romance set in the German capital. مجموعة مميزة من 10 قصص رومانسية والتي وقعت أحداثها في العاصمة الألمانية.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV012503_LC_STB151253258.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627194500 +0000" stop="20210627213500 +0000" channel="OSN Movies First HD">
+  <programme start="20210627193500 +0000" stop="20210627212500 +0000" channel="OSN Movies First HD">
     <title lang="en">Berlin, I Love You</title>
     <title lang="ar">بيرلين، آي لوف يو</title>
     <desc lang="en">An anthology feature of 10 stories of romance set in the German capital. مجموعة مميزة من 10 قصص رومانسية والتي وقعت أحداثها في العاصمة الألمانية.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV012503_LC_STB151253258.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627213500 +0000" stop="20210627231000 +0000" channel="OSN Movies First HD">
+  <programme start="20210627212500 +0000" stop="20210627230500 +0000" channel="OSN Movies First HD">
     <title lang="en">The Naked Wanderer</title>
     <title lang="ar">ذا نيكد وندرر</title>
     <desc lang="en">Dumped by his girlfriend and sponsored by media scoundrel Brian King, desolate Jake walks all-but-naked up Western Australia's coast for charity, in the hope his gesture will win back Jasmine, until he meets mesmerizing backpacker Valerie. بعد أن تخلت عنه حبيبته وبمساعدة الإعلامي بريان كينج  يمشي جيك عارياً بالكامل على طول ساحل أستراليا الغربية من أجل الأعمال الخيرية  على أمل أن يستعيد حبيبته ياسمين ولكنه خلال ذلك يلتقي بالجميلة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013239_LC_STB150617508.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627231000 +0000" stop="20210628003500 +0000" channel="OSN Movies First HD">
+  <programme start="20210627230500 +0000" stop="20210628003500 +0000" channel="OSN Movies First HD">
     <title lang="en">A Feeling Of Home</title>
     <title lang="ar">ايه فيلينغ أوف هوم</title>
     <desc lang="en">Romance. Web entrepreneur Abby hides her Texas roots to convince a backer she's from New England, a task complicated by a trip home and an unexpected reunion with Ryan, her high school sweetheart. تحاول مصممة الويب آبي إخفاء جذورها التي تعود لولاية تكساس وإقناع أحد الداعمين أنها من نيو أنجلاند، ولكن حينما تذهب في مهمة عمل وتتقابل مع ريان حبيبها القديم، تتغير الأمور في حياتها.</desc>
@@ -195,25 +195,25 @@
     <icon src="http://content.osn.com/bob/745x419/MV014392_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210628062000 +0000" stop="20210628083000 +0000" channel="OSN Movies First HD">
-    <title lang="en">Spider-Man: Far From Home</title>
-    <title lang="ar">سبايدر-مان: فار فروم هوم</title>
-    <desc lang="en">Peter Parker and his friends go on a summer trip to Europe. He will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent. يذهب بيتر باركر وأصدقائه في رحلة صيفية إلى أوروبا. يجب على بيتر الموافقة على مساعدة نيك فيوري على كشف سر المخلوقات التي تسبب الكوارث الطبيعية والدمار في جميع أنحاء القارة.</desc>
-    <icon src="http://content.osn.com/bob/745x419/MV012982_LC_STB.jpg" />
-    <episode-num system="onscreen">E0</episode-num>
-  </programme>
-  <programme start="20210628083000 +0000" stop="20210628095500 +0000" channel="OSN Movies First HD">
+  <programme start="20210628062000 +0000" stop="20210628074500 +0000" channel="OSN Movies First HD">
     <title lang="en">Hailey Dean Mysteries: Death On Duty</title>
     <title lang="ar">هيلي دين ميستريز: ديث أون ديوتي</title>
     <desc lang="en">Hailey Dean helps her best friend, District Attorney Investigator Fincher Garland, come to terms with the unexpected murder of a friend, Kurt Cullen, he served with in the Marine Corps. تساعد هيلي دين صديقتها المقربة المحقق فينشر جارلاند ، في التعامل مع جريمة قتل غير متوقعة لصديق وهو كورت كولين ، الذي خدم معه في سلاح مشاة البحرية.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013496_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210628095500 +0000" stop="20210628113500 +0000" channel="OSN Movies First HD">
+  <programme start="20210628074500 +0000" stop="20210628092500 +0000" channel="OSN Movies First HD">
     <title lang="en">Mighty Oak</title>
     <title lang="ar">مايتي أوك</title>
     <desc lang="en">Gina Jackson's life is shattered when her brother and lead vocalist, Vaughn, is killed in a tragic accident. Ten years later, young guitar prodigy Oak Scoggins enters her orbit, and she becomes convinced that this young man is the reincarnation of Vaughn. But is he? تحطمت حياة جينا جاكسون عندما تُوفي شقيقها والمغني الرئيسي في الفرقة، فون، في حادث مأساوي. بعد عشر سنوات، يدخل عازف الغيتار المعجزة الشابة أوك سكوجينز مدارها، فأصبحت مقتنعة بأن هذا الشاب هو نسخة عن فوغن. لكن هل هو كذلك؟.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013906_LC_STB091335890.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210628092500 +0000" stop="20210628113500 +0000" channel="OSN Movies First HD">
+    <title lang="en">Spider-Man: Far From Home</title>
+    <title lang="ar">سبايدر-مان: فار فروم هوم</title>
+    <desc lang="en">Peter Parker and his friends go on a summer trip to Europe. He will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent. يذهب بيتر باركر وأصدقائه في رحلة صيفية إلى أوروبا. يجب على بيتر الموافقة على مساعدة نيك فيوري على كشف سر المخلوقات التي تسبب الكوارث الطبيعية والدمار في جميع أنحاء القارة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV012982_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210628113500 +0000" stop="20210628130000 +0000" channel="OSN Movies First HD">
@@ -279,84 +279,84 @@
     <icon src="http://content.osn.com/bob/745x419/MV013951_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627075000 +0000" stop="20210627092000 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627075000 +0000" stop="20210627092500 +0000" channel="OSN Movies First HD2">
     <title lang="en">Trolls World Tour</title>
     <title lang="ar">ترولز وورلد تور</title>
     <desc lang="en">When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom. يُعرض تهديد غامض مجموعة "ترولز" بأكملها عبر الأرض للخطر، يجب على بوبي، برانش وأصدقائهما الشروع في مهمة ملحمية لخلق التناغم بين المتناحرين لتوحيدهم ضد هلاك وشيك.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV014218_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627092000 +0000" stop="20210627110000 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627092500 +0000" stop="20210627111000 +0000" channel="OSN Movies First HD2">
     <title lang="en">Dora And The Lost City Of Gold</title>
     <title lang="ar">دورا اند ذا لوست سيتي اوف غولد</title>
     <desc lang="en">Now in high school, Dora embarks on a quest to save her parents. She is accompanied by a ragtag group of teens and Boots the monkey, while also trying to solve the seemingly impossible mystery behind a lost Incan civilization. تنطلق دورا الطالبة في المرحلة الثانوية في رحلة لإنقاذ والديها مصطحبة مجموعة من الأصدقاء بالإضافة إلى القرد بوتس. كما تحاول حل اللغز الذي يبدو مستحيلاً حول حضارة الإنكان المفقودة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013039_LC_STB130403399.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627110000 +0000" stop="20210627124500 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627111000 +0000" stop="20210627130000 +0000" channel="OSN Movies First HD2">
     <title lang="en">Mulan</title>
     <title lang="ar">مولان</title>
     <desc lang="en">When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. عندما أصدر إمبراطور الصين مرسومًا يقضي بأن يخدم رجل واحد من كل أسرة في الجيش الإمبراطوري الصيني للدفاع عن البلاد ضد هونس عندها تتدخل هوا مولان الابنة الكبرى لمحارب قدير لتحل محل والدها المريض.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013469_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627124500 +0000" stop="20210627142000 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627130000 +0000" stop="20210627143500 +0000" channel="OSN Movies First HD2">
     <title lang="en">Soul</title>
     <title lang="ar">سول</title>
     <desc lang="en">Joe Gardner is a middle school teacher with a love for jazz music. He suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar a center in which souls develop before being transported to a newborn child. جو غاردنر مدرس في مدرسة إعدادية ويحب موسيقى الجاز وفجأة يتعرض لحادثة حيث تنفصل روحه عن جسده وتنتقل الى ذا يوسيمنار وهي منطقة تتطور فيها الأرواح قبل أن تنتقل الى طفل حديث الولادة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013471_LC_STB175708730.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627142000 +0000" stop="20210627155500 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627143500 +0000" stop="20210627161500 +0000" channel="OSN Movies First HD2">
     <title lang="en">Raya And The Last Dragon</title>
     <title lang="ar">رايا أند ذا لاست دراغون</title>
     <desc lang="en">Long ago, humans and dragons lived together harmoniously in the world of Kumandra. But when evil threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, lone warrior Raya must track down the legendary last dragon to stop the evil. منذ زمن بعيد  عاش البشر والتنانين معًا في وئام في عالم كوماندرا. ولكن عندما هدد الشر الأرض ضحى التنانين بأنفسهم لإنقاذ البشرية و الآن ، بعد 500 عام ، يجب على المحاربة الوحيدة رايا تعقب التنين الأسطوري الأخير لإيقاف الشر.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV014392_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627155500 +0000" stop="20210627173000 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627161500 +0000" stop="20210627175000 +0000" channel="OSN Movies First HD2">
     <title lang="en">Brian Branks</title>
     <title lang="ar">بريان برانكس</title>
     <desc lang="en">Brian Banks, an All-American high school football star finds his life upended in 2002 when he is falsely accused of sexual assault. وجد بريان بانكس ، نجم كرة القدم في المدرسة الثانوية الأمريكية ، أن حياته انقلبت رأساً على عقب في عام 2002 عندما اتهم زوراً بالاعتداء الجنسي.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV012974_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627173000 +0000" stop="20210627193500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Spider-Man: Far From Home</title>
-    <title lang="ar">سبايدر-مان: فار فروم هوم</title>
-    <desc lang="en">Peter Parker and his friends go on a summer trip to Europe. He will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent. يذهب بيتر باركر وأصدقائه في رحلة صيفية إلى أوروبا. يجب على بيتر الموافقة على مساعدة نيك فيوري على كشف سر المخلوقات التي تسبب الكوارث الطبيعية والدمار في جميع أنحاء القارة.</desc>
-    <icon src="http://content.osn.com/bob/745x419/MV012982_LC_STB.jpg" />
-    <episode-num system="onscreen">E0</episode-num>
-  </programme>
-  <programme start="20210627193500 +0000" stop="20210627193500 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627175000 +0000" stop="20210627200000 +0000" channel="OSN Movies First HD2">
     <title lang="en">Waves</title>
     <title lang="ar">وايفز</title>
     <desc lang="en">A controlling father’s attempts to ensure that his two children succeed in high school backfire after his son experiences a career-ending sports injury. Their familial bonds are eventually placed under severe strain by an unexpected tragedy. تأتي محاولات الأب المتحكم في ضمان نجاح طفليه في المدرسة الثانوية بنتائج عكسية بعد تعرض ابنه لإصابة رياضية أنهت حياته المهنية. تتعرض الروابط العائلية في نهاية المطاف لضغوط شديدة بسبب مأساة غير متوقعة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013860_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627193500 +0000" stop="20210627214500 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Waves</title>
-    <title lang="ar">وايفز</title>
-    <desc lang="en">A controlling father’s attempts to ensure that his two children succeed in high school backfire after his son experiences a career-ending sports injury. Their familial bonds are eventually placed under severe strain by an unexpected tragedy. تأتي محاولات الأب المتحكم في ضمان نجاح طفليه في المدرسة الثانوية بنتائج عكسية بعد تعرض ابنه لإصابة رياضية أنهت حياته المهنية. تتعرض الروابط العائلية في نهاية المطاف لضغوط شديدة بسبب مأساة غير متوقعة.</desc>
-    <icon src="http://content.osn.com/bob/745x419/MV013860_LC_STB.jpg" />
+  <programme start="20210627200000 +0000" stop="20210627200000 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Zombieland: Double Tap</title>
+    <title lang="ar">زومبيلاند: دابل تاب</title>
+    <desc lang="en">Action with Zoey Deutch and Abigail Breslin. Ten years after they joined forces to survive the zombie apocalypse, the quartet travels to the American heartland to square off against other survivors and a variety of newly evolved zombies. بعد عشر سنوات من توحيد صفوفهم أثناء مواجهتم لهجوم الأموات الأحياء، الزومبي، يسافر  أربعة أشخاص إلى وسط الولايات المتحدة للتغلب على الناجين الآخرين ومجموعة مختلفة من الزومبي الذين تم تطويرهم حديثًا.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013195_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627214500 +0000" stop="20210627233500 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627200000 +0000" stop="20210627213500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Zombieland: Double Tap</title>
+    <title lang="ar">زومبيلاند: دابل تاب</title>
+    <desc lang="en">Action with Zoey Deutch and Abigail Breslin. Ten years after they joined forces to survive the zombie apocalypse, the quartet travels to the American heartland to square off against other survivors and a variety of newly evolved zombies. بعد عشر سنوات من توحيد صفوفهم أثناء مواجهتم لهجوم الأموات الأحياء، الزومبي، يسافر  أربعة أشخاص إلى وسط الولايات المتحدة للتغلب على الناجين الآخرين ومجموعة مختلفة من الزومبي الذين تم تطويرهم حديثًا.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV013195_LC_STB.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210627213500 +0000" stop="20210627232500 +0000" channel="OSN Movies First HD2">
     <title lang="en">Berlin, I Love You</title>
     <title lang="ar">بيرلين، آي لوف يو</title>
     <desc lang="en">An anthology feature of 10 stories of romance set in the German capital. مجموعة مميزة من 10 قصص رومانسية والتي وقعت أحداثها في العاصمة الألمانية.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV012503_LC_STB151253258.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210627233500 +0000" stop="20210628011000 +0000" channel="OSN Movies First HD2">
+  <programme start="20210627232500 +0000" stop="20210628010500 +0000" channel="OSN Movies First HD2">
     <title lang="en">The Naked Wanderer</title>
     <title lang="ar">ذا نيكد وندرر</title>
     <desc lang="en">Dumped by his girlfriend and sponsored by media scoundrel Brian King, desolate Jake walks all-but-naked up Western Australia's coast for charity, in the hope his gesture will win back Jasmine, until he meets mesmerizing backpacker Valerie. بعد أن تخلت عنه حبيبته وبمساعدة الإعلامي بريان كينج  يمشي جيك عارياً بالكامل على طول ساحل أستراليا الغربية من أجل الأعمال الخيرية  على أمل أن يستعيد حبيبته ياسمين ولكنه خلال ذلك يلتقي بالجميلة.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013239_LC_STB150617508.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210628011000 +0000" stop="20210628023500 +0000" channel="OSN Movies First HD2">
+  <programme start="20210628010500 +0000" stop="20210628023500 +0000" channel="OSN Movies First HD2">
     <title lang="en">A Feeling Of Home</title>
     <title lang="ar">ايه فيلينغ أوف هوم</title>
     <desc lang="en">Romance. Web entrepreneur Abby hides her Texas roots to convince a backer she's from New England, a task complicated by a trip home and an unexpected reunion with Ryan, her high school sweetheart. تحاول مصممة الويب آبي إخفاء جذورها التي تعود لولاية تكساس وإقناع أحد الداعمين أنها من نيو أنجلاند، ولكن حينما تذهب في مهمة عمل وتتقابل مع ريان حبيبها القديم، تتغير الأمور في حياتها.</desc>
@@ -391,25 +391,25 @@
     <icon src="http://content.osn.com/bob/745x419/MV014392_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210628082000 +0000" stop="20210628103000 +0000" channel="OSN Movies First HD2">
-    <title lang="en">Spider-Man: Far From Home</title>
-    <title lang="ar">سبايدر-مان: فار فروم هوم</title>
-    <desc lang="en">Peter Parker and his friends go on a summer trip to Europe. He will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent. يذهب بيتر باركر وأصدقائه في رحلة صيفية إلى أوروبا. يجب على بيتر الموافقة على مساعدة نيك فيوري على كشف سر المخلوقات التي تسبب الكوارث الطبيعية والدمار في جميع أنحاء القارة.</desc>
-    <icon src="http://content.osn.com/bob/745x419/MV012982_LC_STB.jpg" />
-    <episode-num system="onscreen">E0</episode-num>
-  </programme>
-  <programme start="20210628103000 +0000" stop="20210628115500 +0000" channel="OSN Movies First HD2">
+  <programme start="20210628082000 +0000" stop="20210628094500 +0000" channel="OSN Movies First HD2">
     <title lang="en">Hailey Dean Mysteries: Death On Duty</title>
     <title lang="ar">هيلي دين ميستريز: ديث أون ديوتي</title>
     <desc lang="en">Hailey Dean helps her best friend, District Attorney Investigator Fincher Garland, come to terms with the unexpected murder of a friend, Kurt Cullen, he served with in the Marine Corps. تساعد هيلي دين صديقتها المقربة المحقق فينشر جارلاند ، في التعامل مع جريمة قتل غير متوقعة لصديق وهو كورت كولين ، الذي خدم معه في سلاح مشاة البحرية.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013496_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20210628115500 +0000" stop="20210628133500 +0000" channel="OSN Movies First HD2">
+  <programme start="20210628094500 +0000" stop="20210628112500 +0000" channel="OSN Movies First HD2">
     <title lang="en">Mighty Oak</title>
     <title lang="ar">مايتي أوك</title>
     <desc lang="en">Gina Jackson's life is shattered when her brother and lead vocalist, Vaughn, is killed in a tragic accident. Ten years later, young guitar prodigy Oak Scoggins enters her orbit, and she becomes convinced that this young man is the reincarnation of Vaughn. But is he? تحطمت حياة جينا جاكسون عندما تُوفي شقيقها والمغني الرئيسي في الفرقة، فون، في حادث مأساوي. بعد عشر سنوات، يدخل عازف الغيتار المعجزة الشابة أوك سكوجينز مدارها، فأصبحت مقتنعة بأن هذا الشاب هو نسخة عن فوغن. لكن هل هو كذلك؟.</desc>
     <icon src="http://content.osn.com/bob/745x419/MV013906_LC_STB091335890.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210628112500 +0000" stop="20210628133500 +0000" channel="OSN Movies First HD2">
+    <title lang="en">Spider-Man: Far From Home</title>
+    <title lang="ar">سبايدر-مان: فار فروم هوم</title>
+    <desc lang="en">Peter Parker and his friends go on a summer trip to Europe. He will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent. يذهب بيتر باركر وأصدقائه في رحلة صيفية إلى أوروبا. يجب على بيتر الموافقة على مساعدة نيك فيوري على كشف سر المخلوقات التي تسبب الكوارث الطبيعية والدمار في جميع أنحاء القارة.</desc>
+    <icon src="http://content.osn.com/bob/745x419/MV012982_LC_STB.jpg" />
     <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210628133500 +0000" stop="20210628150000 +0000" channel="OSN Movies First HD2">
