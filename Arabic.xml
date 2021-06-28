@@ -1986,9 +1986,11 @@
     <episode-num system="onscreen">E16</episode-num>
   </programme>
   <programme start="20210628030000 +0000" stop="20210628040000 +0000" channel="Hekayat 2">
-    <title lang="en">Ahlam Fostoq (?)</title>
+    <title lang="en">Ahlam Fostoq</title>
     <title lang="ar">أحلام فستق</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">This channel visits legendary celebrity figures, looking at aspects of Arabian ancestry and the timeless stories that are not forgotten over time. تعود بذاكرتك إلى الوراء مع تلك الشخصيات التلفزيونية ومظاهر الحياة السالفة والحكايات الخالدة التي لا تنسى عبر الزمان.</desc>
+    <icon src="http://content.osn.com/bob/745x419/hekayat2.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
   </programme>
   <programme start="20210628040000 +0000" stop="20210628050000 +0000" channel="Hekayat 2">
     <title lang="en">Yawmyat Wanis Wa Ahfadoh</title>

@@ -851,9 +851,11 @@
     <episode-num system="onscreen">E6</episode-num>
   </programme>
   <programme start="20210628190000 +0000" stop="20210628200000 +0000" channel="OSN Series HD">
-    <title lang="en">Wentworth (?)</title>
+    <title lang="en">Wentworth</title>
     <title lang="ar">ونتوورث</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Fletch reacts badly to Bea's grief triggering his memories of a horrific experience in East Timor. Bea is dealt another devastating blow but is buoyed by the inmate's support while Jacs's power further diminishes. يتفاعل فليتش بطريقة سيئة مع حزن بيا الأمر الذي يثير ذكرياته حول تجربة مروعة في ايست تايمور. تتلقى بيا ضربة أخرى لكنها تجد الدعم من السجينات بينما تتلاشى قوة جاكس.</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR077370_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
   </programme>
   <programme start="20210627000000 +0000" stop="20210627010000 +0000" channel="OSN Comedy HD">
     <title lang="en">Late Night With Seth Meyers</title>
@@ -1143,9 +1145,11 @@
     <episode-num system="onscreen">E6</episode-num>
   </programme>
   <programme start="20210628021500 +0000" stop="20210628030000 +0000" channel="OSN Comedy HD">
-    <title lang="en">The Ellen DeGeneres Show (?)</title>
+    <title lang="en">The Ellen DeGeneres Show</title>
     <title lang="ar">ذي إيلين ديجينرس شو</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">In its eighteenth season, the show upholds its reputation as a leader in the daytime talk show genre with unparalleled celebrity interviews, musical performances, topical stories, extraordinary human-interest guests, and sought-after viral sensations worldwide. في موسمه الثامن عشر، يحافظ البرنامج على سمعته كرائد في نوع البرامج الحوارية النهارية والذي يحوي مقابلات المشاهير التي لا مثيل لها، العروض الموسيقية، القصص الموضوعية، الضيوف غير العاديين المهتمين بالإنسان والأحاسيس المفضلة في جميع أنحاء العالم.</desc>
+    <icon src="http://content.osn.com/bob/745x419/17033-18_LC_STB.jpg" />
+    <episode-num system="onscreen">E166</episode-num>
   </programme>
   <programme start="20210628030000 +0000" stop="20210628033000 +0000" channel="OSN Comedy HD">
     <title lang="en">Friends</title>
@@ -2807,9 +2811,11 @@
     <episode-num system="onscreen">E20</episode-num>
   </programme>
   <programme start="20210628003000 +0000" stop="20210628012000 +0000" channel="E! Entertainment HD">
-    <title lang="en">Keeping Up With The Kardashians (?)</title>
+    <title lang="en">Keeping Up With The Kardashians</title>
     <title lang="ar">كيبينغ أب ويذ ذا كارديشيانز</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">The family plans a baby shower for Rob and Chyna, but when they fight, the party is ruined. When Kris gets sick, Kim steps in to manage her sisters. تخطط العائلة لإقامة حفلة لطفل روب وكينا المنتظر، لكن عندما يتقاتلون فيما بينهم، تخرب الحفلة. عندما تمرض كريس، تتدخل كيم لإدارة أخواتها.</desc>
+    <icon src="http://content.osn.com/bob/745x419/kuwtks14l_20171030095533.jpg" />
+    <episode-num system="onscreen">E21</episode-num>
   </programme>
   <programme start="20210628012000 +0000" stop="20210628021000 +0000" channel="E! Entertainment HD">
     <title lang="en">Celebrity Game Face</title>
