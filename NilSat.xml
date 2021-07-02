@@ -52,15 +52,15 @@
   </channel>
   <channel id="MBC2">
     <display-name lang="ar">MBC2</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC Action">
     <display-name lang="ar">MBC Action</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC Movie Max">
     <display-name lang="ar">MBC Movie Max</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="OSN Series First HD">
     <display-name lang="en">OSN Series First HD</display-name>
@@ -154,23 +154,23 @@
   </channel>
   <channel id="MBC1">
     <display-name lang="ar">MBC1</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC Drama">
     <display-name lang="ar">MBC Drama</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC Egypt">
     <display-name lang="ar">MBC Egypt</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC Egypt 2">
     <display-name lang="ar">MBC Egypt 2</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC Iraq">
     <display-name lang="ar">MBC Iraq</display-name>
-    <url>http://www.mbc.net.E</url>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="Cinema 1">
     <display-name lang="en">Cinema 1</display-name>
@@ -1795,7 +1795,7 @@
     <desc lang="en">Biographical drama starring Tom Hanks, Barkhad Abdi and Barkhad Abdirahman, based on the true story of the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama. An incident during which merchant mariner Captain Richard Phillips was taken hostage. سيرة ذاتية ودراما من بطولة توم هانكس، برخد عبدي وبرخد عبد الرحمن. يروي هذا الفيلم القصة الحقيقية لحادثة اختطاف سفينة أم في مارسك ألاباما الأمريكية، التي قام بها مجموعة من القراصنة الصوماليين في عام 2009، وأخذ خلالها الكابتن ريتشارد فيلبس كرهينة.</desc>
     <icon src="http://content.osn.com/bob/745x419/STM.jpg" />
   </programme>
-  <programme start="20210702001500 +0000" stop="20210702014400 +0000" channel="MBC2">
+  <programme start="20210702001400 +0000" stop="20210702014400 +0000" channel="MBC2">
     <title lang="ar">أكشن زون</title>
     <desc lang="ar">كل ما تريده من أكشن ورعب وكوميديا وأخبار وما يتعلق بالنجوم وغيره الكثير تجدونه في برنامج أكشن زون الذي يضمن بأن يبقيك متحمسا طوال الوقت.</desc>
     <category lang="ar">معلومات ترفيهية</category>
@@ -1890,77 +1890,72 @@
     <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703042400 +0000" stop="20210703063000 +0000" channel="MBC2">
+  <programme start="20210703042400 +0000" stop="20210703062900 +0000" channel="MBC2">
     <title lang="ar">ذا بيرفيكت ستورم</title>
     <desc lang="ar">بعد رحلة صيد مخيبة للآمال، يقرر القبطان بيلي تاين العودة إلى البحر من جديد لصيد سمكة السيف للمرة الأخيرة قبل نهاية الموسم. لكن ما يجهله هو أنه سيكون على موعد مع أعتى وأشد عواصف القرن العشرين تدميرا.</desc>
     <category lang="ar">إثارة</category>
   </programme>
-  <programme start="20210703063000 +0000" stop="20210703082900 +0000" channel="MBC2">
+  <programme start="20210703062900 +0000" stop="20210703083900 +0000" channel="MBC2">
     <title lang="ar">دون أوف ذا بلانيت أوف ذا إيبس</title>
     <desc lang="ar">تتعرض أمة متنامية من قردة متطورة جينياً بقيادة سيزار لتهديد من قبل مجموعة من البشر الذين نجوا من فيروس مدمر أطلق عنانه قبل عقد من الزمن.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210703082900 +0000" stop="20210703090000 +0000" channel="MBC2">
+  <programme start="20210703083900 +0000" stop="20210703090400 +0000" channel="MBC2">
     <title lang="ar">فيلمز &amp; ستارز</title>
     <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703090000 +0000" stop="20210703105900 +0000" channel="MBC2">
+  <programme start="20210703090400 +0000" stop="20210703105900 +0000" channel="MBC2">
     <title lang="ar">أدابشن.</title>
     <desc lang="ar">كاتب سيناريو يكافح من أجل التأقلم مع كتاب، قرر حينها إدراج نفسه في السيناريو ولكن مع نتائج غير متوقعة.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703105900 +0000" stop="20210703113000 +0000" channel="MBC2">
+  <programme start="20210703105900 +0000" stop="20210703112400 +0000" channel="MBC2">
     <title lang="ar">سيليبريتي سكوب</title>
     <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703113000 +0000" stop="20210703133000 +0000" channel="MBC2">
+  <programme start="20210703112400 +0000" stop="20210703133400 +0000" channel="MBC2">
     <title lang="ar">روب بوي</title>
     <desc lang="ar">يخوض روب وماري معركة ضد ملاك الأراضي الأشرار وسط المناظر الخلابة الواقعة في المرتفعات الإسكتلندية المهيبة، حيث يعيشان مغامرة تملؤها الشجاعة والحب والتمسك بالشرف.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703133000 +0000" stop="20210703140000 +0000" channel="MBC2">
+  <programme start="20210703133400 +0000" stop="20210703135900 +0000" channel="MBC2">
     <title lang="ar">إنترتاينمنت تونايت</title>
     <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703140000 +0000" stop="20210703160000 +0000" channel="MBC2">
+  <programme start="20210703135900 +0000" stop="20210703160400 +0000" channel="MBC2">
     <title lang="ar">بيرسي جاكسون &amp; ذي أوليمبيانز: ذا لايتننج ثيف</title>
     <desc lang="ar">يكتشف صبي صغير بأنه من سلالة آلهة يونانية ويسعى في مغامرة لإنهاء المعركة المستمرة بين الآلهة.</desc>
     <category lang="ar">مغامرة</category>
   </programme>
-  <programme start="20210703160000 +0000" stop="20210703180000 +0000" channel="MBC2">
+  <programme start="20210703160400 +0000" stop="20210703180000 +0000" channel="MBC2">
     <title lang="ar">ذا سورسيريرز أبرينتس</title>
     <desc lang="ar">سيد السحر بالثازار بليك يقوم بتجنيد الشاب الذي يبدو بسيطاً ديف ستوتلر، كمساعده المتردد، وذلك من أجل حماية مانهاتن من عدوه اللدود، الأمر الذي سيتطلب من ديف حشد كل شجاعته في سبيل تخطي تدريباته وإنقاذ المدينة والحصول على الفتاة.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210703180000 +0000" stop="20210703192900 +0000" channel="MBC2">
+  <programme start="20210703180000 +0000" stop="20210703193400 +0000" channel="MBC2">
     <title lang="ar">كوتيز</title>
     <desc lang="ar">عندما يحول فيروس غذائي في الكافتيريا أطفال مدرسة ابتدائية إلى وحوش قاتلة، يتوجب على مجموعة معلمين توحيد قواهم للنجاة بحياتهم.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703192900 +0000" stop="20210703200000 +0000" channel="MBC2">
+  <programme start="20210703193400 +0000" stop="20210703195900 +0000" channel="MBC2">
     <title lang="ar">أكشن زون</title>
     <desc lang="ar">كل ما تريده من أكشن ورعب وكوميديا وأخبار وما يتعلق بالنجوم وغيره الكثير تجدونه في برنامج أكشن زون الذي يضمن بأن يبقيك متحمسا طوال الوقت.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703200000 +0000" stop="20210703212900 +0000" channel="MBC2">
+  <programme start="20210703195900 +0000" stop="20210703215900 +0000" channel="MBC2">
     <title lang="ar">ورم بوديز</title>
     <desc lang="ar">بعد انتشار وباء الزومبي، يقوم زومبي استثنائي اسمه آر بإنقاذ جولي من هجوم تعرضت له من قبلهم، فترى جولي بأنه يختلف عن الآخرين من بني جنسه، وفي خضم علاقتهما المميزة خلال نضالهما من أجل البقاء، يصبح آر أكثر إنسانية على نحو متزايد.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703212900 +0000" stop="20210703220000 +0000" channel="MBC2">
-    <title lang="ar">سيليبريتي سكوب</title>
-    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210703220000 +0000" stop="20210703233000 +0000" channel="MBC2">
+  <programme start="20210703215900 +0000" stop="20210703232900 +0000" channel="MBC2">
     <title lang="ar">سكاوتس جايد تو ذا زومبي أبوكاليبس</title>
     <desc lang="ar">يكتشف ثلاثة أفراد من الكشافة عشية مخيمهم الأخير المعنى الحقيقي للصداقة عند محاولتهم إنقاذ مدينتهم من تفشي الأحياء الأموات.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703233000 +0000" stop="20210705060000 +0000" channel="MBC2">
+  <programme start="20210703232900 +0000" stop="20210704011000 +0000" channel="MBC2">
     <title lang="ar">ديبريكيرز</title>
     <desc lang="ar">بعد أن حول بلاء غير معروف سكان العالم إلى مصاصي دماء واقترب الجنس البشري من الانقراض، تتوصل مجموعة من مصاصي الدماء تعمل في الخفاء إلى اكتشاف رائع قادر على إنقاذ الجنس البشري.</desc>
     <category lang="ar">أكشن</category>
@@ -1975,12 +1970,12 @@
     <desc lang="ar">في زمن أسطوري وبمساعدة رجل عجوز حكيم وتنينه الصغير، أصبح فتى في سن المراهقة فارساً لتنين، وحينها ينتقم الفتى من مقتل عمه، وينقذ محاربة جميلة، ويدخل في معركة ضد الملك المستبد.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210702032900 +0000" stop="20210702041900 +0000" channel="MBC Action">
+  <programme start="20210702032900 +0000" stop="20210702041800 +0000" channel="MBC Action">
     <title lang="ar">دريفن</title>
     <desc lang="ar">في حلقة اليوم، تغطية كاملة لكافة مراحل رالي داكار ومقابلات مع المشاركين.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210702041900 +0000" stop="20210702050300 +0000" channel="MBC Action">
+  <programme start="20210702041800 +0000" stop="20210702050300 +0000" channel="MBC Action">
     <title lang="ar">ذا بلاكليست</title>
     <desc lang="ar">ينطلق فريق التحقيقات في مهمة للبحث عن سيدة متخصصة في عمليات استحواذ عدائية على منظمات إجرامية يعتقد بأنها تمتلك معلومات قيمة للفريق.</desc>
     <category lang="ar">دراما</category>
@@ -2200,22 +2195,22 @@
     <desc lang="ar">يتنافس المشتركون في هذا البرنامج الذي يتخلله مراحل تخطف الأنفاس من أجل الفوز بعطلة العمر، لكن عليهم أولا اجتياز برج شاهق مليء بالتحديات ومواجهة  مقدم البرنامج الممثل الهوليوودي البطل والشرس دولف لوندجرين.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210703185800 +0000" stop="20210703193000 +0000" channel="MBC Action">
+  <programme start="20210703185800 +0000" stop="20210703193200 +0000" channel="MBC Action">
     <title lang="ar">ريديكولس رايدز</title>
     <desc lang="ar">برنامج يخطف الأنفاس يكشف النقاب عن سيارات خضعت لتعديلات جنونية، ويقدم فرصة لتجربة سيارات فائقة السرعة تقدر بملايين الدولارات.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703193000 +0000" stop="20210703195900 +0000" channel="MBC Action">
+  <programme start="20210703193200 +0000" stop="20210703195800 +0000" channel="MBC Action">
     <title lang="ar">ريديكولس رايدز</title>
     <desc lang="ar">برنامج يخطف الأنفاس يكشف النقاب عن سيارات خضعت لتعديلات جنونية، ويقدم فرصة لتجربة سيارات فائقة السرعة تقدر بملايين الدولارات.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703195900 +0000" stop="20210703205800 +0000" channel="MBC Action">
+  <programme start="20210703195800 +0000" stop="20210703205900 +0000" channel="MBC Action">
     <title lang="ar">Fear Factor تحدى الخوف</title>
     <desc lang="ar">النسخة العربية من برنامج المسابقات فير فاكتور والذي يتنافس فيه مجموعة من المتسابقين في عدة تحديات يتوجب عليهم فيها التغلب والسيطرة على خوفهم لإنجازها.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703205800 +0000" stop="20210703225300 +0000" channel="MBC Action">
+  <programme start="20210703205900 +0000" stop="20210703225300 +0000" channel="MBC Action">
     <title lang="ar">بيتش بلاك</title>
     <desc lang="ar">بعد تحطم سفينة ركاب على سطح كوكب مهجور، يجد الناجون أنفسهم وقد تقطعت بهم السبل في منطقة صحراوية قاحلة وجرداء ليكتشفوا أن حلول الظلام سيجلب معه أسراباً من الوحوش العملاقة آكلة اللحوم التي يمكن التصدي لها فقط بواسطة الضوء.</desc>
     <category lang="ar">خيالي علمي</category>
@@ -2240,27 +2235,27 @@
     <desc lang="ar">تحصل سيدة على أكثر مما ساومت عليه عندما تبحث في المفكرة الإلكترونية الخاصة بصديقها لتحصل على معلومات عن صديقاته السابقات.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210702034300 +0000" stop="20210702040300 +0000" channel="MBC Movie Max">
+  <programme start="20210702034300 +0000" stop="20210702040400 +0000" channel="MBC Movie Max">
     <title lang="ar">إنترتاينمنت تونايت</title>
     <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210702040300 +0000" stop="20210702063000 +0000" channel="MBC Movie Max">
+  <programme start="20210702040400 +0000" stop="20210702063000 +0000" channel="MBC Movie Max">
     <title lang="ar">إنسيبشن</title>
     <desc lang="ar">يحصل لص محترف يسرق أسراراً قيمة من أعماق اللاوعي على فرصة للخلاص من خلال عملية أخيرة والتي يمكن أن ترجع له حياته مرة أخرى ولكن فقط إذا تمكن من تحقيق المستحيل: زرع الأفكار.</desc>
     <category lang="ar">إثارة</category>
   </programme>
-  <programme start="20210702063000 +0000" stop="20210702080000 +0000" channel="MBC Movie Max">
+  <programme start="20210702063000 +0000" stop="20210702080500 +0000" channel="MBC Movie Max">
     <title lang="ar">ذا بينك بانثر</title>
     <desc lang="ar">يقوم مفتش فرنسي أخرق بالتحقيق في مقتل مدرب كرة قدم مشهور وسرقة الماسة الوردية التي كان يملكها، والتي لا تقدر بثمن.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210702080000 +0000" stop="20210702083000 +0000" channel="MBC Movie Max">
+  <programme start="20210702080500 +0000" stop="20210702083400 +0000" channel="MBC Movie Max">
     <title lang="ar">هوليوود باز</title>
     <desc lang="ar">مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم بما فيها من مقابلات حصرية ولقطات من وراء الكواليس.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210702083000 +0000" stop="20210702103000 +0000" channel="MBC Movie Max">
+  <programme start="20210702083400 +0000" stop="20210702103000 +0000" channel="MBC Movie Max">
     <title lang="ar">كريستوفر روبن</title>
     <desc lang="ar">يلتقي رجل العائلة من الطبقة العاملة كريستوفر روبن بصديق طفولته ويني ذا بوه الذي يساعده على اكتشاف مباهج الحياة من جديد.</desc>
     <category lang="ar">مغامرة</category>
@@ -2270,137 +2265,137 @@
     <desc lang="ar">بعد تعرض كتاب يضم صفحات ثلاثية الأبعاد للسرقة من متجر السيد جروبر للمقتنيات القديمة، يصبح الأمر منوطا ببادنجتون وعائلة براون للكشف عن هوية اللص.</desc>
     <category lang="ar">رسوم متحركة</category>
   </programme>
-  <programme start="20210702123000 +0000" stop="20210702140000 +0000" channel="MBC Movie Max">
+  <programme start="20210702123000 +0000" stop="20210702140800 +0000" channel="MBC Movie Max">
     <title lang="ar">بيج هيرو 6</title>
     <desc lang="ar">هيرو البارع في صناعة الروبوتات يجد نفسه بين فكي مؤامرة تهدد بتدمير سان فرانسوكيو وينضم إلى فريق يفتقر إلى الخبرة يضم محاربي الجريمة في سبيل إنقاذ مدينتهم.</desc>
     <category lang="ar">رسوم متحركة</category>
   </programme>
-  <programme start="20210702140000 +0000" stop="20210702143000 +0000" channel="MBC Movie Max">
+  <programme start="20210702140800 +0000" stop="20210702143400 +0000" channel="MBC Movie Max">
     <title lang="ar">بلانيت آكشن</title>
     <desc lang="ar">مابين  إطلاق نار من قبل رعاة البقر وانفجار سيارات، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانيت آكشن وراء كواليس أفضل الأفلام على الإطلاق.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210702143000 +0000" stop="20210702163000 +0000" channel="MBC Movie Max">
+  <programme start="20210702143400 +0000" stop="20210702162900 +0000" channel="MBC Movie Max">
     <title lang="ar">مس كونجينيالتي</title>
     <desc lang="ar">تنطلق عميلة في مكتب التحقيقات الفيدرالي في مهمة وهي متخفية تحت غطاء متسابقة في منافسة للجمال للقبض على أحد الإرهابيين في أجواء كوميدية حافلة بالإثارة.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210702163000 +0000" stop="20210702183000 +0000" channel="MBC Movie Max">
+  <programme start="20210702162900 +0000" stop="20210702182900 +0000" channel="MBC Movie Max">
     <title lang="ar">مس كونجينياليتي 2: آرمد آند فابيولاس</title>
     <desc lang="ar">بعد فترة قصيرة من نجاح عميلة مكتب التحقيقات الفيدرالي في القبض على المجرم الذي هدد ملكة جمال الولايات المتحدة أثناء عملها متخفية كمتسابقة، ها هي ذي تعود مرة ثانية محاولة إنقاذ أصدقائها المتسابقين من مختطفيهم في لاس فيجاس.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210702183000 +0000" stop="20210702190000 +0000" channel="MBC Movie Max">
+  <programme start="20210702182900 +0000" stop="20210702185800 +0000" channel="MBC Movie Max">
     <title lang="ar">إنترتاينمنت تونايت</title>
     <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210702190000 +0000" stop="20210702203000 +0000" channel="MBC Movie Max">
+  <programme start="20210702185800 +0000" stop="20210702202700 +0000" channel="MBC Movie Max">
     <title lang="ar">سيمي-برو</title>
     <desc lang="ar">الحكاية الطريفة للشخص الأسطوري الذي صنع مجد فريق تروبيكس، جاكي مون وسعيه للارتقاء بفريقه الخاسر الذي يفتقر إلى الموهبة وإيصاله إلى بطولة الدوري.</desc>
     <category lang="ar">رياضة</category>
   </programme>
-  <programme start="20210702203000 +0000" stop="20210702210000 +0000" channel="MBC Movie Max">
+  <programme start="20210702202700 +0000" stop="20210702210000 +0000" channel="MBC Movie Max">
     <title lang="ar">ميكنج ذا موفيز</title>
     <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210702210000 +0000" stop="20210702223000 +0000" channel="MBC Movie Max">
+  <programme start="20210702210000 +0000" stop="20210702223400 +0000" channel="MBC Movie Max">
     <title lang="ar">بينشوارمرز 2: بريكنق بولز</title>
     <desc lang="ar">بعد فشله في تحقيق نجاح باهر في لعبة البيسبول، يحاول بين مساعدة مكتب المحاماة الخاص به على الفوز بقضية مهمة وبطولة دوري للبيسبول.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210702223000 +0000" stop="20210703003000 +0000" channel="MBC Movie Max">
+  <programme start="20210702223400 +0000" stop="20210703002100 +0000" channel="MBC Movie Max">
     <title lang="ar">بادينجتون 2</title>
     <desc lang="ar">بعد تعرض كتاب يضم صفحات ثلاثية الأبعاد للسرقة من متجر السيد جروبر للمقتنيات القديمة، يصبح الأمر منوطا ببادنجتون وعائلة براون للكشف عن هوية اللص.</desc>
     <category lang="ar">رسوم متحركة</category>
   </programme>
-  <programme start="20210703003000 +0000" stop="20210703010000 +0000" channel="MBC Movie Max">
+  <programme start="20210703002100 +0000" stop="20210703010000 +0000" channel="MBC Movie Max">
     <title lang="ar">هوليوود باز</title>
     <desc lang="ar">مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم بما فيها من مقابلات حصرية ولقطات من وراء الكواليس.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703010000 +0000" stop="20210703023500 +0000" channel="MBC Movie Max">
+  <programme start="20210703010000 +0000" stop="20210703024200 +0000" channel="MBC Movie Max">
     <title lang="ar">ميستك بيتزا</title>
     <desc lang="ar">قصة ثلاث صديقات مقربات يعملن لدى مطعم للبيتزا في البلدة الساحلية مستك- كونيكتيكت، خلال مرورهن من مرحلة الطفولة إلى مرحلة النضج.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703023500 +0000" stop="20210703030000 +0000" channel="MBC Movie Max">
+  <programme start="20210703024200 +0000" stop="20210703030900 +0000" channel="MBC Movie Max">
     <title lang="ar">بلانيت آكشن</title>
     <desc lang="ar">مابين  إطلاق نار من قبل رعاة البقر وانفجار سيارات، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانيت آكشن وراء كواليس أفضل الأفلام على الإطلاق.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703030000 +0000" stop="20210703050000 +0000" channel="MBC Movie Max">
+  <programme start="20210703030900 +0000" stop="20210703045900 +0000" channel="MBC Movie Max">
     <title lang="ar">كريستوفر روبن</title>
     <desc lang="ar">يلتقي رجل العائلة من الطبقة العاملة كريستوفر روبن بصديق طفولته ويني ذا بوه الذي يساعده على اكتشاف مباهج الحياة من جديد.</desc>
     <category lang="ar">مغامرة</category>
   </programme>
-  <programme start="20210703050000 +0000" stop="20210703063000 +0000" channel="MBC Movie Max">
+  <programme start="20210703045900 +0000" stop="20210703063000 +0000" channel="MBC Movie Max">
     <title lang="ar">إلف</title>
     <desc lang="ar">بعد نشأته كقزم، يدرك بدي البشري استحالة تأقلمه في المحيط الذي يعيش فيه، وينطلق إلى نيويورك ليعثر على المكان الذي ينتمي إليه.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703063000 +0000" stop="20210703080000 +0000" channel="MBC Movie Max">
+  <programme start="20210703063000 +0000" stop="20210703080200 +0000" channel="MBC Movie Max">
     <title lang="ar">ذا بينك بانثر 2</title>
     <desc lang="ar">يحقق كلوزو وفريق من المحققين الدوليين في سرقات أعظم كنوز العالم، بما في ذلك ألماسة يطلق عليها اسم \"ذا بينك بانثر\".</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703080000 +0000" stop="20210703100000 +0000" channel="MBC Movie Max">
+  <programme start="20210703080200 +0000" stop="20210703095900 +0000" channel="MBC Movie Max">
     <title lang="ar">مس كونجينيالتي</title>
     <desc lang="ar">تنطلق عميلة في مكتب التحقيقات الفيدرالي في مهمة وهي متخفية تحت غطاء متسابقة في منافسة للجمال للقبض على أحد الإرهابيين في أجواء كوميدية حافلة بالإثارة.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703100000 +0000" stop="20210703120000 +0000" channel="MBC Movie Max">
+  <programme start="20210703095900 +0000" stop="20210703115900 +0000" channel="MBC Movie Max">
     <title lang="ar">مس كونجينياليتي 2: آرمد آند فابيولاس</title>
     <desc lang="ar">بعد فترة قصيرة من نجاح عميلة مكتب التحقيقات الفيدرالي في القبض على المجرم الذي هدد ملكة جمال الولايات المتحدة أثناء عملها متخفية كمتسابقة، ها هي ذي تعود مرة ثانية محاولة إنقاذ أصدقائها المتسابقين من مختطفيهم في لاس فيجاس.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210703120000 +0000" stop="20210703143000 +0000" channel="MBC Movie Max">
+  <programme start="20210703115900 +0000" stop="20210703142900 +0000" channel="MBC Movie Max">
     <title lang="ar">إل إيه كونفيدنشال</title>
     <desc lang="ar">يتورط ثلاثة رجال شرطة وفتاة ليل ومليونير غامض وصحفي في مؤامرة مليئة بالغموض والطموح والرومانسية والفكاهة.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703143000 +0000" stop="20210703163000 +0000" channel="MBC Movie Max">
+  <programme start="20210703142900 +0000" stop="20210703163400 +0000" channel="MBC Movie Max">
     <title lang="ar">بابل</title>
     <desc lang="ar">حادثة مأساوية تعصف بزوجين أمريكيين في المغرب، تتسبب في وقوع سلسلة من الأحداث التي تتأثر بها أربع عائلات تقطن بلداناً مختلفة حول العالم.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703163000 +0000" stop="20210703170000 +0000" channel="MBC Movie Max">
+  <programme start="20210703163400 +0000" stop="20210703170000 +0000" channel="MBC Movie Max">
     <title lang="ar">هوليوود باز</title>
     <desc lang="ar">مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم بما فيها من مقابلات حصرية ولقطات من وراء الكواليس.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703170000 +0000" stop="20210703183000 +0000" channel="MBC Movie Max">
+  <programme start="20210703170000 +0000" stop="20210703183700 +0000" channel="MBC Movie Max">
     <title lang="ar">ديموليشن</title>
     <desc lang="ar">تتحول رسالة شكوى أرسلها مستثمر بنكي ناجح لشركة تمتلك إحدى آلات البيع الذاتي، إلى سلسلة رسائل ستكشف النقاب عن اعترافات شخصية مقلقة.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703183000 +0000" stop="20210703190000 +0000" channel="MBC Movie Max">
+  <programme start="20210703183700 +0000" stop="20210703185900 +0000" channel="MBC Movie Max">
     <title lang="ar">إنترتاينمنت تونايت</title>
     <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703190000 +0000" stop="20210703210000 +0000" channel="MBC Movie Max">
+  <programme start="20210703185900 +0000" stop="20210703210400 +0000" channel="MBC Movie Max">
     <title lang="ar">ذا أكاونتانت</title>
     <desc lang="ar">كريستيان، هو محاسب مستقل يعمل لصالح بعض أكثر المنظمات الإجرامية خطورة في العالم، يتعامل مؤخرا مع عميل يكتشف تفاوت في الأرقام يتعلق بملايين الدولارات. لكن مع اقترابه من الحقيقة، ترتفع حصيلة القتلى وتفوح رائحة الموت.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210703210000 +0000" stop="20210703213000 +0000" channel="MBC Movie Max">
+  <programme start="20210703210400 +0000" stop="20210703213000 +0000" channel="MBC Movie Max">
     <title lang="ar">ميكنج ذا موفيز</title>
     <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703213000 +0000" stop="20210703230000 +0000" channel="MBC Movie Max">
+  <programme start="20210703213000 +0000" stop="20210703230400 +0000" channel="MBC Movie Max">
     <title lang="ar">موني مونسترز</title>
     <desc lang="ar">ينتهي المطاف بمذيع تلفزيوني يدعى لي جيتس ومنتجته في موقف لا يحسدان عليه، عندما يسيطر رجل، وهو مستثمر غاضب خسر كل أمواله، عنوة على الاستوديو الذي يعملان به، وبينما يتابع الملايين مجريات الأحداث على الهواء، يتعين على لي وباتي كشف الغموض وراء المؤامرة.</desc>
     <category lang="ar">جريمة</category>
   </programme>
-  <programme start="20210703230000 +0000" stop="20210703233000 +0000" channel="MBC Movie Max">
+  <programme start="20210703230400 +0000" stop="20210703232900 +0000" channel="MBC Movie Max">
     <title lang="ar">هوليوود باز</title>
     <desc lang="ar">مزيج مميز من آخر أخبار نجوم هوليوود والشائعات التي تدور حولهم بما فيها من مقابلات حصرية ولقطات من وراء الكواليس.</desc>
     <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20210703233000 +0000" stop="20210704013000 +0000" channel="MBC Movie Max">
+  <programme start="20210703232900 +0000" stop="20210704012900 +0000" channel="MBC Movie Max">
     <title lang="ar">ليتل بلاك بوك</title>
     <desc lang="ar">تحصل سيدة على أكثر مما ساومت عليه عندما تبحث في المفكرة الإلكترونية الخاصة بصديقها لتحصل على معلومات عن صديقاته السابقات.</desc>
     <category lang="ar">كوميدي</category>
@@ -8051,102 +8046,262 @@
     <desc lang="en">ART Cinema brings you the latest Arabic movies directly from the cinema screen, plus two or three of the most famous Arabic movies exclusively every month. تأتيك بأحدث الأفلام العربية مباشرة من شاشة السينما وتعرضها لك باستمرار، بالإضافة إلى تقديمها فيلمين أو ثلاثة أفلام من أشهر الأفلام العربية شهرياً وبشكل حصري.</desc>
     <icon src="http://content.osn.com/bob/745x419/ACM.jpg" />
   </programme>
-  <programme start="20210703060000 +0000" stop="20210703070000 +0000" channel="MBC1">
-    <title lang="ar">ملوك الجدعنة</title>
-    <desc lang="ar">يتم القبض على سرية وسفينة، بينما تقوم عطية وفاتن ونجلاء بجمع بعض الأموال وتوكيل محام لهما.</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210703070000 +0000" stop="20210703080000 +0000" channel="MBC1">
-    <title lang="ar">تحدي العائلات</title>
-    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: عائلتي العامودي وكريري.</desc>
-    <category lang="ar">ألعاب ومنافسات</category>
-  </programme>
-  <programme start="20210703080000 +0000" stop="20210703083000 +0000" channel="MBC1">
-    <title lang="ar">الميراث</title>
-    <desc lang="ar">يواجه ماجد ديمة بأمر زيارتها لشركة خالد. يثير الخاتم في يد شهد تساؤلات آسيا. تقرر حور تعيين نواف بشكل دائم.</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210703083000 +0000" stop="20210703090000 +0000" channel="MBC1">
-    <title lang="ar">الميراث</title>
-    <desc lang="ar">تحاول زينة تبرير موقفها لسحر، فيما تبقي شهد حقيقة ما حدث مع حور سرا. يزور فهد سامي في منزله ويطلب منه العودة للعمل.</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210703090000 +0000" stop="20210703093000 +0000" channel="MBC1">
-    <title lang="ar">الميراث</title>
-    <desc lang="ar">تقوم آسيا بمواجهة زيد بأمر العقد المزور، فيما يخبر سامي خالد عن سبب زيارة فهد. تفاجىء زينة طلال بزيارتها للشركة.</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210703093000 +0000" stop="20210703100000 +0000" channel="MBC1">
-    <title lang="ar">الميراث</title>
-    <desc lang="ar">يحاول سامي الحصول على معلومات عن شهد من ليان. عندما يواجه فهد منصور بحقيقة مشاركته لخالد، يتدخل ماجد.</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210703100000 +0000" stop="20210703103000 +0000" channel="MBC1">
-    <title lang="ar">الميراث</title>
-    <desc lang="ar">تحاول زينة معرفة الفتاة التي وقع سامي في حبها، فيما يجد طلال نفسه أمام خيار ما. يواجه منصور خالد بما فعله.</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210703103000 +0000" stop="20210703110000 +0000" channel="MBC1">
-    <title lang="ar">واي فاي</title>
-    <desc lang="ar">برنامج كوميدي خليجي مُنَوَّع يضم نخبة من نجوم الفن في الخليج، يعرض مشاهد كوميدية متفرقة تعتمد على تقليد شخصيات إعلامية معروفة وشخصيات عامة وسياسية، بالإضافة إلى تقليد برامج أو أحداث مهمة مرت عبر وسائل الإعلام أو الإنترنت تهم المجتمع السعودي والعربي.</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210703110000 +0000" stop="20210703130000 +0000" channel="MBC1">
-    <title lang="ar">MBC في أسبوع</title>
-    <desc lang="ar">برنامج إخباري يناقش القضايا الاجتماعية الحساسة في المجتمع السعودي العربي ويثريها بالجانب التحليلي من خلال استضافة مجموعة من الاختصاصيين العرب والعالميين.</desc>
-    <category lang="ar">برنامج حواري</category>
-  </programme>
-  <programme start="20210703130000 +0000" stop="20210703140000 +0000" channel="MBC1">
+  <programme start="20210702000500 +0000" stop="20210702010500 +0000" channel="MBC1">
     <title lang="ar">عروس بيروت</title>
-    <desc lang="ar">تعاني رنا في اتخاذ قرار مهم. في هذه الأثناء، تنتظر فارس صدمة غير متوقعة.</desc>
+    <desc lang="ar">بينما يقرر هادي وليلى إنهاء الخلاف، تفقد رنا وعيها خلال زيارة عماد.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703140000 +0000" stop="20210703150000 +0000" channel="MBC1">
+  <programme start="20210702010500 +0000" stop="20210702020100 +0000" channel="MBC1">
     <title lang="ar">ملوك الجدعنة</title>
-    <desc lang="ar">يحاول سفينة جاهدا أن ينقذ سعيد الذي يحاول أن يقفز من أعلى سطح البناء، بينما تطلب فاتن من سرية أن يتقدم لخطبتها بشكل رسمي.</desc>
+    <desc lang="ar">يذهب سرية وسفينة إلى متجر حكم ويكتشفان مفاجأة صادمة. أما عنتر، فيتآمر مع زاهي ضد سفينة وسرية لقاء مبلغ من المال.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703150000 +0000" stop="20210703170000 +0000" channel="MBC1">
+  <programme start="20210702020100 +0000" stop="20210702025900 +0000" channel="MBC1">
     <title lang="ar">بيت الذل</title>
-    <desc lang="ar">بعد أن تدفع بها الظروف إلى الزواج بشكل تقليدي من رجل يكبرها عمرا، تعاني فتاة تدعى فجر في منزل يملأه الذل والقهر ومحاولات الانتقام.</desc>
+    <desc lang="ar">تبدأ ألطاف بالشك في زوجها. تقوم أروى بزيارة فجر، وتتعرف هناك على عادل.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703170000 +0000" stop="20210703180000 +0000" channel="MBC1">
-    <title lang="ar">تحدي العائلات</title>
-    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: العامودي واللحياني.</desc>
-    <category lang="ar">ألعاب ومنافسات</category>
+  <programme start="20210702025900 +0000" stop="20210702040000 +0000" channel="MBC1">
+    <title lang="ar">الناموس</title>
+    <desc lang="ar">يتلقى ناصر مفاجأة ما. يكشف سالم لبيبي حقيقة قرابتها بنبيل، وسر نعمة.</desc>
+    <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703180000 +0000" stop="20210703183000 +0000" channel="MBC1">
-    <title lang="ar">الأخبار MBC</title>
-    <desc lang="ar">نشرة أخبار يومية مسائية تنقل لكم آخر وأهم الأخبار والقضايا الحالية وأحدث تطوراتها. كما تضم النشرة فقرات أخبار عالمية وأخرى منوعة.</desc>
-    <category lang="ar">الأخبار</category>
-  </programme>
-  <programme start="20210703183000 +0000" stop="20210703190000 +0000" channel="MBC1">
+  <programme start="20210702040000 +0000" stop="20210702043500 +0000" channel="MBC1">
     <title lang="ar">واي فاي</title>
     <desc lang="ar">برنامج كوميدي خليجي منوع يضم نخبة من نجوم الفن في الخليج، يعرض مشاهد كوميدية متفرقة تعتمد على تقليد شخصيات إعلامية معروفة وشخصيات عامة وسياسية، بالإضافة إلى تقليد برامج أو أحداث مهمة مرت عبر وسائل الإعلام أو الإنترنت تهم المجتمع السعودي والعربي.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703190000 +0000" stop="20210703200000 +0000" channel="MBC1">
+  <programme start="20210702043500 +0000" stop="20210702051000 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">تحاول زينة معرفة الفتاة التي وقع سامي في حبها، فيما يجد طلال نفسه أمام خيار ما. يواجه منصور خالد بما فعله.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210702051000 +0000" stop="20210702060000 +0000" channel="MBC1">
+    <title lang="ar">الديك الأزرق</title>
+    <desc lang="ar">يقرر نبهان التخلي عن النظارة، ولكنه يغير رأيه عقب مكالمة هاتفية من سعيد الذي يطلب مساعدته في قضية ما.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210702060000 +0000" stop="20210702065900 +0000" channel="MBC1">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">يذهب سرية وسفينة إلى متجر حكم ويكتشفان مفاجأة صادمة. أما عنتر، فيتآمر مع زاهي ضد سفينة وسرية لقاء مبلغ من المال.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210702065900 +0000" stop="20210702080500 +0000" channel="MBC1">
+    <title lang="ar">تحدي العائلات</title>
+    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: عائلتي المعاوي وراشد.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210702080500 +0000" stop="20210702090500 +0000" channel="MBC1">
+    <title lang="ar">دريفن</title>
+    <desc lang="ar">في حلقة اليوم، تغطية كاملة لكافة مراحل رالي داكار ومقابلات مع المشاركين.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210702090500 +0000" stop="20210702093300 +0000" channel="MBC1">
+    <title lang="ar">الصدمة</title>
+    <desc lang="ar">تمنع أم أطفالها من اللعب مع طفل من ذوي الاحتياجات الخاصة، أو مصاب بمتلازمة داون، بحجة الخوف عليهم من انتقال المرض أو تعرض أولادها للأذى.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210702093300 +0000" stop="20210702095400 +0000" channel="MBC1">
+    <title lang="ar">الصدمة</title>
+    <desc lang="ar">يسرق فني صيانة الجوال صوراً من هاتف إحدى زبوناته ويحاول مساومتها وابتزازها، ضارباً بعرض الحائط أخلاق المهنة وأبرز القيم الإنسانية.</desc>
+    <category lang="ar">أجتماعي</category>
+  </programme>
+  <programme start="20210702095400 +0000" stop="20210702105900 +0000" channel="MBC1">
+    <title lang="ar">في الآفاق</title>
+    <desc lang="ar">برنامج ديني بقالب حواري يناقش فيه معالي الدكتور محمد العيسى مختلف القضايا والمواضيع بشكل مفصل.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210702105900 +0000" stop="20210702130000 +0000" channel="MBC1">
+    <title lang="ar">MBC في أسبوع</title>
+    <desc lang="ar">برنامج إخباري يناقش القضايا الاجتماعية الحساسة في المجتمع السعودي العربي ويثريها بالجانب التحليلي من خلال استضافة مجموعة من الاختصاصيين العرب والعالميين.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210702130000 +0000" stop="20210702140500 +0000" channel="MBC1">
+    <title lang="ar">عروس بيروت</title>
+    <desc lang="ar">يصمم عادل على عدم ترك ليلى فيما يستمع خليل لمحادثة صادمة. أما رنا، فتكتشف بأنها مرضها خطير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210702140500 +0000" stop="20210702145900 +0000" channel="MBC1">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">يتم القبض على سرية وسفينة، بينما تقوم عطية وفاتن ونجلاء بجمع بعض الأموال وتوكيل محام لهما.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210702145900 +0000" stop="20210702160000 +0000" channel="MBC1">
+    <title lang="ar">بيت الذل</title>
+    <desc lang="ar">تطلب نجيبة من يعقوب أمرا ما. تكتشف ألطاف حقيقة صادمة. لاحقا، يخييم الحزن على منزل عائلة يعقوب.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210702160000 +0000" stop="20210702170500 +0000" channel="MBC1">
+    <title lang="ar">وين الحين</title>
+    <desc lang="ar">تذهب الفتيات في رحلة تسلق بمنطقة غوساو الجبلية، ولاحقا تكتشفن المطبخ النمساوي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210702170500 +0000" stop="20210702175900 +0000" channel="MBC1">
+    <title lang="ar">تحدي العائلات</title>
+    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: عائلتي العامودي وكريري.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210702175900 +0000" stop="20210702183000 +0000" channel="MBC1">
+    <title lang="ar">الأخبار MBC</title>
+    <desc lang="ar">نشرة أخبار يومية مسائية تنقل لكم آخر وأهم الأخبار والقضايا الحالية وأحدث تطوراتها. كما تضم النشرة فقرات أخبار عالمية وأخرى منوعة.</desc>
+    <category lang="ar">الأخبار</category>
+  </programme>
+  <programme start="20210702183000 +0000" stop="20210702190500 +0000" channel="MBC1">
+    <title lang="ar">واي فاي</title>
+    <desc lang="ar">برنامج كوميدي خليجي منوع يضم نخبة من نجوم الفن في الخليج، يعرض مشاهد كوميدية متفرقة تعتمد على تقليد شخصيات إعلامية معروفة وشخصيات عامة وسياسية، بالإضافة إلى تقليد برامج أو أحداث مهمة مرت عبر وسائل الإعلام أو الإنترنت تهم المجتمع السعودي والعربي.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210702190500 +0000" stop="20210702195700 +0000" channel="MBC1">
     <title lang="ar">الديك الأزرق</title>
     <desc lang="ar">يطلب سعيد مساعدة نبهان في قضية امرأة تشك بخيانة زوجها. يجمع نبهان عائلته ويقدم لهم عرضا ما.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703200000 +0000" stop="20210703210000 +0000" channel="MBC1">
+  <programme start="20210702195700 +0000" stop="20210702210000 +0000" channel="MBC1">
     <title lang="ar">الناموس</title>
     <desc lang="ar">الحلقة الأخيرة: يتم إلقاء القبض على قاتل راشد الماثر، لكن الشرطة لا تزال تبحث عن المسؤول عن قتل بقية الضحايا.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703210000 +0000" stop="20210703220000 +0000" channel="MBC1">
+  <programme start="20210702210000 +0000" stop="20210702220000 +0000" channel="MBC1">
+    <title lang="ar">تحدي العائلات</title>
+    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: عائلتي العامودي وكريري.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210702220000 +0000" stop="20210702225900 +0000" channel="MBC1">
+    <title lang="ar">بيت الذل</title>
+    <desc lang="ar">تطلب نجيبة من يعقوب أمرا ما. تكتشف ألطاف حقيقة صادمة. لاحقا، يخييم الحزن على منزل عائلة يعقوب.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210702225900 +0000" stop="20210703001000 +0000" channel="MBC1">
+    <title lang="ar">وين الحين</title>
+    <desc lang="ar">تذهب الفتيات في رحلة تسلق بمنطقة غوساو الجبلية، ولاحقا تكتشفن المطبخ النمساوي.</desc>
+    <category lang="ar">تلفزيون الواقع</category>
+  </programme>
+  <programme start="20210703001000 +0000" stop="20210703011000 +0000" channel="MBC1">
+    <title lang="ar">عروس بيروت</title>
+    <desc lang="ar">يصمم عادل على عدم ترك ليلى فيما يستمع خليل لمحادثة صادمة. أما رنا، فتكتشف بأنها مرضها خطير.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703011000 +0000" stop="20210703020000 +0000" channel="MBC1">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">يتم القبض على سرية وسفينة، بينما تقوم عطية وفاتن ونجلاء بجمع بعض الأموال وتوكيل محام لهما.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703020000 +0000" stop="20210703025900 +0000" channel="MBC1">
+    <title lang="ar">بيت الذل</title>
+    <desc lang="ar">تطلب نجيبة من يعقوب أمرا ما. تكتشف ألطاف حقيقة صادمة. لاحقا، يخييم الحزن على منزل عائلة يعقوب.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703025900 +0000" stop="20210703040200 +0000" channel="MBC1">
+    <title lang="ar">الناموس</title>
+    <desc lang="ar">الحلقة الأخيرة: يتم إلقاء القبض على قاتل راشد الماثر، لكن الشرطة لا تزال تبحث عن المسؤول عن قتل بقية الضحايا.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703040200 +0000" stop="20210703051000 +0000" channel="MBC1">
+    <title lang="ar">دريفن</title>
+    <desc lang="ar">في حلقة اليوم، تغطية كاملة لكافة مراحل رالي داكار ومقابلات مع المشاركين.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210703051000 +0000" stop="20210703060100 +0000" channel="MBC1">
+    <title lang="ar">الديك الأزرق</title>
+    <desc lang="ar">يطلب سعيد مساعدة نبهان في قضية امرأة تشك بخيانة زوجها. يجمع نبهان عائلته ويقدم لهم عرضا ما.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703060100 +0000" stop="20210703065900 +0000" channel="MBC1">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">يتم القبض على سرية وسفينة، بينما تقوم عطية وفاتن ونجلاء بجمع بعض الأموال وتوكيل محام لهما.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703065900 +0000" stop="20210703080000 +0000" channel="MBC1">
+    <title lang="ar">تحدي العائلات</title>
+    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: عائلتي العامودي وكريري.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210703080000 +0000" stop="20210703083100 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">يواجه ماجد ديمة بأمر زيارتها لشركة خالد. يثير الخاتم في يد شهد تساؤلات آسيا. تقرر حور تعيين نواف بشكل دائم.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703083100 +0000" stop="20210703090100 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">تحاول زينة تبرير موقفها لسحر، فيما تبقي شهد حقيقة ما حدث مع حور سرا. يزور فهد سامي في منزله ويطلب منه العودة للعمل.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703090100 +0000" stop="20210703093100 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">تقوم آسيا بمواجهة زيد بأمر العقد المزور، فيما يخبر سامي خالد عن سبب زيارة فهد. تفاجىء زينة طلال بزيارتها للشركة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703093100 +0000" stop="20210703100100 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">يحاول سامي الحصول على معلومات عن شهد من ليان. عندما يواجه فهد منصور بحقيقة مشاركته لخالد، يتدخل ماجد.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703100100 +0000" stop="20210703102500 +0000" channel="MBC1">
+    <title lang="ar">الميراث</title>
+    <desc lang="ar">تحاول زينة معرفة الفتاة التي وقع سامي في حبها، فيما يجد طلال نفسه أمام خيار ما. يواجه منصور خالد بما فعله.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703102500 +0000" stop="20210703105900 +0000" channel="MBC1">
+    <title lang="ar">واي فاي</title>
+    <desc lang="ar">برنامج كوميدي خليجي مُنَوَّع يضم نخبة من نجوم الفن في الخليج، يعرض مشاهد كوميدية متفرقة تعتمد على تقليد شخصيات إعلامية معروفة وشخصيات عامة وسياسية، بالإضافة إلى تقليد برامج أو أحداث مهمة مرت عبر وسائل الإعلام أو الإنترنت تهم المجتمع السعودي والعربي.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210703105900 +0000" stop="20210703130000 +0000" channel="MBC1">
+    <title lang="ar">MBC في أسبوع</title>
+    <desc lang="ar">برنامج إخباري يناقش القضايا الاجتماعية الحساسة في المجتمع السعودي العربي ويثريها بالجانب التحليلي من خلال استضافة مجموعة من الاختصاصيين العرب والعالميين.</desc>
+    <category lang="ar">برنامج حواري</category>
+  </programme>
+  <programme start="20210703130000 +0000" stop="20210703140500 +0000" channel="MBC1">
+    <title lang="ar">عروس بيروت</title>
+    <desc lang="ar">تعاني رنا في اتخاذ قرار مهم. في هذه الأثناء، تنتظر فارس صدمة غير متوقعة.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703140500 +0000" stop="20210703145900 +0000" channel="MBC1">
+    <title lang="ar">ملوك الجدعنة</title>
+    <desc lang="ar">يحاول سفينة جاهدا أن ينقذ سعيد الذي يحاول أن يقفز من أعلى سطح البناء، بينما تطلب فاتن من سرية أن يتقدم لخطبتها بشكل رسمي.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703145900 +0000" stop="20210703165900 +0000" channel="MBC1">
+    <title lang="ar">بيت الذل</title>
+    <desc lang="ar">يعلم عادل بأمر محاولة نجيبة سرقة محل والده. تحاول أروى الدخول إلى منزل يعقوب.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703165900 +0000" stop="20210703175900 +0000" channel="MBC1">
     <title lang="ar">تحدي العائلات</title>
     <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: العامودي واللحياني.</desc>
     <category lang="ar">ألعاب ومنافسات</category>
   </programme>
-  <programme start="20210703220000 +0000" stop="20210703230000 +0000" channel="MBC1">
-    <title lang="ar">بيت الذل</title>
-    <desc lang="ar">بعد أن تدفع بها الظروف إلى الزواج بشكل تقليدي من رجل يكبرها عمرا، تعاني فتاة تدعى فجر في منزل يملأه الذل والقهر ومحاولات الانتقام.</desc>
+  <programme start="20210703175900 +0000" stop="20210703183000 +0000" channel="MBC1">
+    <title lang="ar">الأخبار MBC</title>
+    <desc lang="ar">نشرة أخبار يومية مسائية تنقل لكم آخر وأهم الأخبار والقضايا الحالية وأحدث تطوراتها. كما تضم النشرة فقرات أخبار عالمية وأخرى منوعة.</desc>
+    <category lang="ar">الأخبار</category>
+  </programme>
+  <programme start="20210703183000 +0000" stop="20210703191000 +0000" channel="MBC1">
+    <title lang="ar">واي فاي</title>
+    <desc lang="ar">برنامج كوميدي خليجي منوع يضم نخبة من نجوم الفن في الخليج، يعرض مشاهد كوميدية متفرقة تعتمد على تقليد شخصيات إعلامية معروفة وشخصيات عامة وسياسية، بالإضافة إلى تقليد برامج أو أحداث مهمة مرت عبر وسائل الإعلام أو الإنترنت تهم المجتمع السعودي والعربي.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210703191000 +0000" stop="20210703195900 +0000" channel="MBC1">
+    <title lang="ar">الديك الأزرق</title>
+    <desc lang="ar">يعد نبهان أخوته بحل كافة مشاكلهم المالية. لاحقا، يخبر أخته بأمر سر النظارة، ويشركها في العمل.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703230000 +0000" stop="20210704000000 +0000" channel="MBC1">
+  <programme start="20210703195900 +0000" stop="20210703212000 +0000" channel="MBC1">
+    <title lang="ar">عراق أيدول</title>
+    <desc lang="ar">يتوافد المئات من أبناء العراق من كافة أنحائها إلى العاصمة بغداد في الحلقة الأولى من عراق أيدول لفرصة تحقيق النجومية.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210703212000 +0000" stop="20210703221000 +0000" channel="MBC1">
+    <title lang="ar">تحدي العائلات</title>
+    <desc lang="ar">برنامج مسابقات ترفيهي يجمع بين عائلتين متنافستين. للفوز بالمسابقة، يجب أن تتطابق إجاباتهم مع استطلاعات الرأي العام. ضيوف حلقة اليوم: العامودي واللحياني.</desc>
+    <category lang="ar">ألعاب ومنافسات</category>
+  </programme>
+  <programme start="20210703221000 +0000" stop="20210703230100 +0000" channel="MBC1">
+    <title lang="ar">بيت الذل</title>
+    <desc lang="ar">يعلم عادل بأمر محاولة نجيبة سرقة محل والده. تحاول أروى الدخول إلى منزل يعقوب.</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20210703230100 +0000" stop="20210704010000 +0000" channel="MBC1">
     <title lang="ar">وين الحين</title>
     <desc lang="ar">تشرع البنات في رحلة إلى جزيرة جيجو ويتعرفن على نساء القرية، ولاحقا، يعدن إلى سيول لاكتشاف المطبخ الكوري.</desc>
     <category lang="ar">تلفزيون الواقع</category>
@@ -8206,27 +8361,32 @@
     <desc lang="ar">تعيش لين حياة رغيدة في كنف والدها الدكتور ناجي ووالدتها المعطاءة، كما تسعد بالحب الذي يجمعها مع بدر والعلاقة الوطيدة التي تربطها مع صديقاتها، لكن كل شيء في حياتها يصبح في مهب الريح بعد إصابة والدها بالزهايمر، فينفرط عقد العائلة ويتفرق شمل الأصدقاء.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702095900 +0000" stop="20210702102100 +0000" channel="MBC Drama">
+  <programme start="20210702095900 +0000" stop="20210702101000 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210702102100 +0000" stop="20210702104000 +0000" channel="MBC Drama">
+  <programme start="20210702101000 +0000" stop="20210702102900 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210702104000 +0000" stop="20210702110200 +0000" channel="MBC Drama">
+  <programme start="20210702102900 +0000" stop="20210702104900 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210702110200 +0000" stop="20210702115700 +0000" channel="MBC Drama">
+  <programme start="20210702104900 +0000" stop="20210702110000 +0000" channel="MBC Drama">
+    <title lang="ar">هوم شوبينج</title>
+    <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
+    <category lang="ar">التسوق المنزلي</category>
+  </programme>
+  <programme start="20210702110000 +0000" stop="20210702115500 +0000" channel="MBC Drama">
     <title lang="ar">حب خادع</title>
     <desc lang="ar">تساعد فاسوندارا تارا للهروب من فيرات. وفي هذه الأثناء، تقدم أروهي وأبيمانيو على الإمساك بأحد رجال السيد إكس. وبينما تشكك أروهي بمصداقية ديب، يحدث ما لم يكن في الحسبان.</desc>
     <category lang="ar">جريمة</category>
   </programme>
-  <programme start="20210702115700 +0000" stop="20210702115900 +0000" channel="MBC Drama">
+  <programme start="20210702115500 +0000" stop="20210702115900 +0000" channel="MBC Drama">
     <title lang="ar">واي فاي سكتشيز</title>
     <category lang="ar">كوميدي</category>
   </programme>
@@ -8240,17 +8400,17 @@
     <desc lang="ar">مسلسل تدور أحداثه التاريخية حول عبد الرحمن الداخل بن معاوية بن عبد الملك حفيد عاشر الخلفاء الأمويين ومؤسس الدولة الأموية في الأندلس.</desc>
     <category lang="ar">تاريخي</category>
   </programme>
-  <programme start="20210702140000 +0000" stop="20210702145900 +0000" channel="MBC Drama">
+  <programme start="20210702140000 +0000" stop="20210702150000 +0000" channel="MBC Drama">
     <title lang="ar">وردة من الماضي</title>
     <desc lang="ar">تبوح روزا لمارسيلو بحبها له لكنها تطلب منه أمراً غريباً، فيما دانييل يسترق السمع ويصارحها بأنه عرف بما قالته لمارسيلو.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702145900 +0000" stop="20210702155900 +0000" channel="MBC Drama">
+  <programme start="20210702150000 +0000" stop="20210702160000 +0000" channel="MBC Drama">
     <title lang="ar">سمرا</title>
     <desc lang="ar">عندما يقرر طبيب مشهور الاستغناء عن كل شيء من أجل فتاة غجرية جميلة تدعى سمرا، يجد العاشقان أنفسهما بمواجهة العادات والتقاليد والظلم الذي يرزح المجتمع تحته.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702155900 +0000" stop="20210702165900 +0000" channel="MBC Drama">
+  <programme start="20210702160000 +0000" stop="20210702165900 +0000" channel="MBC Drama">
     <title lang="ar">سابع جار</title>
     <desc lang="ar">أحداث تدور حول سكان إحدى الأبنية السكنية، حيث تعيش كل عائلة أحداثها اليومية وتواجه مشكلاتها الحياتية والاجتماعية.</desc>
     <category lang="ar">دراما</category>
@@ -8274,12 +8434,12 @@
     <title lang="ar">واي فاي سكتشيز</title>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210702195900 +0000" stop="20210702205900 +0000" channel="MBC Drama">
+  <programme start="20210702195900 +0000" stop="20210702210000 +0000" channel="MBC Drama">
     <title lang="ar">سرايا عابدين</title>
     <desc lang="ar">تدور أحداث المسلسل في الحقبة الزمنية لفترة حكم الخديوي إسماعيل لمصر، حيث يعرض الحياة الشخصية وزوجات وجواري الخديوي، والصراعات التي كانت تدور داخل القصر بين الجواري والحريم لنيل رضاه، إلى جانب الأحداث السياسية وأحوال الحكم في عصره.</desc>
     <category lang="ar">تاريخي</category>
   </programme>
-  <programme start="20210702205900 +0000" stop="20210702220000 +0000" channel="MBC Drama">
+  <programme start="20210702210000 +0000" stop="20210702220000 +0000" channel="MBC Drama">
     <title lang="ar">صقر قريش</title>
     <desc lang="ar">مسلسل تدور أحداثه التاريخية حول عبد الرحمن الداخل بن معاوية بن عبد الملك حفيد عاشر الخلفاء الأمويين ومؤسس الدولة الأموية في الأندلس.</desc>
     <category lang="ar">تاريخي</category>
@@ -8289,27 +8449,32 @@
     <desc lang="ar">تبوح روزا لمارسيلو بحبها له لكنها تطلب منه أمراً غريباً، فيما دانييل يسترق السمع ويصارحها بأنه عرف بما قالته لمارسيلو.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702230000 +0000" stop="20210702232100 +0000" channel="MBC Drama">
+  <programme start="20210702230000 +0000" stop="20210702232000 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210702232100 +0000" stop="20210702234100 +0000" channel="MBC Drama">
+  <programme start="20210702232000 +0000" stop="20210702234200 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210702234100 +0000" stop="20210703000200 +0000" channel="MBC Drama">
+  <programme start="20210702234200 +0000" stop="20210702235200 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210703000200 +0000" stop="20210703010000 +0000" channel="MBC Drama">
+  <programme start="20210702235200 +0000" stop="20210703000200 +0000" channel="MBC Drama">
+    <title lang="ar">هوم شوبينج</title>
+    <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
+    <category lang="ar">التسوق المنزلي</category>
+  </programme>
+  <programme start="20210703000200 +0000" stop="20210703005900 +0000" channel="MBC Drama">
     <title lang="ar">سابع جار</title>
     <desc lang="ar">أحداث تدور حول سكان إحدى الأبنية السكنية، حيث تعيش كل عائلة أحداثها اليومية وتواجه مشكلاتها الحياتية والاجتماعية.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703010000 +0000" stop="20210703015900 +0000" channel="MBC Drama">
+  <programme start="20210703005900 +0000" stop="20210703015900 +0000" channel="MBC Drama">
     <title lang="ar">التاسع من فبراير</title>
     <desc lang="ar">تعيش لين حياة رغيدة في كنف والدها الدكتور ناجي ووالدتها المعطاءة، كما تسعد بالحب الذي يجمعها مع بدر والعلاقة الوطيدة التي تربطها مع صديقاتها، لكن كل شيء في حياتها يصبح في مهب الريح بعد إصابة والدها بالزهايمر، فينفرط عقد العائلة ويتفرق شمل الأصدقاء.</desc>
     <category lang="ar">دراما</category>
@@ -8334,17 +8499,17 @@
     <desc lang="ar">تدور أحداث المسلسل في الحقبة الزمنية لفترة حكم الخديوي إسماعيل لمصر، حيث يعرض الحياة الشخصية وزوجات وجواري الخديوي، والصراعات التي كانت تدور داخل القصر بين الجواري والحريم لنيل رضاه، إلى جانب الأحداث السياسية وأحوال الحكم في عصره.</desc>
     <category lang="ar">تاريخي</category>
   </programme>
-  <programme start="20210703045900 +0000" stop="20210703060000 +0000" channel="MBC Drama">
+  <programme start="20210703045900 +0000" stop="20210703055900 +0000" channel="MBC Drama">
     <title lang="ar">صقر قريش</title>
     <desc lang="ar">مسلسل تدور أحداثه التاريخية حول عبد الرحمن الداخل بن معاوية بن عبد الملك حفيد عاشر الخلفاء الأمويين ومؤسس الدولة الأموية في الأندلس.</desc>
     <category lang="ar">تاريخي</category>
   </programme>
-  <programme start="20210703060000 +0000" stop="20210703070000 +0000" channel="MBC Drama">
+  <programme start="20210703055900 +0000" stop="20210703065900 +0000" channel="MBC Drama">
     <title lang="ar">وردة من الماضي</title>
     <desc lang="ar">تبوح روزا لمارسيلو بحبها له لكنها تطلب منه أمراً غريباً، فيما دانييل يسترق السمع ويصارحها بأنه عرف بما قالته لمارسيلو.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703070000 +0000" stop="20210703080000 +0000" channel="MBC Drama">
+  <programme start="20210703065900 +0000" stop="20210703080000 +0000" channel="MBC Drama">
     <title lang="ar">سمرا</title>
     <desc lang="ar">عندما يقرر طبيب مشهور الاستغناء عن كل شيء من أجل فتاة غجرية جميلة تدعى سمرا، يجد العاشقان أنفسهما بمواجهة العادات والتقاليد والظلم الذي يرزح المجتمع تحته.</desc>
     <category lang="ar">دراما</category>
@@ -8354,70 +8519,84 @@
     <desc lang="ar">أحداث تدور حول سكان إحدى الأبنية السكنية، حيث تعيش كل عائلة أحداثها اليومية وتواجه مشكلاتها الحياتية والاجتماعية.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703090000 +0000" stop="20210703100000 +0000" channel="MBC Drama">
+  <programme start="20210703090000 +0000" stop="20210703095900 +0000" channel="MBC Drama">
     <title lang="ar">التاسع من فبراير</title>
     <desc lang="ar">تعيش لين حياة رغيدة في كنف والدها الدكتور ناجي ووالدتها المعطاءة، كما تسعد بالحب الذي يجمعها مع بدر والعلاقة الوطيدة التي تربطها مع صديقاتها، لكن كل شيء في حياتها يصبح في مهب الريح بعد إصابة والدها بالزهايمر، فينفرط عقد العائلة ويتفرق شمل الأصدقاء.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703100000 +0000" stop="20210703101500 +0000" channel="MBC Drama">
+  <programme start="20210703095900 +0000" stop="20210703101000 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210703101500 +0000" stop="20210703103500 +0000" channel="MBC Drama">
+  <programme start="20210703101000 +0000" stop="20210703102900 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210703103500 +0000" stop="20210703110000 +0000" channel="MBC Drama">
+  <programme start="20210703102900 +0000" stop="20210703103900 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210703110000 +0000" stop="20210703120000 +0000" channel="MBC Drama">
+  <programme start="20210703103900 +0000" stop="20210703110000 +0000" channel="MBC Drama">
+    <title lang="ar">هوم شوبينج</title>
+    <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
+    <category lang="ar">التسوق المنزلي</category>
+  </programme>
+  <programme start="20210703110000 +0000" stop="20210703115500 +0000" channel="MBC Drama">
     <title lang="ar">حب خادع</title>
     <desc lang="ar">تحاول أروهي الكشف عن هوية السيد إكس الذي تتعاون تارا معه للإيقاع بها. فيحاول السيد إكس إقناع أروهي بأن تقف إلى جانبه. وعندما تذهب أروهي لزيارة جورما تطردها الأخيرة من منزلها بعد نجاح تارا بتشويه سمعة أروهي أمامها.</desc>
     <category lang="ar">جريمة</category>
   </programme>
-  <programme start="20210703120000 +0000" stop="20210703130000 +0000" channel="MBC Drama">
+  <programme start="20210703115500 +0000" stop="20210703120000 +0000" channel="MBC Drama">
+    <title lang="ar">أحلى واي فاي</title>
+    <desc lang="ar">استعيدوا معنا أبرز الحلقات من المسلسل الكوميدي واي فاي.</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20210703120000 +0000" stop="20210703125900 +0000" channel="MBC Drama">
     <title lang="ar">سرايا عابدين</title>
     <desc lang="ar">تدور أحداث المسلسل في الحقبة الزمنية لفترة حكم الخديوي إسماعيل لمصر، حيث يعرض الحياة الشخصية وزوجات وجواري الخديوي، والصراعات التي كانت تدور داخل القصر بين الجواري والحريم لنيل رضاه، إلى جانب الأحداث السياسية وأحوال الحكم في عصره.</desc>
     <category lang="ar">تاريخي</category>
   </programme>
-  <programme start="20210703130000 +0000" stop="20210703140000 +0000" channel="MBC Drama">
+  <programme start="20210703125900 +0000" stop="20210703135900 +0000" channel="MBC Drama">
     <title lang="ar">صقر قريش</title>
     <desc lang="ar">مسلسل تدور أحداثه التاريخية حول عبد الرحمن الداخل بن معاوية بن عبد الملك حفيد عاشر الخلفاء الأمويين ومؤسس الدولة الأموية في الأندلس.</desc>
     <category lang="ar">تاريخي</category>
   </programme>
-  <programme start="20210703140000 +0000" stop="20210703150000 +0000" channel="MBC Drama">
+  <programme start="20210703135900 +0000" stop="20210703145900 +0000" channel="MBC Drama">
     <title lang="ar">وردة من الماضي</title>
     <desc lang="ar">تياجو يخبر صوفيا بأن والدتها تعيش في البرتغال، فيما يخرج مارسيلو من المستشفى.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703150000 +0000" stop="20210703160000 +0000" channel="MBC Drama">
+  <programme start="20210703145900 +0000" stop="20210703155900 +0000" channel="MBC Drama">
     <title lang="ar">سمرا</title>
     <desc lang="ar">عندما يقرر طبيب مشهور الاستغناء عن كل شيء من أجل فتاة غجرية جميلة تدعى سمرا، يجد العاشقان أنفسهما بمواجهة العادات والتقاليد والظلم الذي يرزح المجتمع تحته.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703160000 +0000" stop="20210703170000 +0000" channel="MBC Drama">
+  <programme start="20210703155900 +0000" stop="20210703165900 +0000" channel="MBC Drama">
     <title lang="ar">سابع جار</title>
     <desc lang="ar">أحداث تدور حول سكان إحدى الأبنية السكنية، حيث تعيش كل عائلة أحداثها اليومية وتواجه مشكلاتها الحياتية والاجتماعية.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703170000 +0000" stop="20210703180000 +0000" channel="MBC Drama">
+  <programme start="20210703165900 +0000" stop="20210703175900 +0000" channel="MBC Drama">
     <title lang="ar">التاسع من فبراير</title>
     <desc lang="ar">تعيش لين حياة رغيدة في كنف والدها الدكتور ناجي ووالدتها المعطاءة، كما تسعد بالحب الذي يجمعها مع بدر والعلاقة الوطيدة التي تربطها مع صديقاتها، لكن كل شيء في حياتها يصبح في مهب الريح بعد إصابة والدها بالزهايمر، فينفرط عقد العائلة ويتفرق شمل الأصدقاء.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703180000 +0000" stop="20210703190000 +0000" channel="MBC Drama">
+  <programme start="20210703175900 +0000" stop="20210703185900 +0000" channel="MBC Drama">
     <title lang="ar">أجندة</title>
     <desc lang="ar">تدفع ظروف القهر أبطال القصة للنهوض من جديد. فبينما يجد مالك نفسه في ظلمات السجن، يرسل له القدر هديةً، في حين تفقد هاجر من تحب وتضطر لجمع شتات نفسها.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703190000 +0000" stop="20210703200000 +0000" channel="MBC Drama">
+  <programme start="20210703185900 +0000" stop="20210703195600 +0000" channel="MBC Drama">
     <title lang="ar">حب خادع</title>
     <desc lang="ar">يدعي راج أمام أروهي بأنه ديب، أما الأخير فيتم احتجازه في إحدى الغرف في مكان مجهول، فيما تتهم أباسانا تارا بقتل أبيمانيو.</desc>
     <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20210703195600 +0000" stop="20210703200000 +0000" channel="MBC Drama">
+    <title lang="ar">واي فاي سكتشيز</title>
+    <category lang="ar">كوميدي</category>
   </programme>
   <programme start="20210703200000 +0000" stop="20210703210000 +0000" channel="MBC Drama">
     <title lang="ar">سرايا عابدين</title>
@@ -8429,22 +8608,22 @@
     <desc lang="ar">مسلسل تدور أحداثه التاريخية حول عبد الرحمن الداخل بن معاوية بن عبد الملك حفيد عاشر الخلفاء الأمويين ومؤسس الدولة الأموية في الأندلس.</desc>
     <category lang="ar">تاريخي</category>
   </programme>
-  <programme start="20210703220000 +0000" stop="20210703230000 +0000" channel="MBC Drama">
+  <programme start="20210703220000 +0000" stop="20210703225900 +0000" channel="MBC Drama">
     <title lang="ar">وردة من الماضي</title>
     <desc lang="ar">تياجو يخبر صوفيا بأن والدتها تعيش في البرتغال، فيما يخرج مارسيلو من المستشفى.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703230000 +0000" stop="20210703231300 +0000" channel="MBC Drama">
+  <programme start="20210703225900 +0000" stop="20210703231800 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210703231300 +0000" stop="20210703233300 +0000" channel="MBC Drama">
+  <programme start="20210703231800 +0000" stop="20210703233800 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
   </programme>
-  <programme start="20210703233300 +0000" stop="20210704000000 +0000" channel="MBC Drama">
+  <programme start="20210703233800 +0000" stop="20210704000000 +0000" channel="MBC Drama">
     <title lang="ar">هوم شوبينج</title>
     <desc lang="ar">تمتعوا بتجربة التسوق من المنزل واحصلوا على مجموعة متنوعة من المنتجات مثل الإلكترونيات والسلع المنزلية ومنتجات الأطفال والأزياء ومستحضرات التجميل والمجوهرات.</desc>
     <category lang="ar">التسوق المنزلي</category>
@@ -8569,12 +8748,12 @@
     <desc lang="ar">يكبر يونس وتكبر معه مشاريعه ولكن على طريقته الخاصة، فهو لا يرى الحياة بدون مخاطرة، فلديه المال الوفير ولكنه يهوى المخاطرة وتجارة الآثار، ويساعده في ذلك ابن عمه يحيى والذي أصبح ذراعه الأيمن في الشركة وصديقه المقرب، كما لديه حبيبة وهي ابنة عمه صفا.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703051700 +0000" stop="20210703055300 +0000" channel="MBC Egypt">
+  <programme start="20210703051700 +0000" stop="20210703055200 +0000" channel="MBC Egypt">
     <title lang="ar">يونس ولد فضة</title>
     <desc lang="ar">يكبر يونس ويكبر معه كره أعمامه وزوجة أبيه له، ويتمنون كل الشر له ولفضة. غير أن يونس وفضة يصبحان أقوى بعدما يضاعف يونس أموال والده ويصبح أغنى أغنياء القرية، لكنه لم ينس شقيقتيه ويذهب متخفياً إلى منزله القديم.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703055300 +0000" stop="20210703073600 +0000" channel="MBC Egypt">
+  <programme start="20210703055200 +0000" stop="20210703073600 +0000" channel="MBC Egypt">
     <title lang="ar">اللعيب</title>
     <desc lang="ar">يسلط البرنامج الضوء على نجوم الكرة المصرية، ويجول بنا في كواليس عالمهم ليقدم لنا تفاصيل عن حياتهم تذاع لأول مرة. ومن خلال كاميراتنا التي ترافقهم داخل منازلهم أو أثناء التدريبات، نتعرف على قصصهم وأسرارهم وحياتهم الرياضية والشخصية أيضاً.</desc>
     <category lang="ar">برنامج حواري</category>
@@ -8604,12 +8783,12 @@
     <desc lang="ar">مجموعة من الوجوه الشابة بقيادة الفنان الكبير أشرف عبد الباقي تقدم نوعاً جديداً من المسرحيات، تكون فيه كل حلقة باسم ومضمون مختلفين في إطار كوميدي ترفيهي ساخر.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703140100 +0000" stop="20210703160000 +0000" channel="MBC Egypt">
+  <programme start="20210703140100 +0000" stop="20210703155900 +0000" channel="MBC Egypt">
     <title lang="ar">اللعيب</title>
     <desc lang="ar">يسلط البرنامج الضوء على نجوم الكرة المصرية، ويجول بنا في كواليس عالمهم ليقدم لنا تفاصيل عن حياتهم تذاع لأول مرة. ومن خلال كاميراتنا التي ترافقهم داخل منازلهم أو أثناء التدريبات، نتعرف على قصصهم وأسرارهم وحياتهم الرياضية والشخصية أيضاً.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210703160000 +0000" stop="20210703180600 +0000" channel="MBC Egypt">
+  <programme start="20210703155900 +0000" stop="20210703180600 +0000" channel="MBC Egypt">
     <title lang="ar">صايع بحر</title>
     <desc lang="ar">حنتيرة وهيمة وعبده ثلاثة أصدقاء من الإسكندرية يعملون في فرقة شعبية لإحياء الأفراح، وعندما يتهم حنتيرة بالتورط في جريمة قتل، يتوجب على الأصدقاء التعاون لإنقاذ صديقهم ليتمكن من الزواج.</desc>
     <category lang="ar">كوميدي</category>
@@ -8634,7 +8813,7 @@
     <desc lang="ar">برنامج كوميدي من تقديم مصطفى البنا يعرض مواضيع اجتماعية بفقرات يتخللها المرح والموسيقى.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703232600 +0000" stop="20210704002500 +0000" channel="MBC Egypt">
+  <programme start="20210703232600 +0000" stop="20210704002400 +0000" channel="MBC Egypt">
     <title lang="ar">أسعد الله مساءكم: أبو حفيظة</title>
     <desc lang="ar">يجسد الإعلامي الساخر أكرم حسني شخصية أبي حفيظة والتي ارتبطت بالمشاهد المصري والعربي عبر سنوات كأحد أبرز الشخصيات الساخرة في الإعلام المصري، يرصد من خلالها الكثير من الوقائع المختلفة في المجتمع المصري ويحللها ويعلق عليها بأسلوب ساخر وشيق.</desc>
     <category lang="ar">كوميدي</category>
@@ -8804,87 +8983,87 @@
     <desc lang="ar">تبدأ المراهقتان آماندا وليلي اللتان تعيشان في إحدى ضواحي ولاية كونيتيكت بتجديد الصداقة التي تربطهما منذ الصغر بينما تتوطد علاقتهما بفضل كره ليلي لزوج والدتها.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703062200 +0000" stop="20210703065500 +0000" channel="MBC Egypt 2">
+  <programme start="20210703062200 +0000" stop="20210703070200 +0000" channel="MBC Egypt 2">
     <title lang="ar">الكبريت الأحمر</title>
     <desc lang="ar">تصرخ الطفلة قمر أثناء الليل متنبئة بالحريق الذي نشب في المبنى، وبحضور الشرطة يستهزئ المفتشون باعتقاد السكان أن فاعل الحريق الحقيقي هو الجن.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703065500 +0000" stop="20210703072800 +0000" channel="MBC Egypt 2">
+  <programme start="20210703070200 +0000" stop="20210703074200 +0000" channel="MBC Egypt 2">
     <title lang="ar">الكبريت الأحمر</title>
     <desc lang="ar">يسأل معتز سندس أن تعرض ابنتها قمر على طبيب، ويعدها بأن يهتم بتكاليف العلاج، وفي أثناء ذلك ينكر معتز وجود الجن فيقرر أن يتحدى الدجال شمس، فهل هو على قدر التحدي؟.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703072800 +0000" stop="20210703080000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703074200 +0000" stop="20210703082000 +0000" channel="MBC Egypt 2">
     <title lang="ar">الكبريت الأحمر</title>
     <desc lang="ar">يقف الجميع ضد معتز بسبب تورطه بمشكلة قمر، بينما يستمر إصرار معتز على تحدي شمس، في حين تفتعل جيرمين مشاجرة مع زوجها مما يظهر عدم الانسجام بينهما.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703080000 +0000" stop="20210703090000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703082000 +0000" stop="20210703085900 +0000" channel="MBC Egypt 2">
     <title lang="ar">الكبريت الأحمر</title>
     <desc lang="ar">يحاول والد معتز شراء شمس لطرد الجن من ابنه حين تشعر أم هلال بوجود شرٍ في بيتها. من ناحية ثانية، وبينما يشكك معتز بافتعال الجن للحريق، ينفي صابر ذلك، أما جيرمين فزواجها على المحك.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703090000 +0000" stop="20210703110000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703085900 +0000" stop="20210703110000 +0000" channel="MBC Egypt 2">
     <title lang="ar">صباحك مصري</title>
     <desc lang="ar">برنامج صباحي يتم تقديمه في إطار جذاب وخفيف يهتم بكل ألوان الحياة في مصر حيث يعرض آخر الأخبار المنوعة ويسلط الضوء على السلبيات الموجودة في المجتمع المصري للمساعدة في حلها، كما يحرص أيضاً على التركيز على الإيجابيات وإبراز النماذج المؤثرة في المجتمع.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210703110000 +0000" stop="20210703130000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703110000 +0000" stop="20210703130500 +0000" channel="MBC Egypt 2">
     <title lang="ar">ثوروبريدز</title>
     <desc lang="ar">تبدأ المراهقتان آماندا وليلي اللتان تعيشان في إحدى ضواحي ولاية كونيتيكت بتجديد الصداقة التي تربطهما منذ الصغر بينما تتوطد علاقتهما بفضل كره ليلي لزوج والدتها.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703130000 +0000" stop="20210703143000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703130500 +0000" stop="20210703143100 +0000" channel="MBC Egypt 2">
     <title lang="ar">وش السعد</title>
     <desc lang="ar">مجموعة من الفقرات الكوميدية التي تناقش مواضيع مختلفة بطريقة كوميدية ساخرة فريدة من نوعها على عكس البرامج الكوميدية الأخرى، يقدمها الفنان محمد سعد على أحد أكبر المسارح في مصر، في أول تجربه له في هذا المجال وبوجود جمهور كبير في الاستوديو.</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20210703143000 +0000" stop="20210703151500 +0000" channel="MBC Egypt 2">
+  <programme start="20210703143100 +0000" stop="20210703152100 +0000" channel="MBC Egypt 2">
     <title lang="ar">كاراميل</title>
     <desc lang="ar">تتمنى مايا بأن يتحقق حلمها في الحصول على عمل بدوام كامل، وتعتقد أخيراً بأن حلمها على وشك التحقق، غير أن صديقتها رهف تحذرها من خيبة أمل في انتظارها، فيما يرتبك إياد عندما تقوم مايا بزيارته على نحو مفاجئ.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703151500 +0000" stop="20210703160000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703152100 +0000" stop="20210703161400 +0000" channel="MBC Egypt 2">
     <title lang="ar">كاراميل</title>
     <desc lang="ar">يصل البطل رجا أبو النصر إلى لبنان عائداً من فرنسا، فيما تعيش مايا في حالة من الذهول بعد تمتعها بقدرة عجيبة تمكنها من الاستماع إلى أفكار الرجال. من ناحية ثانية، يصر فؤاد شاهين على ضرورة إنهاء صفقة المصنع.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703160000 +0000" stop="20210703170000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703161400 +0000" stop="20210703170400 +0000" channel="MBC Egypt 2">
     <title lang="ar">كاراميل</title>
     <desc lang="ar">تقابل مايا خطيبها للمرة الأولى بعد اكتسابها القدرة على قراءة أفكار الرجال، كما تواجه مديرها في العمل وتدخل في حالة نفسية عصيبة. من ناحية ثانية، يلتقي رجا مع فؤاد وشقيقته كارلا، التي تبدأ فوراً برسم مخططات للإيقاع برجا.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703170000 +0000" stop="20210703180000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703170400 +0000" stop="20210703175900 +0000" channel="MBC Egypt 2">
     <title lang="ar">للعشق جنون</title>
     <desc lang="ar">يلتقي شيفاي بمسؤول عقاري من أجل مشروعه الجديد، فيما يقطع أومكارا ورودرا وعداً لشيفاي بالبقاء معاً. من ناحية ثانية، ينشأ صراع داخل قصر أوبيروي عندما يقضي أومكارا يومه الأول في العمل.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703180000 +0000" stop="20210703190300 +0000" channel="MBC Egypt 2">
+  <programme start="20210703175900 +0000" stop="20210703191900 +0000" channel="MBC Egypt 2">
     <title lang="ar">The Masked Singer: انت مين؟</title>
     <desc lang="ar">الآن وقد تقلص عدد المشاركين لستة، تزداد مهمة الحكام تعقيدا، ويتوجب عليهم الربط بين النقاط لحل اللغز وكشف هوية المشاركين.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703190300 +0000" stop="20210703210000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703191900 +0000" stop="20210703210000 +0000" channel="MBC Egypt 2">
     <title lang="ar">ذا سيكرت لايف أوف بيتس</title>
     <desc lang="ar">في إحدى الأبنية السكنية لمنهاتن حيث تجتمع الحيوانات الأليفة لتبدأ يومها المعتاد، تصبح المكانة المميزة التي يتمتع بها أحد الكلاب - بصفته الحيوان الأليف المفضل لدى مالكته - مهددة، لحظة دخولها إلى منزلها وبرفقتها كلب هجين متسخ يدعى دوك.</desc>
     <category lang="ar">رسوم متحركة</category>
   </programme>
-  <programme start="20210703210000 +0000" stop="20210703214500 +0000" channel="MBC Egypt 2">
+  <programme start="20210703210000 +0000" stop="20210703214800 +0000" channel="MBC Egypt 2">
     <title lang="ar">الطائر المجروح</title>
     <desc lang="ar">يودع جون يولاندا فيما تتلقى الأخيرة اتصالا مهما من أندريا.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703214500 +0000" stop="20210703223100 +0000" channel="MBC Egypt 2">
+  <programme start="20210703214800 +0000" stop="20210703224300 +0000" channel="MBC Egypt 2">
     <title lang="ar">الطائر المجروح</title>
     <desc lang="ar">ينهي ويلمر وأوليفيا زواجهما فيما تضع الأخيرة والدتها في مصحة نفسية. لاحقا، تطارد الشرطة يولاندا.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703223100 +0000" stop="20210703233000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703224300 +0000" stop="20210703233600 +0000" channel="MBC Egypt 2">
     <title lang="ar">الطائر المجروح</title>
     <desc lang="ar">بينما تتمكن يولاندا من الهرب من الشرطة، يوافق ويلمر على البقاء مع أندريا. وفي هذه الأثناء، يحاول أحدهم تسميم ماتالانا.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703233000 +0000" stop="20210704003000 +0000" channel="MBC Egypt 2">
+  <programme start="20210703233600 +0000" stop="20210704002500 +0000" channel="MBC Egypt 2">
     <title lang="ar">الطائر المجروح</title>
     <desc lang="ar">تحدث مشكلة في النادي فتطالب إيرينا بإغلاقه على الفور. تحاول يولاندا التواصل مع أوليفيا. لاحقا، تتمكن إيرينا من حل لغز النقود.</desc>
     <category lang="ar">دراما</category>
@@ -8914,22 +9093,22 @@
     <desc lang="ar">يحاول نصار ثني عزيز عن الاعتراف بحبه لنايا، فيما تكشف نوران حقيقة تتعلق بالجاني في عملية خطف نايا.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702060000 +0000" stop="20210702065200 +0000" channel="MBC Iraq">
+  <programme start="20210702060000 +0000" stop="20210702065300 +0000" channel="MBC Iraq">
     <title lang="ar">ملوك الجدعنة</title>
     <desc lang="ar">يذهب سرية وسفينة إلى متجر حكم ويكتشفان مفاجأة صادمة. أما عنتر، فيتآمر مع زاهي ضد سفينة وسرية لقاء مبلغ من المال.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702065200 +0000" stop="20210702074300 +0000" channel="MBC Iraq">
+  <programme start="20210702065300 +0000" stop="20210702074400 +0000" channel="MBC Iraq">
     <title lang="ar">عائلتي تربح</title>
     <desc lang="ar">في حلقة اليوم، منافسة جديدة بين عائلتي السلامة وبيرو للإجابة على أسئلة تتعلق بالحياة اليومية والعائلية والعملية.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210702074300 +0000" stop="20210702085300 +0000" channel="MBC Iraq">
+  <programme start="20210702074400 +0000" stop="20210702085400 +0000" channel="MBC Iraq">
     <title lang="ar">بيت بيوتي</title>
     <desc lang="ar">نقدم في حلقة اليوم نصائح للحصول على تجربة تسوق مريحة، كما نتطرق إلى إدمان التسوق.</desc>
     <category lang="ar">أسلوب حياة</category>
   </programme>
-  <programme start="20210702085300 +0000" stop="20210702095400 +0000" channel="MBC Iraq">
+  <programme start="20210702085400 +0000" stop="20210702095400 +0000" channel="MBC Iraq">
     <title lang="ar">خاص جدا</title>
     <desc lang="ar">نتناول في حلقة اليوم أنواع هجر الزوج لزوجته في الإسلام والناحية الشرعية والقانونية للموضوع.</desc>
     <category lang="ar">برنامج حواري</category>
@@ -8944,63 +9123,69 @@
     <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيفة حلقة اليوم سيتا هاكوبيان.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210702125900 +0000" stop="20210702135700 +0000" channel="MBC Iraq">
+  <programme start="20210702125900 +0000" stop="20210702135900 +0000" channel="MBC Iraq">
     <title lang="ar">لما كنا صغيرين</title>
     <desc lang="ar">تصدر نتيجة تقرير الطب الشرعي. يكشف سليم لدنيا ووائل أن حسن متورط في تجارة المخدرات.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702135700 +0000" stop="20210702145100 +0000" channel="MBC Iraq">
+  <programme start="20210702135900 +0000" stop="20210702144900 +0000" channel="MBC Iraq">
     <title lang="ar">ملوك الجدعنة</title>
     <desc lang="ar">يتم القبض على سرية وسفينة، بينما تقوم عطية وفاتن ونجلاء بجمع بعض الأموال وتوكيل محام لهما.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702145100 +0000" stop="20210702155500 +0000" channel="MBC Iraq">
+  <programme start="20210702144900 +0000" stop="20210702155400 +0000" channel="MBC Iraq">
     <title lang="ar">بيت بيوتي</title>
     <desc lang="ar">في حلقة اليوم، نسلط الضوء على أضرار الاعتماد على شبكة الإنترنت في اتخاذ القرارات الطبية والتجميلية، ونتحدث عن كيفية اختيار درجات كريم الأساس. ولاحقا، نكتشف معا الفرق بين ابتسامة هوليوود والقشور الخزفية.</desc>
     <category lang="ar">أسلوب حياة</category>
   </programme>
-  <programme start="20210702155500 +0000" stop="20210702165900 +0000" channel="MBC Iraq">
+  <programme start="20210702155400 +0000" stop="20210702165900 +0000" channel="MBC Iraq">
     <title lang="ar">خاص جدا</title>
     <desc lang="ar">في حلقة اليوم، تحل السيدة سهاد النعيمي ضيفة على البرنامج لتحدثنا عن تجربتها في تحقيق التوازن ما بين بيتها وعملها، ومن ثم نتحدث إلى محمد الجبوري لنتعرف على أسباب رفضه لعمل زوجته، وأخيرا رشا الدليمي لتشاركنا تجربتها ما بين الطلاق والأولاد والعمل.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210702165900 +0000" stop="20210702180000 +0000" channel="MBC Iraq">
+  <programme start="20210702165900 +0000" stop="20210702175900 +0000" channel="MBC Iraq">
     <title lang="ar">عائلتي تربح</title>
     <desc lang="ar">في حلقة اليوم، منافسة جديدة بين عائلتي الأحمدي والعداي للإجابة على أسئلة تتعلق بالحياة اليومية والعائلية والعملية.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210702180000 +0000" stop="20210702185900 +0000" channel="MBC Iraq">
+  <programme start="20210702175900 +0000" stop="20210702185800 +0000" channel="MBC Iraq">
     <title lang="ar">لما كنا صغيرين</title>
     <desc lang="ar">ينما يحيط وائل دنيا علما بأمر القبض على يحيى لحيازته المخدرات، يتهم الأخير نهى بتجارة الممنوعات.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210702185900 +0000" stop="20210702213000 +0000" channel="MBC Iraq">
-    <title lang="ar">حفلات صيف جدة</title>
-    <category lang="ar">موسيقي</category>
+  <programme start="20210702185800 +0000" stop="20210702195900 +0000" channel="MBC Iraq">
+    <title lang="ar">ضي الكمر</title>
+    <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيف حلقة اليوم رضا الخياط.</desc>
+    <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210702213000 +0000" stop="20210702232400 +0000" channel="MBC Iraq">
+  <programme start="20210702195900 +0000" stop="20210702205900 +0000" channel="MBC Iraq">
+    <title lang="ar">حفل اختتام مهرجان دبي للتسوق</title>
+    <desc lang="ar">تابعوا ماجد المهندس وراشد الماجد في حفل اختتام الذكرى ال25 لمهرجان دبي للتسوق.</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20210702205900 +0000" stop="20210702225700 +0000" channel="MBC Iraq">
     <title lang="ar">جانجستر سكواد</title>
     <desc lang="ar">أحداث يعاد تقديمها بطريقة عصرية تروي جهود شرطة لوس أنجلوس والأحداث المحيطة بهم خلال سعيهم لاستعادة مدينتهم من قبضة أحد زعماء المافيا الأكثر خطورة.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210702232400 +0000" stop="20210703000900 +0000" channel="MBC Iraq">
+  <programme start="20210702225700 +0000" stop="20210702235400 +0000" channel="MBC Iraq">
     <title lang="ar">ملوك الجدعنة</title>
     <desc lang="ar">يتم القبض على سرية وسفينة، بينما تقوم عطية وفاتن ونجلاء بجمع بعض الأموال وتوكيل محام لهما.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703000900 +0000" stop="20210703010000 +0000" channel="MBC Iraq">
+  <programme start="20210702235400 +0000" stop="20210703005900 +0000" channel="MBC Iraq">
     <title lang="ar">عائلتي تربح</title>
     <desc lang="ar">في حلقة اليوم، منافسة جديدة بين عائلتي الأحمدي والعداي للإجابة على أسئلة تتعلق بالحياة اليومية والعائلية والعملية.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703010000 +0000" stop="20210703015900 +0000" channel="MBC Iraq">
+  <programme start="20210703005900 +0000" stop="20210703015800 +0000" channel="MBC Iraq">
     <title lang="ar">بيت بيوتي</title>
     <desc lang="ar">في حلقة اليوم، نسلط الضوء على أضرار الاعتماد على شبكة الإنترنت في اتخاذ القرارات الطبية والتجميلية، ونتحدث عن كيفية اختيار درجات كريم الأساس. ولاحقا، نكتشف معا الفرق بين ابتسامة هوليوود والقشور الخزفية.</desc>
     <category lang="ar">أسلوب حياة</category>
   </programme>
-  <programme start="20210703015900 +0000" stop="20210703025700 +0000" channel="MBC Iraq">
+  <programme start="20210703015800 +0000" stop="20210703025700 +0000" channel="MBC Iraq">
     <title lang="ar">ضي الكمر</title>
-    <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيف حلقة اليوم قاسم الملاك.</desc>
+    <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيف حلقة اليوم رضا الخياط.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
   <programme start="20210703025700 +0000" stop="20210703050300 +0000" channel="MBC Iraq">
@@ -9008,57 +9193,57 @@
     <desc lang="ar">يتمكن مراهق من الولوج بالصدفة إلى حاسوب تكتيكي يعود لوزارة الدفاع، الأمر الذي يطلق ما يعتقد الفتى ببراءة بأنها لعبة حربية يطلق عليها إسم \"جلوبال ثيرمونيوكلير وور\"، لكن اللعبة في الواقع هي شيء حقيقي.</desc>
     <category lang="ar">مغامرة</category>
   </programme>
-  <programme start="20210703050300 +0000" stop="20210703060500 +0000" channel="MBC Iraq">
+  <programme start="20210703050300 +0000" stop="20210703060400 +0000" channel="MBC Iraq">
     <title lang="ar">خاص جدا</title>
     <desc lang="ar">في حلقة اليوم، تحل السيدة سهاد النعيمي ضيفة على البرنامج لتحدثنا عن تجربتها في تحقيق التوازن ما بين بيتها وعملها، ومن ثم نتحدث إلى محمد الجبوري لنتعرف على أسباب رفضه لعمل زوجته، وأخيرا رشا الدليمي لتشاركنا تجربتها ما بين الطلاق والأولاد والعمل.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210703060500 +0000" stop="20210703070000 +0000" channel="MBC Iraq">
+  <programme start="20210703060400 +0000" stop="20210703070000 +0000" channel="MBC Iraq">
     <title lang="ar">ملوك الجدعنة</title>
     <desc lang="ar">يتم القبض على سرية وسفينة، بينما تقوم عطية وفاتن ونجلاء بجمع بعض الأموال وتوكيل محام لهما.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703070000 +0000" stop="20210703080000 +0000" channel="MBC Iraq">
+  <programme start="20210703070000 +0000" stop="20210703075400 +0000" channel="MBC Iraq">
     <title lang="ar">عائلتي تربح</title>
     <desc lang="ar">في حلقة اليوم، منافسة جديدة بين عائلتي الأحمدي والعداي للإجابة على أسئلة تتعلق بالحياة اليومية والعائلية والعملية.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703080000 +0000" stop="20210703090000 +0000" channel="MBC Iraq">
+  <programme start="20210703075400 +0000" stop="20210703085400 +0000" channel="MBC Iraq">
     <title lang="ar">بيت بيوتي</title>
     <desc lang="ar">في حلقة اليوم، نسلط الضوء على أضرار الاعتماد على شبكة الإنترنت في اتخاذ القرارات الطبية والتجميلية، ونتحدث عن كيفية اختيار درجات كريم الأساس. ولاحقا، نكتشف معا الفرق بين ابتسامة هوليوود والقشور الخزفية.</desc>
     <category lang="ar">أسلوب حياة</category>
   </programme>
-  <programme start="20210703090000 +0000" stop="20210703100000 +0000" channel="MBC Iraq">
+  <programme start="20210703085400 +0000" stop="20210703095900 +0000" channel="MBC Iraq">
     <title lang="ar">خاص جدا</title>
     <desc lang="ar">في حلقة اليوم، تحل السيدة سهاد النعيمي ضيفة على البرنامج لتحدثنا عن تجربتها في تحقيق التوازن ما بين بيتها وعملها، ومن ثم نتحدث إلى محمد الجبوري لنتعرف على أسباب رفضه لعمل زوجته، وأخيرا رشا الدليمي لتشاركنا تجربتها ما بين الطلاق والأولاد والعمل.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210703100000 +0000" stop="20210703120000 +0000" channel="MBC Iraq">
+  <programme start="20210703095900 +0000" stop="20210703120000 +0000" channel="MBC Iraq">
     <title lang="ar">وورجيمز</title>
     <desc lang="ar">يتمكن مراهق من الولوج بالصدفة إلى حاسوب تكتيكي يعود لوزارة الدفاع، الأمر الذي يطلق ما يعتقد الفتى ببراءة بأنها لعبة حربية يطلق عليها إسم \"جلوبال ثيرمونيوكلير وور\"، لكن اللعبة في الواقع هي شيء حقيقي.</desc>
     <category lang="ar">مغامرة</category>
   </programme>
-  <programme start="20210703120000 +0000" stop="20210703130000 +0000" channel="MBC Iraq">
+  <programme start="20210703120000 +0000" stop="20210703125800 +0000" channel="MBC Iraq">
     <title lang="ar">ضي الكمر</title>
-    <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيف حلقة اليوم قاسم الملاك.</desc>
+    <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيف حلقة اليوم رضا الخياط.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
-  <programme start="20210703130000 +0000" stop="20210703140000 +0000" channel="MBC Iraq">
+  <programme start="20210703125800 +0000" stop="20210703135900 +0000" channel="MBC Iraq">
     <title lang="ar">لما كنا صغيرين</title>
     <desc lang="ar">ينما يحيط وائل دنيا علما بأمر القبض على يحيى لحيازته المخدرات، يتهم الأخير نهى بتجارة الممنوعات.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703140000 +0000" stop="20210703150000 +0000" channel="MBC Iraq">
+  <programme start="20210703135900 +0000" stop="20210703145600 +0000" channel="MBC Iraq">
     <title lang="ar">ملوك الجدعنة</title>
     <desc lang="ar">يحاول سفينة جاهدا أن ينقذ سعيد الذي يحاول أن يقفز من أعلى سطح البناء، بينما تطلب فاتن من سرية أن يتقدم لخطبتها بشكل رسمي.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703150000 +0000" stop="20210703160000 +0000" channel="MBC Iraq">
+  <programme start="20210703145600 +0000" stop="20210703155900 +0000" channel="MBC Iraq">
     <title lang="ar">بيت بيوتي</title>
     <desc lang="ar">نتحدث عن كيفية الاستفادة من منتجات البشرة، وتقدم سمر خلطة صحية خاصة بترطيب الشعر، ونسلط الضوء على تمارين رياضية منزلية سهلة وبسيطة، وأخيرا فقرة خاصة تناقش ظاهرة التعلق بالمسلسلات التلفزيونية.</desc>
     <category lang="ar">أسلوب حياة</category>
   </programme>
-  <programme start="20210703160000 +0000" stop="20210703170000 +0000" channel="MBC Iraq">
+  <programme start="20210703155900 +0000" stop="20210703170000 +0000" channel="MBC Iraq">
     <title lang="ar">خاص جدا</title>
     <desc lang="ar">نستضيف في حلقة اليوم صانع المحتوى لؤي الساهي ومدونة الموضة ديما الأسدي ليتحدثان عن تجربتهما الإيجابية والسلبية التي خاضاها خلال استخدامهما لمواقع التواصل الاجتماعي.</desc>
     <category lang="ar">برنامج حواري</category>
@@ -9068,14 +9253,14 @@
     <desc lang="ar">في حلقة اليوم، منافسة جديدة بين عائلتي الأحمدي والحداد للإجابة على أسئلة تتعلق بالحياة اليومية والعائلية والعملية.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703180000 +0000" stop="20210703190000 +0000" channel="MBC Iraq">
+  <programme start="20210703180000 +0000" stop="20210703185900 +0000" channel="MBC Iraq">
     <title lang="ar">لما كنا صغيرين</title>
     <desc lang="ar">يكشف ياسين النقاب عن أسرار نهى الغامضة. يطلع سليم وائل على مقطع مسجل يسيء لسمعة دنيا. تذهب الشرطة لتفتيش منزل حامد.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703190000 +0000" stop="20210703200000 +0000" channel="MBC Iraq">
+  <programme start="20210703185900 +0000" stop="20210703200000 +0000" channel="MBC Iraq">
     <title lang="ar">ضي الكمر</title>
-    <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيف حلقة اليوم رضا الخياط.</desc>
+    <desc lang="ar">برنامج حواري يحتوي على فقرات متنوعة تشمل أحاديث رمضانية واجتماعية وفنية وفلسفية، ويستضيف أهم وأبرز نجوم العراق من مطربين وممثلين وملحنين. ضيف حلقة اليوم نور صبري.</desc>
     <category lang="ar">برنامج حواري</category>
   </programme>
   <programme start="20210703200000 +0000" stop="20210703210000 +0000" channel="MBC Iraq">
@@ -9083,17 +9268,17 @@
     <desc lang="ar">تابعوا ماجد المهندس وراشد الماجد في حفل اختتام الذكرى ال25 لمهرجان دبي للتسوق.</desc>
     <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20210703210000 +0000" stop="20210703230000 +0000" channel="MBC Iraq">
+  <programme start="20210703210000 +0000" stop="20210703225600 +0000" channel="MBC Iraq">
     <title lang="ar">ذا فورينر</title>
     <desc lang="ar">يعاود ماضي دفين لرجل بالظهور على هيئة ثأر تغذيه الرغبة بالانتقام وذلك عندما يتم انتشال ابنته المراهقة منه بطريقة إرهابية لا ترحم بدواع سياسية.</desc>
     <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20210703230000 +0000" stop="20210703234500 +0000" channel="MBC Iraq">
+  <programme start="20210703225600 +0000" stop="20210703235200 +0000" channel="MBC Iraq">
     <title lang="ar">ملوك الجدعنة</title>
     <desc lang="ar">يحاول سفينة جاهدا أن ينقذ سعيد الذي يحاول أن يقفز من أعلى سطح البناء، بينما تطلب فاتن من سرية أن يتقدم لخطبتها بشكل رسمي.</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20210703234500 +0000" stop="20210704010000 +0000" channel="MBC Iraq">
+  <programme start="20210703235200 +0000" stop="20210704005700 +0000" channel="MBC Iraq">
     <title lang="ar">عائلتي تربح</title>
     <desc lang="ar">في حلقة اليوم، منافسة جديدة بين عائلتي الأحمدي والحداد للإجابة على أسئلة تتعلق بالحياة اليومية والعائلية والعملية.</desc>
     <category lang="ar">ترفيه</category>
