@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MBC 3">
+    <display-name lang="en">MBC 3</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Network Arabic">
+    <display-name lang="en">Network Arabic</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+</tv>
