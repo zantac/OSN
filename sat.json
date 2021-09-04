@@ -1,19 +1,26 @@
 {
-   "Sats":[
+  "Sats": {
+    "Sat": [
       {
-         "HisbaSat 30W":"https://raw.githubusercontent.com/zantac/OSN/master/30W.xml"
+        "SatName": "HisbaSat 30W",
+        "SatLink": "https://raw.githubusercontent.com/zantac/OSN/master/30W.xml"
       },
       {
-         "NileSate 7W":"https://raw.githubusercontent.com/zantac/OSN/master/7W.xml"
+        "SatName": "NileSat 7W",
+        "SatLink": "https://raw.githubusercontent.com/zantac/OSN/master/7W.xml"
       },
       {
-         "HotBird 13E":"https://raw.githubusercontent.com/zantac/OSN/master/13E.xml"
+        "SatName": "HotBird 13E",
+        "SatLink": "https://raw.githubusercontent.com/zantac/OSN/master/13E.xml"
       },
       {
-         "EutelSat 16E":"https://raw.githubusercontent.com/zantac/OSN/master/16E.xml"
+        "SatName": "EutelSat 16E",
+        "SatLink": "https://raw.githubusercontent.com/zantac/OSN/master/16E.xml"
       },
       {
-         "Astra 19E":"https://raw.githubusercontent.com/zantac/OSN/master/19E.xml"
+        "SatName": "Astra 19E",
+        "SatLink": "https://raw.githubusercontent.com/zantac/OSN/master/19E.xml"
       }
-   ]
+    ]
+  }
 }
