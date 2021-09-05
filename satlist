@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Sats>
+	<Sat>
+		<Name>HisbaSat 30W</Name>
+		<Link>https://raw.githubusercontent.com/zantac/OSN/master/30W.xml</Link>
+	</Sat>
+	<Sat>
+			<Name>NileSat 7W</Name>
+		    <Link>https://raw.githubusercontent.com/zantac/OSN/master/7W.xml</Link>
+	</Sat>
+	<Sat>
+			<Name>HotBird 13E</Name>
+		    <Link>https://raw.githubusercontent.com/zantac/OSN/master/13E.xml</Link>
+	</Sat>
+	<Sat>
+			<Name>EutelSat 16E</Name>
+		    <Link>https://raw.githubusercontent.com/zantac/OSN/master/16E.xml</Link>
+	</Sat>
+	<Sat>
+			<Name>Astra 19E</Name>
+		    <Link>https://raw.githubusercontent.com/zantac/OSN/master/19E.xml</Link>
+	</Sat>
+</Sats>
