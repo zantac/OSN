@@ -1,5 +1,5 @@
 {
-    "Sat": [
+    "Sat": 
       {
         "HisbaSat 30W": "https://raw.githubusercontent.com/zantac/OSN/master/30W.xml"
       ,
@@ -15,5 +15,4 @@
       
         "Astra 19E": "https://raw.githubusercontent.com/zantac/OSN/master/19E.xml"
       }
-    ]
 }
