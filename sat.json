@@ -1,5 +1,4 @@
-{
-  "Sats": {
+ {
     "Sat": [
       {
         "SatName": "HisbaSat 30W",
@@ -22,5 +21,4 @@
         "SatLink": "https://raw.githubusercontent.com/zantac/OSN/master/19E.xml"
       }
     ]
-  }
 }
