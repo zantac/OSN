@@ -2,17 +2,17 @@
     "Sat": [
       {
         "HisbaSat 30W": "https://raw.githubusercontent.com/zantac/OSN/master/30W.xml"
-      },
-      {
+      ,
+      
         "NileSat 7W": "https://raw.githubusercontent.com/zantac/OSN/master/7W.xml"
-      },
-      {
+      ,
+      
         "HotBird 13E": "https://raw.githubusercontent.com/zantac/OSN/master/13E.xml"
-      },
-      {
+      ,
+      
         "EutelSat 16E": "https://raw.githubusercontent.com/zantac/OSN/master/16E.xml"
-      },
-      {
+      ,
+      
         "Astra 19E": "https://raw.githubusercontent.com/zantac/OSN/master/19E.xml"
       }
     ]
