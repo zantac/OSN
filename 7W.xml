@@ -1616,9 +1616,11 @@
     <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210907140000 +0000" stop="20210907160000 +0000" channel="Cinema 2">
-    <title lang="en">Al Masajeen Al Thalatha (?)</title>
+    <title lang="en">Al Masajeen Al Thalatha</title>
     <title lang="ar">المساجين الثلاثة</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Rushdi Abatha, Shams Al-Baroudi. Three prisoners escape and part later as each has his own scheme to carry out. Yet they get together again and sacrifice their freedom to bring down a dangerous gang. (R3). رشدي أباظة، شمس البارودي.يفرّ ثلاثة شبان من السجن ثم يفترقون حيث لكل منهم غاية يسعى لتحقيقها خارج جدران السجن تجمعهم الأحداث والصدفة ويقررون التضحية بحريتهم ليساعدوا في القبض على عصابة خطيرة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
   <programme start="20210907160000 +0000" stop="20210907180000 +0000" channel="Cinema 2">
     <title lang="en">Beit El-'ezz</title>
