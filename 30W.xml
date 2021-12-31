@@ -634,13 +634,13 @@
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12480566/4_3/684/513" />
     <episode-num system="onscreen">T8 Ep19</episode-num>
   </programme>
-  <programme start="20211231070900 +0000" stop="20211231074100 +0000" channel="AXN">
+  <programme start="20211231070900 +0000" stop="20211231082600 +0000" channel="AXN">
     <title lang="pt">Castle</title>
     <sub-title lang="pt">Much Ado About Murder</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12501543/4_3/684/513" />
     <episode-num system="onscreen">T8 Ep20</episode-num>
   </programme>
-  <programme start="20211231074100 +0000" stop="20211231082500 +0000" channel="AXN">
+  <programme start="20211231082600 +0000" stop="20211231091000 +0000" channel="AXN">
     <title lang="xx">Criminal Minds</title>
     <title lang="pt">Mentes Criminosas</title>
     <sub-title lang="pt">The Gathering</sub-title>
@@ -659,7 +659,7 @@
     <review type="text">Category: &lt;span class="ipc-chip__text" role="presentation"&gt;Crime&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Drama&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Mystery&lt;/span&gt;|Crime|Drama|Mystery|Thriller </review>
     <review type="text">https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg</review>
   </programme>
-  <programme start="20211231082500 +0000" stop="20211231090900 +0000" channel="AXN">
+  <programme start="20211231091000 +0000" stop="20211231095500 +0000" channel="AXN">
     <title lang="xx">Criminal Minds</title>
     <title lang="pt">Mentes Criminosas</title>
     <sub-title lang="pt">Restoration</sub-title>
@@ -678,43 +678,43 @@
     <review type="text">Category: &lt;span class="ipc-chip__text" role="presentation"&gt;Crime&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Drama&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Mystery&lt;/span&gt;|Crime|Drama|Mystery|Thriller </review>
     <review type="text">https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg</review>
   </programme>
-  <programme start="20211231090900 +0000" stop="20211231095300 +0000" channel="AXN">
+  <programme start="20211231095500 +0000" stop="20211231104000 +0000" channel="AXN">
     <title lang="pt">Investigação Criminal</title>
     <sub-title lang="pt">Family Ties</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12856763/4_3/684/513" />
     <episode-num system="onscreen">T15 Ep13</episode-num>
   </programme>
-  <programme start="20211231095300 +0000" stop="20211231103800 +0000" channel="AXN">
+  <programme start="20211231104000 +0000" stop="20211231112400 +0000" channel="AXN">
     <title lang="pt">Investigação Criminal</title>
     <sub-title lang="pt">Keep Your Friends Close</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12856769/4_3/684/513" />
     <episode-num system="onscreen">T15 Ep14</episode-num>
   </programme>
-  <programme start="20211231103800 +0000" stop="20211231112300 +0000" channel="AXN">
+  <programme start="20211231112400 +0000" stop="20211231120900 +0000" channel="AXN">
     <title lang="pt">Investigação Criminal</title>
     <sub-title lang="pt">Keep Your Enemies Closer</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12856775/4_3/684/513" />
     <episode-num system="onscreen">T15 Ep15</episode-num>
   </programme>
-  <programme start="20211231112300 +0000" stop="20211231120800 +0000" channel="AXN">
+  <programme start="20211231120900 +0000" stop="20211231125400 +0000" channel="AXN">
     <title lang="pt">Castle</title>
     <sub-title lang="pt">A Chill Goes Through Her Veins</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_123414/4_3/684/513" />
     <episode-num system="onscreen">T1 Ep5</episode-num>
   </programme>
-  <programme start="20211231120800 +0000" stop="20211231125300 +0000" channel="AXN">
+  <programme start="20211231125400 +0000" stop="20211231133800 +0000" channel="AXN">
     <title lang="pt">Castle</title>
     <sub-title lang="pt">Always Buy Retail</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_123425/4_3/684/513" />
     <episode-num system="onscreen">T1 Ep6</episode-num>
   </programme>
-  <programme start="20211231125300 +0000" stop="20211231133900 +0000" channel="AXN">
+  <programme start="20211231133800 +0000" stop="20211231142200 +0000" channel="AXN">
     <title lang="pt">Castle</title>
     <sub-title lang="pt">Home Is Where the Heart Stops</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_123426/4_3/684/513" />
     <episode-num system="onscreen">T1 Ep7</episode-num>
   </programme>
-  <programme start="20211231133900 +0000" stop="20211231142600 +0000" channel="AXN">
+  <programme start="20211231142200 +0000" stop="20211231150500 +0000" channel="AXN">
     <title lang="xx">Criminal Minds</title>
     <title lang="pt">Mentes Criminosas</title>
     <sub-title lang="pt">Brothers Hotchner</sub-title>
@@ -733,7 +733,7 @@
     <review type="text">Category: &lt;span class="ipc-chip__text" role="presentation"&gt;Crime&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Drama&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Mystery&lt;/span&gt;|Crime|Drama|Mystery|Thriller </review>
     <review type="text">https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg</review>
   </programme>
-  <programme start="20211231142600 +0000" stop="20211231151400 +0000" channel="AXN">
+  <programme start="20211231150500 +0000" stop="20211231155200 +0000" channel="AXN">
     <title lang="xx">Criminal Minds</title>
     <title lang="pt">Mentes Criminosas</title>
     <sub-title lang="pt">The Replicator</sub-title>
@@ -752,43 +752,43 @@
     <review type="text">Category: &lt;span class="ipc-chip__text" role="presentation"&gt;Crime&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Drama&lt;/span&gt;|&lt;span class="ipc-chip__text" role="presentation"&gt;Mystery&lt;/span&gt;|Crime|Drama|Mystery|Thriller </review>
     <review type="text">https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg</review>
   </programme>
-  <programme start="20211231151400 +0000" stop="20211231171700 +0000" channel="AXN">
+  <programme start="20211231155200 +0000" stop="20211231173900 +0000" channel="AXN">
     <title lang="pt">MIB: Homens de Negro - Força Internacional</title>
     <desc lang="pt">Os Homens de Negro sempre protegeram a Terra da escória do Universo. Nesta nova aventura, eles enfrentam a maior ameaça de sempre: um infiltrado dentro da organização MIB.</desc>
     <category lang="pt">Filmes e Séries</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_11391348/4_3/684/513" />
   </programme>
-  <programme start="20211231171700 +0000" stop="20211231184000 +0000" channel="AXN">
+  <programme start="20211231173900 +0000" stop="20211231185500 +0000" channel="AXN">
     <title lang="pt">Jonah Hex</title>
     <desc lang="pt">No velho oeste, um caçador de recompensas esconde o seu bom coração por trás do seu rosto deformado e da sua personalidade forte. Mais uma vítima do terrível Quentin Turnbull, Hex, que deveria ter morrido num atentado contra a sua vida, ressuscitou.... com sede de vingança.</desc>
     <category lang="pt">Filmes e Séries</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_11165007/4_3/684/513" />
   </programme>
-  <programme start="20211231184000 +0000" stop="20211231193000 +0000" channel="AXN">
+  <programme start="20211231185500 +0000" stop="20211231194200 +0000" channel="AXN">
     <title lang="pt">Investigação Criminal</title>
     <sub-title lang="pt">Keep Your Enemies Closer</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12856775/4_3/684/513" />
     <episode-num system="onscreen">T15 Ep15</episode-num>
   </programme>
-  <programme start="20211231193000 +0000" stop="20211231202000 +0000" channel="AXN">
+  <programme start="20211231194200 +0000" stop="20211231202700 +0000" channel="AXN">
     <title lang="pt">Investigação Criminal</title>
     <sub-title lang="pt">Handle With Care</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12856783/4_3/684/513" />
     <episode-num system="onscreen">T15 Ep16</episode-num>
   </programme>
-  <programme start="20211231202000 +0000" stop="20211231211000 +0000" channel="AXN">
+  <programme start="20211231202700 +0000" stop="20211231211300 +0000" channel="AXN">
     <title lang="pt">Investigação Criminal</title>
     <sub-title lang="pt">One Man's Trash</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12869891/4_3/684/513" />
     <episode-num system="onscreen">T15 Ep17</episode-num>
   </programme>
-  <programme start="20211231211000 +0000" stop="20211231220000 +0000" channel="AXN">
+  <programme start="20211231211300 +0000" stop="20211231220000 +0000" channel="AXN">
     <title lang="pt">Investigação Criminal</title>
     <sub-title lang="pt">Death From Above</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/47_12869898/4_3/684/513" />
     <episode-num system="onscreen">T15 Ep18</episode-num>
   </programme>
-  <programme start="20211231220000 +0000" stop="20220101000200 +0000" channel="AXN">
+  <programme start="20211231220000 +0000" stop="20220101000100 +0000" channel="AXN">
     <title lang="pt">Outro/Eu</title>
     <desc lang="pt">Um homem transfere a sua consciência para um corpo jovem e saudável. No entanto, cedo descobre que o procedimento a que se submeteu e a empresa que o efetuou não são exatamente aquilo que ele pensava...</desc>
     <category lang="pt">Filmes e Séries</category>
@@ -4307,91 +4307,91 @@
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_12941514/4_3/684/513" />
     <episode-num system="onscreen">T4 Ep14</episode-num>
   </programme>
-  <programme start="20211231080000 +0000" stop="20211231083900 +0000" channel="SyFy SD">
+  <programme start="20211231080000 +0000" stop="20211231084100 +0000" channel="SyFy SD">
     <title lang="pt">The Twilight Zone</title>
     <sub-title lang="pt">The Blue Scorpion</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_121171019/4_3/684/513" />
     <episode-num system="onscreen">T1 Ep10</episode-num>
   </programme>
-  <programme start="20211231083900 +0000" stop="20211231092100 +0000" channel="SyFy SD">
+  <programme start="20211231084100 +0000" stop="20211231092500 +0000" channel="SyFy SD">
     <title lang="pt">Stargate Atlantis</title>
     <sub-title lang="pt">Outcast</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_12941515/4_3/684/513" />
     <episode-num system="onscreen">T4 Ep15</episode-num>
   </programme>
-  <programme start="20211231092100 +0000" stop="20211231100400 +0000" channel="SyFy SD">
+  <programme start="20211231092500 +0000" stop="20211231101000 +0000" channel="SyFy SD">
     <title lang="pt">Stargate Atlantis</title>
     <sub-title lang="pt">Trio</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_12941517/4_3/684/513" />
     <episode-num system="onscreen">T4 Ep16</episode-num>
   </programme>
-  <programme start="20211231100400 +0000" stop="20211231104500 +0000" channel="SyFy SD">
+  <programme start="20211231101000 +0000" stop="20211231105300 +0000" channel="SyFy SD">
     <title lang="pt">Siren</title>
     <sub-title lang="pt">The Outpost</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_121058063/4_3/684/513" />
     <episode-num system="onscreen">T2 Ep13</episode-num>
   </programme>
-  <programme start="20211231104500 +0000" stop="20211231112700 +0000" channel="SyFy SD">
+  <programme start="20211231105300 +0000" stop="20211231113600 +0000" channel="SyFy SD">
     <title lang="pt">Siren</title>
     <sub-title lang="pt">The Last Mermaid</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_121058066/4_3/684/513" />
     <episode-num system="onscreen">T2 Ep14</episode-num>
   </programme>
-  <programme start="20211231112700 +0000" stop="20211231121100 +0000" channel="SyFy SD">
+  <programme start="20211231113600 +0000" stop="20211231122000 +0000" channel="SyFy SD">
     <title lang="pt">Stargate Atlantis</title>
     <sub-title lang="pt">Midway</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_12941518/4_3/684/513" />
     <episode-num system="onscreen">T4 Ep17</episode-num>
   </programme>
-  <programme start="20211231121100 +0000" stop="20211231125600 +0000" channel="SyFy SD">
+  <programme start="20211231122000 +0000" stop="20211231130500 +0000" channel="SyFy SD">
     <title lang="pt">Stargate Atlantis</title>
     <sub-title lang="pt">The Kindred: Part 1</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_12941520/4_3/684/513" />
     <episode-num system="onscreen">T4 Ep18</episode-num>
   </programme>
-  <programme start="20211231125600 +0000" stop="20211231134100 +0000" channel="SyFy SD">
+  <programme start="20211231130500 +0000" stop="20211231134800 +0000" channel="SyFy SD">
     <title lang="pt">Siren</title>
     <sub-title lang="pt">Sacrifice</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_121081396/4_3/684/513" />
     <episode-num system="onscreen">T2 Ep15</episode-num>
   </programme>
-  <programme start="20211231134100 +0000" stop="20211231142600 +0000" channel="SyFy SD">
+  <programme start="20211231134800 +0000" stop="20211231143400 +0000" channel="SyFy SD">
     <title lang="pt">Siren</title>
     <sub-title lang="pt">New World Order</sub-title>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_121081404/4_3/684/513" />
     <episode-num system="onscreen">T2 Ep16</episode-num>
   </programme>
-  <programme start="20211231142600 +0000" stop="20211231160600 +0000" channel="SyFy SD">
+  <programme start="20211231143400 +0000" stop="20211231161200 +0000" channel="SyFy SD">
     <title lang="pt">Jumanji</title>
     <desc lang="pt">Alan Parris, de 12 anos, descobre o misterioso jogo Jumanji. Quando um dia joga com a sua amiga Sarah, é repentinamente assolado por estranhos fenómenos. Ao atirar os dados do jogo, Alan é transportado para o selvático reino de Jumanji, onde fica preso durante 26 anos.</desc>
     <category lang="pt">Filmes e Séries</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_111963/4_3/684/513" />
   </programme>
-  <programme start="20211231160600 +0000" stop="20211231181600 +0000" channel="SyFy SD">
+  <programme start="20211231161200 +0000" stop="20211231182000 +0000" channel="SyFy SD">
     <title lang="pt">Godzilla</title>
     <desc lang="pt">Os cientistas e o Exército combatem um gigantesco réptil pré-histórico, que escolheu Manhattan para depositar os seus ovos, aterrorizando a população.</desc>
     <category lang="pt">Filmes e Séries</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_113712/4_3/684/513" />
   </programme>
-  <programme start="20211231181600 +0000" stop="20211231193700 +0000" channel="SyFy SD">
+  <programme start="20211231182000 +0000" stop="20211231193900 +0000" channel="SyFy SD">
     <title lang="pt">Underworld: O Despertar</title>
     <desc lang="pt">Quando as forças humanas descobrem a existência dos clãs dos Vampiros e dos Lycans, inicia-se uma guerra para erradicar ambas as espécies. A guerreira vampira Selene lidera a maior batalha de sempre contra a humanidade...</desc>
     <category lang="pt">Filmes e Séries</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_1171261/4_3/684/513" />
   </programme>
-  <programme start="20211231193700 +0000" stop="20211231213000 +0000" channel="SyFy SD">
+  <programme start="20211231193900 +0000" stop="20211231213000 +0000" channel="SyFy SD">
     <title lang="pt">Mythica: O Carrasco dos Deuses</title>
     <desc lang="pt">Enquanto as legiões de zombies de Lich King assolam o mundo, Marek embarca numa missão para conseguir a arma dos deuses, com o seu amigo Dagen. Mas quando ela se junta ao seu inimigo numa tentativa desesperada de salvar o mundo, ela tem de derrotar o Lich King antes que os deuses sejam destruídos.</desc>
     <category lang="pt">Filmes e Séries</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_11263177/4_3/684/513" />
   </programme>
-  <programme start="20211231213000 +0000" stop="20211231231400 +0000" channel="SyFy SD">
+  <programme start="20211231213000 +0000" stop="20211231231300 +0000" channel="SyFy SD">
     <title lang="pt">Aberto Até de Madrugada</title>
     <desc lang="pt">Dois irmãos, ladrões e assassinos, raptam um pastor religioso e os seus dois filhos adolescentes para conseguirem chegar ao México. Perto da fronteira, param num bar frequentado por "motards" mal-encarados sem desconfiarem que o lugar é, na verdade, um ponto de encontro de vampiros.</desc>
     <category lang="pt">Filmes e Séries</category>
     <icon src="https://web.ottimg.vodafone.pt/iptvimageserver/Get/227_112544/4_3/684/513" />
   </programme>
-  <programme start="20211231231400 +0000" stop="20220101004800 +0000" channel="SyFy SD">
+  <programme start="20211231231300 +0000" stop="20220101004700 +0000" channel="SyFy SD">
     <title lang="pt">O Pacto</title>
     <desc lang="pt">Os privilégios e a beleza abundam na Academia Spenser, um colégio interno de Nova Inglaterra, destinado à elite dominante da região. Esta é a história dos filhos de Ipswich, quatro estudantes ligados pela sua ascendência sagrada.</desc>
     <category lang="pt">Filmes e Séries</category>
