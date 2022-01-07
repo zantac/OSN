@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="yes MOVIES DRAMA">
+    <display-name lang="he">yes MOVIES DRAMA</display-name>
+    <url>http://www.yes.co.il.E</url>
+  </channel>
+  <channel id="yes MOVIES ACTION">
+    <display-name lang="he">yes MOVIES ACTION</display-name>
+    <url>http://www.yes.co.il.E</url>
+  </channel>
+  <channel id="yes MOVIES COMEDY">
+    <display-name lang="he">yes MOVIES COMEDY</display-name>
+    <url>http://www.yes.co.il.E</url>
+  </channel>
+  <channel id="yes קולנוע ישראלי">
+    <display-name lang="he">yes קולנוע ישראלי</display-name>
+    <url>http://www.yes.co.il.E</url>
+  </channel>
+  <channel id="yes TV DRAMA">
+    <display-name lang="he">yes TV DRAMA</display-name>
+    <url>http://www.yes.co.il.E</url>
+  </channel>
+  <channel id="yes TV ACTION">
+    <display-name lang="he">yes TV ACTION</display-name>
+    <url>http://www.yes.co.il.E</url>
+  </channel>
+  <channel id="yes TV COMEDY">
+    <display-name lang="he">yes TV COMEDY</display-name>
+    <url>http://www.yes.co.il.E</url>
+  </channel>
+</tv>
