@@ -234,220 +234,186 @@
     <display-name lang="en">روتانا دراما</display-name>
     <url>http://www.rotana.net</url>
   </channel>
-  <programme start="20220112000000 +0000" stop="20220112000000 +0000" channel="ART Aflam 1">
-    <title lang="en">Aysheen Al Lahzah</title>
-    <title lang="ar">عايشين اللحظة</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117000000 +0000" stop="20220117000000 +0000" channel="Cinema 2">
+    <title lang="en">Days And Nights</title>
+    <title lang="ar">أيام وليالي</title>
+    <desc lang="en">Abdel Haleem Hafeth. Agitation between the half-brothers Yehya and Ra`fat hypes when the former admits the latter`s guilt in a fatal car accident. The incident has Yehya finally turn to his real father. (R3). عبد الحليم حافظ.يحدث شرخ في العائلة حين يبرّئ يحيى صديقه فتحي ويعترف أن أخاه غير الشقيق رأفت هو سبب الحادث الذي راح ضحيته طفل صغير تنصحه أمه باللجوء إلى والده الحقيقي، فيفعل ويلم شمل والديه بعد سنين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112000000 +0000" stop="20220112020000 +0000" channel="ART Aflam 1">
-    <title lang="en">Aysheen Al Lahzah</title>
-    <title lang="ar">عايشين اللحظة</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117000000 +0000" stop="20220117020000 +0000" channel="Cinema 2">
+    <title lang="en">Days And Nights</title>
+    <title lang="ar">أيام وليالي</title>
+    <desc lang="en">Abdel Haleem Hafeth. Agitation between the half-brothers Yehya and Ra`fat hypes when the former admits the latter`s guilt in a fatal car accident. The incident has Yehya finally turn to his real father. (R3). عبد الحليم حافظ.يحدث شرخ في العائلة حين يبرّئ يحيى صديقه فتحي ويعترف أن أخاه غير الشقيق رأفت هو سبب الحادث الذي راح ضحيته طفل صغير تنصحه أمه باللجوء إلى والده الحقيقي، فيفعل ويلم شمل والديه بعد سنين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112020000 +0000" stop="20220112043000 +0000" channel="ART Aflam 1">
-    <title lang="en">Madenat Almalahy</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117020000 +0000" stop="20220117040000 +0000" channel="Cinema 2">
+    <title lang="en">Coming To</title>
+    <title lang="ar">القادم الى...</title>
+    <desc lang="en">Nariman Abed Al Karim, Jamil Barahma. A fetus sees the torment of the palestinian people through his mother`s eyes, and when he is born, the doctor is surprised to see a dagger in his hand. (R3). ناريمان عبد الكريم، جميل براهمة.القادم الى هو الجنين في رحم سلام الذي يرى من خلال عيون أمه ما يتعرض له الشعب الفلسطيني من قتل ودمار ويولد في عملية قصيرية فينزل من رحم الأم وبيده خنجر (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112043000 +0000" stop="20220112070000 +0000" channel="ART Aflam 1">
-    <title lang="en">Ehzaro Hazehy Al-Maraa</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202090912.jpg" />
+  <programme start="20220117040000 +0000" stop="20220117060000 +0000" channel="Cinema 2">
+    <title lang="en">The Three Prisoners</title>
+    <title lang="ar">المساجين الثلاثة</title>
+    <desc lang="en">Rushdi Abatha, Shams Al-Baroudi. Three prisoners escape and part later as each has his own scheme to carry out. Yet they get together again and sacrifice their freedom to bring down a dangerous gang. (R3). رشدي أباظة، شمس البارودي.يفرّ ثلاثة شبان من السجن ثم يفترقون حيث لكل منهم غاية يسعى لتحقيقها خارج جدران السجن تجمعهم الأحداث والصدفة ويقررون التضحية بحريتهم ليساعدوا في القبض على عصابة خطيرة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112070000 +0000" stop="20220112090000 +0000" channel="ART Aflam 1">
-    <title lang="en">Almatab</title>
-    <title lang="ar">المطب</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117060000 +0000" stop="20220117080000 +0000" channel="Cinema 2">
+    <title lang="en">Days And Nights</title>
+    <title lang="ar">أيام وليالي</title>
+    <desc lang="en">Abdel Haleem Hafeth. Agitation between the half-brothers Yehya and Ra`fat hypes when the former admits the latter`s guilt in a fatal car accident. The incident has Yehya finally turn to his real father. (R3). عبد الحليم حافظ.يحدث شرخ في العائلة حين يبرّئ يحيى صديقه فتحي ويعترف أن أخاه غير الشقيق رأفت هو سبب الحادث الذي راح ضحيته طفل صغير تنصحه أمه باللجوء إلى والده الحقيقي، فيفعل ويلم شمل والديه بعد سنين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112090000 +0000" stop="20220112113000 +0000" channel="ART Aflam 1">
-    <title lang="en">Tilka Al Ayam</title>
-    <title lang="ar">تلك الأيام</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200123043307.jpg" />
+  <programme start="20220117080000 +0000" stop="20220117100000 +0000" channel="Cinema 2">
+    <title lang="en">Coming To</title>
+    <title lang="ar">القادم الى...</title>
+    <desc lang="en">Nariman Abed Al Karim, Jamil Barahma. A fetus sees the torment of the palestinian people through his mother`s eyes, and when he is born, the doctor is surprised to see a dagger in his hand. (R3). ناريمان عبد الكريم، جميل براهمة.القادم الى هو الجنين في رحم سلام الذي يرى من خلال عيون أمه ما يتعرض له الشعب الفلسطيني من قتل ودمار ويولد في عملية قصيرية فينزل من رحم الأم وبيده خنجر (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112113000 +0000" stop="20220112133000 +0000" channel="ART Aflam 1">
-    <title lang="en">Bik Eneich</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117100000 +0000" stop="20220117120000 +0000" channel="Cinema 2">
+    <title lang="en">The Three Prisoners</title>
+    <title lang="ar">المساجين الثلاثة</title>
+    <desc lang="en">Rushdi Abatha, Shams Al-Baroudi. Three prisoners escape and part later as each has his own scheme to carry out. Yet they get together again and sacrifice their freedom to bring down a dangerous gang. (R3). رشدي أباظة، شمس البارودي.يفرّ ثلاثة شبان من السجن ثم يفترقون حيث لكل منهم غاية يسعى لتحقيقها خارج جدران السجن تجمعهم الأحداث والصدفة ويقررون التضحية بحريتهم ليساعدوا في القبض على عصابة خطيرة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112133000 +0000" stop="20220112153000 +0000" channel="ART Aflam 1">
-    <title lang="en">Omar El Azraq</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117120000 +0000" stop="20220117140000 +0000" channel="Cinema 2">
+    <title lang="en">Days And Nights</title>
+    <title lang="ar">أيام وليالي</title>
+    <desc lang="en">Abdel Haleem Hafeth. Agitation between the half-brothers Yehya and Ra`fat hypes when the former admits the latter`s guilt in a fatal car accident. The incident has Yehya finally turn to his real father. (R3). عبد الحليم حافظ.يحدث شرخ في العائلة حين يبرّئ يحيى صديقه فتحي ويعترف أن أخاه غير الشقيق رأفت هو سبب الحادث الذي راح ضحيته طفل صغير تنصحه أمه باللجوء إلى والده الحقيقي، فيفعل ويلم شمل والديه بعد سنين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112153000 +0000" stop="20220112173000 +0000" channel="ART Aflam 1">
-    <title lang="en">Karkar</title>
-    <title lang="ar">كركر</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117140000 +0000" stop="20220117160000 +0000" channel="Cinema 2">
+    <title lang="en">Coming To</title>
+    <title lang="ar">القادم الى...</title>
+    <desc lang="en">Nariman Abed Al Karim, Jamil Barahma. A fetus sees the torment of the palestinian people through his mother`s eyes, and when he is born, the doctor is surprised to see a dagger in his hand. (R3). ناريمان عبد الكريم، جميل براهمة.القادم الى هو الجنين في رحم سلام الذي يرى من خلال عيون أمه ما يتعرض له الشعب الفلسطيني من قتل ودمار ويولد في عملية قصيرية فينزل من رحم الأم وبيده خنجر (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112173000 +0000" stop="20220112200000 +0000" channel="ART Aflam 1">
-    <title lang="en">Kawkab El-Sharq</title>
-    <title lang="ar">كوكب الشرق</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117160000 +0000" stop="20220117180000 +0000" channel="Cinema 2">
+    <title lang="en">The Female And The Hornet</title>
+    <title lang="ar">الأنثى والدبور</title>
+    <desc lang="en">Dalal Abdel Azeez, Farouq Al-Fishawi. Salwa`s jinx spares Adel and doesn`t send him to the grave like it usually does with all her husbands, but people victimized by his fraud don`t follow this pattern. (R3). دلال عبد العزيز، فاروق الفيشاوي.يصر النصاب عادل على الارتباط بسلوى رغم أن كل من تتزوجهم يموتون فور إتمام الزواج ينجو من نحس الموت لكن يلقى القبض عليه ليلة الزفاف بسبب نصبه على الكثيرين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112200000 +0000" stop="20220112220000 +0000" channel="ART Aflam 1">
-    <title lang="en">Habibi Naimana</title>
-    <title lang="ar">حبيبي نيمانا</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200723015202.jpg" />
+  <programme start="20220117180000 +0000" stop="20220117200000 +0000" channel="Cinema 2">
+    <title lang="en">Nuptial Melody</title>
+    <title lang="ar">عروس النيل</title>
+    <desc lang="en">Lubna Abdel Azeez, Rushdi Abatha. Warnings of natives prove to be true when Hamees, the last Bride of the Nile, appears to geologist Sami while drilling for oil and teaches him a lesson the hard way. (R3). لبنى عبد العزيز، رشدي أباظة.يستخف المهندس الجيولوجي سامي بتحذيرات سكان الأقصر ويباشر التنقيب عن البترول فوق مقابر عرائس النيل تظهر له هاميس آخر عروس للنيل فتلاحقه وتبقى في أثره حتى تقوده للجنون (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220112220000 +0000" stop="20220113000000 +0000" channel="ART Aflam 1">
-    <title lang="en">El Basha Telmeez</title>
-    <title lang="ar">الباشا تلميذ</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117200000 +0000" stop="20220117220000 +0000" channel="Cinema 2">
+    <title lang="en">Confused Heart</title>
+    <title lang="ar">القلب الحائر</title>
+    <desc lang="en">Athar Al-Hakim, Khaled Sami. A teenager runs away from his divorced mother. Unwittingly he finds himself involved in a network of organized crime. (R3). أثار الحكيم، خالد سامي.يطرح انعاكاسات الخلافات الزوجية على سلوكيات الأطفال، خاصة حينما يلجأ الطفل هشام إلى الهروب من بيت والدته المطلقة ليستسلم لعصابة تدربه على أعمال السرقة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113000000 +0000" stop="20220113000000 +0000" channel="ART Aflam 1">
-    <title lang="en">Gay Fe Al Sarea</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220117220000 +0000" stop="20220118000000 +0000" channel="Cinema 2">
+    <title lang="en">The Female And The Hornet</title>
+    <title lang="ar">الأنثى والدبور</title>
+    <desc lang="en">Dalal Abdel Azeez, Farouq Al-Fishawi. Salwa`s jinx spares Adel and doesn`t send him to the grave like it usually does with all her husbands, but people victimized by his fraud don`t follow this pattern. (R3). دلال عبد العزيز، فاروق الفيشاوي.يصر النصاب عادل على الارتباط بسلوى رغم أن كل من تتزوجهم يموتون فور إتمام الزواج ينجو من نحس الموت لكن يلقى القبض عليه ليلة الزفاف بسبب نصبه على الكثيرين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113000000 +0000" stop="20220113020000 +0000" channel="ART Aflam 1">
-    <title lang="en">Gay Fe Al Sarea</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118000000 +0000" stop="20220118000000 +0000" channel="Cinema 2">
+    <title lang="en">Nuptial Melody</title>
+    <title lang="ar">عروس النيل</title>
+    <desc lang="en">Lubna Abdel Azeez, Rushdi Abatha. Warnings of natives prove to be true when Hamees, the last Bride of the Nile, appears to geologist Sami while drilling for oil and teaches him a lesson the hard way. (R3). لبنى عبد العزيز، رشدي أباظة.يستخف المهندس الجيولوجي سامي بتحذيرات سكان الأقصر ويباشر التنقيب عن البترول فوق مقابر عرائس النيل تظهر له هاميس آخر عروس للنيل فتلاحقه وتبقى في أثره حتى تقوده للجنون (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113020000 +0000" stop="20220113043000 +0000" channel="ART Aflam 1">
-    <title lang="en">Nems Bond</title>
-    <title lang="ar">نمس بوند</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118000000 +0000" stop="20220118020000 +0000" channel="Cinema 2">
+    <title lang="en">Nuptial Melody</title>
+    <title lang="ar">عروس النيل</title>
+    <desc lang="en">Lubna Abdel Azeez, Rushdi Abatha. Warnings of natives prove to be true when Hamees, the last Bride of the Nile, appears to geologist Sami while drilling for oil and teaches him a lesson the hard way. (R3). لبنى عبد العزيز، رشدي أباظة.يستخف المهندس الجيولوجي سامي بتحذيرات سكان الأقصر ويباشر التنقيب عن البترول فوق مقابر عرائس النيل تظهر له هاميس آخر عروس للنيل فتلاحقه وتبقى في أثره حتى تقوده للجنون (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113043000 +0000" stop="20220113070000 +0000" channel="ART Aflam 1">
-    <title lang="en">Al Shaytana</title>
-    <title lang="ar">الشيطانه</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118020000 +0000" stop="20220118040000 +0000" channel="Cinema 2">
+    <title lang="en">Confused Heart</title>
+    <title lang="ar">القلب الحائر</title>
+    <desc lang="en">Athar Al-Hakim, Khaled Sami. A teenager runs away from his divorced mother. Unwittingly he finds himself involved in a network of organized crime. (R3). أثار الحكيم، خالد سامي.يطرح انعاكاسات الخلافات الزوجية على سلوكيات الأطفال، خاصة حينما يلجأ الطفل هشام إلى الهروب من بيت والدته المطلقة ليستسلم لعصابة تدربه على أعمال السرقة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113070000 +0000" stop="20220113093000 +0000" channel="ART Aflam 1">
-    <title lang="en">Lo'bat Alashrar</title>
-    <title lang="ar">لعبة الأشرار</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200123043117.jpg" />
+  <programme start="20220118040000 +0000" stop="20220118060000 +0000" channel="Cinema 2">
+    <title lang="en">The Female And The Hornet</title>
+    <title lang="ar">الأنثى والدبور</title>
+    <desc lang="en">Dalal Abdel Azeez, Farouq Al-Fishawi. Salwa`s jinx spares Adel and doesn`t send him to the grave like it usually does with all her husbands, but people victimized by his fraud don`t follow this pattern. (R3). دلال عبد العزيز، فاروق الفيشاوي.يصر النصاب عادل على الارتباط بسلوى رغم أن كل من تتزوجهم يموتون فور إتمام الزواج ينجو من نحس الموت لكن يلقى القبض عليه ليلة الزفاف بسبب نصبه على الكثيرين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113093000 +0000" stop="20220113113000 +0000" channel="ART Aflam 1">
-    <title lang="en">Aysheen Al Lahzah</title>
-    <title lang="ar">عايشين اللحظة</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118060000 +0000" stop="20220118080000 +0000" channel="Cinema 2">
+    <title lang="en">Nuptial Melody</title>
+    <title lang="ar">عروس النيل</title>
+    <desc lang="en">Lubna Abdel Azeez, Rushdi Abatha. Warnings of natives prove to be true when Hamees, the last Bride of the Nile, appears to geologist Sami while drilling for oil and teaches him a lesson the hard way. (R3). لبنى عبد العزيز، رشدي أباظة.يستخف المهندس الجيولوجي سامي بتحذيرات سكان الأقصر ويباشر التنقيب عن البترول فوق مقابر عرائس النيل تظهر له هاميس آخر عروس للنيل فتلاحقه وتبقى في أثره حتى تقوده للجنون (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113113000 +0000" stop="20220113133000 +0000" channel="ART Aflam 1">
-    <title lang="en">Albe'r</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118080000 +0000" stop="20220118100000 +0000" channel="Cinema 2">
+    <title lang="en">Confused Heart</title>
+    <title lang="ar">القلب الحائر</title>
+    <desc lang="en">Athar Al-Hakim, Khaled Sami. A teenager runs away from his divorced mother. Unwittingly he finds himself involved in a network of organized crime. (R3). أثار الحكيم، خالد سامي.يطرح انعاكاسات الخلافات الزوجية على سلوكيات الأطفال، خاصة حينما يلجأ الطفل هشام إلى الهروب من بيت والدته المطلقة ليستسلم لعصابة تدربه على أعمال السرقة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113133000 +0000" stop="20220113153000 +0000" channel="ART Aflam 1">
-    <title lang="en">Qass Wo Lazq</title>
-    <title lang="ar">قص ولزق</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202095614.jpg" />
+  <programme start="20220118100000 +0000" stop="20220118120000 +0000" channel="Cinema 2">
+    <title lang="en">The Female And The Hornet</title>
+    <title lang="ar">الأنثى والدبور</title>
+    <desc lang="en">Dalal Abdel Azeez, Farouq Al-Fishawi. Salwa`s jinx spares Adel and doesn`t send him to the grave like it usually does with all her husbands, but people victimized by his fraud don`t follow this pattern. (R3). دلال عبد العزيز، فاروق الفيشاوي.يصر النصاب عادل على الارتباط بسلوى رغم أن كل من تتزوجهم يموتون فور إتمام الزواج ينجو من نحس الموت لكن يلقى القبض عليه ليلة الزفاف بسبب نصبه على الكثيرين (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113153000 +0000" stop="20220113173000 +0000" channel="ART Aflam 1">
-    <title lang="en">El Basha Telmeez</title>
-    <title lang="ar">الباشا تلميذ</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118120000 +0000" stop="20220118140000 +0000" channel="Cinema 2">
+    <title lang="en">Nuptial Melody</title>
+    <title lang="ar">عروس النيل</title>
+    <desc lang="en">Lubna Abdel Azeez, Rushdi Abatha. Warnings of natives prove to be true when Hamees, the last Bride of the Nile, appears to geologist Sami while drilling for oil and teaches him a lesson the hard way. (R3). لبنى عبد العزيز، رشدي أباظة.يستخف المهندس الجيولوجي سامي بتحذيرات سكان الأقصر ويباشر التنقيب عن البترول فوق مقابر عرائس النيل تظهر له هاميس آخر عروس للنيل فتلاحقه وتبقى في أثره حتى تقوده للجنون (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113173000 +0000" stop="20220113200000 +0000" channel="ART Aflam 1">
-    <title lang="en">Ehzaro Hazehy Al-Maraa</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202090912.jpg" />
+  <programme start="20220118140000 +0000" stop="20220118160000 +0000" channel="Cinema 2">
+    <title lang="en">Confused Heart</title>
+    <title lang="ar">القلب الحائر</title>
+    <desc lang="en">Athar Al-Hakim, Khaled Sami. A teenager runs away from his divorced mother. Unwittingly he finds himself involved in a network of organized crime. (R3). أثار الحكيم، خالد سامي.يطرح انعاكاسات الخلافات الزوجية على سلوكيات الأطفال، خاصة حينما يلجأ الطفل هشام إلى الهروب من بيت والدته المطلقة ليستسلم لعصابة تدربه على أعمال السرقة (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113200000 +0000" stop="20220113220000 +0000" channel="ART Aflam 1">
-    <title lang="en">Helm El Omr</title>
-    <title lang="ar">حلم العمر</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118160000 +0000" stop="20220118180000 +0000" channel="Cinema 2">
+    <title lang="en">Wife Number 13</title>
+    <title lang="ar">الزوجة 13</title>
+    <desc lang="en">Shadia, Rushdi Abatha. Aida weds her charming Murad and discovers she`s number 13 in his long list of ex-wives. She starts a venture to teach him a harsh lesson and eradicate his insensible syndrome. (R3). شادية، رشجدي أباظة.مراد شاب وسيم ولكنه مزواج إذ سبق له وأن تزوج 12 مرة يتعرف على عايدة ويتزوجها وتكتشف أن ترتيبها 13 في قائمة زوجاته السابقات تستخدم كيد النساء وتقرر أن تلقنه درساً لا ينساه (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220113220000 +0000" stop="20220114000000 +0000" channel="ART Aflam 1">
-    <title lang="en">Tatah</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118180000 +0000" stop="20220118200000 +0000" channel="Cinema 2">
+    <title lang="en">The Lost Love</title>
+    <title lang="ar">الحب الضائع</title>
+    <desc lang="en">Sou`ad Hosni, Roshdi Abatha. Layla marries Mahmoud and travels to Tunisia with him. But when he dies, she goes through a depression stage so Samia, her friend, stands by her side to support her. (R3). سعاد حسني، رشدي أباظة.تتزوج ليلى من محمود وتسافر إلى تونس حيث يعمل، بينما تتزوج صديقتها سامية من مدحت يموت محمود وتنتاب ليلى حالة نفسية حادة؛ فتقف سامية بجانبها في محنتها (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220114000000 +0000" stop="20220114000000 +0000" channel="ART Aflam 1">
-    <title lang="en">Tito</title>
-    <title lang="ar">تيتو</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118200000 +0000" stop="20220118220000 +0000" channel="Cinema 2">
+    <title lang="en">The Fiddlers</title>
+    <title lang="ar">العابثون</title>
+    <desc lang="en">Layla Jamal, Hussien Al-Sharbini. When Jaber attempts to take advantage of his naive wife by trying to take control of her shop, her son after finding out, is prepared to stop him at all costs. (R3). ليلى جمال، حسين الشربيني.يستغل المعلم جابر ثقة زوجته من أجل بيع الدكان الذي تملكه بالسر يعامل محمود ابن زوجته بقساوة يكتشف أصدقاء محمود حقيقة المؤامرة التي تحاك ضد صديقهم فيخبروه بالأمر (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
-  <programme start="20220114000000 +0000" stop="20220114023000 +0000" channel="ART Aflam 1">
-    <title lang="en">Tito</title>
-    <title lang="ar">تيتو</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114023000 +0000" stop="20220114043000 +0000" channel="ART Aflam 1">
-    <title lang="en">Karkar</title>
-    <title lang="ar">كركر</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114043000 +0000" stop="20220114070000 +0000" channel="ART Aflam 1">
-    <title lang="en">Tofaha</title>
-    <title lang="ar">تفاحة</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114070000 +0000" stop="20220114093000 +0000" channel="ART Aflam 1">
-    <title lang="en">Nobet Hirasa</title>
-    <title lang="ar">نوبة حراسة</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114093000 +0000" stop="20220114113000 +0000" channel="ART Aflam 1">
-    <title lang="en">Gay Fe Al Sarea</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114113000 +0000" stop="20220114133000 +0000" channel="ART Aflam 1">
-    <title lang="en">Inhebek Hedi</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200202090031.jpg" />
-  </programme>
-  <programme start="20220114133000 +0000" stop="20220114153000 +0000" channel="ART Aflam 1">
-    <title lang="en">Habibi Naimana</title>
-    <title lang="ar">حبيبي نيمانا</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/af1745x419_20200723015202.jpg" />
-  </programme>
-  <programme start="20220114153000 +0000" stop="20220114180000 +0000" channel="ART Aflam 1">
-    <title lang="en">Tatah</title>
-    <title lang="ar">أفلام 1</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114180000 +0000" stop="20220114200000 +0000" channel="ART Aflam 1">
-    <title lang="en">Al Shaytana</title>
-    <title lang="ar">الشيطانه</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114200000 +0000" stop="20220114220000 +0000" channel="ART Aflam 1">
-    <title lang="en">Matab Sena'i</title>
-    <title lang="ar">مطلب صناعي</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
-  </programme>
-  <programme start="20220114220000 +0000" stop="20220115000000 +0000" channel="ART Aflam 1">
-    <title lang="en">Ahla Al Awqat</title>
-    <title lang="ar">أحلى الأوقات</title>
-    <desc lang="en">تمتلك أضخم مجموعة من الأفلام العربية الكلاسيكية والمعاصرة في العالم لتعرض لك على نحو متواصل أجمل القصص والسيناريوهات المشوقة والرومانسية والكوميدية.</desc>
-    <icon src="http://content.osn.com/bob/745x419/aflam1.jpg" />
+  <programme start="20220118220000 +0000" stop="20220119000000 +0000" channel="Cinema 2">
+    <title lang="en">Wife Number 13</title>
+    <title lang="ar">الزوجة 13</title>
+    <desc lang="en">Shadia, Rushdi Abatha. Aida weds her charming Murad and discovers she`s number 13 in his long list of ex-wives. She starts a venture to teach him a harsh lesson and eradicate his insensible syndrome. (R3). شادية، رشجدي أباظة.مراد شاب وسيم ولكنه مزواج إذ سبق له وأن تزوج 12 مرة يتعرف على عايدة ويتزوجها وتكتشف أن ترتيبها 13 في قائمة زوجاته السابقات تستخدم كيد النساء وتقرر أن تلقنه درساً لا ينساه (R3).</desc>
+    <icon src="http://content.osn.com/bob/745x419/CM2.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
   </programme>
 </tv>
