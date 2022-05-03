@@ -2,7 +2,7 @@
 <data generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <satlist satname="HispaSat 30W" saturl="https://raw.githubusercontent.com/zantac/OSN/master/30W.xml"></satlist>
   <satlist satname="NileSat 7W" saturl="https://raw.githubusercontent.com/zantac/OSN/master/7W.xml"></satlist>
-   
+  <satlist>
     <satname>HotBird 13E</satname>
     <saturl>https://raw.githubusercontent.com/zantac/OSN/master/13E.xml</saturl>
   </satlist>
