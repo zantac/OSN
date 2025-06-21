@@ -62,8 +62,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-@DesignerComponent(version = 47,
-    description = "Fixed critical regression where the text view was not clickable. All features are now stable.",
+@DesignerComponent(version = 48,
+    description = "Subtitle player with full control and settings panel.",
     category = ComponentCategory.EXTENSION,
     nonVisible = true,
     iconName = "aiwebres/icon.png")
@@ -354,9 +354,9 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
         private Handler timerHandler, controlsHideHandler;
         private long startTime, pauseTime = 0, totalDuration = 0;
         private int currentIndex = -1;
-        private int currentFontIndex = 0;
+		private int currentFontIndex = 0;
         private WindowManager.LayoutParams rootParams;
-        private float currentTextColorHue = -1;
+        private float currentTextColorHue = -1; // -1 signifies WHITE
         private String currentFont = "Default";
         private List<SubtitleEntry> subtitleData;
 
@@ -417,7 +417,7 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
         
         private void createFloatingWidget() {
             int layoutFlag = (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) ? WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY : WindowManager.LayoutParams.TYPE_PHONE;
-            rootParams = new WindowManager.LayoutParams(WindowManager.LayoutParams.MATCH_PARENT, WindowManager.LayoutParams.WRAP_CONTENT, layoutFlag, WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE | WindowManager.LayoutParams.FLAG_NOT_TOUCHABLE, PixelFormat.TRANSLUCENT);
+            rootParams = new WindowManager.LayoutParams(WindowManager.LayoutParams.MATCH_PARENT, WindowManager.LayoutParams.WRAP_CONTENT, layoutFlag, WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE, PixelFormat.TRANSLUCENT);
             rootParams.gravity = Gravity.BOTTOM | Gravity.CENTER_HORIZONTAL;
 
             floatingRootView = new RelativeLayout(this);
@@ -473,7 +473,7 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             floatingControlsLayout.addView(createControlButton("+"));
             floatingControlsLayout.addView(createControlButton("⚙"));
             floatingControlsLayout.addView(createControlButton("⏻"));
-            floatingControlsLayout.addView(createControlButton("SP"));
+			floatingControlsLayout.addView(createControlButton("SP"));
             mainContainer.addView(floatingControlsLayout);
 
             floatingRootView.addView(mainContainer);
@@ -490,8 +490,8 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
                 long elapsedTime = System.currentTimeMillis() - startTime;
                 String currentText = "";
                 int newIndex = -1;
-                
-                for (int i = 0; i < subtitleData.size(); i++) {
+				
+				 for (int i = 0; i < subtitleData.size(); i++) {
                     SubtitleEntry entry = subtitleData.get(i);
                     if (elapsedTime >= entry.startTimeMillis && elapsedTime <= entry.endTimeMillis) {
                         currentText = entry.text;
@@ -499,8 +499,8 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
                         break;
                     }
                 }
-
-                if (currentIndex != newIndex) {
+                
+                 if (currentIndex != newIndex) {
                     floatingTextView.setText(currentText);
                     currentIndex = newIndex;
                 }
@@ -566,13 +566,13 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             }
         }
         
-        // =========================================================================================
-        // FIXED FLAG MANAGEMENT LOGIC
-        // =========================================================================================
+		
+		
+		
         private void showControls() {
             floatingControlsLayout.setVisibility(View.VISIBLE);
             ((View)timeSlider.getParent()).setVisibility(View.VISIBLE);
-            rootParams.flags &= ~WindowManager.LayoutParams.FLAG_NOT_TOUCHABLE;
+            rootParams.flags = WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE;
             windowManager.updateViewLayout(floatingRootView, rootParams);
             controlsHideHandler.removeCallbacksAndMessages(null);
             controlsHideHandler.postDelayed(new Runnable() { @Override public void run() { hideControls(); } }, 5000);
@@ -582,7 +582,7 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             if(isSyncListShowing || isSettingsShowing) return;
             floatingControlsLayout.setVisibility(View.GONE);
             ((View)timeSlider.getParent()).setVisibility(View.GONE);
-            rootParams.flags |= WindowManager.LayoutParams.FLAG_NOT_TOUCHABLE;
+            rootParams.flags = WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE;
             windowManager.updateViewLayout(floatingRootView, rootParams);
         }
         
@@ -669,14 +669,16 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             SeekBar textSizeSlider = createSettingsSlider(10, 50, (int) (floatingTextView.getTextSize() / getResources().getDisplayMetrics().scaledDensity));
             textSizeSlider.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() { @Override public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) { if(fromUser) floatingTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, Math.max(10, progress)); } @Override public void onStartTrackingTouch(SeekBar seekBar) {} @Override public void onStopTrackingTouch(SeekBar seekBar) {} });
             content.addView(textSizeSlider);
+
             content.addView(createSettingsLabel("Text Color"));
+            // CHANGED: The slider value now corresponds to hue. 0 is a special case for White.
             int sliderPos = currentTextColorHue < 0 ? 0 : (int)currentTextColorHue;
             SeekBar textColorSlider = createSettingsSlider(0, 360, sliderPos);
             textColorSlider.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
                 @Override public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
                     if(fromUser) {
                         if (progress == 0) {
-                            currentTextColorHue = -1;
+                            currentTextColorHue = -1; // Special value for white
                             floatingTextView.setTextColor(Color.WHITE);
                         } else {
                             currentTextColorHue = (float)progress;
@@ -687,6 +689,7 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
                 @Override public void onStartTrackingTouch(SeekBar seekBar) {} @Override public void onStopTrackingTouch(SeekBar seekBar) {}
             });
             content.addView(textColorSlider);
+            
             content.addView(createSettingsLabel("Background Transparency"));
             int currentAlpha = (floatingTextView.getBackground() instanceof ColorDrawable) ? Color.alpha(((ColorDrawable) floatingTextView.getBackground()).getColor()) : 0;
             SeekBar bgSlider = createSettingsSlider(0, 255, currentAlpha);
@@ -794,7 +797,6 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             fontSelectorLayout.addView(plusButton);
             content.addView(fontSelectorLayout);
 
-
             LinearLayout actionBar = new LinearLayout(this);
             actionBar.setOrientation(LinearLayout.HORIZONTAL);
             actionBar.setGravity(Gravity.CENTER);
@@ -859,7 +861,7 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             int bgColor = (floatingTextView.getBackground() instanceof ColorDrawable) ? ((ColorDrawable) floatingTextView.getBackground()).getColor() : Color.TRANSPARENT;
             editor.putInt("bgColor", bgColor);
             editor.putBoolean("outlineEnabled", floatingTextView.isOutlineEnabled());
-            editor.putInt("outlineWidth", (int)floatingTextView.getOutlineWidth());
+			editor.putInt("outlineWidth", (int)floatingTextView.getOutlineWidth());
             editor.putInt("yPosition", rootParams.y);
             editor.putInt("height", floatingTextView.getLayoutParams().height);
             editor.putString("fontName", currentFont);
@@ -871,7 +873,7 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             SharedPreferences settings = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE);
             floatingTextView.setTextSize(TypedValue.COMPLEX_UNIT_SP, settings.getInt("textSize", 26));
             
-            currentTextColorHue = settings.getFloat("textColorHue", -1f);
+            currentTextColorHue = settings.getFloat("textColorHue", -1f); // Default to -1 for White
             if (currentTextColorHue < 0) {
                 floatingTextView.setTextColor(Color.WHITE);
             } else {
@@ -899,7 +901,7 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
             currentTextColorHue = -1;
             floatingTextView.setBackgroundColor(Color.TRANSPARENT);
             floatingTextView.setOutlineEnabled(true);
-            floatingTextView.setOutlineWidth(6f);
+			floatingTextView.setOutlineWidth(6f);
             applyFont("Default");
             rootParams.y = 0;
             LinearLayout.LayoutParams params = (LinearLayout.LayoutParams) floatingTextView.getLayoutParams();
@@ -924,18 +926,11 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
                 currentFont = "Default";
             }
         }
-        
+		
         private TextView createSettingsLabel(String text) { TextView label = new TextView(this); label.setText(text); label.setTextColor(Color.WHITE); label.setTextSize(20); label.setPadding(0, 20, 0, 5); return label; }
         
         private SeekBar createSettingsSlider(int min, int max, int current) {
             SeekBar slider = new SeekBar(this);
-            LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.MATCH_PARENT, 
-                LinearLayout.LayoutParams.WRAP_CONTENT
-            );
-            params.topMargin = 10;
-            params.bottomMargin = 10;
-            slider.setLayoutParams(params);
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) { slider.setMin(min); }
             slider.setMax(max);
             slider.setProgress(current);
@@ -1004,19 +999,26 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
         public static class OutlineTextView extends TextView {
             private boolean outlineEnabled = true;
             private int outlineColor = Color.BLACK;
-            private float outlineWidth = 6f;
+            private float outlineWidth = 6f; // CHANGED to 6f
 
-            public OutlineTextView(Context context) { super(context); }
-            public OutlineTextView(Context context, AttributeSet attrs) { super(context, attrs); }
-            public OutlineTextView(Context context, AttributeSet attrs, int defStyleAttr) { super(context, attrs, defStyleAttr); }
+            public OutlineTextView(Context context) {
+                super(context);
+            }
+            public OutlineTextView(Context context, AttributeSet attrs) {
+                super(context, attrs);
+            }
+            public OutlineTextView(Context context, AttributeSet attrs, int defStyleAttr) {
+                super(context, attrs, defStyleAttr);
+            }
 
             public void setOutlineEnabled(boolean enabled) {
                 this.outlineEnabled = enabled;
                 this.invalidate();
             }
-            public boolean isOutlineEnabled() { return this.outlineEnabled; }
-
-            public void setOutlineWidth(float width) {
+            public boolean isOutlineEnabled() {
+                return this.outlineEnabled;
+            }
+			public void setOutlineWidth(float width) {
                 this.outlineWidth = width;
                 this.invalidate();
             }
@@ -1029,10 +1031,12 @@ public class PersistentSubtitle extends AndroidNonvisibleComponent implements Ac
                 if (outlineEnabled) {
                     int originalColor = this.getCurrentTextColor();
                     TextPaint paint = this.getPaint();
+
                     paint.setStyle(Paint.Style.STROKE);
                     paint.setStrokeWidth(outlineWidth);
                     this.setTextColor(outlineColor);
                     super.onDraw(canvas);
+
                     paint.setStyle(Paint.Style.FILL);
                     this.setTextColor(originalColor);
                 }
